@@ -137,8 +137,8 @@ cd;F-oC/+!	Portuguese > English	Queria cancelar o bilhete, por favor.	I'd like t
 jP!-EiW[SZ	Portuguese > English	Queria trocar o bilhete, por favor.	I'd like to change my ticket, please.	[sound:I'd like to change my ticket, please.mp3]	Transport
 qp|XCYlaTd	Portuguese > English	Queria cobrar o bilhete, por favor.	I'd like to collect my ticket, please.	[sound:I'd like to collect my ticket, please.mp3]	Transport
 rl(d}<,cU]	Portuguese > English	Queria confirmar o bilhete, por favor.	I'd like to confim my ticket, please.	[sound:I'd like to confim my ticket, please.mp3]	Transport
-SkIEHVlER	Portuguese > English	Queria um lugar de não fumadores por favor.	I'd like a nonsmoking seat, please.	[sound:I'd like a nonsmoking seat, please.mp3]	Transport
-tSG7<QdY%U	Portuguese > English	Queria um lugar para fumadores por favor.	I'd like a smoking seat, please.	[sound:I'd like a smoking seat, please.mp3]	Transport
+SkIEHVlER	Portuguese > English	Queria um lugar de não fumadores por favor.	I'd like a nonsmoking seat, please.	[sound:I'd like a nonsmoking seat, please.mp3]	Transport Delete
+tSG7<QdY%U	Portuguese > English	Queria um lugar para fumadores por favor.	I'd like a smoking seat, please.	[sound:I'd like a smoking seat, please.mp3]	Transport Delete
 m>psWI:7%,	Portuguese > English	Quanto é?	How much is it?	[sound:How much is it.mp3]	Transport
 e03u!q.3*]	Portuguese > English	Tem ar condicionado?	Is there air conditioning?	[sound:Is there air conditioning.mp3]	Transport
 H2gAwwcy[U	Portuguese > English	Tem casa de banho?	Is there a toilet?	[sound:Is there a toilet.mp3]	Transport
@@ -262,7 +262,7 @@ b1X&*TaCNV	Portuguese > English	Tem um quarto de casal?	Do you have a double roo
 Nkv3vKA6l;	Portuguese > English	Quanto custa&nbsp;por noite?	How much is it per night?	[sound:How much is it per night.mp3]	Accommodation
 fBG=kc?HN|	Portuguese > English	Quanto custa&nbsp;por pessoa?	How much is it per person?	[sound:How much is it per person.mp3]	Accommodation
 Jvc}ybC&hc	Portuguese > English	Posso pagar com cartão de crédito?	Can I pay by credit card?	[sound:Can I pay by credit card.mp3]	Accommodation
-OVXW5}sCfh	Portuguese > English	Posso pagar com traveller cheque?	Can I pay by travellers cheque?	[sound:Can I pay by travellers cheque.mp3]	Accommodation
+OVXW5}sCfh	Portuguese > English	Posso pagar com traveller cheque?	Can I pay by travellers cheque?	[sound:Can I pay by travellers cheque.mp3]	Accommodation Delete
 KqwXIcWy@d	Portuguese > English	Para <i>três</i>&nbsp;noites.	[I’d like to stay] for <i>three</i>&nbsp;nights.	[sound:I’d like to stay for three nights.mp3]	Accommodation
 vdVvp%DktL	Portuguese > English	De <i>dois de julho</i>&nbsp;até&nbsp;<i>seis de julho</i>.	From <i>2 July</i>&nbsp;to <i>6 July</i>.	[sound:From 2 July to 6 July.mp3]	Accommodation
 sdBMY3`XOI	Portuguese > English	Posso ver?	Can I see it?	[sound:Can I see it.mp3]	Accommodation
@@ -300,14 +300,14 @@ w_4fl(gS@9	Portuguese > English	Qual é o valor cobrado?	What are the rates? (mo
 "Kz~%#,dsRr"	Portuguese > English	Qual é o seu número de telefone?	What’s your phone number?	[sound:What’s your phone number.mp3]	Banking Communications
 y6@0T}Vu&~	Portuguese > English	O número é …	The number is …	[sound:The number is.mp3]	Banking Communications
 LKYa4^(5~D	Portuguese > English	Onde fica o telefone&nbsp;público mais perto?	Where’s the nearest public phone?	[sound:Where’s the nearest public phone.mp3]	Banking Communications
-lV7bMM*1L?	Portuguese > English	Quero comprar um&nbsp;cartão telefónico.	I’d like to buy a phonecard.	[sound:I’d like to buy a phonecard.mp3]	Banking Communications
+lV7bMM*1L?	Portuguese > English	Quero comprar um&nbsp;cartão telefónico.	I’d like to buy a phonecard.	[sound:I'd like to buy a phonecard.mp3]	Banking Communications Delete
 u:DO-jxS`r	Portuguese > English	Quero telefonar <i>para&nbsp;Singapura</i>.	I want to call <i>Singapore</i>.	[sound:I want to call Singapore.mp3]	Banking Communications
 A$[{3@y`j*	Portuguese > English	Quero fazer uma&nbsp;chamada local.	I want to make a local call.	[sound:I want to make a local call.mp3]	Banking Communications
 k<e^O*cG^l	Portuguese > English	Quero fazer uma chamada&nbsp;a cobrar.	I want to reverse the&nbsp;charges. (collect call)	[sound:I want to reverse the charges.mp3]	Banking Communications
 bk7>wB3eVm	Portuguese > English	Quanto custa uma ligação de <i>três</i>&nbsp;minutos?	How much does&nbsp;a <i>three</i>-minute call cost?	[sound:How much does a three-minute call cost.mp3]	Banking Communications
 fCqiJyE$*o	Portuguese > English	Quanto custa cada minuto extra?	How much does&nbsp;each extra minute cost?	[sound:How much does each extra minute cost.mp3]	Banking Communications
 yfAU*F*!9f	Portuguese > English	<i>Trinta cêntimos</i>&nbsp;por&nbsp;<i>trinta</i>&nbsp;segundos.	It’s <i>30c</i>&nbsp;per <i>30</i>&nbsp;seconds.	[sound:It’s 30c per 30 seconds.mp3]	Banking Communications
-Nzy,5Ctc=r	Portuguese > English	Quero enviar um fax.	I want to send a fax.	[sound:I want to send a fax.mp3]	Banking Communications
+Nzy,5Ctc=r	Portuguese > English	Quero enviar um fax.	I want to send a fax.	[sound:I want to send a fax.mp3]	Banking Communications Delete
 NSc8SJ2*q/	Portuguese > English	Quero enviar uma carta.	I want to send a letter.	[sound:I want to send a letter.mp3]	Banking Communications
 mk`KpQ.3KT	Portuguese > English	Quero enviar uma encomenda.	I want to send a parcel.	[sound:I want to send a parcel.mp3]	Banking Communications
 La;?}?jJ:U	Portuguese > English	Quero enviar um postal.	I want to send a postcard.	[sound:I want to send a postcard.mp3]	Banking Communications
@@ -323,7 +323,7 @@ s(7g?02jl@	Portuguese > English	Onde é que há uma caixa automática?	Where’s
 Ox3(0_;aO2	Portuguese > English	Queria …	I’d like to …	[sound:I’d like to.mp3]	Banking Communications
 k+2A<[_L]D	Portuguese > English	Onde é que posso fazer uma transferência?	Where can I arrange a transfer? (bank)	[sound:Where can I arrange a transfer.mp3]	Banking Communications
 O7YLFXD2Uc	Portuguese > English	Onde é que posso trocar um cheque?	Where can I cash a cheque?	[sound:Where can I cash a cheque.mp3]	Banking Communications
-rEV|YCByH=	Portuguese > English	Onde é que posso trocar traveller cheque?	Where can I change a travellers cheque?	[sound:Where can I change a travellers cheque.mp3]	Banking Communications
+rEV|YCByH=	Portuguese > English	Onde é que posso trocar traveller cheque?	Where can I change a travellers cheque?	[sound:Where can I change a travellers cheque.mp3]	Banking Communications Delete
 o$tn(P%ygP	Portuguese > English	Onde é que posso trocar dinheiro?	Where can I change money?	[sound:Where can I change money.mp3]	Banking Communications
 oEf>flH2(o	Portuguese > English	Onde é que posso fazer um levantamento adiantado?	Where can I get a cash advance?	[sound:Where can I get a cash advance.mp3]	Banking Communications
 "fUj[}~A#zb"	Portuguese > English	Onde é que posso levantar dinheiro?	Where can I withdraw money?	[sound:Where can I withdraw money.mp3]	Banking Communications
@@ -389,7 +389,7 @@ ncZ:xl!*::	Portuguese > English	Dou-lhe <i>cinco</i>&nbsp;euros.	I’ll give you
 ug]o:3F8=f	Portuguese > English	Há um erro na conta.	There’s a mistake in the bill.	[sound:There’s a mistake in the bill.mp3]	Shopping
 Eyqn__Knd]	Portuguese > English	Aceitam cartão de crédito?	Do you accept credit cards?	[sound:Do you accept credit cards.mp3]	Shopping
 djAUq6F2V~	Portuguese > English	Aceitam multibanco?	Do you accept debit cards?	[sound:Do you accept debit cards.mp3]	Shopping
-kH/0jyfdaM	Portuguese > English	Aceitam travellers cheques?	Do you accept travellers cheques?	[sound:Do you accept travellers cheques.mp3]	Shopping
+kH/0jyfdaM	Portuguese > English	Aceitam travellers cheques?	Do you accept travellers cheques?	[sound:Do you accept travellers cheques.mp3]	Shopping Delete
 Qt-K_d}6/P	Portuguese > English	Queria o recibo, por favor.	I’d like a receipt, please.	[sound:I’d like a receipt, please.mp3]	Shopping
 b:rF%~]cT0	Portuguese > English	Queria o troco, por favor.	I’d like my change, please.	[sound:I’d like my change, please.mp3]	Shopping
 QpqhB4E1(~	Portuguese > English	Posso experimentar?	Can I try it on?	[sound:Can I try it on.mp3]	Shopping
@@ -405,16 +405,16 @@ Qk[~1~l(~Y	Portuguese > English	Queria comprar uma caneta.	I’d like to buy a p
 b:Rj`Gep4|	Portuguese > English	Há uma livraria de&nbsp;língua inglesa?	Is there an English-language bookshop?	[sound:Is there an English-language bookshop.mp3]	Shopping
 yCIAK|<hwu	Portuguese > English	Estou à procura de qualquer&nbsp;coisa do <i>Fernando Pessoa</i>.	I’m looking for something by <i>Fernando Pessoa</i>.	[sound:I’m looking for something by Fernando Pessoa.mp3]	Shopping
 l9G7G{W4j@	Portuguese > English	Posso ouvir?	Can I listen to this?	[sound:Can I listen to this.mp3]	Shopping
-u,T9^8oG~x	Portuguese > English	Preciso de filme&nbsp;sistema APS para esta máquina.	I need an APS film&nbsp;for this camera.	[sound:I need an APS film for this camera.mp3]	Shopping
-ouF4UC0tD7	Portuguese > English	Preciso de filme&nbsp;a preto e branco para esta máquina.	I need a B&amp;W film for this camera.	[sound:I need a BW film for this camera.mp3]	Shopping
-bq2xa$&L5_	Portuguese > English	Preciso de filme&nbsp;a cores para esta máquina.	I need a colour film&nbsp;for this camera.	[sound:I need a colour film for this camera.mp3]	Shopping
-"i#dk=D*3o^"	Portuguese > English	Preciso de filme&nbsp;de diapositivos para esta máquina.	I need a slide film&nbsp;for this camera.	[sound:I need a slide film for this camera.mp3]	Shopping
-epqiJvau%1	Portuguese > English	Preciso de filme&nbsp;de <i>duzentos</i>&nbsp;ASA para esta máquina.	I need a <i>200</i>&nbsp;ASA film&nbsp;for this camera.	[sound:I need a 200 ASA film for this camera.mp3]	Shopping
-sH?3^@A.g$	Portuguese > English	Quando fica pronto?	When will it be ready?	[sound:When will it be ready.mp3]	Shopping
-hVJGS`kz9]	Portuguese > English	Pode revelar este filme?	Can you develop this film?	[sound:Can you develop this film.mp3]	Shopping
-fVMNqZ)ms_	Portuguese > English	Pode carregar o filme?	Can you load the&nbsp;film?	[sound:Can you load my film.mp3]	Shopping
-ibNx>iw(lL	Portuguese > English	Pode transferir as fotografias da minha máquina?	Can you transfer photos from my camera?	[sound:Can you transfer photos from my camera.mp3]	Shopping
-O`$qUr%Gyj	Portuguese > English	Pode transferir as fotografias para um CD?	Can you transfer photos to CD?	[sound:Can you transfer photos to CD.mp3]	Shopping
+u,T9^8oG~x	Portuguese > English	Preciso de filme&nbsp;sistema APS para esta máquina.	I need an APS film&nbsp;for this camera.	[sound:I need an APS film for this camera.mp3]	Shopping Delete
+ouF4UC0tD7	Portuguese > English	Preciso de filme&nbsp;a preto e branco para esta máquina.	I need a B&amp;W film for this camera.	[sound:I need a BW film for this camera.mp3]	Shopping Delete
+bq2xa$&L5_	Portuguese > English	Preciso de filme&nbsp;a cores para esta máquina.	I need a colour film&nbsp;for this camera.	[sound:I need a colour film for this camera.mp3]	Shopping Delete
+"i#dk=D*3o^"	Portuguese > English	Preciso de filme&nbsp;de diapositivos para esta máquina.	I need a slide film&nbsp;for this camera.	[sound:I need a slide film for this camera.mp3]	Shopping Delete
+epqiJvau%1	Portuguese > English	Preciso de filme&nbsp;de <i>duzentos</i>&nbsp;ASA para esta máquina.	I need a <i>200</i>&nbsp;ASA film&nbsp;for this camera.	[sound:I need a 200 ASA film for this camera.mp3]	Shopping Delete
+sH?3^@A.g$	Portuguese > English	Quando fica pronto?	When will it be ready?	[sound:When will it be ready.mp3]	Shopping Delete
+hVJGS`kz9]	Portuguese > English	Pode revelar este filme?	Can you develop this film?	[sound:Can you develop this film.mp3]	Shopping Delete
+fVMNqZ)ms_	Portuguese > English	Pode carregar o filme?	Can you load the&nbsp;film?	[sound:Can you load my film.mp3]	Shopping Delete
+ibNx>iw(lL	Portuguese > English	Pode transferir as fotografias da minha máquina?	Can you transfer photos from my camera?	[sound:Can you transfer photos from my camera.mp3]	Shopping Delete
+O`$qUr%Gyj	Portuguese > English	Pode transferir as fotografias para um CD?	Can you transfer photos to CD?	[sound:Can you transfer photos to CD.mp3]	Shopping Delete
 unnuR?2bCC	Portuguese > English	Olá.	Hello	[sound:Hello.mp3]	Meeting_people
 e&Y{HIwd*]	Portuguese > English	Boa noite.	Good night.	[sound:Good night.mp3]	Meeting_people
 d?}r%hZ<]w	Portuguese > English	Adeus.	Goodbye.	[sound:Goodbye (1).mp3]	Meeting_people
@@ -569,41 +569,41 @@ N!;9u-aKDS	Portuguese > English	Eu sou alérgico a&nbsp;oleaginosas.	I’m aller
 q:0n>zc7L.	Portuguese > English	Eu sou alérgica a&nbsp;oleaginosas.	I’m allergic to nuts. (f)	[sound:I’m allergic to nuts f.mp3]	Drink Food
 p6ZGN4)ze}	Portuguese > English	Eu sou alérgico a&nbsp;marisco.	I’m allergic to seafood. (m)	[sound:I’m allergic to seafood m.mp3]	Drink Food
 b|1%Nkw4z?	Portuguese > English	Eu sou alérgica a&nbsp;marisco.	I’m allergic to seafood. (f)	[sound:I’m allergic to seafood f.mp3]	Drink Food
-rk%:4,tcev	Portuguese > English	a&nbsp;açorda	"<img src=""acorda.jpg"" /><div><br /></div><div>bread panada</div>"	[sound:acorda.mp3]	Drink Food Menu
-o4ck)<uu+s	Portuguese > English	as&nbsp;alheiras	"<img src=""alheiras.jpg"" /><div><br /></div><div>bread and garlic sausages</div>"	[sound:as alheiras.mp3]	Drink Food Menu
-d|F%8?}IpO	Portuguese > English	o&nbsp;arroz árabe	"<img src=""arroz arabe.jpg"" />"	[sound:o arroz arabe.mp3]	Drink Food Menu
-c`<ergP(hi	Portuguese > English	o&nbsp;arroz de bacalhau	"<img src=""arroz de bacalhau.jpg"" /><div><br /></div><div>codfish&nbsp;rice</div>"	[sound:o arroz de bacalhau.mp3]	Drink Food Menu
-xf=;BeR}&,	Portuguese > English	o&nbsp;assado de peixe	"<img src=""assado de peixe.jpg"" /><div><br /></div><div>roast fish</div>"	[sound:o assado de peixe.mp3]	Drink Food Menu
-PU+`B|lOgm	Portuguese > English	o bacalhau no&nbsp;borralho	"<img src=""bacalhau no borralho.jpg"" /><div><br /></div><div>codfish in the embers</div>"	[sound:bacalhau no borralho.mp3]	Drink Food Menu
-xf|:bVb6`A	Portuguese > English	o&nbsp;bacalhau&nbsp;roupa-velha	"<img src=""bacalhau roupa-velha.jpg"" /><div><br /></div><div>A Christmas dish (typically), made of leftover salted cod, potatoes and cabbage, fried together with olive oil and garlic</div>"	[sound:bacalhau roupa-velha.mp3]	Drink Food Menu
-mAd!(I$IRu	Portuguese > English	a&nbsp;bifana no pão	"<img src=""bifana no pao.jpg"" /><div><br /></div><div>pork fillet sandwich</div>"	[sound:bifana no pao.mp3]	Drink Food Menu
-LI6[EwMPwe	Portuguese > English	o&nbsp;bitoque	"<img src=""bitoque.jpg"" />"	[sound:o bitoque.mp3]	Drink Food Menu
-boJe?;x_6b	Portuguese > English	o&nbsp;bolo de mel	"<img src=""bolo de mel.jpg"" /><div><br /></div><div>honey cake</div>"	[sound:o bolo de mel.mp3]	Drink Food Menu
-PK*YSh|0w2	Portuguese > English	os&nbsp;borrachões	"<img src=""borrachoes.jpg"" /><div><br /></div><div>drunkard biscuits, made with firewater (aguadente).</div>"	[sound:os borrachoes.mp3]	Drink Food Menu
-b}eODnyUxS	Portuguese > English	a&nbsp;caldeirada	"<img src=""caldeirada.jpg"" /><div><br /></div><div>fish stew</div>"	[sound:a caldeirada.mp3]	Drink Food Menu
-vIjc0?|}PF	Portuguese > English	a&nbsp;chanfana	"<img src=""chanfana.jpg"" /><div><br /></div><div>lamb or mutton stew</div>"	[sound:a chanfana.mp3]	Drink Food Menu
-l[k-&cj+%D	Portuguese > English	o&nbsp;chouriço	"<img src=""chourico.jpg"" /><div><br /></div><div>smoked pork sausage</div>"	[sound:o chourico.mp3]	Drink Food Menu
-f<FWCN,_sf	Portuguese > English	o&nbsp;coelho à caçador	"<img src=""coelho a cacador.jpg"" /><div><br /></div><div>rabbit chasseur</div>"	[sound:o coelho a cacador.mp3]	Drink Food Menu
-ksOd%!+hTY	Portuguese > English	o&nbsp;cozido à portuguesa	"<img src=""cozido a Portuguesa.jpg"" /><div><br /></div><div>Portuguese stew made of boiled meat with vegetables</div>"	[sound:o cozido a Portuguesa.mp3]	Drink Food Menu
-FuhRq*F-eN	Portuguese > English	a&nbsp;dobrada	"<img src=""dobrada.jpg"" /><div><br /></div><div>dish made with tripe and beans</div>"	[sound:a dobrada.mp3]	Drink Food Menu
-BWkApxRMt>	Portuguese > English	a&nbsp;duchesse	"<img src=""duchesse.jpg"" />"	[sound:a duchesse.mp3]	Drink Food Menu
-cZ^mcxeSWn	Portuguese > English	o&nbsp;escabeche	"<img src=""escabeche.jpg"" /><div><br /></div><div>marinade, sauce of spiced vinegar and onion</div>"	[sound:o escabeche.mp3]	Drink Food Menu
-"K;|<[_K&#="	Portuguese > English	a&nbsp;favada à portuguesa	"<img src=""favada a Portuguesa.jpg"" /><div><br /></div><div>broad bean and meat stew</div>"	[sound:a favada a Portuguesa.mp3]	Drink Food Menu
-sI~MT=w+7d	Portuguese > English	a&nbsp;feijoada	"<img src=""feijoada.jpg"" /><div><br /></div><div>dish made of beans and several kinds of meat</div>"	[sound:a feijoada.mp3]	Drink Food Menu
-bqz>6xeTvY	Portuguese > English	a&nbsp;francesinha	"<img src=""francesinha.jpg"" /><div><br /></div><div>sandwich made with fillet steak, ham and smoked sausage covered with cheese and a spicy sauce</div>"	[sound:a francesinha.mp3]	Drink Food Menu
-b)yuAjBJ87	Portuguese > English	o&nbsp;gaspacho	"<img src=""gaspacho.jpg"" /><div><br /></div><div>gazpacho</div>"	[sound:o gaspacho.mp3]	Drink Food Menu
-IE@v~i/@7(	Portuguese > English	os&nbsp;jesuítas	"<img src=""jesuitas.jpg"" /><div><br /></div><div>puff-pastry cake covered with a thick layer of egg whites and sugar</div>"	[sound:os jesuitas.mp3]	Drink Food Menu
-"o5SRb#`x+:"	Portuguese > English	o&nbsp;manjar branco	"<img src=""manjar branco.jpg"" /><div><br /></div>"	[sound:o manjar branco.mp3]	Drink Food Menu
-yz3A*h,ej@	Portuguese > English	as&nbsp;migas	"<img src=""migas.jpg"" /><div><br /></div><div>dish with bread, vegetables or fish broth</div>"	[sound:as migas.mp3]	Drink Food Menu
-JuWt4`18[9	Portuguese > English	os&nbsp;morgados	"<img src=""morgados.jpg"" />"	[sound:os morgados.mp3]	Drink Food Menu
-Qf.B(7>N/a	Portuguese > English	os&nbsp;pastéis de&nbsp;feijão	"<img src=""pasteis de feijao.jpg"" /><div><br /></div><div>bean pastries</div>"	[sound:os pasteis de feijao.mp3]	Drink Food Menu
-"jDz~T#!E`y"	Portuguese > English	as pataniscas de&nbsp;bacalhau	"<img src=""pataniscas de bacalhau.jpg"" /><div><br /></div><div>fried codfish coated in batter</div>"	[sound:as pataniscas de bacalhau.mp3]	Drink Food Menu
-"qLy#OC`n<v"	Portuguese > English	o&nbsp;prato de grão	"<img src=""prato de grao.jpg"" /><div><br /></div><div>chick pea salad</div>"	[sound:o prato de grao.mp3]	Drink Food Menu
-Cw8=inGn%A	Portuguese > English	a&nbsp;salada de atum	"<img src=""salada de atum.jpg"" /><div><br /></div><div>tuna salad</div>"	[sound:a salada de atum.mp3]	Drink Food Menu
-wbuD(o,i~K	Portuguese > English	o&nbsp;salame de&nbsp;chocolate	"<img src=""salame de chocolate.jpg"" /><div><br /></div><div>chocolate salame</div>"	[sound:o salame de chocolate.mp3]	Drink Food Menu
-"MgY*I#$hp_"	Portuguese > English	a&nbsp;sopa de pedra	"<img src=""sopa de pedra.jpg"" /><div><br /></div><div>hearty meat and vegetable soup</div>"	[sound:a sopa de pedra.mp3]	Drink Food Menu
-p=*x5a)Z~i	Portuguese > English	o&nbsp;tecolameco	"<img src=""tecolameco.jpg"" /><div><br /></div><div>type of almond cake from Alentejo</div>"	[sound:o tecolameco.mp3]	Drink Food Menu
-ewvl;/>{vU	Portuguese > English	as&nbsp;tripas à moda do&nbsp;Porto	"<img src=""tripas a moda do Porto.jpg"" /><div>tripe Oporto style</div>"	[sound:as tripas a moda do Porto.mp3]	Drink Food Menu
+rk%:4,tcev	Portuguese > English	a&nbsp;açorda	"<img src=""acorda.jpg"" /><div><br /></div><div>bread panada</div>"	[sound:acorda.mp3]	Drink Food Menu Delete
+o4ck)<uu+s	Portuguese > English	as&nbsp;alheiras	"<img src=""alheiras.jpg"" /><div><br /></div><div>bread and garlic sausages</div>"	[sound:as alheiras.mp3]	Drink Food Menu Delete
+d|F%8?}IpO	Portuguese > English	o&nbsp;arroz árabe	"<img src=""arroz arabe.jpg"" />"	[sound:o arroz arabe.mp3]	Drink Food Menu Delete
+c`<ergP(hi	Portuguese > English	o&nbsp;arroz de bacalhau	"<img src=""arroz de bacalhau.jpg"" /><div><br /></div><div>codfish&nbsp;rice</div>"	[sound:o arroz de bacalhau.mp3]	Drink Food Menu Delete
+xf=;BeR}&,	Portuguese > English	o&nbsp;assado de peixe	"<img src=""assado de peixe.jpg"" /><div><br /></div><div>roast fish</div>"	[sound:o assado de peixe.mp3]	Drink Food Menu Delete
+PU+`B|lOgm	Portuguese > English	o bacalhau no&nbsp;borralho	"<img src=""bacalhau no borralho.jpg"" /><div><br /></div><div>codfish in the embers</div>"	[sound:bacalhau no borralho.mp3]	Drink Food Menu Delete
+xf|:bVb6`A	Portuguese > English	o&nbsp;bacalhau&nbsp;roupa-velha	"<img src=""bacalhau roupa-velha.jpg"" /><div><br /></div><div>A Christmas dish (typically), made of leftover salted cod, potatoes and cabbage, fried together with olive oil and garlic</div>"	[sound:bacalhau roupa-velha.mp3]	Drink Food Menu Delete
+mAd!(I$IRu	Portuguese > English	a&nbsp;bifana no pão	"<img src=""bifana no pao.jpg"" /><div><br /></div><div>pork fillet sandwich</div>"	[sound:bifana no pao.mp3]	Drink Food Menu Delete
+LI6[EwMPwe	Portuguese > English	o&nbsp;bitoque	"<img src=""bitoque.jpg"" />"	[sound:o bitoque.mp3]	Drink Food Menu Delete
+boJe?;x_6b	Portuguese > English	o&nbsp;bolo de mel	"<img src=""bolo de mel.jpg"" /><div><br /></div><div>honey cake</div>"	[sound:o bolo de mel.mp3]	Drink Food Menu Delete
+PK*YSh|0w2	Portuguese > English	os&nbsp;borrachões	"<img src=""borrachoes.jpg"" /><div><br /></div><div>drunkard biscuits, made with firewater (aguadente).</div>"	[sound:os borrachoes.mp3]	Drink Food Menu Delete
+b}eODnyUxS	Portuguese > English	a&nbsp;caldeirada	"<img src=""caldeirada.jpg"" /><div><br /></div><div>fish stew</div>"	[sound:a caldeirada.mp3]	Drink Food Menu Delete
+vIjc0?|}PF	Portuguese > English	a&nbsp;chanfana	"<img src=""chanfana.jpg"" /><div><br /></div><div>lamb or mutton stew</div>"	[sound:a chanfana.mp3]	Drink Food Menu Delete
+l[k-&cj+%D	Portuguese > English	o&nbsp;chouriço	"<img src=""chourico.jpg"" /><div><br /></div><div>smoked pork sausage</div>"	[sound:o chourico.mp3]	Drink Food Menu Delete
+f<FWCN,_sf	Portuguese > English	o&nbsp;coelho à caçador	"<img src=""coelho a cacador.jpg"" /><div><br /></div><div>rabbit chasseur</div>"	[sound:o coelho a cacador.mp3]	Drink Food Menu Delete
+ksOd%!+hTY	Portuguese > English	o&nbsp;cozido à portuguesa	"<img src=""cozido a Portuguesa.jpg"" /><div><br /></div><div>Portuguese stew made of boiled meat with vegetables</div>"	[sound:o cozido a Portuguesa.mp3]	Drink Food Menu Delete
+FuhRq*F-eN	Portuguese > English	a&nbsp;dobrada	"<img src=""dobrada.jpg"" /><div><br /></div><div>dish made with tripe and beans</div>"	[sound:a dobrada.mp3]	Drink Food Menu Delete
+BWkApxRMt>	Portuguese > English	a&nbsp;duchesse	"<img src=""duchesse.jpg"" />"	[sound:a duchesse.mp3]	Drink Food Menu Delete
+cZ^mcxeSWn	Portuguese > English	o&nbsp;escabeche	"<img src=""escabeche.jpg"" /><div><br /></div><div>marinade, sauce of spiced vinegar and onion</div>"	[sound:o escabeche.mp3]	Drink Food Menu Delete
+"K;|<[_K&#="	Portuguese > English	a&nbsp;favada à portuguesa	"<img src=""favada a Portuguesa.jpg"" /><div><br /></div><div>broad bean and meat stew</div>"	[sound:a favada a Portuguesa.mp3]	Drink Food Menu Delete
+sI~MT=w+7d	Portuguese > English	a&nbsp;feijoada	"<img src=""feijoada.jpg"" /><div><br /></div><div>dish made of beans and several kinds of meat</div>"	[sound:a feijoada.mp3]	Drink Food Menu Delete
+bqz>6xeTvY	Portuguese > English	a&nbsp;francesinha	"<img src=""francesinha.jpg"" /><div><br /></div><div>sandwich made with fillet steak, ham and smoked sausage covered with cheese and a spicy sauce</div>"	[sound:a francesinha.mp3]	Drink Food Menu Delete
+b)yuAjBJ87	Portuguese > English	o&nbsp;gaspacho	"<img src=""gaspacho.jpg"" /><div><br /></div><div>gazpacho</div>"	[sound:o gaspacho.mp3]	Drink Food Menu Delete
+IE@v~i/@7(	Portuguese > English	os&nbsp;jesuítas	"<img src=""jesuitas.jpg"" /><div><br /></div><div>puff-pastry cake covered with a thick layer of egg whites and sugar</div>"	[sound:os jesuitas.mp3]	Drink Food Menu Delete
+"o5SRb#`x+:"	Portuguese > English	o&nbsp;manjar branco	"<img src=""manjar branco.jpg"" /><div><br /></div>"	[sound:o manjar branco.mp3]	Drink Food Menu Delete
+yz3A*h,ej@	Portuguese > English	as&nbsp;migas	"<img src=""migas.jpg"" /><div><br /></div><div>dish with bread, vegetables or fish broth</div>"	[sound:as migas.mp3]	Drink Food Menu Delete
+JuWt4`18[9	Portuguese > English	os&nbsp;morgados	"<img src=""morgados.jpg"" />"	[sound:os morgados.mp3]	Drink Food Menu Delete
+Qf.B(7>N/a	Portuguese > English	os&nbsp;pastéis de&nbsp;feijão	"<img src=""pasteis de feijao.jpg"" /><div><br /></div><div>bean pastries</div>"	[sound:os pasteis de feijao.mp3]	Drink Food Menu Delete
+"jDz~T#!E`y"	Portuguese > English	as pataniscas de&nbsp;bacalhau	"<img src=""pataniscas de bacalhau.jpg"" /><div><br /></div><div>fried codfish coated in batter</div>"	[sound:as pataniscas de bacalhau.mp3]	Drink Food Menu Delete
+"qLy#OC`n<v"	Portuguese > English	o&nbsp;prato de grão	"<img src=""prato de grao.jpg"" /><div><br /></div><div>chick pea salad</div>"	[sound:o prato de grao.mp3]	Drink Food Menu Delete
+Cw8=inGn%A	Portuguese > English	a&nbsp;salada de atum	"<img src=""salada de atum.jpg"" /><div><br /></div><div>tuna salad</div>"	[sound:a salada de atum.mp3]	Drink Food Menu Delete
+wbuD(o,i~K	Portuguese > English	o&nbsp;salame de&nbsp;chocolate	"<img src=""salame de chocolate.jpg"" /><div><br /></div><div>chocolate salame</div>"	[sound:o salame de chocolate.mp3]	Drink Food Menu Delete
+"MgY*I#$hp_"	Portuguese > English	a&nbsp;sopa de pedra	"<img src=""sopa de pedra.jpg"" /><div><br /></div><div>hearty meat and vegetable soup</div>"	[sound:a sopa de pedra.mp3]	Drink Food Menu Delete
+p=*x5a)Z~i	Portuguese > English	o&nbsp;tecolameco	"<img src=""tecolameco.jpg"" /><div><br /></div><div>type of almond cake from Alentejo</div>"	[sound:o tecolameco.mp3]	Drink Food Menu Delete
+ewvl;/>{vU	Portuguese > English	as&nbsp;tripas à moda do&nbsp;Porto	"<img src=""tripas a moda do Porto.jpg"" /><div>tripe Oporto style</div>"	[sound:as tripas a moda do Porto.mp3]	Drink Food Menu Delete
 FkracAyVg7	Portuguese > English	Socorro!	Help!	[sound:Help!.mp3]	Emergencies
 zW@c~vc:y,	Portuguese > English	Para!	Stop!	[sound:Stop!.mp3]	Emergencies
 "Qy/}=}Rb#="	Portuguese > English	Vá-se embora!	Go away!	[sound:Go away!.mp3]	Emergencies
@@ -636,7 +636,7 @@ y1&$v;G!Ld	Portuguese > English	Eu perdi a minha bolsa.	I’ve lost my handbag.	
 C0KZnRe]_H	Portuguese > English	Eu perdi as minhas joias.	I’ve lost my jewellery.	[sound:I’ve lost my jewellery.mp3]	Emergencies
 e%Bo?$T?J/	Portuguese > English	Eu perdi o meu dinheiro.	I’ve lost my money.	[sound:I’ve lost my money.mp3]	Emergencies
 e?J|BW`!0J	Portuguese > English	Eu perdi o meu passaporte.	I’ve lost my passport.	[sound:I’ve lost my passport.mp3]	Emergencies
-B!&r2P?6Ae	Portuguese > English	Eu perdi os meus&nbsp;travellers cheques.	I’ve lost my travellers&nbsp;cheques.	[sound:I’ve lost my travellers cheques.mp3]	Emergencies
+B!&r2P?6Ae	Portuguese > English	Eu perdi os meus&nbsp;travellers cheques.	I’ve lost my travellers&nbsp;cheques.	[sound:I've lost my travellers cheques.mp3]	Emergencies Delete
 C*dl>rRM.I	Portuguese > English	Eu perdi a minha carteira.	I’ve lost my wallet.	[sound:I’ve lost my wallet.mp3]	Emergencies
 t34[jY6)L_	Portuguese > English	Roubaram a minha mochila.	My backpack was stolen.	[sound:My backpack was stolen..mp3]	Emergencies
 "kx?6d{N#0~"	Portuguese > English	Roubaram os meus sacos.	My bags were stolen.	[sound:My bags were stolen.mp3]	Emergencies
@@ -645,7 +645,7 @@ f$F[H:9Occ	Portuguese > English	Roubaram a minha bolsa.	My handbag was stolen.	[
 r<&IB>=dq>	Portuguese > English	Roubaram as minhas joias.	My jewellery was stolen.	[sound:My jewellery was stolen.mp3]	Emergencies
 L1lQn><A&c	Portuguese > English	Roubaram o meu dinheiro.	My money was stolen.	[sound:My money was stolen.mp3]	Emergencies
 u:non1qi=;	Portuguese > English	Roubaram o meu passaporte.	My passport was stolen.	[sound:My passport was stolen.mp3]	Emergencies
-dP%5O>f.XY	Portuguese > English	Roubaram os meus&nbsp;travellers cheques.	My&nbsp;travellers&nbsp;cheques were stolen.	[sound:My travellers cheques were stolen.mp3]	Emergencies
+dP%5O>f.XY	Portuguese > English	Roubaram os meus&nbsp;travellers cheques.	My&nbsp;travellers&nbsp;cheques were stolen.	[sound:My travellers cheques were stolen.mp3]	Emergencies Delete
 iD4GRFZPN|	Portuguese > English	Roubaram a minha carteira.	My wallet was stolen.	[sound:My wallet was stolen.mp3]	Emergencies
 GO-S*m%}Hq	Portuguese > English	Eu quero&nbsp;contactar com o meu consulado.	I want to contact my consulate.	[sound:I want to contact my consulate.mp3]	Emergencies
 G27jegaL[F	Portuguese > English	Eu quero&nbsp;contactar com&nbsp;a minha embaixada.	I want to contact my embassy.	[sound:I want to contact my embassy.mp3]	Emergencies
@@ -953,7 +953,7 @@ p,wMrbJ}ot	Portuguese > English	o&nbsp;passaporte	passport	[sound:passport (1).m
 l;<@5`Lwg;	Portuguese > English	pagar	pay	[sound:pay.mp3]	Vocabulary
 zE|Ht)dHG%	Portuguese > English	a&nbsp;caneta	pen	[sound:pen (1).mp3]	Vocabulary
 u7n<!McU8Z	Portuguese > English	a&nbsp;farmácia	pharmacy	[sound:pharmacy (1).mp3]	Vocabulary
-t&_Qn[>+f[	Portuguese > English	o&nbsp;cartão telefónico	phonecard	[sound:phonecard.mp3]	Vocabulary
+t&_Qn[>+f[	Portuguese > English	o&nbsp;cartão telefónico	phonecard	[sound:phonecard.mp3]	Vocabulary Delete
 dd:QIQ%Brq	Portuguese > English	a fotografia	photo	[sound:photo.mp3]	Vocabulary
 F3lsKr]k-d	Portuguese > English	o&nbsp;prato	plate	[sound:plate (1).mp3]	Vocabulary
 dn?;r00ndO	Portuguese > English	a&nbsp;polícia	police	[sound:police.mp3]	Vocabulary
@@ -1059,7 +1059,7 @@ xn1{.:?jq4	Portuguese > English	a&nbsp;toalha	towel	[sound:towel.mp3]	Vocabulary
 q(:+WKl?Ac	Portuguese > English	o&nbsp;comboio	train	[sound:train.mp3]	Vocabulary
 eeFl81z!8s	Portuguese > English	traduzir	translate	[sound:translate.mp3]	Vocabulary
 bf*R+Z}-`w	Portuguese > English	a&nbsp;agência de viagens	travel agency	[sound:travel agency.mp3]	Vocabulary
-js$|w3H/{A	Portuguese > English	o&nbsp;travellers cheque	travellers cheque	[sound:travellers cheque.mp3]	Vocabulary
+js$|w3H/{A	Portuguese > English	o&nbsp;travellers cheque	travellers cheque	[sound:travellers cheque.mp3]	Vocabulary Delete
 j@Mi?0>(;l	Portuguese > English	as&nbsp;calças	trousers	[sound:trousers (1).mp3]	Vocabulary
 xP/sX94;:S	Portuguese > English	as&nbsp;camas gémeas	twin beds	[sound:twin beds.mp3]	Vocabulary
 A;A`17hca8	Portuguese > English	o&nbsp;pneu	tyre	[sound:tyre.mp3]	Vocabulary
