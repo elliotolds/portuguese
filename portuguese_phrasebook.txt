@@ -142,7 +142,7 @@ e03u!q.3*]	Portuguese > English	Tem ar condicionado?	Is there air conditioning?	
 H2gAwwcy[U	Portuguese > English	Tem casa de banho?	Is there a toilet?	[sound:Is there a toilet.mp3]	Transport
 &F:B.4h?9	Portuguese > English	Quanto tempo é que leva a viagem?	How long does the trip take?	[sound:How long does the trip take.mp3]	Transport
 baO/$j_M}9	Portuguese > English	É uma rota direta?	Is it a direct route?	[sound:Is it a direct route.mp3]	Transport
-"c_)*^x;l#S"	Portuguese > English	Queria o depósito de bagagens.	I’d like a luggage locker.	[sound:I’d like a luggage locker.mp3]	Transport
+"c_)*^x;l#S"	Portuguese > English	Queria o depósito de bagagens.	I’d like a luggage locker.	[sound:I'd like a luggage locker.mp3]	Transport DeleteThis
 j>5s(EmwLJ	Portuguese > English	A minha bagagem&nbsp;foi danificada.	My luggage has been damaged.	[sound:My luggage has been damaged.mp3]	Transport DeleteThis
 EPn|F4JN4{	Portuguese > English	A minha bagagem&nbsp;perdeu-se.	My luggage has been lost.	[sound:My luggage has been lost.mp3]	Transport DeleteThis
 OxZ40=PPW[	Portuguese > English	A minha bagagem foi roubada.	My luggage has been stolen.	[sound:My luggage has been stolen.mp3]	Transport
@@ -184,7 +184,7 @@ H>(O(%w5F6	Portuguese > English	Por favor&nbsp;espere aqui.	Please wait here.	[s
 g);S:0})R:	Portuguese > English	Queria alugar&nbsp;uma bicicleta.	I’d like to hire a&nbsp;bicycle.	[sound:I’d like to hire a bicycle.mp3]	Transport
 sc|vFMKnw:	Portuguese > English	Queria alugar&nbsp;um carro.	I’d like to hire a&nbsp;car.	[sound:I’d like to hire a car.mp3]	Transport
 "z[65#_60B,"	Portuguese > English	Queria alugar&nbsp;uma mota.	I’d like to hire a&nbsp;motorbike.	[sound:I’d like to hire a motorbike.mp3]	Transport
-"wqS^a}FK#Q"	Portuguese > English	com&nbsp;motorista.	with a driver.	[sound:with a driver.mp3]	Transport
+"wqS^a}FK#Q"	Portuguese > English	com&nbsp;motorista.	with a driver.	[sound:with a driver.mp3]	Transport DeleteThis
 G/Sol.O;7Q	Portuguese > English	com&nbsp;ar condicionado	with&nbsp;air conditioning	[sound:with air conditioning.mp3]	Transport
 Nc%onv3w6D	Portuguese > English	Quanto custa alugar por hora?	How much for hourly hire?	[sound:How much for hourly hire.mp3]	Transport
 l,*<H,YvVi	Portuguese > English	Quanto custa alugar por dia?	How much for daily hire?	[sound:How much for daily hire.mp3]	Transport
@@ -193,9 +193,9 @@ f%h9D>I=W]	Portuguese > English	o ar	air	[sound:air.mp3]	Transport
 E^^njR_6VS	Portuguese > English	o&nbsp;óleo	oil	[sound:oil (1).mp3]	Transport
 vq7GXy[*>d	Portuguese > English	a&nbsp;gasolina	petrol	[sound:petrol.mp3]	Transport
 IIn:gsoj`}	Portuguese > English	os&nbsp;pneus	tyres	[sound:tyres.mp3]	Transport
-yK-q_T}g4f	Portuguese > English	Preciso de um mecânico.	I need a mechanic.	[sound:I need a mechanic.mp3]	Transport
-C0,_p_6xx~	Portuguese > English	Estou sem gasolina.	I’ve run out of petrol.	[sound:I’ve run out of petrol.mp3]	Transport
-Lygml,])%p	Portuguese > English	Tenho um furo no pneu.	I have a flat tyre.	[sound:I have a flat tyre.mp3]	Transport
+yK-q_T}g4f	Portuguese > English	Preciso de um mecânico.	I need a mechanic.	[sound:I need a mechanic.mp3]	Transport DeleteThis
+C0,_p_6xx~	Portuguese > English	Estou sem gasolina.	I’ve run out of petrol.	[sound:I've run out of petrol.mp3]	Transport DeleteThis
+Lygml,])%p	Portuguese > English	Tenho um furo no pneu.	I have a flat tyre.	[sound:I have a flat tyre.mp3]	Transport DeleteThis
 lV2Lm`ivnS	Portuguese > English	Onde é o banco?	Where's the bank?	[sound:Where's the bank.mp3]	Transport
 M)mLtvD*JU	Portuguese > English	Onde é o centro da cidade?	Where's the city centre?	[sound:Where's the city centre.mp3]	Transport
 G`>/nsg_7}	Portuguese > English	Onde é o hotel?	Where's the hotel?	[sound:Where's the hotel.mp3]	Transport
@@ -310,8 +310,8 @@ NAHndYQeEP	Portuguese > English	Quero comprar um envelope.	I want to buy an&nbsp
 JN}ZA606@~	Portuguese > English	Quero comprar um selo.	I want to buy a&nbsp;stamp.	[sound:I want to buy a stamp.mp3]	Banking Communications
 L1{>~foLe%	Portuguese > English	Por favor envie isto <i>para a Austrália</i> por via aérea.	Please send this <i>to Australia</i> by airmail.	[sound:Please send it to Australia by airmail.mp3]	Banking Communications
 PKH.aepZE}	Portuguese > English	Por favor envie isto <i>para a Austr</i><i>á</i>lia por correio azul.	Please send this <i>to Australia</i>&nbsp;by express mail.	[sound:Please send it to Australia by express mail.mp3]	Banking Communications
-r6nH1IEsc6	Portuguese > English	Por favor envie isto <i>para a Austr</i><i>á</i>lia por correio registado.	Please send it&nbsp;<i>to Australia</i>&nbsp;by registered mail. (m)	[sound:Please send it to Australia by registered mail m.mp3]	Banking Communications
-"xl{rW8e#?."	Portuguese > English	Por favor envie isto <i>para a Austr</i><i>á</i>lia por via terrestre.	Please send it&nbsp;<i>to Australia</i>&nbsp;by surface mail.	[sound:Please send it to Australia by surface mail.mp3]	Banking Communications
+r6nH1IEsc6	Portuguese > English	Por favor envie isto <i>para a Austr</i><i>á</i>lia por correio registado.	Please send it&nbsp;<i>to Australia</i>&nbsp;by registered mail. (m)	[sound:Please send it to Australia by registered mail m.mp3]	Banking Communications DeleteThis
+"xl{rW8e#?."	Portuguese > English	Por favor envie isto <i>para a Austr</i><i>á</i>lia por via terrestre.	Please send it&nbsp;<i>to Australia</i>&nbsp;by surface mail.	[sound:Please send it to Australia by surface mail.mp3]	Banking Communications DeleteThis
 P,U}JCY/Fb	Portuguese > English	Há alguma correspondência&nbsp;para mim?	Is there any mail for me?	[sound:Is there any mail for me.mp3]	Banking Communications
 s(7g?02jl@	Portuguese > English	Onde é que há uma caixa automática?	Where’s an ATM?	[sound:Where’s an ATM.mp3]	Banking Communications
 "f_J=Z=G#s!"	Portuguese > English	Onde é que há um câmbio?	Where’s a&nbsp;foreign exchange office?	[sound:Where's a foreign exchange office.mp3]	Banking Communications DeleteThis
@@ -469,8 +469,8 @@ DPaogg}D$p	Portuguese > English	Está com sede?	Are you thirsty?	[sound:Are you 
 Mv6XQG17vw	Portuguese > English	Está cansado?	Are you tired? (m)	[sound:Are you tired m.mp3]	Meeting_people
 g8-S5t$hXU	Portuguese > English	Está cansada?	Are you tired? (f)	[sound:Are you tired f.mp3]	Meeting_people
 I9t-UTv|P7	Portuguese > English	Onde é que há discotecas?	Where can I find clubs?	[sound:Where can I find pubs.mp3]	Entertainment
-bW3Br~2th^	Portuguese > English	Onde é que há lugares de gays?	Where can I find gay venues?	[sound:Where can I find gay venues.mp3]	Entertainment
-lXP0@o-kND	Portuguese > English	Onde é que há lugares de lésbicas?	Where can I find&nbsp;lesbian&nbsp;venues?	[sound:Where can I find lesbian venues.mp3]	Entertainment
+bW3Br~2th^	Portuguese > English	Onde é que há lugares de gays?	Where can I find gay venues?	[sound:Where can I find gay venues.mp3]	Entertainment DeleteThis
+lXP0@o-kND	Portuguese > English	Onde é que há lugares de lésbicas?	Where can I find&nbsp;lesbian&nbsp;venues?	[sound:Where can I find lesbian venues.mp3]	Entertainment DeleteThis
 Bkqa**U*LV	Portuguese > English	Onde é que há bares?	Where can I find pubs?	[sound:Where can I find pubs.mp3]	Entertainment
 zg@_7!kHpj	Portuguese > English	Está-me a&nbsp;apetecer ir a um concerto.	I feel like&nbsp;going to a concert.	[sound:I feel like going to a concert.mp3]	Entertainment
 r`mZ?g`~6%	Portuguese > English	Está-me a&nbsp;apetecer ir a um filme.	I feel like&nbsp;going to a movie.	[sound:I feel like going to a movies.mp3]	Entertainment
@@ -547,8 +547,8 @@ yt$^$`y7vx	Portuguese > English	Eu sou alérgico a&nbsp;produtos lácteos.	I’m
 OgRkruB6x*	Portuguese > English	Eu sou alérgica a&nbsp;produtos lácteos.	"<span style="" font-style: normal; font-weight: normal;"">I’m allergic to dairy produce. (f)</span>"	[sound:I’m allergic to dairy produce f.mp3]	Drink Food
 f{*_Cd9U[K	Portuguese > English	Eu sou alérgico a&nbsp;glúten.	I’m allergic to gluten. (m)	[sound:I'm allergic to gluten m.mp3]	Drink Food DeleteThis
 w/b*^`Le4R	Portuguese > English	Eu sou alérgica a&nbsp;glúten.	"<span style="" font-style: normal; font-weight: normal;"">I’m allergic to gluten. (f)</span>"	[sound:I'm allergic to gluten f.mp3]	Drink Food DeleteThis
-c}R^UkB9(q	Portuguese > English	Eu sou alérgico a&nbsp;MSG.	I’m allergic to MSG. (m)	[sound:I’m allergic to MSG m.mp3]	Drink Food
-"hZm#j-N!1<"	Portuguese > English	Eu sou alérgica a&nbsp;MSG.	I’m allergic to MSG. (f)	[sound:I’m allergic to MSG f.mp3]	Drink Food
+c}R^UkB9(q	Portuguese > English	Eu sou alérgico a&nbsp;MSG.	I’m allergic to MSG. (m)	[sound:I'm allergic to MSG m.mp3]	Drink Food DeleteThis
+"hZm#j-N!1<"	Portuguese > English	Eu sou alérgica a&nbsp;MSG.	I’m allergic to MSG. (f)	[sound:I'm allergic to MSG f.mp3]	Drink Food DeleteThis
 N!;9u-aKDS	Portuguese > English	Eu sou alérgico a&nbsp;oleaginosas.	I’m allergic to nuts. (m)	[sound:I’m allergic to nuts m.mp3]	Drink Food
 q:0n>zc7L.	Portuguese > English	Eu sou alérgica a&nbsp;oleaginosas.	I’m allergic to nuts. (f)	[sound:I’m allergic to nuts f.mp3]	Drink Food
 p6ZGN4)ze}	Portuguese > English	Eu sou alérgico a&nbsp;marisco.	I’m allergic to seafood. (m)	[sound:I'm allergic to seafood m.mp3]	Drink Food DeleteThis
@@ -574,8 +574,8 @@ yTA(!+3Ix-	Portuguese > English	Eu estou coberto pelo seguro.	I have insurance. 
 "B,#YF$V+.~"	Portuguese > English	Eu estou coberta pelo seguro.	I have insurance. (f)	[sound:I have insurance f.mp3]	Emergencies
 L8_:mRXE`l	Portuguese > English	Eu fui agredido.	I’ve been assaulted. (m)	[sound:I’ve been assaulted m.mp3]	Emergencies
 ojIuG{M6bD	Portuguese > English	Eu fui agredida.	I’ve been assaulted. (f)	[sound:I’ve been assaulted f.mp3]	Emergencies
-i&PEdHKNtA	Portuguese > English	Eu fui violado.	I’ve been raped. (m)	[sound:I’ve been raped m.mp3]	Emergencies
-4;/MRLdax	Portuguese > English	Eu fui violada.	I’ve been raped. (f)	[sound:I’ve been raped f.mp3]	Emergencies
+i&PEdHKNtA	Portuguese > English	Eu fui violado.	I’ve been raped. (m)	[sound:I've been raped m.mp3]	Emergencies DeleteThis
+4;/MRLdax	Portuguese > English	Eu fui violada.	I’ve been raped. (f)	[sound:I've been raped f.mp3]	Emergencies DeleteThis
 RdOHSY$Zs1	Portuguese > English	Eu fui roubado.	I’ve been robbed. (m)	[sound:I’ve been robbed m.mp3]	Emergencies
 FQWQq^@.GI	Portuguese > English	Eu fui roubada.	I’ve been robbed. (f)	[sound:I’ve been robbed f.mp3]	Emergencies
 q>1jP$)Ebn	Portuguese > English	Eu perdi a minha mochila.	I’ve lost my backpack.	[sound:I’ve lost my backpack.mp3]	Emergencies
@@ -608,7 +608,7 @@ vxsJ9H9N./	Portuguese > English	Estou doente.	I’m sick.	[sound:I’m sick.mp3]
 HDME:Foa]W	Portuguese > English	Dói-me aqui.	It hurts here.	[sound:It hurts here.mp3]	Health
 Bi$_30DhSb	Portuguese > English	Eu tenho asma.	I have&nbsp;asthma.	[sound:I have a asthma.mp3]	Health DeleteThis
 x}`$-%2c^V	Portuguese > English	Eu tenho bronquite.	I have&nbsp;bronchitis.	[sound:I have a bronchitis.mp3]	Health DeleteThis
-lC3Zw[-XBp	Portuguese > English	Eu tenho prisão de ventre.	I have constipation.	[sound:I have a constipation.mp3]	Health
+lC3Zw[-XBp	Portuguese > English	Eu tenho prisão de ventre.	I have constipation.	[sound:I have a constipation.mp3]	Health DeleteThis
 ku+GbOkjcI	Portuguese > English	Eu tenho tosse.	I have <i>a</i>&nbsp;cough.	[sound:I have a cough.mp3]	Health
 ryPj_1kBqt	Portuguese > English	Eu tenho diarreia.	I have diarrhoea.	[sound:I have a diarrhoea.mp3]	Health
 eJy*WJQ;DT	Portuguese > English	Eu tenho febre.	I have <i>a</i>&nbsp;fever.	[sound:I have a fever.mp3]	Health
@@ -636,9 +636,9 @@ lI:aQ+8s2X	Portuguese > English	os&nbsp;preservativos	condoms	[sound:condoms.mp3
 cAWsUDdz]j	Portuguese > English	os&nbsp;contraceptivos	contraceptives	[sound:contraceptives.mp3]	Health DeleteThis
 tIiLf@KUO@	Portuguese > English	o&nbsp;remédio para&nbsp;diarreia	diarrhoea medicine	[sound:diarrhoea medicine.mp3]	Health
 cKZ/ao,-|R	Portuguese > English	o&nbsp;repelente	insect repellent	[sound:insect repellent.mp3]	Health
-p-{ujXC/mV	Portuguese > English	os&nbsp;laxantes	laxatives	[sound:laxatives.mp3]	Health
+p-{ujXC/mV	Portuguese > English	os&nbsp;laxantes	laxatives	[sound:laxatives.mp3]	Health DeleteThis
 g&IUCV,gox	Portuguese > English	os comprimidos&nbsp;para as dores	painkillers	[sound:painkillers.mp3]	Health
-"NmgN|#&Al<"	Portuguese > English	os&nbsp;sais rehidratantes	rehydration salts	[sound:rehydration salts.mp3]	Health
+"NmgN|#&Al<"	Portuguese > English	os&nbsp;sais rehidratantes	rehydration salts	[sound:rehydration salts.mp3]	Health DeleteThis
 k*Ub{:^UZS	Portuguese > English	as&nbsp;pílulas para&nbsp;dormir	sleeping tablets	[sound:sleeping tablets.mp3]	Health
 L<,WXo91O@	Portuguese > English	o&nbsp;acidente	accident	[sound:accident (1).mp3]	Vocabulary
 HE8.+K;47R	Portuguese > English	a&nbsp;hospedagem	accommodation	[sound:accommodation.mp3]	Vocabulary
@@ -815,7 +815,7 @@ kv:c<2}$Wz	Portuguese > English	<div>alta</div>	high (f)	[sound:high f.mp3]	Voca
 E,}RR=EV%H	Portuguese > English	a&nbsp;autoestrada	motorway (UK)<div>highway (US)</div>	[sound:highway (1).mp3]	Vocabulary
 w=1_yDON,m	Portuguese > English	caminhar	walk, hike (v)	[sound:hike v.mp3]	Vocabulary
 w@tnUqa^6r	Portuguese > English	o&nbsp;feriado	holiday	[sound:holiday.mp3]	Vocabulary
-ludd~sYr|D	Portuguese > English	homossexual	homosexual (n) (a)	[sound:homosexual n a.mp3]	Vocabulary
+ludd~sYr|D	Portuguese > English	homossexual	homosexual (n) (a)	[sound:homosexual n a.mp3]	Vocabulary DeleteThis
 D>8pbyDYJ;	Portuguese > English	o&nbsp;hospital	hospital	[sound:hospital.mp3]	Vocabulary
 NacgrYKcg6	Portuguese > English	quente	hot	[sound:hot (2).mp3]	Vocabulary
 r6On9!_Th[	Portuguese > English	o&nbsp;hotel	hotel	[sound:hotel (1).mp3]	Vocabulary
@@ -830,7 +830,7 @@ ICS4yA&-|s	Portuguese > English	incluído	included (m)	[sound:included m.mp3]	Vo
 j}8rt~]JGL	Portuguese > English	o ferimento	injury	[sound:injury.mp3]	Vocabulary
 s4ACEiK0g@	Portuguese > English	o&nbsp;seguro	insurance	[sound:insurance (1).mp3]	Vocabulary
 sFSw!>A4++	Portuguese > English	a&nbsp;internet	internet	[sound:Internet.mp3]	Vocabulary
-dIpNCl9W.W	Portuguese > English	<div>o intérprete, a intérprete</div>	the interpreter	[sound:interpreter.mp3]	Vocabulary
+dIpNCl9W.W	Portuguese > English	<div>o intérprete, a intérprete</div>	the interpreter	[sound:interpreter.mp3]	Vocabulary DeleteThis
 gz70Sh=OHF	Portuguese > English	a&nbsp;ourivesaria	the jewellers<div>the gold jewellery</div>	[sound:jewellery.mp3]	Vocabulary
 "e]#FP$_&+;"	Portuguese > English	o&nbsp;emprego	job	[sound:job.mp3]	Vocabulary
 Qq&.;+ULT6	Portuguese > English	a&nbsp;lavandaria	laundry (place)	[sound:laundry place.mp3]	Vocabulary
@@ -838,7 +838,7 @@ z*{APVj2|J	Portuguese > English	o&nbsp;advogado	lawyer (m)	[sound:lawyer m.mp3]	
 A:M?o]4n7i	Portuguese > English	a&nbsp;advogada	lawyer (f)	<div>[sound:lawyer f.mp3]</div>	Vocabulary
 x2x(z,2gm	Portuguese > English	a esquerda	left (direction) (n) (a)	[sound:left direction.mp3]	Vocabulary
 nDOiLg4BCv	Portuguese > English	a&nbsp;perna	leg	[sound:leg (1).mp3]	Vocabulary
-AxmaWKx]`Q	Portuguese > English	a&nbsp;lésbica	lesbian (n) (a)	[sound:lesbian n a.mp3]	Vocabulary
+AxmaWKx]`Q	Portuguese > English	a&nbsp;lésbica	lesbian (n) (a)	[sound:lesbian n a.mp3]	Vocabulary DeleteThis
 Eb!A!$>G-~	Portuguese > English	menos	less	[sound:less (1).mp3]	Vocabulary
 NRKK++HXhv	Portuguese > English	a carta	letter (mail)<div>card</div><div>chart</div>	[sound:letter mail.mp3]	Vocabulary
 f*3k?^l[Hd	Portuguese > English	a luz	light	[sound:light (1).mp3]	Vocabulary
@@ -916,7 +916,7 @@ Ld,7Zl~`^b	Portuguese > English	o recibo	receipt	[sound:receipt (1).mp3]	Vocabul
 Ev!V)85nS3	Portuguese > English	vermelho	red (m)	[sound:red m.mp3]	Vocabulary
 f[[4}GNY]z	Portuguese > English	vermelha	red (f)	[sound:red f.mp3]	Vocabulary
 gnd[u4G~mO	Portuguese > English	o&nbsp;reembolso	refund	[sound:refund.mp3]	Vocabulary
-M;h$UM4>44	Portuguese > English	o&nbsp;correio registado	registered mail	[sound:registered mail.mp3]	Vocabulary
+M;h$UM4>44	Portuguese > English	o&nbsp;correio registado	registered mail	[sound:registered mail.mp3]	Vocabulary DeleteThis
 FY_)**M8,	Portuguese > English	alugar	rent (v)	[sound:rent v.mp3]	Vocabulary
 dTt0/SW/VG	Portuguese > English	consertar	repair (v)	[sound:repair v.mp3]	Vocabulary
 A2f/l{|4]	Portuguese > English	a&nbsp;reserva	reservation	[sound:reservation.mp3]	Vocabulary
@@ -960,7 +960,7 @@ Ju*j*HI9C]	Portuguese > English	a&nbsp;loja de lembranças	souvenir shop	[sound:
 AMI|.H=^lc	Portuguese > English	falar	speak	[sound:speak.mp3]	Vocabulary
 @YR.kZS*x	Portuguese > English	a&nbsp;colher	spoon	[sound:spoon (1).mp3]	Vocabulary
 F/+$X{=A>W	Portuguese > English	o selo	stamp	[sound:stamp (1).mp3]	Vocabulary
-nK6l~$ig8Z	Portuguese > English	o&nbsp;bilhete sem garantia	stand-by ticket	[sound:stand-by ticket.mp3]	Vocabulary
+nK6l~$ig8Z	Portuguese > English	o&nbsp;bilhete sem garantia	stand-by ticket	[sound:stand-by ticket.mp3]	Vocabulary DeleteThis
 G10ybZAV?f	Portuguese > English	a&nbsp;estação	station (train)	[sound:station train.mp3]	Vocabulary
 lL5z5W5;_h	Portuguese > English	o&nbsp;estômago	stomach	[sound:stomach (1).mp3]	Vocabulary
 Fl!yZu:`lu	Portuguese > English	parar	stop (v)	[sound:stop v.mp3]	Vocabulary
