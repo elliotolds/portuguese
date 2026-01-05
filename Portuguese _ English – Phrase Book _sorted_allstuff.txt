@@ -410,7 +410,7 @@ ouF4UC0tD7	Portuguese > English	Preciso de filme&nbsp;a preto e branco para esta
 bq2xa$&L5_	Portuguese > English	Preciso de filme&nbsp;a cores para esta máquina.	I need a colour film&nbsp;for this camera.	[sound:I need a colour film for this camera.mp3]	Shopping Delete
 "i#dk=D*3o^"	Portuguese > English	Preciso de filme&nbsp;de diapositivos para esta máquina.	I need a slide film&nbsp;for this camera.	[sound:I need a slide film for this camera.mp3]	Shopping Delete
 epqiJvau%1	Portuguese > English	Preciso de filme&nbsp;de <i>duzentos</i>&nbsp;ASA para esta máquina.	I need a <i>200</i>&nbsp;ASA film&nbsp;for this camera.	[sound:I need a 200 ASA film for this camera.mp3]	Shopping Delete
-sH?3^@A.g$	Portuguese > English	Quando fica pronto?	When will it be ready?	[sound:When will it be ready.mp3]	Shopping Delete
+sH?3^@A.g$	Portuguese > English	Quando fica pronto?	When will it be ready?	[sound:When will it be ready.mp3]	Shopping
 hVJGS`kz9]	Portuguese > English	Pode revelar este filme?	Can you develop this film?	[sound:Can you develop this film.mp3]	Shopping Delete
 fVMNqZ)ms_	Portuguese > English	Pode carregar o filme?	Can you load the&nbsp;film?	[sound:Can you load my film.mp3]	Shopping Delete
 ibNx>iw(lL	Portuguese > English	Pode transferir as fotografias da minha máquina?	Can you transfer photos from my camera?	[sound:Can you transfer photos from my camera.mp3]	Shopping Delete
