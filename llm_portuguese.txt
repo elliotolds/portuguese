@@ -1,0 +1,63 @@
+#separator:tab
+#html:true
+#notetype column:1
+#tags column:5
+Portuguese > English	SER — Presente: eu sou / ele/ela é / nós somos	TO BE (identity/permanent) — Present: I am / he-she is / we are		CIPLE_A2 VerbDrills SER Presente
+Portuguese > English	SER — Pretérito Perfeito (eu): fui	TO BE (identity/permanent) — Past (I): I was		CIPLE_A2 VerbDrills SER Perfeito
+Portuguese > English	SER — Frase: Sou de ___.	Frame: I’m from ___.		CIPLE_A2 VerbDrills SER Frame
+
+Portuguese > English	ESTAR — Presente: eu estou / ele/ela está / nós estamos	TO BE (state/temporary) — Present: I am / he-she is / we are		CIPLE_A2 VerbDrills ESTAR Presente
+Portuguese > English	ESTAR — Pretérito Perfeito (eu): estive	TO BE (state/temporary) — Past (I): I was		CIPLE_A2 VerbDrills ESTAR Perfeito
+Portuguese > English	ESTAR — Frase: Estou ___.	Frame: I’m ___.		CIPLE_A2 VerbDrills ESTAR Frame
+
+Portuguese > English	TER — Presente: eu tenho / ele/ela tem / nós temos	TO HAVE — Present: I have / he-she has / we have		CIPLE_A2 VerbDrills TER Presente
+Portuguese > English	TER — Pretérito Perfeito (eu): tive	TO HAVE — Past (I): I had		CIPLE_A2 VerbDrills TER Perfeito
+Portuguese > English	TER — Frase: Tenho ___ anos.	Frame: I’m ___ years old.		CIPLE_A2 VerbDrills TER Frame
+
+Portuguese > English	HAVER (há) — Presente: há	THERE IS/ARE (haver) — Present: there is/are		CIPLE_A2 VerbDrills HAVER Presente
+Portuguese > English	HAVER (há) — Pretérito Perfeito: houve	THERE WAS/WERE (haver) — Past: there was/were		CIPLE_A2 VerbDrills HAVER Perfeito
+Portuguese > English	HAVER (há) — Frase: Há ___ perto daqui?	Frame: Is there ___ near here?		CIPLE_A2 VerbDrills HAVER Frame
+
+Portuguese > English	IR — Presente: eu vou / ele/ela vai / nós vamos	TO GO — Present: I go / he-she goes / we go		CIPLE_A2 VerbDrills IR Presente
+Portuguese > English	IR — Pretérito Perfeito (eu): fui	TO GO — Past (I): I went		CIPLE_A2 VerbDrills IR Perfeito
+Portuguese > English	IR — Frase: Vou para ___.	Frame: I’m going to ___.		CIPLE_A2 VerbDrills IR Frame
+
+Portuguese > English	FAZER — Presente: eu faço / ele/ela faz / nós fazemos	TO DO/MAKE — Present: I do/make / he-she does/makes / we do/make		CIPLE_A2 VerbDrills FAZER Presente
+Portuguese > English	FAZER — Pretérito Perfeito (eu): fiz	TO DO/MAKE — Past (I): I did/made		CIPLE_A2 VerbDrills FAZER Perfeito
+Portuguese > English	FAZER — Frase: Preciso de fazer ___.	Frame: I need to do/make ___.		CIPLE_A2 VerbDrills FAZER Frame
+
+Portuguese > English	DIZER — Presente: eu digo / ele/ela diz / nós dizemos	TO SAY/TELL — Present: I say/tell / he-she says/tells / we say/tell		CIPLE_A2 VerbDrills DIZER Presente
+Portuguese > English	DIZER — Pretérito Perfeito (eu): disse	TO SAY/TELL — Past (I): I said/told		CIPLE_A2 VerbDrills DIZER Perfeito
+Portuguese > English	DIZER — Frase: Pode-me dizer onde fica ___?	Frame: Can you tell me where ___ is?		CIPLE_A2 VerbDrills DIZER Frame
+
+Portuguese > English	SABER — Presente: eu sei / ele/ela sabe / nós sabemos	TO KNOW — Present: I know / he-she knows / we know		CIPLE_A2 VerbDrills SABER Presente
+Portuguese > English	SABER — Pretérito Perfeito (eu): soube	TO KNOW / FIND OUT — Past (I): I found out / I learned		CIPLE_A2 VerbDrills SABER Perfeito
+Portuguese > English	SABER — Frase: Não sei.	Frame: I don’t know.		CIPLE_A2 VerbDrills SABER Frame
+
+Portuguese > English	PODER — Presente: eu posso / ele/ela pode / nós podemos	CAN / TO BE ABLE TO — Present: I can / he-she can / we can		CIPLE_A2 VerbDrills PODER Presente
+Portuguese > English	PODER — Pretérito Perfeito (eu): pude	CAN / TO BE ABLE TO — Past (I): I could / I was able to		CIPLE_A2 VerbDrills PODER Perfeito
+Portuguese > English	PODER — Frase: Podia repetir, por favor?	Frame: Could you repeat, please?		CIPLE_A2 VerbDrills PODER Frame
+
+Portuguese > English	QUERER — Presente: eu quero / ele/ela quer / nós queremos	TO WANT — Present: I want / he-she wants / we want		CIPLE_A2 VerbDrills QUERER Presente
+Portuguese > English	QUERER — Pretérito Perfeito (eu): quis	TO WANT — Past (I): I wanted		CIPLE_A2 VerbDrills QUERER Perfeito
+Portuguese > English	QUERER — Frase: Queria ___, por favor.	Frame: I’d like ___, please.		CIPLE_A2 VerbDrills QUERER Frame
+
+Portuguese > English	PRECISAR (de) — Presente: eu preciso / ele/ela precisa / nós precisamos	TO NEED — Present: I need / he-she needs / we need		CIPLE_A2 VerbDrills PRECISAR Presente
+Portuguese > English	PRECISAR (de) — Pretérito Perfeito (eu): precisei	TO NEED — Past (I): I needed		CIPLE_A2 VerbDrills PRECISAR Perfeito
+Portuguese > English	PRECISAR (de) — Frase: Preciso de ___.	Frame: I need ___.		CIPLE_A2 VerbDrills PRECISAR Frame
+
+Portuguese > English	PEDIR — Presente: eu peço / ele/ela pede / nós pedimos	TO ASK FOR / ORDER — Present: I ask for / he-she asks for / we ask for		CIPLE_A2 VerbDrills PEDIR Presente
+Portuguese > English	PEDIR — Pretérito Perfeito (eu): pedi	TO ASK FOR / ORDER — Past (I): I asked for / I ordered		CIPLE_A2 VerbDrills PEDIR Perfeito
+Portuguese > English	PEDIR — Frase: Queria pedir ___, por favor.	Frame: I’d like to ask for / order ___, please.		CIPLE_A2 VerbDrills PEDIR Frame
+
+Portuguese > English	GOSTAR (de) — Presente: eu gosto / ele/ela gosta / nós gostamos	TO LIKE — Present: I like / he-she likes / we like		CIPLE_A2 VerbDrills GOSTAR Presente
+Portuguese > English	GOSTAR (de) — Pretérito Perfeito (eu): gostei	TO LIKE — Past (I): I liked		CIPLE_A2 VerbDrills GOSTAR Perfeito
+Portuguese > English	GOSTAR (de) — Frase: Gosto de ___.	Frame: I like ___.		CIPLE_A2 VerbDrills GOSTAR Frame
+
+Portuguese > English	CHEGAR — Presente: eu chego / ele/ela chega / nós chegamos	TO ARRIVE / TO GET (there) — Present: I arrive / he-she arrives / we arrive		CIPLE_A2 VerbDrills CHEGAR Presente
+Portuguese > English	CHEGAR — Pretérito Perfeito (eu): cheguei	TO ARRIVE / TO GET (there) — Past (I): I arrived / I got there		CIPLE_A2 VerbDrills CHEGAR Perfeito
+Portuguese > English	CHEGAR — Frase: A que horas chega ___?	Frame: What time does ___ arrive?		CIPLE_A2 VerbDrills CHEGAR Frame
+
+Portuguese > English	MORAR — Presente: eu moro / ele/ela mora / nós moramos	TO LIVE (reside) — Present: I live / he-she lives / we live		CIPLE_A2 VerbDrills MORAR Presente
+Portuguese > English	MORAR — Pretérito Perfeito (eu): morei	TO LIVE (reside) — Past (I): I lived		CIPLE_A2 VerbDrills MORAR Perfeito
+Portuguese > English	MORAR — Frase: Moro em ___.	Frame: I live in ___.		CIPLE_A2 VerbDrills MORAR Frame
