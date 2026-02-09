@@ -1,0 +1,5 @@
+#separator:tab
+#html:true
+#tags column:9
+o	the	O mapa é bonito	The map is beautiful.	a is feminine			[sound:1000_o.mp3]	preposition
+poder	can	Podes abrir a janela?	Can you open the window?	<strong>Present:</strong> posso, podes · <strong>Preterite:</strong> pude, pudeste · <strong>Imperfect:</strong> podia, podias			[sound:1000_poder.mp3]	preposition
