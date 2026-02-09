@@ -1,0 +1,54 @@
+#separator:tab
+#html:true
+#tags column:9
+após	after	Após o jantar, vou dormir.	After dinner, I'm going to sleep.	More formal than depois de			[sound:1000_após.mp3]	preposition
+afirmar	assert	Ele afirma que é verdade.	He states that it is true.	Formal register			[sound:1000_afirmar.mp3]	verb
+através	through	Passamos através do túnel.	We pass through the tunnel.				[sound:1000_através.mp3]	preposition
+São	São	Moro em São Paulo.	I live in São Paulo.	Often in place names: São João, São Miguel			[sound:1000_São.mp3]	proper-noun
+utilizar	to use	Vou utilizar o computador.	I'm going to use the computer.	More formal than usar			[sound:1000_utilizar.mp3]	verb
+questão	question	Tenho uma questão para ti.	I have a question for you.	More formal than pergunta			[sound:1000_questão.mp3]	noun
+pois	because	Fico em casa, pois está a chover.	I stay home, because it's raining.	More formal/literary than porque			[sound:1000_pois.mp3]	conjunction
+Rio	Rio	Ele mora no Rio de Janeiro.	He lives in Rio de Janeiro.				[sound:1000_Rio.mp3]	proper-noun
+ocorrer	to occur	O acidente ocorreu ontem.	The accident occurred yesterday.	Formal. Less formal: acontecer			[sound:1000_ocorrer.mp3]	verb
+pretender	intend	Pretendo ir a Lisboa em maio.	I intend to go to Lisbon in May.	More formal than querer			[sound:1000_pretender.mp3]	verb
+obter	to get	Vou obter a informação.	I'm going to get the information.	Formal. Less formal: conseguir			[sound:1000_obter.mp3]	verb
+decorrer	to elapse	O evento vai decorrer em maio.	The event will take place in May.	Formal for "to take place"			[sound:1000_decorrer.mp3]	verb
+cujo	whose	Cujo livro é este?	Whose book is this?	Feminine: cuja. Formal/literary			[sound:1000_cujo.mp3]	pronoun
+determinar	to determine	Vou determinar a causa do problema.	I'm going to determine the cause of the problem.				[sound:1000_determinar.mp3]	verb
+intervenção	intervention	A intervenção foi necessária.	The intervention was necessary.				[sound:1000_intervenção.mp3]	noun
+âmbito	scope	Isto está fora do âmbito.	This is outside the scope.	Formal word			[sound:1000_âmbito.mp3]	noun
+iniciar	to start	Vou iniciar o trabalho amanhã.	I'm going to start the work tomorrow.	More formal than começar			[sound:1000_iniciar.mp3]	verb
+sob	under	O gato está sob a mesa.	The cat is under the table.	More formal than debaixo de			[sound:1000_sob.mp3]	preposition
+constituir	to constitute	O parlamento vai constituir uma comissão.	The parliament will constitute a committee.	Formal			[sound:1000_constituir.mp3]	verb
+elevar	to raise	O nível da água vai elevar-se.	The water level will rise.	Formal. Less formal: subir			[sound:1000_elevar.mp3]	verb
+disponibilizar	make available	Vou disponibilizar a informação.	I'm going to make the information available.	Formal			[sound:1000_disponibilizar.mp3]	verb
+possuir	to possess	Ele vai possuir a casa.	He will own the house.	Formal. Less formal: ter			[sound:1000_possuir.mp3]	verb
+órgão	organ	O órgão publicou a notícia.	The outlet published the news.	Also means "organ" (body)			[sound:1000_órgão.mp3]	noun
+porém	but	É difícil, porém é possível.	It is difficult, but it is possible.	More formal than mas			[sound:1000_porém.mp3]	conjunction
+contudo	however	Está a chover; contudo, vou sair.	It's raining; however, I'm going out.	Formal. Similar to no entanto			[sound:1000_contudo.mp3]	conjunction
+assegurar	to ensure	Vou assegurar que tudo corre bem.	I'm going to ensure everything goes well.	Formal			[sound:1000_assegurar.mp3]	verb
+nomeadamente	namely	Há muitas cidades, nomeadamente Lisboa.	There are many cities, namely Lisbon.	Formal			[sound:1000_nomeadamente.mp3]	adverb
+concluir	to conclude	Vou concluir o trabalho hoje.	I'm going to finish the work today.	Formal alternative to acabar			[sound:1000_concluir.mp3]	verb
+via	way	Esta via está fechada.	This route is closed.	Also preposition: via aérea (by air)			[sound:1000_via.mp3]	noun
+procedimento	procedure	Qual é o procedimento?	What is the procedure?				[sound:1000_procedimento.mp3]	noun
+federal	federal	O governo federal é forte.	The federal government is strong.	More common in BR context			[sound:1000_federal.mp3]	adjective
+destinar	to destine	O dinheiro vai destinar-se à caridade.	The money will be destined for charity.	Formal			[sound:1000_destinar.mp3]	verb
+óbito	a death	O óbito foi registado.	The death was registered.	Formal word for "death"			[sound:1000_óbito.mp3]	noun
+solicitar	to request	Vou solicitar uma reunião.	I'm going to request a meeting.	Formal. Less formal: pedir			[sound:1000_solicitar.mp3]	verb
+visar	to aim	Esta lei visa proteger as crianças.	This law aims to protect children.	Formal			[sound:1000_visar.mp3]	verb
+adquirir	to purchase	Quero adquirir um apartamento.	I want to purchase an apartment.	Formal. Less formal: comprar			[sound:1000_adquirir.mp3]	verb
+permanecer	to stay	Vou permanecer aqui.	I'm going to stay here.	Formal. Less formal: ficar			[sound:1000_permanecer.mp3]	verb
+automóvel	automobile	O automóvel é novo.	The automobile is new.	More formal than carro			[sound:1000_automóvel.mp3]	noun
+protocolo	protocol	O protocolo é rigoroso.	The protocol is strict.				[sound:1000_protocolo.mp3]	noun
+proporcionar	to provide	Quero proporcionar uma boa experiência.	I want to provide a good experience.	Formal			[sound:1000_proporcionar.mp3]	verb
+expectativa	expectation	A expectativa é alta.	The expectation is high.				[sound:1000_expectativa.mp3]	noun
+benefício	benefit	O benefício é grande.	The benefit is great.				[sound:1000_benefício.mp3]	noun
+despesa	expense	A despesa foi alta.	The expense was high.				[sound:1000_despesa.mp3]	noun
+imprensa	the press	A imprensa publicou a notícia.	The press published the news.				[sound:1000_imprensa.mp3]	noun
+financiamento	financing	O financiamento foi aprovado.	The financing was approved.				[sound:1000_financiamento.mp3]	noun
+respectivo	respective	A informação é do respectivo autor.	The information is from the respective author.	Formal			[sound:1000_respectivo.mp3]	adjective
+aquisição	acquisition	A aquisição foi aprovada.	The acquisition was approved.				[sound:1000_aquisição.mp3]	noun
+distribuição	distribution	A distribuição é gratuita.	The distribution is free.				[sound:1000_distribuição.mp3]	noun
+abordar	to address	Vou abordar este tema na reunião.	I'm going to address this topic in the meeting.				[sound:1000_abordar.mp3]	verb
+guerra	war	A guerra é terrível.	War is terrible.				[sound:1000_guerra.mp3]	noun
+tendência	trend	Esta tendência vai continuar.	This trend will continue.				[sound:1000_tendência.mp3]	noun
