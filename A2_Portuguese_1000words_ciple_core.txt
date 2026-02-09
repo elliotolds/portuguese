@@ -4,7 +4,7 @@
 o	the	O café é bom.	The coffee is good.	Masculine definite article. Feminine: a			[sound:1000_o.mp3]	article
 de	from	Eu sou de Lisboa.	I am from Lisbon.	Contracts with articles: do, da, dos, das			[sound:1000_de.mp3]	preposition
 e	and	Eu e tu somos amigos.	You and I are friends.				[sound:1000_e.mp3]	conjunction
-que	that	Eu sei que ele está aqui.	I know that he is here.	Also a relative pronoun: o livro que li			[sound:1000_que.mp3]	conjunction
+que	what	Que queres comer?	What do you want to eat?	Also used as conjunction: that			[sound:1000_que.mp3]	conjunction
 ser	to be	Eu sou português.	I am Portuguese.	Use for permanent qualities. Cf. estar			[sound:1000_ser.mp3]	verb
 um	one	Quero um café, por favor.	I want a coffee, please.	Masculine indefinite article. Feminine: uma			[sound:1000_um.mp3]	article
 em	in	Eu vivo em Portugal.	I live in Portugal.	Contracts: no, na, nos, nas			[sound:1000_em.mp3]	preposition
