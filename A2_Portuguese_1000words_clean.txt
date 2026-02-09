@@ -1,0 +1,971 @@
+#separator:tab
+#html:true
+#tags column:9
+o	the	O café é bom.	The coffee is good.	Masculine definite article. Feminine: a			[sound:1000_o.mp3]	article
+de	from	Eu sou de Lisboa.	I am from Lisbon.	Contracts with articles: do, da, dos, das			[sound:1000_de.mp3]	preposition
+e	and	Eu e tu somos amigos.	You and I are friends.				[sound:1000_e.mp3]	conjunction
+que	that	Eu sei que ele está aqui.	I know that he is here.	Also a relative pronoun: o livro que li			[sound:1000_que.mp3]	conjunction
+ser	to be	Eu sou português.	I am Portuguese.	Use for permanent qualities. Cf. estar			[sound:1000_ser.mp3]	verb
+um	one	Quero um café, por favor.	I want a coffee, please.	Masculine indefinite article. Feminine: uma			[sound:1000_um.mp3]	article
+em	in	Eu vivo em Portugal.	I live in Portugal.	Contracts: no, na, nos, nas			[sound:1000_em.mp3]	preposition
+para	for	Este presente é para ti.	This gift is for you.	Also means "to" (direction)			[sound:1000_para.mp3]	preposition
+com	with	Eu vou com a minha amiga.	I go with my friend.	comigo (with me), contigo (with you)			[sound:1000_com.mp3]	preposition
+a	to	A casa é grande.	The house is big.	Feminine definite article. Also preposition "to"			[sound:1000_a.mp3]	article
+ter	to have	Eu tenho dois irmãos.	I have two brothers.	Irregular: tenho, tens, tem, temos, têm			[sound:1000_ter.mp3]	verb
+não	not	Não quero ir.	I don't want to go.	Placed before the verb to negate			[sound:1000_não.mp3]	adverb
+por	by	Vou por esta rua.	I go along this street.	Don't confuse with por que (why)			[sound:1000_por.mp3]	preposition
+seu	his/her	O seu nome é Pedro.	His name is Pedro.	Also means "your" (formal)			[sound:1000_seu.mp3]	pronoun
+se	if	Se chover, fico em casa.	If it rains, I stay home.	Also reflexive pronoun: ele lava-se			[sound:1000_se.mp3]	conjunction
+mais	more	Quero mais água, por favor.	I want more water, please.				[sound:1000_mais.mp3]	adverb
+estar	to be	Eu estou cansado.	I am tired.	Use for temporary states. Cf. ser			[sound:1000_estar.mp3]	verb
+como	as	Falo como um português.	I speak like a Portuguese person.	Also means "how" in questions			[sound:1000_como.mp3]	adverb
+este	this	Este livro é meu.	This book is mine.	Masculine. Feminine: esta			[sound:1000_este.mp3]	pronoun
+poder	can	Podes abrir a janela?	Can you open the window?	<strong>Eu posso, tu podes, ele pode</strong>			[sound:1000_poder.mp3]	verb
+ou	or	Café ou chá?	Coffee or tea?				[sound:1000_ou.mp3]	conjunction
+todo	all	Todo o dia eu estudo.	All day I study.	Feminine: toda. Plural: todos, todas			[sound:1000_todo.mp3]	determiner
+ano	year	Este ano vou a Portugal.	This year I go to Portugal.				[sound:1000_ano.mp3]	noun
+fazer	to do	O que fazes hoje?	What are you doing today?	Irregular: faço, fazes, faz, fazemos, fazem			[sound:1000_fazer.mp3]	verb
+mas	but	Gosto de café, mas prefiro chá.	I like coffee, but I prefer tea.				[sound:1000_mas.mp3]	conjunction
+ir	to go	Vou ir ao mercado.	I am going to the market.	Irregular: vou, vais, vai, vamos, vão			[sound:1000_ir.mp3]	verb
+muito	very much	Gosto muito de Portugal.	I like Portugal very much.	Also adjective: muito café (a lot of coffee)			[sound:1000_muito.mp3]	adverb
+também	also	Ele também fala inglês.	He also speaks English.				[sound:1000_também.mp3]	adverb
+outro	other	Quero outro café.	I want another coffee.	Feminine: outra			[sound:1000_outro.mp3]	determiner
+ele	he	Ele mora em Lisboa.	He lives in Lisbon.	Feminine: ela			[sound:1000_ele.mp3]	pronoun
+já	already	Já acabei o trabalho.	I already finished the work.				[sound:1000_já.mp3]	adverb
+dia	day	Hoje é um bom dia.	Today is a good day.				[sound:1000_dia.mp3]	noun
+novo	new	Tenho um carro novo.	I have a new car.	Feminine: nova			[sound:1000_novo.mp3]	adjective
+haver	to have	Há muitas pessoas aqui.	There are many people here.	Impersonal use of haver meaning "there is/are"			[sound:1000_haver.mp3]	verb
+grande	great	Lisboa é uma cidade grande.	Lisbon is a big city.	Feminine: grande (same form)			[sound:1000_grande.mp3]	adjective
+ainda	still	Ainda estou a aprender.	I am still learning.				[sound:1000_ainda.mp3]	adverb
+sobre	on	O livro está sobre a mesa.	The book is on the table.	Also means "about": falar sobre			[sound:1000_sobre.mp3]	preposition
+até	until	Fico até às cinco horas.	I stay until five o'clock.	Also means "even": até eu sei			[sound:1000_até.mp3]	preposition
+dizer	to say	O que dizes?	What do you say?	Irregular: digo, dizes, diz, dizemos, dizem			[sound:1000_dizer.mp3]	verb
+mesmo	same	É a mesma coisa.	It is the same thing.	Also adverb: eu mesmo (myself)			[sound:1000_mesmo.mp3]	adjective
+pessoa	person	Aquela pessoa é simpática.	That person is nice.	Feminine noun			[sound:1000_pessoa.mp3]	noun
+entre	among, between	A loja fica entre o banco e o café.	The shop is between the bank and the café.				[sound:1000_entre.mp3]	preposition
+dever	should	Devo estudar mais.	I should study more.	Also noun: o dever (duty)			[sound:1000_dever.mp3]	verb
+esse	that	Esse livro é bom.	That book is good.	Closer than aquele. Feminine: essa			[sound:1000_esse.mp3]	pronoun
+nosso	our	O nosso país é bonito.	Our country is beautiful.	Feminine: nossa			[sound:1000_nosso.mp3]	pronoun
+caso	case	Neste caso, fico em casa.	In this case, I stay home.				[sound:1000_caso.mp3]	noun
+eu	I	Eu moro em Lisboa.	I live in Lisbon.				[sound:1000_eu.mp3]	pronoun
+dois	two	Tenho dois gatos.	I have two cats.	Feminine: duas			[sound:1000_dois.mp3]	numeral
+bom	good	Ele é um bom amigo.	He is a good friend.	Feminine: boa. Also greeting: bom dia			[sound:1000_bom.mp3]	adjective
+dar	to give	Vou dar-te um presente.	I am going to give you a gift.	Irregular: dou, dás, dá, damos, dão			[sound:1000_dar.mp3]	verb
+algum	some	Tens algum dinheiro?	Do you have some money?	Feminine: alguma			[sound:1000_algum.mp3]	determiner
+forma	form	Desta forma, é mais fácil.	This way, it is easier.	Also noun: a forma (shape)			[sound:1000_forma.mp3]	noun
+segundo	second	Cheguei em segundo lugar.	I arrived in second place.	Also preposition: segundo ele (according to him)			[sound:1000_segundo.mp3]	adjective
+vez	time	Desta vez, vou conseguir.	This time, I will succeed.	Plural: vezes			[sound:1000_vez.mp3]	noun
+empresa	company	Trabalho numa empresa grande.	I work in a big company.				[sound:1000_empresa.mp3]	noun
+primeiro	first	Ele foi o primeiro a chegar.	He was the first to arrive.	Feminine: primeira			[sound:1000_primeiro.mp3]	adjective
+sem	without	Não vou sem ti.	I'm not going without you.				[sound:1000_sem.mp3]	preposition
+quando	when	Quando chegas?	When do you arrive?				[sound:1000_quando.mp3]	conjunction
+Portugal	Portugal	Eu vivo em Portugal.	I live in Portugal.	PT is European Portuguese. BR is Brazilian			[sound:1000_Portugal.mp3]	proper-noun
+isso	that	Isso é verdade.	That is true.	Refers to something near the listener			[sound:1000_isso.mp3]	pronoun
+país	country	Gosto muito do meu país.	I like my country very much.	Plural: países			[sound:1000_país.mp3]	noun
+tempo	time	Não tenho tempo.	I don't have time.	Also means "weather": o tempo está bom			[sound:1000_tempo.mp3]	noun
+bem	well	Estou bem, obrigado.	I am well, thank you.	Also noun: o bem (good/goodness)			[sound:1000_bem.mp3]	adverb
+só	only	Só quero um café.	I only want a coffee.	Also adjective: estou só (I am alone)			[sound:1000_só.mp3]	adverb
+serviço	service	O serviço é bom aqui.	The service is good here.				[sound:1000_serviço.mp3]	noun
+ficar	stay	Fico em casa hoje.	I stay at home today.	Also means "to remain, to become"			[sound:1000_ficar.mp3]	verb
+nós	we	Nós moramos em Coimbra.	We live in Coimbra.				[sound:1000_nós.mp3]	pronoun
+querer	to want	Quero ir à praia.	I want to go to the beach.	Irregular: quero, queres, quer, queremos, querem			[sound:1000_querer.mp3]	verb
+trabalho	job	Gosto do meu trabalho.	I like my job.	Also means "work" in general			[sound:1000_trabalho.mp3]	noun
+público	public	O jardim público é bonito.	The public garden is beautiful.	Feminine: pública			[sound:1000_público.mp3]	adjective
+onde	where	Onde moras?	Where do you live?				[sound:1000_onde.mp3]	adverb
+estado	state	O estado do tempo está mau.	The weather is bad.	Also means "state" (political)			[sound:1000_estado.mp3]	noun
+parte	part	Esta é a melhor parte.	This is the best part.				[sound:1000_parte.mp3]	noun
+assim	thus	É assim que se faz.	This is how it's done.				[sound:1000_assim.mp3]	adverb
+desde	since	Moro aqui desde janeiro.	I've lived here since January.	Used with present tense for ongoing situations			[sound:1000_desde.mp3]	preposition
+passar	to pass	Vou passar pelo parque.	I'm going to pass through the park.	Also means "to spend (time)"			[sound:1000_passar.mp3]	verb
+cada	each	Cada pessoa é diferente.	Each person is different.	Invariable: no feminine or plural form			[sound:1000_cada.mp3]	determiner
+informação	information	Preciso de mais informação.	I need more information.	Plural: informações			[sound:1000_informação.mp3]	noun
+último	last	Este é o último dia.	This is the last day.	Feminine: última			[sound:1000_último.mp3]	adjective
+sempre	always	Ele sempre chega a horas.	He always arrives on time.				[sound:1000_sempre.mp3]	adverb
+hoje	today	Hoje é segunda-feira.	Today is Monday.				[sound:1000_hoje.mp3]	adverb
+depois	later	Falo contigo depois.	I'll talk to you later.				[sound:1000_depois.mp3]	adverb
+presidente	president	O presidente fez um discurso.	The president gave a speech.				[sound:1000_presidente.mp3]	noun
+durante	during	Estudo durante a manhã.	I study during the morning.				[sound:1000_durante.mp3]	preposition
+vida	life	A vida é bela.	Life is beautiful.				[sound:1000_vida.mp3]	noun
+área	area	Esta área é muito bonita.	This area is very beautiful.				[sound:1000_área.mp3]	noun
+apresentar	to introduce	Vou apresentar-te ao meu amigo.	I'm going to introduce you to my friend.	Also means "to present"			[sound:1000_apresentar.mp3]	verb
+porque	because	Fico em casa porque está a chover.	I stay home because it's raining.	Don't confuse with por que (for what reason)			[sound:1000_porque.mp3]	conjunction
+ver	to see	Quero ver o mar.	I want to see the sea.	Irregular: vejo, vês, vê, vemos, veem			[sound:1000_ver.mp3]	verb
+social	social	A rede social é popular.	The social network is popular.				[sound:1000_social.mp3]	adjective
+apenas	only	Ele apenas quer ajudar.	He only wants to help.				[sound:1000_apenas.mp3]	adverb
+quem	who	Quem é aquela pessoa?	Who is that person?				[sound:1000_quem.mp3]	pronoun
+qualquer	any	Qualquer pessoa pode entrar.	Anyone can enter.	Plural: quaisquer			[sound:1000_qualquer.mp3]	determiner
+além	beyond	Além disso, gosto de café.	Besides that, I like coffee.	Often used as: além de (beyond, besides)			[sound:1000_além.mp3]	adverb
+qual	which	Qual é o teu nome?	What is your name?	Plural: quais			[sound:1000_qual.mp3]	pronoun
+mês	month	Este mês vou viajar.	This month I'm going to travel.	Plural: meses			[sound:1000_mês.mp3]	noun
+após	after	Após o jantar, vou dormir.	After dinner, I'm going to sleep.	More formal than depois de			[sound:1000_após.mp3]	preposition
+chegar	to arrive	Vou chegar às três horas.	I'm going to arrive at three.				[sound:1000_chegar.mp3]	verb
+meu	mine	O meu gato é preto.	My cat is black.	Feminine: minha			[sound:1000_meu.mp3]	pronoun
+saber	to know	Quero saber a verdade.	I want to know the truth.	Also means "to know how to": sei nadar			[sound:1000_saber.mp3]	verb
+milhão	million	Um milhão de pessoas.	One million people.	Plural: milhões			[sound:1000_milhão.mp3]	numeral
+vir	to come	Ele vai vir amanhã.	He is going to come tomorrow.	Irregular: venho, vens, vem, vimos, vêm			[sound:1000_vir.mp3]	verb
+realizar	perform	Vou realizar o meu sonho.	I'm going to fulfill my dream.	Also means "to carry out, to perform"			[sound:1000_realizar.mp3]	verb
+número	number	Qual é o teu número de telefone?	What is your phone number?				[sound:1000_número.mp3]	noun
+receber	to receive	Vou receber um presente.	I'm going to receive a gift.				[sound:1000_receber.mp3]	verb
+momento	moment	Espera um momento, por favor.	Wait a moment, please.				[sound:1000_momento.mp3]	noun
+cidade	city	Lisboa é uma cidade bonita.	Lisbon is a beautiful city.				[sound:1000_cidade.mp3]	noun
+casa	house	A minha casa é pequena.	My house is small.	Also means "home"			[sound:1000_casa.mp3]	noun
+português	Portuguese	Ele fala português muito bem.	He speaks Portuguese very well.	Feminine: portuguesa			[sound:1000_português.mp3]	adjective
+permitir	to allow	Os pais não vão permitir isso.	The parents won't allow that.				[sound:1000_permitir.mp3]	verb
+Lisboa	Lisbon	Quero visitar Lisboa.	I want to visit Lisbon.	Capital of Portugal			[sound:1000_Lisboa.mp3]	proper-noun
+valor	value	Qual é o valor disto?	What is the value of this?				[sound:1000_valor.mp3]	noun
+acordo	agreement	Estamos de acordo.	We are in agreement.	Common phrase: de acordo com (according to)			[sound:1000_acordo.mp3]	noun
+local	location	O mercado local é bom.	The local market is good.				[sound:1000_local.mp3]	adjective
+agora	now	Agora vou estudar.	Now I'm going to study.				[sound:1000_agora.mp3]	adverb
+afirmar	assert	Ele afirma que é verdade.	He states that it is true.	Formal register			[sound:1000_afirmar.mp3]	verb
+mil	thousand	Custou mil euros.	It cost a thousand euros.				[sound:1000_mil.mp3]	numeral
+três	three	Tenho três irmãos.	I have three brothers.				[sound:1000_três.mp3]	numeral
+processo	process	O processo é longo.	The process is long.				[sound:1000_processo.mp3]	noun
+medida	measure	Qual é a medida certa?	What is the right measure?	Also means "step, action taken"			[sound:1000_medida.mp3]	noun
+mundo	world	O mundo é grande.	The world is big.				[sound:1000_mundo.mp3]	noun
+encontrar	to meet	Vou encontrar os meus amigos.	I'm going to meet my friends.	Also means "to find"			[sound:1000_encontrar.mp3]	verb
+tudo	everything	Tudo está bem.	Everything is fine.				[sound:1000_tudo.mp3]	pronoun
+através	through	Vamos através do parque.	We go through the park.				[sound:1000_através.mp3]	preposition
+pouco	little	Falo um pouco de português.	I speak a little Portuguese.	Feminine: pouca			[sound:1000_pouco.mp3]	adjective
+próximo	next	O próximo autocarro chega às dez.	The next bus arrives at ten.	Feminine: próxima			[sound:1000_próximo.mp3]	adjective
+pequeno	small	O meu quarto é pequeno.	My room is small.	Feminine: pequena			[sound:1000_pequeno.mp3]	adjective
+situação	situation	A situação é difícil.	The situation is difficult.				[sound:1000_situação.mp3]	noun
+Brasil	Brazil	O Brasil é muito grande.	Brazil is very big.				[sound:1000_Brasil.mp3]	proper-noun
+sistema	system	O sistema funciona bem.	The system works well.				[sound:1000_sistema.mp3]	noun
+deixar	to leave	Vou deixar o livro na mesa.	I'm going to leave the book on the table.	Also means "to let, to allow"			[sound:1000_deixar.mp3]	verb
+criar	to create	Quero criar algo novo.	I want to create something new.				[sound:1000_criar.mp3]	verb
+contar	to tell	Vou contar-te uma história.	I'm going to tell you a story.	Also means "to count"			[sound:1000_contar.mp3]	verb
+final	final	O resultado final é bom.	The final result is good.	Also noun: a final (the final)			[sound:1000_final.mp3]	adjective
+dado	given	Dado que chove, fico em casa.	Given that it rains, I stay home.	Also noun: o dado (dice, data)			[sound:1000_dado.mp3]	adjective
+nível	level	O nível da água subiu.	The water level rose.				[sound:1000_nível.mp3]	noun
+meio	middle	Está no meio da sala.	It's in the middle of the room.	Also means "half, way, means"			[sound:1000_meio.mp3]	noun
+São	São	Moro em São Paulo.	I live in São Paulo.	Often in place names: São João, São Miguel			[sound:1000_São.mp3]	proper-noun
+pandemia	pandemic	A pandemia mudou tudo.	The pandemic changed everything.				[sound:1000_pandemia.mp3]	noun
+contra	against	Sou contra essa ideia.	I am against that idea.				[sound:1000_contra.mp3]	preposition
+possível	possible	É possível chegar a tempo?	Is it possible to arrive on time?	Invariable: same for masc/fem			[sound:1000_possível.mp3]	adjective
+grupo	group	O grupo vai ao cinema.	The group goes to the cinema.				[sound:1000_grupo.mp3]	noun
+mercado	market	Vou ao mercado comprar fruta.	I'm going to the market to buy fruit.				[sound:1000_mercado.mp3]	noun
+ela	she	Ela fala muito bem português.	She speaks Portuguese very well.				[sound:1000_ela.mp3]	pronoun
+levar	to take	Vou levar o guarda-chuva.	I'm going to take the umbrella.	Also means "to carry, to bring"			[sound:1000_levar.mp3]	verb
+governo	government	O governo tomou uma decisão.	The government made a decision.				[sound:1000_governo.mp3]	noun
+saúde	health	A saúde é importante.	Health is important.				[sound:1000_saúde.mp3]	noun
+resultado	result	O resultado foi positivo.	The result was positive.				[sound:1000_resultado.mp3]	noun
+semana	week	Vejo-te na próxima semana.	I'll see you next week.				[sound:1000_semana.mp3]	noun
+começar	to start	Vou começar a estudar.	I'm going to start studying.				[sound:1000_começar.mp3]	verb
+espaço	space	Há muito espaço aqui.	There is a lot of space here.				[sound:1000_espaço.mp3]	noun
+conseguir	to get	Vou conseguir fazer isto.	I'm going to manage to do this.	Means "to manage to, to succeed in"			[sound:1000_conseguir.mp3]	verb
+nem	nor	Não tenho carro nem mota.	I have neither a car nor a motorcycle.	nem...nem = neither...nor			[sound:1000_nem.mp3]	conjunction
+ponto	point	Qual é o ponto principal?	What is the main point?				[sound:1000_ponto.mp3]	noun
+importante	important	Isto é muito importante.	This is very important.				[sound:1000_importante.mp3]	adjective
+produto	product	Este produto é português.	This product is Portuguese.				[sound:1000_produto.mp3]	noun
+partir	leave	O avião vai partir às nove.	The plane will depart at nine.	Also means "to break" (partir algo)			[sound:1000_partir.mp3]	verb
+continuar	to continue	Vou continuar a estudar.	I'm going to continue studying.				[sound:1000_continuar.mp3]	verb
+direito	right	Tens direito a férias.	You have a right to holidays.	Also means "straight, right (direction)"			[sound:1000_direito.mp3]	noun
+nacional	national	A equipa nacional ganhou.	The national team won.				[sound:1000_nacional.mp3]	adjective
+próprio	own	Tenho o meu próprio quarto.	I have my own room.	Feminine: própria			[sound:1000_próprio.mp3]	adjective
+falar	to speak	Eu falo português.	I speak Portuguese.				[sound:1000_falar.mp3]	verb
+rede	network	A rede de internet é boa.	The internet network is good.	Also means "net"			[sound:1000_rede.mp3]	noun
+hora	hour	A que horas chegas?	What time do you arrive?	Plural: horas			[sound:1000_hora.mp3]	noun
+eles	they	Eles moram em Lisboa.	They live in Lisbon.	Masculine plural. Feminine: elas			[sound:1000_eles.mp3]	pronoun
+programa	program	O programa começa às oito.	The program starts at eight.				[sound:1000_programa.mp3]	noun
+antes	before	Chego antes das cinco.	I arrive before five.				[sound:1000_antes.mp3]	preposition
+cerca	around	Há cerca de cem pessoas.	There are around a hundred people.	Also noun: a cerca (fence)			[sound:1000_cerca.mp3]	adverb
+relação	relationship	A relação entre eles é boa.	The relationship between them is good.				[sound:1000_relação.mp3]	noun
+profissional	professional	Ele é um profissional excelente.	He is an excellent professional.				[sound:1000_profissional.mp3]	adjective
+região	region	É uma região muito bonita.	It is a very beautiful region.				[sound:1000_região.mp3]	noun
+menos	less	Tenho menos tempo hoje.	I have less time today.				[sound:1000_menos.mp3]	adverb
+utilizar	to use	Vou utilizar o computador.	I'm going to use the computer.	More formal than usar			[sound:1000_utilizar.mp3]	verb
+jogo	game	Gosto de ver este jogo.	I like watching this game.				[sound:1000_jogo.mp3]	noun
+família	family	A minha família é grande.	My family is big.				[sound:1000_família.mp3]	noun
+lugar	place	Este é um bom lugar para viver.	This is a good place to live.				[sound:1000_lugar.mp3]	noun
+fim	end	É o fim do dia.	It is the end of the day.				[sound:1000_fim.mp3]	noun
+considerar	to consider	Vou considerar a tua ideia.	I'm going to consider your idea.				[sound:1000_considerar.mp3]	verb
+acontecer	to happen	O que aconteceu?	What happened?				[sound:1000_acontecer.mp3]	verb
+existir	to exist	Este animal não existe aqui.	This animal doesn't exist here.				[sound:1000_existir.mp3]	verb
+aqui	here	Eu moro aqui.	I live here.				[sound:1000_aqui.mp3]	adverb
+conta	account	A minha conta no banco é nova.	My bank account is new.	Also means "bill" (restaurant)			[sound:1000_conta.mp3]	noun
+problema	problem	O problema é difícil.	The problem is difficult.				[sound:1000_problema.mp3]	noun
+período	period	Neste período, estudo muito.	In this period, I study a lot.				[sound:1000_período.mp3]	noun
+conhecer	to meet	Quero conhecer pessoas novas.	I want to meet new people.	For meeting someone for the first time			[sound:1000_conhecer.mp3]	verb
+necessário	necessary	É necessário estudar mais.	It is necessary to study more.	Feminine: necessária			[sound:1000_necessário.mp3]	adjective
+usar	to use	Vou usar o teu computador.	I'm going to use your computer.				[sound:1000_usar.mp3]	verb
+apoio	support	Obrigado pelo teu apoio.	Thank you for your support.				[sound:1000_apoio.mp3]	noun
+principal	main	A razão principal é esta.	The main reason is this.				[sound:1000_principal.mp3]	adjective
+precisar	to need	Preciso de ajuda.	I need help.	Takes de: precisar de			[sound:1000_precisar.mp3]	verb
+seguir	to follow	Vou seguir em frente.	I'm going to go straight ahead.	Also means "to follow"			[sound:1000_seguir.mp3]	verb
+acesso	access	O acesso é gratuito.	Access is free.				[sound:1000_acesso.mp3]	noun
+equipa	team	A equipa jogou bem.	The team played well.	EU Portuguese. BR: equipe			[sound:1000_equipa.mp3]	noun
+criança	child	A criança está a brincar.	The child is playing.	Plural: crianças			[sound:1000_criança.mp3]	noun
+disponível	available	O quarto está disponível.	The room is available.				[sound:1000_disponível.mp3]	adjective
+exemplo	example	Por exemplo, eu gosto de café.	For example, I like coffee.				[sound:1000_exemplo.mp3]	noun
+cliente	customer	O cliente está satisfeito.	The customer is satisfied.				[sound:1000_cliente.mp3]	noun
+longo	long	O caminho é longo.	The path is long.	Feminine: longa			[sound:1000_longo.mp3]	adjective
+decisão	decision	Foi uma decisão difícil.	It was a difficult decision.				[sound:1000_decisão.mp3]	noun
+trabalhar	to work	Eu trabalho todos os dias.	I work every day.				[sound:1000_trabalhar.mp3]	verb
+coisa	thing	Tenho muitas coisas para fazer.	I have many things to do.	Very common in everyday speech			[sound:1000_coisa.mp3]	noun
+manter	to maintain	Vou manter a porta aberta.	I'm going to keep the door open.	Irregular: mantenho, manténs			[sound:1000_manter.mp3]	verb
+projeto	project	O projeto está quase pronto.	The project is almost ready.	Modern spelling in EU PT and BR			[sound:1000_projeto.mp3]	noun
+desenvolver	to develop	Quero desenvolver novas ideias.	I want to develop new ideas.				[sound:1000_desenvolver.mp3]	verb
+lado	side	O gato está do outro lado.	The cat is on the other side.				[sound:1000_lado.mp3]	noun
+população	population	A população está a crescer.	The population is growing.				[sound:1000_população.mp3]	noun
+passado	past	No ano passado, fui a Lisboa.	Last year, I went to Lisbon.	Also noun: o passado (the past)			[sound:1000_passado.mp3]	adjective
+tipo	type	Que tipo de café queres?	What type of coffee do you want?				[sound:1000_tipo.mp3]	noun
+condição	condition	A condição do tempo é boa.	The weather condition is good.	Plural: condições			[sound:1000_condição.mp3]	noun
+ação	action	É preciso tomar uma ação.	It's necessary to take action.	Modern spelling in EU PT and BR			[sound:1000_ação.mp3]	noun
+tanto	so much	Gosto tanto de Portugal.	I like Portugal so much.				[sound:1000_tanto.mp3]	adverb
+solução	solution	Vamos encontrar uma solução.	Let's find a solution.				[sound:1000_solução.mp3]	noun
+presente	present	Tenho um presente para ti.	I have a gift for you.	Also adjective: estar presente (to be present)			[sound:1000_presente.mp3]	noun
+desenvolvimento	development	O desenvolvimento é importante.	Development is important.				[sound:1000_desenvolvimento.mp3]	noun
+incluir	to include	O preço vai incluir o pequeno-almoço.	The price will include breakfast.				[sound:1000_incluir.mp3]	verb
+alto	high	O edifício é muito alto.	The building is very tall.	Feminine: alta			[sound:1000_alto.mp3]	adjective
+mulher	woman	A mulher está no jardim.	The woman is in the garden.	Plural: mulheres			[sound:1000_mulher.mp3]	noun
+voltar	to come back	Vou voltar amanhã.	I'm going to come back tomorrow.				[sound:1000_voltar.mp3]	verb
+garantir	to guarantee	Vou garantir que tudo corre bem.	I'm going to guarantee everything goes well.				[sound:1000_garantir.mp3]	verb
+necessidade	need	Há necessidade de mais água.	There is a need for more water.				[sound:1000_necessidade.mp3]	noun
+obra	work	A obra vai demorar dois meses.	The construction work will take two months.	Also means "work of art"			[sound:1000_obra.mp3]	noun
+estudo	study	O estudo é muito interessante.	The study is very interesting.				[sound:1000_estudo.mp3]	noun
+segurança	safety	A segurança é importante.	Safety is important.	Also means "security"			[sound:1000_segurança.mp3]	noun
+ajudar	to help	Podes ajudar-me, por favor?	Can you help me, please?				[sound:1000_ajudar.mp3]	verb
+tal	such	Ele é tal como o pai.	He is just like his father.	Common: tal como (just like)			[sound:1000_tal.mp3]	determiner
+jovem	young	O jovem estuda na universidade.	The young man studies at the university.	Also adjective: uma pessoa jovem			[sound:1000_jovem.mp3]	noun
+você	you	Você fala português?	Do you speak Portuguese?	Formal "you" in EU PT. Common in BR.			[sound:1000_você.mp3]	pronoun
+município	county	O município é grande.	The municipality is large.	Similar to county/borough			[sound:1000_município.mp3]	noun
+início	beginning	O início do filme é bom.	The beginning of the movie is good.				[sound:1000_início.mp3]	noun
+homem	man	Aquele homem é o meu professor.	That man is my teacher.	Plural: homens			[sound:1000_homem.mp3]	noun
+abrir	to open	Vou abrir a janela.	I'm going to open the window.				[sound:1000_abrir.mp3]	verb
+qualidade	quality	A qualidade do café é boa.	The quality of the coffee is good.				[sound:1000_qualidade.mp3]	noun
+questão	question	Tenho uma questão para ti.	I have a question for you.	More formal than pergunta			[sound:1000_questão.mp3]	noun
+enquanto	while	Leio enquanto espero o autocarro.	I read while I wait for the bus.				[sound:1000_enquanto.mp3]	conjunction
+euro	euro	Custa dez euros.	It costs ten euros.				[sound:1000_euro.mp3]	noun
+então	then	Então, o que fazemos?	So, what do we do?				[sound:1000_então.mp3]	adverb
+viver	to live	Quero viver em Lisboa.	I want to live in Lisbon.				[sound:1000_viver.mp3]	verb
+história	history	A história de Portugal é longa.	The history of Portugal is long.	Also means "story"			[sound:1000_história.mp3]	noun
+formação	formation	A formação dura três meses.	The training lasts three months.	Also means "formation"			[sound:1000_formação.mp3]	noun
+aluno	student	O aluno estuda muito.	The student studies a lot.	Feminine: aluna. EU PT also uses estudante			[sound:1000_aluno.mp3]	noun
+vários	several	Há vários restaurantes aqui.	There are several restaurants here.	Feminine: várias			[sound:1000_vários.mp3]	adjective
+ideia	idea	Tenho uma boa ideia.	I have a good idea.				[sound:1000_ideia.mp3]	noun
+risco	risk	Há um risco de chuva hoje.	There is a risk of rain today.				[sound:1000_risco.mp3]	noun
+mostrar	to show	Vou mostrar-te a cidade.	I'm going to show you the city.				[sound:1000_mostrar.mp3]	verb
+escola	school	A escola fica perto de casa.	The school is near the house.				[sound:1000_escola.mp3]	noun
+entrar	enter	Podes entrar, por favor.	You can come in, please.				[sound:1000_entrar.mp3]	verb
+pensar	to think	Tenho de pensar sobre isso.	I have to think about it.				[sound:1000_pensar.mp3]	verb
+recurso	resource	Este recurso é muito útil.	This resource is very useful.				[sound:1000_recurso.mp3]	noun
+total	total	O total é vinte euros.	The total is twenty euros.				[sound:1000_total.mp3]	noun
+quatro	four	Tenho quatro irmãs.	I have four sisters.				[sound:1000_quatro.mp3]	numeral
+gestão	management	A gestão da empresa é boa.	The management of the company is good.				[sound:1000_gestão.mp3]	noun
+colocar	to put	Vou colocar o livro na mesa.	I'm going to put the book on the table.				[sound:1000_colocar.mp3]	verb
+site	site	Vou ver o site da empresa.	I'm going to see the company's website.	Borrowed from English			[sound:1000_site.mp3]	noun
+político	political	O debate político é importante.	The political debate is important.	Feminine: política			[sound:1000_político.mp3]	adjective
+doença	disease	A doença é grave.	The illness is serious.				[sound:1000_doença.mp3]	noun
+nunca	never	Nunca fui ao Brasil.	I've never been to Brazil.				[sound:1000_nunca.mp3]	adverb
+internacional	international	O aeroporto internacional é grande.	The international airport is big.				[sound:1000_internacional.mp3]	adjective
+nome	name	Qual é o teu nome?	What is your name?				[sound:1000_nome.mp3]	noun
+água	water	Quero um copo de água.	I want a glass of water.				[sound:1000_água.mp3]	noun
+morte	death	A morte do rei foi triste.	The death of the king was sad.				[sound:1000_morte.mp3]	noun
+explicar	to explain	Podes explicar-me isso?	Can you explain that to me?				[sound:1000_explicar.mp3]	verb
+quanto	how much	Quanto custa este livro?	How much does this book cost?				[sound:1000_quanto.mp3]	adverb
+técnico	technical	O técnico vai resolver o problema.	The technician will solve the problem.	Also adjective: apoio técnico (technical support)			[sound:1000_técnico.mp3]	noun
+isto	this	Isto é para ti.	This is for you.	Refers to something near the speaker			[sound:1000_isto.mp3]	pronoun
+responsável	responsible	Ele é responsável pelo projeto.	He is responsible for the project.				[sound:1000_responsável.mp3]	adjective
+base	base	A base da torre é forte.	The base of the tower is strong.				[sound:1000_base.mp3]	noun
+utilização	use	A utilização do telefone é fácil.	The use of the phone is easy.				[sound:1000_utilização.mp3]	noun
+Porto	Porto	O Porto é uma cidade bonita.	Porto is a beautiful city.	Second largest city in Portugal			[sound:1000_Porto.mp3]	proper-noun
+instituição	institution	A instituição é muito antiga.	The institution is very old.				[sound:1000_instituição.mp3]	noun
+tão	so	Estou tão cansado!	I am so tired!				[sound:1000_tão.mp3]	adverb
+artigo	article	Li um artigo interessante.	I read an interesting article.				[sound:1000_artigo.mp3]	noun
+atividade	activity	A atividade começa de manhã.	The activity starts in the morning.	Modern spelling in EU PT and BR			[sound:1000_atividade.mp3]	noun
+confirmar	to confirm	Podes confirmar a data?	Can you confirm the date?				[sound:1000_confirmar.mp3]	verb
+pois	because	Fico em casa, pois está a chover.	I stay home, because it's raining.	More formal/literary than porque			[sound:1000_pois.mp3]	conjunction
+tomar	to take	Vou tomar um café.	I'm going to have a coffee.	tomar café = to have coffee			[sound:1000_tomar.mp3]	verb
+negócio	business	O negócio está a correr bem.	The business is going well.				[sound:1000_negócio.mp3]	noun
+Rio	Rio	Ele mora no Rio de Janeiro.	He lives in Rio de Janeiro.				[sound:1000_Rio.mp3]	proper-noun
+experiência	experience	Foi uma boa experiência.	It was a good experience.				[sound:1000_experiência.mp3]	noun
+único	unique	Este lugar é único.	This place is unique.	Feminine: única			[sound:1000_único.mp3]	adjective
+quase	almost	Quase cheguei atrasado.	I almost arrived late.				[sound:1000_quase.mp3]	adverb
+função	function	Qual é a função deste botão?	What is the function of this button?				[sound:1000_função.mp3]	noun
+entanto	however	No entanto, gosto de café.	However, I like coffee.	Always used as: no entanto			[sound:1000_entanto.mp3]	adverb
+gente	people	A gente vai ao cinema.	We're going to the cinema.	Informal "we" in PT. Takes 3rd person verb			[sound:1000_gente.mp3]	noun
+acabar	to finish	O filme vai acabar às dez.	The movie will end at ten.	Also means "to end up"			[sound:1000_acabar.mp3]	verb
+informar	to inform	Vou informar o meu chefe.	I'm going to inform my boss.				[sound:1000_informar.mp3]	verb
+produção	production	A produção aumentou este ano.	Production increased this year.				[sound:1000_produção.mp3]	noun
+conjunto	set	É um conjunto de livros.	It's a set of books.				[sound:1000_conjunto.mp3]	noun
+zona	zone	Esta zona é muito tranquila.	This area is very quiet.				[sound:1000_zona.mp3]	noun
+ocorrer	to occur	O acidente ocorreu ontem.	The accident occurred yesterday.	Formal. Less formal: acontecer			[sound:1000_ocorrer.mp3]	verb
+apesar	despite	Apesar da chuva, vou sair.	Despite the rain, I'm going out.	Used as: apesar de			[sound:1000_apesar.mp3]	conjunction
+várias	several	Há várias opções.	There are several options.	Feminine plural of vário			[sound:1000_várias.mp3]	adjective
+iniciativa	initiative	Foi uma boa iniciativa.	It was a good initiative.				[sound:1000_iniciativa.mp3]	noun
+aumentar	to increase	Os preços vão aumentar.	Prices are going to increase.				[sound:1000_aumentar.mp3]	verb
+unidade	unity	É uma unidade de saúde.	It's a health unit.	Also means "unity"			[sound:1000_unidade.mp3]	noun
+futuro	future	O futuro é incerto.	The future is uncertain.	Also adjective: no futuro próximo			[sound:1000_futuro.mp3]	noun
+pretender	intend	Pretendo ir a Lisboa em maio.	I intend to go to Lisbon in May.	More formal than querer			[sound:1000_pretender.mp3]	verb
+organização	organization	A organização é muito boa.	The organization is very good.				[sound:1000_organização.mp3]	noun
+utilizador	user	O utilizador pode aceder ao site.	The user can access the site.	EU PT. BR: usuário			[sound:1000_utilizador.mp3]	noun
+brasileiro	Brazilian	O café brasileiro é famoso.	Brazilian coffee is famous.	Feminine: brasileira			[sound:1000_brasileiro.mp3]	adjective
+novembro	November	Novembro é um mês frio.	November is a cold month.				[sound:1000_novembro.mp3]	noun
+preço	price	Qual é o preço deste livro?	What is the price of this book?				[sound:1000_preço.mp3]	noun
+referir	to refer	Vou referir este problema ao chefe.	I'm going to refer this problem to the boss.				[sound:1000_referir.mp3]	verb
+pedir	ask	Quero pedir um café.	I want to order a coffee.	Also means "to ask for"			[sound:1000_pedir.mp3]	verb
+junto	together	Vamos todos juntos.	Let's all go together.	Also adjective: junto a (next to)			[sound:1000_junto.mp3]	adverb
+tentar	to try	Vou tentar outra vez.	I'm going to try again.				[sound:1000_tentar.mp3]	verb
+dentro	inside	O gato está dentro de casa.	The cat is inside the house.				[sound:1000_dentro.mp3]	adverb
+diferente	different	Cada pessoa é diferente.	Each person is different.				[sound:1000_diferente.mp3]	adjective
+aquele	that	Aquele edifício é muito antigo.	That building is very old.	Feminine: aquela. Further than esse/este			[sound:1000_aquele.mp3]	pronoun
+proposta	proposal	A proposta é interessante.	The proposal is interesting.				[sound:1000_proposta.mp3]	noun
+nada	nothing	Não sei nada sobre isso.	I don't know anything about it.	Double negative is required in PT			[sound:1000_nada.mp3]	pronoun
+divulgar	to spread	Vou divulgar a informação.	I'm going to spread the information.				[sound:1000_divulgar.mp3]	verb
+médico	doctor	O médico está no hospital.	The doctor is at the hospital.	Feminine: médica. Also adjective: consulta médica			[sound:1000_médico.mp3]	noun
+evento	event	O evento é no sábado.	The event is on Saturday.				[sound:1000_evento.mp3]	noun
+cinco	five	Tenho cinco euros.	I have five euros.				[sound:1000_cinco.mp3]	numeral
+uma	one	Quero uma mesa para duas pessoas.	I want a table for two people.	Feminine of um			[sound:1000_uma.mp3]	article
+perder	to lose	Vou perder o autocarro.	I'm going to miss the bus.	Also means "to lose"			[sound:1000_perder.mp3]	verb
+parecer	to seem	Parece que vai chover.	It seems like it's going to rain.	Also noun: o parecer (opinion)			[sound:1000_parecer.mp3]	verb
+efeito	effect	O efeito foi positivo.	The effect was positive.				[sound:1000_efeito.mp3]	noun
+sentido	sense	Isto não faz sentido.	This doesn't make sense.	Also past participle of sentir			[sound:1000_sentido.mp3]	noun
+sair	to exit	Vou sair às oito horas.	I'm going to go out at eight.	sair de casa = to leave the house			[sound:1000_sair.mp3]	verb
+livro	book	Estou a ler um bom livro.	I'm reading a good book.				[sound:1000_livro.mp3]	noun
+investigação	investigation	A investigação vai demorar tempo.	The investigation will take time.	Also means "research"			[sound:1000_investigação.mp3]	noun
+imagem	image	A imagem é muito bonita.	The image is very beautiful.				[sound:1000_imagem.mp3]	noun
+devido	due	Devido à chuva, fiquei em casa.	Due to the rain, I stayed home.	Used as: devido a			[sound:1000_devido.mp3]	adjective
+esperar	to wait	Vou esperar aqui.	I'm going to wait here.	Also means "to hope": espero que sim			[sound:1000_esperar.mp3]	verb
+financeiro	financial	O relatório financeiro está pronto.	The financial report is ready.	Feminine: financeira			[sound:1000_financeiro.mp3]	adjective
+centro	center	O centro da cidade é bonito.	The city center is beautiful.				[sound:1000_centro.mp3]	noun
+plano	plan	Qual é o teu plano?	What is your plan?	Also adjective: terreno plano (flat ground)			[sound:1000_plano.mp3]	noun
+causa	cause	A causa do problema é clara.	The cause of the problem is clear.				[sound:1000_causa.mp3]	noun
+resposta	answer	A resposta é simples.	The answer is simple.				[sound:1000_resposta.mp3]	noun
+modo	mode	De qualquer modo, vou tentar.	Either way, I'm going to try.	Also means "way, manner"			[sound:1000_modo.mp3]	noun
+aumento	increase	Houve um aumento de preço.	There was a price increase.				[sound:1000_aumento.mp3]	noun
+tornar	to become	Ele vai tornar-se professor.	He is going to become a teacher.	tornar-se = to become			[sound:1000_tornar.mp3]	verb
+anterior	previous	A semana anterior foi boa.	The previous week was good.				[sound:1000_anterior.mp3]	adjective
+fase	phase	Estamos na primeira fase.	We are in the first phase.				[sound:1000_fase.mp3]	noun
+publicar	to publish	Vou publicar o artigo amanhã.	I'm going to publish the article tomorrow.				[sound:1000_publicar.mp3]	verb
+capacidade	capacity	Não tenho capacidade para isso.	I don't have the capacity for that.				[sound:1000_capacidade.mp3]	noun
+prazo	deadline	O prazo é sexta-feira.	The deadline is Friday.				[sound:1000_prazo.mp3]	noun
+equipamento	equipment	O equipamento é novo.	The equipment is new.				[sound:1000_equipamento.mp3]	noun
+nenhum	none	Não tenho nenhum problema.	I don't have any problem.	Feminine: nenhuma. Double negative required			[sound:1000_nenhum.mp3]	determiner
+procurar	look for	Vou procurar um restaurante.	I'm going to look for a restaurant.				[sound:1000_procurar.mp3]	verb
+participar	to participate	Quero participar no evento.	I want to participate in the event.	participar em/no (not participar de in EU PT)			[sound:1000_participar.mp3]	verb
+obter	to get	Vou obter a informação.	I'm going to get the information.	Formal. Less formal: conseguir			[sound:1000_obter.mp3]	verb
+representar	to represent	O mapa vai representar a cidade.	The map will represent the city.				[sound:1000_representar.mp3]	verb
+oportunidade	opportunity	É uma boa oportunidade.	It is a good opportunity.				[sound:1000_oportunidade.mp3]	noun
+ganhar	to win	A equipa vai ganhar o jogo.	The team is going to win the game.	Also means "to earn (money)"			[sound:1000_ganhar.mp3]	verb
+modelo	model	Este modelo é muito popular.	This model is very popular.				[sound:1000_modelo.mp3]	noun
+especial	special	É uma ocasião especial.	It is a special occasion.				[sound:1000_especial.mp3]	adjective
+anunciar	to announce	Vou anunciar a notícia amanhã.	I'm going to announce the news tomorrow.				[sound:1000_anunciar.mp3]	verb
+março	March	Março é um mês agradável.	March is a pleasant month.				[sound:1000_março.mp3]	noun
+política	politics	A política é complicada.	Politics is complicated.	Also adjective: a classe política			[sound:1000_política.mp3]	noun
+edição	edition	Esta é a segunda edição.	This is the second edition.				[sound:1000_edição.mp3]	noun
+facto	fact	É um facto importante.	It is an important fact.	EU PT spelling. BR: fato			[sound:1000_facto.mp3]	noun
+documento	document	Onde está o documento?	Where is the document?				[sound:1000_documento.mp3]	noun
+outubro	October	Outubro é o meu mês favorito.	October is my favorite month.				[sound:1000_outubro.mp3]	noun
+marca	brand	Qual é a tua marca favorita?	What is your favorite brand?	Also verb: marcar (to mark/score)			[sound:1000_marca.mp3]	noun
+taxa	rate	A taxa de juro é baixa.	The interest rate is low.				[sound:1000_taxa.mp3]	noun
+venda	sale	A venda da casa foi rápida.	The sale of the house was fast.				[sound:1000_venda.mp3]	noun
+pessoal	personal	É uma questão pessoal.	It is a personal question.	Also noun: o pessoal (the staff)			[sound:1000_pessoal.mp3]	adjective
+tema	theme	O tema da reunião é importante.	The topic of the meeting is important.				[sound:1000_tema.mp3]	noun
+entidade	entity	A entidade é responsável.	The entity is responsible.				[sound:1000_entidade.mp3]	noun
+prever	to predict	É difícil prever o futuro.	It is difficult to predict the future.	Irregular like ver: prevejo, prevês			[sound:1000_prever.mp3]	verb
+objetivo	objective	Qual é o teu objetivo?	What is your objective?	Modern spelling in EU PT and BR			[sound:1000_objetivo.mp3]	noun
+pagar	to pay	Tenho de pagar a conta.	I have to pay the bill.				[sound:1000_pagar.mp3]	verb
+investimento	investment	O investimento vai valer a pena.	The investment will be worth it.				[sound:1000_investimento.mp3]	noun
+ministro	minister	O ministro fez um discurso.	The minister gave a speech.	Feminine: ministra			[sound:1000_ministro.mp3]	noun
+linha	line	A linha do metro é nova.	The metro line is new.	Also means "thread, row"			[sound:1000_linha.mp3]	noun
+alteração	alteration	Houve uma alteração no plano.	There was a change in the plan.				[sound:1000_alteração.mp3]	noun
+atingir	to reach	Quero atingir o meu objetivo.	I want to reach my goal.				[sound:1000_atingir.mp3]	verb
+frente	front	A entrada fica em frente.	The entrance is in front.	em frente de = in front of			[sound:1000_frente.mp3]	noun
+junho	June	Junho é um bom mês para viajar.	June is a good month to travel.				[sound:1000_junho.mp3]	noun
+lei	law	A lei é clara.	The law is clear.	Plural: leis			[sound:1000_lei.mp3]	noun
+filho	son	O meu filho tem dez anos.	My son is ten years old.	Feminine: filha (daughter)			[sound:1000_filho.mp3]	noun
+economia	economy	A economia está a melhorar.	The economy is improving.				[sound:1000_economia.mp3]	noun
+aplicação	application	A aplicação funciona bem.	The app works well.	Also means "application (formal)"			[sound:1000_aplicação.mp3]	noun
+pagamento	payment	O pagamento foi feito.	The payment was made.				[sound:1000_pagamento.mp3]	noun
+crise	crisis	O país está em crise.	The country is in crisis.				[sound:1000_crise.mp3]	noun
+conhecimento	knowledge	O conhecimento é importante.	Knowledge is important.				[sound:1000_conhecimento.mp3]	noun
+noite	night	A noite está fria.	The night is cold.	Boa noite = good evening/night			[sound:1000_noite.mp3]	noun
+Europa	Europe	A Europa é um continente diverso.	Europe is a diverse continent.				[sound:1000_Europa.mp3]	proper-noun
+fora	outside	O gato está lá fora.	The cat is outside.				[sound:1000_fora.mp3]	adverb
+geral	general	A ideia geral é boa.	The general idea is good.	Also noun: o general			[sound:1000_geral.mp3]	adjective
+data	date	Qual é a data de hoje?	What is today's date?	Also used in computing: dados (data)			[sound:1000_data.mp3]	noun
+curso	course	Estou a fazer um curso de português.	I'm taking a Portuguese course.				[sound:1000_curso.mp3]	noun
+decorrer	to elapse	O evento vai decorrer em maio.	The event will take place in May.	Formal for "to take place"			[sound:1000_decorrer.mp3]	verb
+evitar	to avoid	Vou evitar esse restaurante.	I'm going to avoid that restaurant.				[sound:1000_evitar.mp3]	verb
+vítima	victim	A vítima está no hospital.	The victim is in the hospital.				[sound:1000_vítima.mp3]	noun
+pedido	order	Fiz um pedido no restaurante.	I placed an order at the restaurant.	Also means "request"			[sound:1000_pedido.mp3]	noun
+comunicação	communication	A comunicação é essencial.	Communication is essential.				[sound:1000_comunicação.mp3]	noun
+sociedade	society	Vivemos numa sociedade diversa.	We live in a diverse society.				[sound:1000_sociedade.mp3]	noun
+prática	practice	Preciso de mais prática.	I need more practice.	Also adjective: aula prática			[sound:1000_prática.mp3]	noun
+setembro	September	Setembro é um mês agradável.	September is a pleasant month.				[sound:1000_setembro.mp3]	noun
+uso	use	O uso do telefone é fácil.	The use of the phone is easy.				[sound:1000_uso.mp3]	noun
+professor	teacher	O professor é muito simpático.	The teacher is very nice.	Feminine: professora			[sound:1000_professor.mp3]	noun
+promover	to promote	Quero promover a cultura portuguesa.	I want to promote Portuguese culture.				[sound:1000_promover.mp3]	verb
+membro	member	Sou membro deste clube.	I am a member of this club.				[sound:1000_membro.mp3]	noun
+domingo	Sunday	No domingo, vou à praia.	On Sunday, I go to the beach.				[sound:1000_domingo.mp3]	noun
+marcar	to mark	Vou marcar uma reunião.	I'm going to schedule a meeting.	Also means "to score (a goal)"			[sound:1000_marcar.mp3]	verb
+indicar	to indicate	O mapa vai indicar o caminho.	The map will indicate the way.				[sound:1000_indicar.mp3]	verb
+tratar	treat	Vou tratar deste assunto.	I'm going to deal with this matter.	tratar de = to deal with			[sound:1000_tratar.mp3]	verb
+capital	capital	Lisboa é a capital de Portugal.	Lisbon is the capital of Portugal.	Also adjective: letra capital			[sound:1000_capital.mp3]	noun
+achar	to find	Acho que tens razão.	I think you are right.	Also means "to find": achei a chave			[sound:1000_achar.mp3]	verb
+concelho	county	O concelho tem muitas aldeias.	The municipality has many villages.	EU PT administrative division			[sound:1000_concelho.mp3]	noun
+clube	club	O clube de futebol é famoso.	The football club is famous.				[sound:1000_clube.mp3]	noun
+antigo	old	O castelo é muito antigo.	The castle is very old.	Feminine: antiga			[sound:1000_antigo.mp3]	adjective
+económico	economic	A situação económica é difícil.	The economic situation is difficult.	EU PT spelling. BR: econômico			[sound:1000_económico.mp3]	adjective
+integrar	integrate	A equipa vai integrar novos membros.	The team will integrate new members.				[sound:1000_integrar.mp3]	verb
+campanha	campaign	A campanha foi um sucesso.	The campaign was a success.				[sound:1000_campanha.mp3]	noun
+forte	strong	O café é forte.	The coffee is strong.				[sound:1000_forte.mp3]	adjective
+pai	father	O meu pai é professor.	My father is a teacher.	Plural: pais (parents or fathers)			[sound:1000_pai.mp3]	noun
+cujo	whose	Cujo livro é este?	Whose book is this?	Feminine: cuja. Formal/literary			[sound:1000_cujo.mp3]	pronoun
+prova	test	Amanhã tenho uma prova.	Tomorrow I have a test.	Also means "proof, evidence"			[sound:1000_prova.mp3]	noun
+abril	April	Abril é um mês bonito.	April is a beautiful month.				[sound:1000_abril.mp3]	noun
+destacar	to highlight	Quero destacar este ponto.	I want to highlight this point.				[sound:1000_destacar.mp3]	verb
+chamar	to call	Vou chamar um táxi.	I'm going to call a taxi.	chamar-se = to be called (name)			[sound:1000_chamar.mp3]	verb
+sessão	session	A sessão começa às dez.	The session starts at ten.				[sound:1000_sessão.mp3]	noun
+conteúdo	content	O conteúdo do livro é bom.	The content of the book is good.				[sound:1000_conteúdo.mp3]	noun
+europeu	European	O mercado europeu é grande.	The European market is big.	Feminine: europeia			[sound:1000_europeu.mp3]	adjective
+comunidade	community	A comunidade é muito unida.	The community is very united.				[sound:1000_comunidade.mp3]	noun
+custo	cost	O custo de vida é alto.	The cost of living is high.				[sound:1000_custo.mp3]	noun
+elemento	element	A água é um elemento essencial.	Water is an essential element.				[sound:1000_elemento.mp3]	noun
+jogador	player	O jogador marcou um golo.	The player scored a goal.				[sound:1000_jogador.mp3]	noun
+determinar	to determine	Vou determinar a causa do problema.	I'm going to determine the cause of the problem.				[sound:1000_determinar.mp3]	verb
+contrato	contract	Assinei o contrato ontem.	I signed the contract yesterday.				[sound:1000_contrato.mp3]	noun
+papel	paper	Preciso de papel e caneta.	I need paper and a pen.	Also means "role": desempenhar um papel			[sound:1000_papel.mp3]	noun
+lá	there	O gato está lá em cima.	The cat is up there.	More distant than aqui or aí			[sound:1000_lá.mp3]	adverb
+candidato	candidate	O candidato fez um bom discurso.	The candidate gave a good speech.	Feminine: candidata			[sound:1000_candidato.mp3]	noun
+sábado	Saturday	No sábado, vou ao cinema.	On Saturday, I go to the cinema.				[sound:1000_sábado.mp3]	noun
+paciente	patient	O paciente está a melhorar.	The patient is improving.	Also adjective: sê paciente (be patient)			[sound:1000_paciente.mp3]	noun
+positivo	positive	O resultado é positivo.	The result is positive.				[sound:1000_positivo.mp3]	adjective
+maio	May	Maio é o meu mês favorito.	May is my favorite month.				[sound:1000_maio.mp3]	noun
+interesse	interest	Tenho interesse neste assunto.	I have interest in this subject.				[sound:1000_interesse.mp3]	noun
+oferecer	to offer	Vou oferecer-lhe um presente.	I'm going to offer him a gift.				[sound:1000_oferecer.mp3]	verb
+operação	operation	A operação correu bem.	The operation went well.				[sound:1000_operação.mp3]	noun
+ambiente	environment	O ambiente é muito agradável.	The environment is very pleasant.	Also means "atmosphere, mood"			[sound:1000_ambiente.mp3]	noun
+participação	participation	A participação foi muito boa.	The participation was very good.				[sound:1000_participação.mp3]	noun
+dezembro	December	Dezembro é o último mês do ano.	December is the last month of the year.				[sound:1000_dezembro.mp3]	noun
+construção	construction	A construção da casa demora meses.	The construction of the house takes months.				[sound:1000_construção.mp3]	noun
+decidir	to decide	Tens de decidir agora.	You have to decide now.				[sound:1000_decidir.mp3]	verb
+veículo	vehicle	O veículo está estacionado ali.	The vehicle is parked there.				[sound:1000_veículo.mp3]	noun
+julho	July	Julho é um mês de férias.	July is a holiday month.				[sound:1000_julho.mp3]	noun
+diversos	miscellaneous	Há diversos restaurantes nesta rua.	There are various restaurants on this street.	Feminine: diversas			[sound:1000_diversos.mp3]	adjective
+ensino	teaching	O ensino em Portugal é bom.	Education in Portugal is good.				[sound:1000_ensino.mp3]	noun
+acompanhar	to accompany	Vou acompanhar-te ao médico.	I'm going to accompany you to the doctor.				[sound:1000_acompanhar.mp3]	verb
+intervenção	intervention	A intervenção foi necessária.	The intervention was necessary.				[sound:1000_intervenção.mp3]	noun
+mão	hand	Dá-me a tua mão.	Give me your hand.	Plural: mãos			[sound:1000_mão.mp3]	noun
+energia	energy	Precisamos de mais energia.	We need more energy.				[sound:1000_energia.mp3]	noun
+razão	reason	Qual é a razão?	What is the reason?	Also means "to be right": ter razão			[sound:1000_razão.mp3]	noun
+presença	presence	A tua presença é importante.	Your presence is important.				[sound:1000_presença.mp3]	noun
+maioria	majority	A maioria das pessoas concorda.	The majority of people agree.				[sound:1000_maioria.mp3]	noun
+sentir	to feel	Sinto-me cansado hoje.	I feel tired today.	Irregular: sinto, sentes, sente			[sound:1000_sentir.mp3]	verb
+trabalhador	worker	O trabalhador está no escritório.	The worker is in the office.	Feminine: trabalhadora			[sound:1000_trabalhador.mp3]	noun
+revelar	to reveal	O estudo vai revelar os resultados.	The study will reveal the results.				[sound:1000_revelar.mp3]	verb
+humano	human	O ser humano é curioso.	The human being is curious.	Also adjective: direitos humanos			[sound:1000_humano.mp3]	adjective
+século	century	No século vinte e um.	In the twenty-first century.				[sound:1000_século.mp3]	noun
+âmbito	scope	Isto está fora do âmbito.	This is outside the scope.	Formal word			[sound:1000_âmbito.mp3]	noun
+fundo	background	A cor de fundo é azul.	The background color is blue.	Also means "bottom, depth"			[sound:1000_fundo.mp3]	noun
+possibilidade	possibility	Há muitas possibilidades.	There are many possibilities.				[sound:1000_possibilidade.mp3]	noun
+reduzir	to reduce	Quero reduzir as despesas.	I want to reduce expenses.				[sound:1000_reduzir.mp3]	verb
+dinheiro	money	Não tenho dinheiro suficiente.	I don't have enough money.				[sound:1000_dinheiro.mp3]	noun
+página	page	Lê a primeira página do livro.	Read the first page of the book.				[sound:1000_página.mp3]	noun
+janeiro	January	Janeiro é um mês frio.	January is a cold month.				[sound:1000_janeiro.mp3]	noun
+teste	test	Amanhã tenho um teste de português.	Tomorrow I have a Portuguese test.	Also means "test" (medical)			[sound:1000_teste.mp3]	noun
+tarde	afternoon	Vou estudar durante a tarde.	I'm going to study in the afternoon.	Boa tarde = good afternoon			[sound:1000_tarde.mp3]	noun
+terceiro	third	Moro no terceiro andar.	I live on the third floor.	Feminine: terceira			[sound:1000_terceiro.mp3]	adjective
+acreditar	believe	Acredito que vamos conseguir.	I believe we are going to succeed.				[sound:1000_acreditar.mp3]	verb
+aprovar	to approve	Vou aprovar o documento.	I'm going to approve the document.				[sound:1000_aprovar.mp3]	verb
+claro	of course	Claro que sim!	Of course!	Also adjective: um dia claro (a clear day)			[sound:1000_claro.mp3]	adverb
+certo	right	Tens a certeza? Sim, tenho a certeza.	Are you sure? Yes, I'm sure.	Also adjective: o caminho certo (the right path)			[sound:1000_certo.mp3]	adjective
+iniciar	to start	Vou iniciar o trabalho amanhã.	I'm going to start the work tomorrow.	More formal than começar			[sound:1000_iniciar.mp3]	verb
+tratamento	treatment	O tratamento está a funcionar.	The treatment is working.				[sound:1000_tratamento.mp3]	noun
+volta	return	Estou de volta.	I am back.	dar uma volta = to go for a walk			[sound:1000_volta.mp3]	noun
+surgir	to emerge	Um novo problema vai surgir.	A new problem will emerge.				[sound:1000_surgir.mp3]	verb
+responder	to answer	Vou responder à tua pergunta.	I'm going to answer your question.	responder a = to respond to			[sound:1000_responder.mp3]	verb
+sob	under	O gato está sob a mesa.	The cat is under the table.	More formal than debaixo de			[sound:1000_sob.mp3]	preposition
+seis	six	Tenho seis livros novos.	I have six new books.				[sound:1000_seis.mp3]	numeral
+gostar	to like	Eu gosto de café.	I like coffee.	gostar de = takes de before the object			[sound:1000_gostar.mp3]	verb
+força	force	A força do vento é grande.	The force of the wind is great.	Also means "strength"			[sound:1000_força.mp3]	noun
+crescimento	growth	O crescimento é lento.	The growth is slow.				[sound:1000_crescimento.mp3]	noun
+série	series	É uma série interessante.	It is an interesting series.				[sound:1000_série.mp3]	noun
+análise	analysis	A análise dos dados é importante.	The analysis of the data is important.				[sound:1000_análise.mp3]	noun
+mudar	to change	Quero mudar de casa.	I want to move house.	Also means "to change"			[sound:1000_mudar.mp3]	verb
+amigo	friend	O Pedro é o meu melhor amigo.	Pedro is my best friend.	Feminine: amiga			[sound:1000_amigo.mp3]	noun
+texto	text	Vou ler o texto.	I'm going to read the text.				[sound:1000_texto.mp3]	noun
+rua	road	Moro nesta rua.	I live on this street.				[sound:1000_rua.mp3]	noun
+palavra	word	Qual é a palavra em português?	What is the word in Portuguese?				[sound:1000_palavra.mp3]	noun
+reunião	meeting	A reunião é às três horas.	The meeting is at three o'clock.				[sound:1000_reunião.mp3]	noun
+definir	to define	Vou definir as regras.	I'm going to define the rules.				[sound:1000_definir.mp3]	verb
+altura	height	A altura do edifício é grande.	The height of the building is great.	Also means "time, moment"			[sound:1000_altura.mp3]	noun
+contribuir	to contribute	Quero contribuir para o projeto.	I want to contribute to the project.				[sound:1000_contribuir.mp3]	verb
+caminho	way	O caminho para a praia é longo.	The way to the beach is long.				[sound:1000_caminho.mp3]	noun
+minuto	minute	Espera um minuto.	Wait a minute.				[sound:1000_minuto.mp3]	noun
+opção	option	Qual é a melhor opção?	What is the best option?				[sound:1000_opção.mp3]	noun
+crime	crime	O crime aumentou na cidade.	Crime increased in the city.				[sound:1000_crime.mp3]	noun
+mudança	change	A mudança foi positiva.	The change was positive.				[sound:1000_mudança.mp3]	noun
+difícil	difficult	O exame é muito difícil.	The exam is very difficult.				[sound:1000_difícil.mp3]	adjective
+defender	to defend	Vou defender a minha opinião.	I'm going to defend my opinion.				[sound:1000_defender.mp3]	verb
+lançar	to throw	Vou lançar a bola.	I'm going to throw the ball.	Also means "to launch"			[sound:1000_lançar.mp3]	verb
+criação	creation	A criação de empregos é essencial.	Job creation is essential.				[sound:1000_criação.mp3]	noun
+dificuldade	difficulty	Há muita dificuldade neste exercício.	There is a lot of difficulty in this exercise.				[sound:1000_dificuldade.mp3]	noun
+enviar	send	Vou enviar um email.	I'm going to send an email.				[sound:1000_enviar.mp3]	verb
+embora	although	Embora esteja cansado, vou sair.	Although I'm tired, I'm going out.	Takes subjunctive: embora esteja			[sound:1000_embora.mp3]	conjunction
+eleição	election	A eleição é no próximo mês.	The election is next month.				[sound:1000_eleição.mp3]	noun
+baixo	low	O preço é baixo.	The price is low.	Feminine: baixa. Also means "short"			[sound:1000_baixo.mp3]	adjective
+sector	sector	Trabalho no sector da saúde.	I work in the health sector.	EU PT spelling. BR: setor			[sound:1000_sector.mp3]	noun
+regra	rule	A regra é simples.	The rule is simple.				[sound:1000_regra.mp3]	noun
+importância	importance	A importância da educação é grande.	The importance of education is great.				[sound:1000_importância.mp3]	noun
+constituir	to constitute	O parlamento vai constituir uma comissão.	The parliament will constitute a committee.	Formal			[sound:1000_constituir.mp3]	verb
+natural	natural	O parque natural é lindo.	The natural park is beautiful.				[sound:1000_natural.mp3]	adjective
+entrada	entry	A entrada é gratuita.	The entrance is free.	Also means "starter" (food)			[sound:1000_entrada.mp3]	noun
+funcionar	to work	O telefone não está a funcionar.	The phone is not working.	Also means "to function"			[sound:1000_funcionar.mp3]	verb
+mensagem	message	Vou enviar-te uma mensagem.	I'm going to send you a message.				[sound:1000_mensagem.mp3]	noun
+produzir	to produce	Portugal vai produzir mais energia solar.	Portugal is going to produce more solar energy.				[sound:1000_produzir.mp3]	verb
+identificar	to identify	Vou identificar o problema.	I'm going to identify the problem.				[sound:1000_identificar.mp3]	verb
+época	season	Nesta época do ano, faz calor.	At this time of year, it's hot.	Also means "era, epoch"			[sound:1000_época.mp3]	noun
+seguinte	following	O dia seguinte foi melhor.	The following day was better.				[sound:1000_seguinte.mp3]	adjective
+tecnologia	technology	A tecnologia está a mudar tudo.	Technology is changing everything.				[sound:1000_tecnologia.mp3]	noun
+Deus	God	Graças a Deus!	Thank God!				[sound:1000_Deus.mp3]	proper-noun
+corpo	body	O corpo humano é complexo.	The human body is complex.				[sound:1000_corpo.mp3]	noun
+algo	something	Quero comer algo.	I want to eat something.				[sound:1000_algo.mp3]	pronoun
+sucesso	success	O sucesso depende do esforço.	Success depends on effort.				[sound:1000_sucesso.mp3]	noun
+hospital	hospital	O hospital fica perto daqui.	The hospital is near here.				[sound:1000_hospital.mp3]	noun
+desafio	challenge	É um grande desafio.	It is a big challenge.				[sound:1000_desafio.mp3]	noun
+apontar	to point out	Quero apontar este detalhe.	I want to point out this detail.				[sound:1000_apontar.mp3]	verb
+associação	association	A associação tem muitos membros.	The association has many members.				[sound:1000_associação.mp3]	noun
+envolver	to involve	Isto vai envolver muitas pessoas.	This will involve many people.				[sound:1000_envolver.mp3]	verb
+setor	sector	Trabalho no setor da educação.	I work in the education sector.	Modern spelling in EU PT and BR			[sound:1000_setor.mp3]	noun
+atendimento	attendance	O atendimento ao cliente é bom.	The customer service is good.	Common in BR. EU PT: atendimento			[sound:1000_atendimento.mp3]	noun
+apoiar	to support	Vou apoiar o teu projeto.	I'm going to support your project.				[sound:1000_apoiar.mp3]	verb
+autoridade	authority	A autoridade tomou uma decisão.	The authority made a decision.				[sound:1000_autoridade.mp3]	noun
+realidade	reality	A realidade é diferente.	Reality is different.				[sound:1000_realidade.mp3]	noun
+trazer	to bring	Vou trazer o jantar.	I'm going to bring dinner.	Irregular: trago, trazes, traz			[sound:1000_trazer.mp3]	verb
+fechar	to close	Vou fechar a porta.	I'm going to close the door.				[sound:1000_fechar.mp3]	verb
+encontro	meeting	O encontro é no café.	The meeting is at the café.	Less formal than reunião			[sound:1000_encontro.mp3]	noun
+preciso	accurate	É preciso ser preciso.	It's necessary to be precise.	Also adjective meaning "necessary": é preciso			[sound:1000_preciso.mp3]	adjective
+falta	lack	Há falta de água.	There is a lack of water.	fazer falta = to be missed/needed			[sound:1000_falta.mp3]	noun
+sofrer	to suffer	Ele vai sofrer com o calor.	He will suffer from the heat.				[sound:1000_sofrer.mp3]	verb
+assumir	to assume	Vou assumir a responsabilidade.	I'm going to assume the responsibility.	Also means "to take on"			[sound:1000_assumir.mp3]	verb
+policial	the police	O agente policial está ali.	The police officer is over there.	EU PT uses polícia more often			[sound:1000_policial.mp3]	adjective
+transporte	transport	O transporte público é bom.	Public transport is good.				[sound:1000_transporte.mp3]	noun
+escolher	to choose	Tens de escolher uma opção.	You have to choose an option.				[sound:1000_escolher.mp3]	verb
+elevar	to raise	O nível da água vai elevar-se.	The water level will rise.	Formal. Less formal: subir			[sound:1000_elevar.mp3]	verb
+campo	field	O campo é muito verde.	The countryside is very green.	Also means "field" (sports)			[sound:1000_campo.mp3]	noun
+fonte	source	A fonte de água é pura.	The water source is pure.	Also means "fountain"			[sound:1000_fonte.mp3]	noun
+organizar	to organize	Vou organizar uma festa.	I'm going to organize a party.				[sound:1000_organizar.mp3]	verb
+avaliação	evaluation	A avaliação do professor foi justa.	The teacher's evaluation was fair.				[sound:1000_avaliação.mp3]	noun
+logo	soon	Ele vai chegar logo.	He will arrive soon.	Also means "therefore" (formal)			[sound:1000_logo.mp3]	adverb
+cumprir	to fulfill	Tens de cumprir as regras.	You have to follow the rules.	Also means "to carry out"			[sound:1000_cumprir.mp3]	verb
+escrever	to write	Gosto de escrever cartas.	I like writing letters.	Irregular: escrevo, escreves			[sound:1000_escrever.mp3]	verb
+vista	view	A vista da janela é bonita.	The view from the window is beautiful.	Also: até à vista (see you later)			[sound:1000_vista.mp3]	noun
+porta	door	A porta está aberta.	The door is open.				[sound:1000_porta.mp3]	noun
+partido	party	Ele é do mesmo partido.	He is from the same party.	Political party			[sound:1000_partido.mp3]	noun
+instalação	installation	A instalação do programa é fácil.	The installation of the program is easy.				[sound:1000_instalação.mp3]	noun
+crescer	to grow up	As crianças vão crescer depressa.	The children will grow up quickly.	Irregular: cresço, cresces			[sound:1000_crescer.mp3]	verb
+referência	reference	Aqui está a referência.	Here is the reference.				[sound:1000_referência.mp3]	noun
+estratégia	strategy	Qual é a tua estratégia?	What is your strategy?				[sound:1000_estratégia.mp3]	noun
+entregar	to deliver	Vou entregar a encomenda.	I'm going to deliver the package.				[sound:1000_entregar.mp3]	verb
+título	title	Qual é o título do livro?	What is the title of the book?				[sound:1000_título.mp3]	noun
+registar	to register	Vou registar o meu nome.	I'm going to register my name.	EU PT spelling. BR: registrar			[sound:1000_registar.mp3]	verb
+termo	term	Este é um termo técnico.	This is a technical term.				[sound:1000_termo.mp3]	noun
+visita	visit	A visita ao museu foi interessante.	The visit to the museum was interesting.				[sound:1000_visita.mp3]	noun
+nota	note	Vou tomar nota disso.	I'm going to take note of that.	Also means "grade" (school)			[sound:1000_nota.mp3]	noun
+responsabilidade	responsibility	A responsabilidade é grande.	The responsibility is great.				[sound:1000_responsabilidade.mp3]	noun
+aplicar	to apply	Vou aplicar esta regra.	I'm going to apply this rule.				[sound:1000_aplicar.mp3]	verb
+estrutura	structure	A estrutura do edifício é forte.	The structure of the building is strong.				[sound:1000_estrutura.mp3]	noun
+comercial	commercial	O centro comercial é grande.	The shopping center is big.				[sound:1000_comercial.mp3]	adjective
+contexto	context	Neste contexto, faz sentido.	In this context, it makes sense.				[sound:1000_contexto.mp3]	noun
+prémio	prize	Ele ganhou o prémio.	He won the prize.	EU PT spelling. BR: prêmio			[sound:1000_prémio.mp3]	noun
+disponibilizar	make available	Vou disponibilizar a informação.	I'm going to make the information available.	Formal			[sound:1000_disponibilizar.mp3]	verb
+vídeo	video	Vou ver o vídeo.	I'm going to watch the video.				[sound:1000_vídeo.mp3]	noun
+apresentação	presentation	A apresentação foi muito boa.	The presentation was very good.				[sound:1000_apresentação.mp3]	noun
+deputado	deputy	O deputado fez um discurso.	The deputy made a speech.	Member of parliament			[sound:1000_deputado.mp3]	noun
+sim	yes	Sim, eu quero ir.	Yes, I want to go.				[sound:1000_sim.mp3]	adverb
+oficial	official	O documento oficial está pronto.	The official document is ready.				[sound:1000_oficial.mp3]	adjective
+morrer	to die	Não quero morrer!	I don't want to die!				[sound:1000_morrer.mp3]	verb
+verdade	truth	A verdade é simples.	The truth is simple.				[sound:1000_verdade.mp3]	noun
+servir	to serve	Este café serve bolo.	This café serves cake.	Irregular: sirvo, serves, serve			[sound:1000_servir.mp3]	verb
+atenção	attention	Atenção, por favor!	Attention, please!	prestar atenção = to pay attention			[sound:1000_atenção.mp3]	noun
+fácil	easy	O exercício é fácil.	The exercise is easy.				[sound:1000_fácil.mp3]	adjective
+simples	simple	É uma solução simples.	It is a simple solution.	Invariable: same form masc/fem			[sound:1000_simples.mp3]	adjective
+voto	vote	O voto é secreto.	The vote is secret.				[sound:1000_voto.mp3]	noun
+diferentes	different	As respostas são diferentes.	The answers are different.	Plural of diferente			[sound:1000_diferentes.mp3]	adjective
+material	material	O material é de boa qualidade.	The material is of good quality.				[sound:1000_material.mp3]	noun
+Santa	Saint	A festa é em Santa Maria.	The party is in Santa Maria.	Common in place names			[sound:1000_Santa.mp3]	proper-noun
+edifício	building	O edifício é muito alto.	The building is very tall.				[sound:1000_edifício.mp3]	noun
+território	territory	O território é muito grande.	The territory is very large.				[sound:1000_território.mp3]	noun
+música	music	Gosto de ouvir música.	I like listening to music.				[sound:1000_música.mp3]	noun
+terminar	to finish	O curso vai terminar em junho.	The course will finish in June.				[sound:1000_terminar.mp3]	verb
+estudante	student	A estudante é muito inteligente.	The student is very intelligent.	Gender-neutral, unlike aluno/aluna			[sound:1000_estudante.mp3]	noun
+compra	purchase	A compra foi online.	The purchase was online.				[sound:1000_compra.mp3]	noun
+entender	to understand	Não consigo entender isto.	I can't understand this.	Similar to compreender			[sound:1000_entender.mp3]	verb
+viagem	travel	A viagem a Lisboa foi boa.	The trip to Lisbon was good.	Plural: viagens			[sound:1000_viagem.mp3]	noun
+vírus	virus	O vírus espalhou-se rapidamente.	The virus spread quickly.				[sound:1000_vírus.mp3]	noun
+fundamental	fundamental	A educação é fundamental.	Education is fundamental.				[sound:1000_fundamental.mp3]	adjective
+particular	private	É um caso particular.	It is a particular case.	Also means "private"			[sound:1000_particular.mp3]	adjective
+estabelecer	to establish	Vou estabelecer novas regras.	I'm going to establish new rules.				[sound:1000_estabelecer.mp3]	verb
+privado	private	O hospital privado é caro.	The private hospital is expensive.	Feminine: privada			[sound:1000_privado.mp3]	adjective
+Coimbra	Coimbra	Coimbra é uma cidade universitária.	Coimbra is a university city.	Famous for its historic university			[sound:1000_Coimbra.mp3]	proper-noun
+atual	current	A situação atual é difícil.	The current situation is difficult.	Modern spelling in EU PT and BR			[sound:1000_atual.mp3]	adjective
+bastante	enough	Tenho bastante comida.	I have enough food.	Also means "quite a lot"			[sound:1000_bastante.mp3]	adverb
+emprego	job	Ele encontrou um novo emprego.	He found a new job.				[sound:1000_emprego.mp3]	noun
+ligar	to call	Vou ligar-te mais tarde.	I'm going to call you later.	Also means "to turn on, to connect"			[sound:1000_ligar.mp3]	verb
+cidadão	citizen	Todo o cidadão tem direitos.	Every citizen has rights.	Feminine: cidadã			[sound:1000_cidadão.mp3]	noun
+registo	registration	O registo está completo.	The registration is complete.	EU PT spelling. BR: registro			[sound:1000_registo.mp3]	noun
+municipal	municipal	A biblioteca municipal é boa.	The municipal library is good.				[sound:1000_municipal.mp3]	adjective
+plataforma	platform	A plataforma online é útil.	The online platform is useful.				[sound:1000_plataforma.mp3]	noun
+impacto	impact	O impacto foi enorme.	The impact was huge.				[sound:1000_impacto.mp3]	noun
+interior	interior	O interior do país é bonito.	The interior of the country is beautiful.				[sound:1000_interior.mp3]	noun
+gerar	to generate	A empresa vai gerar novos empregos.	The company will generate new jobs.				[sound:1000_gerar.mp3]	verb
+cuidado	caution	Cuidado com o cão!	Watch out for the dog!	Also means "care": ter cuidado			[sound:1000_cuidado.mp3]	noun
+oferta	offer	A oferta é boa.	The offer is good.				[sound:1000_oferta.mp3]	noun
+médio	medium	O salário médio é baixo.	The average salary is low.	Feminine: média			[sound:1000_médio.mp3]	adjective
+preparar	to prepare	Vou preparar o jantar.	I'm going to prepare dinner.				[sound:1000_preparar.mp3]	verb
+essencial	essential	A água é essencial para a vida.	Water is essential for life.				[sound:1000_essencial.mp3]	adjective
+contacto	contact	Aqui está o meu contacto.	Here is my contact.	EU PT spelling. BR: contato			[sound:1000_contacto.mp3]	noun
+posição	position	Qual é a tua posição?	What is your position?				[sound:1000_posição.mp3]	noun
+carro	car	O meu carro é azul.	My car is blue.				[sound:1000_carro.mp3]	noun
+reconhecer	to recognize	Vou reconhecer o meu erro.	I'm going to recognize my mistake.	Irregular like conhecer			[sound:1000_reconhecer.mp3]	verb
+movimento	movement	O movimento foi rápido.	The movement was fast.				[sound:1000_movimento.mp3]	noun
+ouvir	to hear	Gosto de ouvir música.	I like listening to music.	Irregular: ouço, ouves, ouve			[sound:1000_ouvir.mp3]	verb
+educação	education	A educação é uma prioridade.	Education is a priority.				[sound:1000_educação.mp3]	noun
+global	global	A economia global está a mudar.	The global economy is changing.				[sound:1000_global.mp3]	adjective
+redução	reduction	Houve uma redução de preço.	There was a price reduction.				[sound:1000_redução.mp3]	noun
+olhar	to look	Vou olhar pela janela.	I'm going to look out the window.	Also noun: o olhar (the gaze)			[sound:1000_olhar.mp3]	verb
+dúvida	doubt	Sem dúvida, tens razão.	Without a doubt, you are right.				[sound:1000_dúvida.mp3]	noun
+seguro	safe	Sinto-me seguro aqui.	I feel safe here.	Also noun: o seguro (insurance)			[sound:1000_seguro.mp3]	adjective
+comum	common	É um problema comum.	It is a common problem.	Invariable: same form masc/fem			[sound:1000_comum.mp3]	adjective
+vencer	to win	A equipa vai vencer o jogo.	The team is going to win the game.	More formal than ganhar			[sound:1000_vencer.mp3]	verb
+idade	age	Qual é a tua idade?	What is your age?				[sound:1000_idade.mp3]	noun
+isolamento	isolation	O isolamento é difícil.	Isolation is difficult.				[sound:1000_isolamento.mp3]	noun
+cultura	culture	A cultura portuguesa é rica.	Portuguese culture is rich.				[sound:1000_cultura.mp3]	noun
+possuir	to possess	Ele vai possuir a casa.	He will own the house.	Formal. Less formal: ter			[sound:1000_possuir.mp3]	verb
+militar	military	A base militar é grande.	The military base is big.	Also noun: o militar (soldier)			[sound:1000_militar.mp3]	adjective
+parceria	partnership	A parceria foi um sucesso.	The partnership was a success.				[sound:1000_parceria.mp3]	noun
+agosto	August	Agosto é um mês quente.	August is a hot month.				[sound:1000_agosto.mp3]	noun
+banco	bank	Vou ao banco levantar dinheiro.	I'm going to the bank to withdraw money.	Also means "bench"			[sound:1000_banco.mp3]	noun
+pesquisa	research	A pesquisa é muito interessante.	The research is very interesting.				[sound:1000_pesquisa.mp3]	noun
+órgão	organ	O órgão de comunicação social.	The media outlet.	Also means "organ" (body)			[sound:1000_órgão.mp3]	noun
+causar	to cause	A poluição vai causar problemas.	Pollution will cause problems.				[sound:1000_causar.mp3]	verb
+fevereiro	February	Fevereiro é um mês curto.	February is a short month.				[sound:1000_fevereiro.mp3]	noun
+manhã	morning	Bom dia! Como estás?	Good morning! How are you?	EU PT more often: bom dia			[sound:1000_manhã.mp3]	noun
+reforçar	to reinforce	Vou reforçar a segurança.	I'm going to reinforce the security.				[sound:1000_reforçar.mp3]	verb
+ligação	link	A ligação à internet é boa.	The internet connection is good.	Also means "link, bond"			[sound:1000_ligação.mp3]	noun
+líder	leader	Ele é o líder da equipa.	He is the team leader.				[sound:1000_líder.mp3]	noun
+lembrar	to remember	Não me consigo lembrar do nome.	I can't remember the name.	lembrar-se de = to remember			[sound:1000_lembrar.mp3]	verb
+prestar	give	Vou prestar atenção.	I'm going to pay attention.	prestar atenção = to pay attention			[sound:1000_prestar.mp3]	verb
+exposição	exhibition	A exposição no museu é boa.	The exhibition at the museum is good.				[sound:1000_exposição.mp3]	noun
+ninguém	nobody	Não há ninguém em casa.	There is nobody at home.	Double negative required: não...ninguém			[sound:1000_ninguém.mp3]	pronoun
+consumo	consumption	O consumo de água aumentou.	Water consumption increased.				[sound:1000_consumo.mp3]	noun
+avaliar	to evaluate	Vou avaliar a situação.	I'm going to evaluate the situation.				[sound:1000_avaliar.mp3]	verb
+científico	scientific	O estudo científico é importante.	The scientific study is important.	Feminine: científica			[sound:1000_científico.mp3]	adjective
+rápido	fast	O comboio é rápido.	The train is fast.	EU PT: comboio. BR: trem			[sound:1000_rápido.mp3]	adjective
+lista	list	Aqui está a lista de compras.	Here is the shopping list.				[sound:1000_lista.mp3]	noun
+estrangeiro	foreign	O passaporte estrangeiro é diferente.	The foreign passport is different.	Feminine: estrangeira			[sound:1000_estrangeiro.mp3]	adjective
+bairro	neighborhood	Moro neste bairro.	I live in this neighborhood.				[sound:1000_bairro.mp3]	noun
+cair	to fall	O copo vai cair!	The glass is going to fall!	Irregular: caio, cais, cai			[sound:1000_cair.mp3]	verb
+sobretudo	above all	Ele gosta sobretudo de café.	He likes above all coffee.	Also a noun: o sobretudo (overcoat)			[sound:1000_sobretudo.mp3]	adverb
+histórico	historical	O centro histórico é bonito.	The historic center is beautiful.	Feminine: histórica			[sound:1000_histórico.mp3]	adjective
+terra	land	A terra é fértil.	The land is fertile.	Also means "earth, ground"			[sound:1000_terra.mp3]	noun
+controlo	control	O controlo da qualidade é rigoroso.	Quality control is rigorous.	EU PT spelling. BR: controle			[sound:1000_controlo.mp3]	noun
+ontem	yesterday	Ontem fui ao cinema.	Yesterday I went to the cinema.				[sound:1000_ontem.mp3]	adverb
+futebol	football	Gosto de ver futebol.	I like watching football.				[sound:1000_futebol.mp3]	noun
+digital	digital	O mundo digital está a crescer.	The digital world is growing.				[sound:1000_digital.mp3]	adjective
+real	real	O preço real é mais baixo.	The real price is lower.	Also noun: o real (Brazilian currency)			[sound:1000_real.mp3]	adjective
+cargo	office	Ele tem um cargo importante.	He has an important position.				[sound:1000_cargo.mp3]	noun
+melhorar	to improve	Quero melhorar o meu português.	I want to improve my Portuguese.				[sound:1000_melhorar.mp3]	verb
+atender	to answer	Vou atender o telefone.	I'm going to answer the phone.	EU PT: atender (phone). BR: also "to serve"			[sound:1000_atender.mp3]	verb
+avançar	to advance	Vamos avançar com o plano.	Let's go ahead with the plan.				[sound:1000_avançar.mp3]	verb
+defesa	defence	A defesa da equipa é forte.	The team's defense is strong.				[sound:1000_defesa.mp3]	noun
+específico	specific	Este caso é muito específico.	This case is very specific.	Feminine: específica			[sound:1000_específico.mp3]	adjective
+físico	physical	O exercício físico é importante.	Physical exercise is important.	Feminine: física			[sound:1000_físico.mp3]	adjective
+mãe	mother	A minha mãe cozinha muito bem.	My mother cooks very well.	Plural: mães			[sound:1000_mãe.mp3]	noun
+suspeito	suspect	A polícia tem um suspeito.	The police have a suspect.	Also adjective: comportamento suspeito			[sound:1000_suspeito.mp3]	noun
+acrescentar	add	Vou acrescentar mais sal.	I'm going to add more salt.				[sound:1000_acrescentar.mp3]	verb
+recente	recent	A notícia é recente.	The news is recent.				[sound:1000_recente.mp3]	adjective
+realização	realization	A realização do evento foi boa.	The execution of the event was good.	Also means "achievement"			[sound:1000_realização.mp3]	noun
+porém	but	É difícil, porém é possível.	It is difficult, but it is possible.	More formal than mas			[sound:1000_porém.mp3]	conjunction
+termos	terms	Em termos gerais, está bom.	In general terms, it's good.	Plural of termo			[sound:1000_termos.mp3]	noun
+origem	origin	Qual é a origem desta palavra?	What is the origin of this word?				[sound:1000_origem.mp3]	noun
+cultural	cultural	O evento cultural é gratuito.	The cultural event is free.				[sound:1000_cultural.mp3]	adjective
+respeito	respect	Tenho muito respeito por ele.	I have great respect for him.				[sound:1000_respeito.mp3]	noun
+contudo	however	Está a chover; contudo, vou sair.	It's raining; however, I'm going out.	Formal. Similar to no entanto			[sound:1000_contudo.mp3]	conjunction
+analisar	to analyze	Vou analisar os dados.	I'm going to analyze the data.				[sound:1000_analisar.mp3]	verb
+autor	author	Quem é o autor deste livro?	Who is the author of this book?	Feminine: autora			[sound:1000_autor.mp3]	noun
+familiar	familiar	O rosto é familiar.	The face is familiar.	Also noun: o familiar (relative)			[sound:1000_familiar.mp3]	adjective
+arte	art	Gosto muito de arte.	I like art very much.				[sound:1000_arte.mp3]	noun
+exigir	to require	Este trabalho vai exigir esforço.	This work will require effort.				[sound:1000_exigir.mp3]	verb
+leitura	reading	A leitura é o meu passatempo.	Reading is my hobby.				[sound:1000_leitura.mp3]	noun
+face	face	Está na face norte do edifício.	It's on the north face of the building.	Also: em face de (in view of)			[sound:1000_face.mp3]	noun
+regime	regime	O regime alimentar é importante.	The diet is important.	Also means "regime, system"			[sound:1000_regime.mp3]	noun
+maneira	manner	Desta maneira, é mais fácil.	This way, it is easier.	Similar to: desta forma			[sound:1000_maneira.mp3]	noun
+princípio	principle	No princípio, foi difícil.	In the beginning, it was difficult.	Also means "principle"			[sound:1000_princípio.mp3]	noun
+ordem	order	Está tudo em ordem.	Everything is in order.	Also means "command"			[sound:1000_ordem.mp3]	noun
+entrevista	interview	A entrevista é amanhã.	The interview is tomorrow.				[sound:1000_entrevista.mp3]	noun
+construir	build	Vou construir uma casa.	I'm going to build a house.				[sound:1000_construir.mp3]	verb
+assegurar	to ensure	Vou assegurar que tudo corre bem.	I'm going to ensure everything goes well.	Formal			[sound:1000_assegurar.mp3]	verb
+filme	movie	O filme foi muito bom.	The movie was very good.				[sound:1000_filme.mp3]	noun
+quarto	bedroom	O quarto tem uma cama grande.	The bedroom has a big bed.	Also numeral: quarto (fourth)			[sound:1000_quarto.mp3]	noun
+vitória	victory	A vitória foi merecida.	The victory was deserved.				[sound:1000_vitória.mp3]	noun
+jogar	to play	Gosto de jogar futebol.	I like playing football.	jogar = to play (games/sports)			[sound:1000_jogar.mp3]	verb
+versão	version	Esta é a nova versão do livro.	This is the new version of the book.				[sound:1000_versão.mp3]	noun
+nomeadamente	namely	Há muitas cidades, nomeadamente Lisboa.	There are many cities, namely Lisbon.	Formal			[sound:1000_nomeadamente.mp3]	adverb
+igualmente	equally	A lei aplica-se igualmente a todos.	The law applies equally to everyone.				[sound:1000_igualmente.mp3]	adverb
+aparecer	to appear	O sol vai aparecer amanhã.	The sun will appear tomorrow.				[sound:1000_aparecer.mp3]	verb
+parceiro	partner	Ele é o meu parceiro de negócio.	He is my business partner.	Feminine: parceira			[sound:1000_parceiro.mp3]	noun
+comprar	to buy	Vou comprar pão.	I'm going to buy bread.				[sound:1000_comprar.mp3]	verb
+cor	color	Qual é a tua cor favorita?	What is your favorite color?	Plural: cores			[sound:1000_cor.mp3]	noun
+concluir	to conclude	Vou concluir o trabalho hoje.	I'm going to finish the work today.	Formal alternative to acabar			[sound:1000_concluir.mp3]	verb
+concurso	competition	O concurso é na próxima semana.	The competition is next week.				[sound:1000_concurso.mp3]	noun
+partida	departure	A hora de partida é às oito.	The departure time is at eight.	Also means "match" (sports)			[sound:1000_partida.mp3]	noun
+via	way	Vou por esta via.	I go along this way.	Also preposition: via aérea (by air)			[sound:1000_via.mp3]	noun
+competência	competence	Ele tem muita competência.	He has great competence.				[sound:1000_competência.mp3]	noun
+acima	above	O preço está acima da média.	The price is above average.				[sound:1000_acima.mp3]	adverb
+animal	animal	Gosto de animais.	I like animals.	Plural: animais			[sound:1000_animal.mp3]	noun
+grave	serious	A situação é grave.	The situation is serious.				[sound:1000_grave.mp3]	adjective
+crédito	credit	Preciso de crédito no telemóvel.	I need credit on my phone.				[sound:1000_crédito.mp3]	noun
+ao	to	Vou ao cinema.	I'm going to the cinema.	Contraction of a + o			[sound:1000_ao.mp3]	preposition
+secretário	secretary	O secretário marcou a reunião.	The secretary scheduled the meeting.	Feminine: secretária			[sound:1000_secretário.mp3]	noun
+quadro	painting	Há um quadro bonito na parede.	There is a beautiful painting on the wall.	Also means "board, framework"			[sound:1000_quadro.mp3]	noun
+vender	to sell	Quero vender o meu carro.	I want to sell my car.				[sound:1000_vender.mp3]	verb
+perceber	to notice	Agora percebo o que dizes.	Now I understand what you're saying.	EU PT: understand. BR: notice			[sound:1000_perceber.mp3]	verb
+exercício	exercise	Vou fazer exercício de manhã.	I'm going to exercise in the morning.				[sound:1000_exercício.mp3]	noun
+diverso	diverse	O grupo é muito diverso.	The group is very diverse.	Feminine: diversa			[sound:1000_diverso.mp3]	adjective
+livre	free	A entrada é livre.	The entrance is free.	Also means "free" (not occupied)			[sound:1000_livre.mp3]	adjective
+procedimento	procedure	Qual é o procedimento?	What is the procedure?				[sound:1000_procedimento.mp3]	noun
+notícia	news	A notícia é muito importante.	The news is very important.	Plural: notícias			[sound:1000_notícia.mp3]	noun
+federal	federal	O governo federal é forte.	The federal government is strong.	More common in BR context			[sound:1000_federal.mp3]	adjective
+especialista	specialist	O especialista vai chegar amanhã.	The specialist will arrive tomorrow.				[sound:1000_especialista.mp3]	noun
+dedicar	to dedicate	Vou dedicar mais tempo ao estudo.	I'm going to dedicate more time to study.	dedicar-se a = to dedicate oneself to			[sound:1000_dedicar.mp3]	verb
+atuar	to act	A empresa vai atuar no mercado.	The company will act in the market.				[sound:1000_atuar.mp3]	verb
+assunto	subject	Qual é o assunto da reunião?	What is the subject of the meeting?				[sound:1000_assunto.mp3]	noun
+vacina	vaccine	A vacina é segura.	The vaccine is safe.				[sound:1000_vacina.mp3]	noun
+queda	a fall	Houve uma queda de preços.	There was a drop in prices.				[sound:1000_queda.mp3]	noun
+dimensão	dimension	A dimensão do problema é grande.	The dimension of the problem is large.				[sound:1000_dimensão.mp3]	noun
+ciclo	cycle	O ciclo vai recomeçar.	The cycle will start again.				[sound:1000_ciclo.mp3]	noun
+online	online	A loja online tem bons preços.	The online store has good prices.	Borrowed from English			[sound:1000_online.mp3]	adjective
+freguesia	parish	A minha freguesia é pequena.	My parish is small.	EU PT administrative division			[sound:1000_freguesia.mp3]	noun
+andar	to walk	Vou andar até ao parque.	I'm going to walk to the park.	Also means "floor": primeiro andar			[sound:1000_andar.mp3]	verb
+participante	participant	Sou participante no curso.	I am a participant in the course.				[sound:1000_participante.mp3]	noun
+relacionar	to relate	É difícil relacionar estes factos.	It's hard to relate these facts.	relacionar-se com = to relate to			[sound:1000_relacionar.mp3]	verb
+funcionamento	functioning	O funcionamento é simples.	The functioning is simple.				[sound:1000_funcionamento.mp3]	noun
+doente	sick	O meu avô está doente.	My grandfather is sick.	Also noun: o doente (patient)			[sound:1000_doente.mp3]	adjective
+funcionário	employee	O funcionário está no escritório.	The employee is in the office.	Feminine: funcionária			[sound:1000_funcionário.mp3]	noun
+administração	administration	A administração é competente.	The administration is competent.				[sound:1000_administração.mp3]	noun
+ferramenta	tool	Esta ferramenta é muito útil.	This tool is very useful.				[sound:1000_ferramenta.mp3]	noun
+sala	living room	A sala é grande e clara.	The living room is big and bright.	Also: sala de aula (classroom)			[sound:1000_sala.mp3]	noun
+espécie	species	Esta espécie é rara.	This species is rare.				[sound:1000_espécie.mp3]	noun
+ajuda	help	Preciso de ajuda, por favor.	I need help, please.				[sound:1000_ajuda.mp3]	noun
+esforço	effort	O esforço vale a pena.	The effort is worth it.				[sound:1000_esforço.mp3]	noun
+resolver	to solve	Vou resolver o problema.	I'm going to solve the problem.				[sound:1000_resolver.mp3]	verb
+receita	recipe	Qual é a receita deste bolo?	What is the recipe for this cake?	Also means "revenue, income"			[sound:1000_receita.mp3]	noun
+passo	step	O primeiro passo é importante.	The first step is important.	Also verb: eu passo (I pass)			[sound:1000_passo.mp3]	noun
+povo	people	O povo português é simpático.	The Portuguese people are friendly.				[sound:1000_povo.mp3]	noun
+percurso	route	O percurso é longo.	The route is long.				[sound:1000_percurso.mp3]	noun
+agência	agency	A agência fica nesta rua.	The agency is on this street.				[sound:1000_agência.mp3]	noun
+costa	coast	A costa portuguesa é bonita.	The Portuguese coast is beautiful.				[sound:1000_Costa.mp3]	noun
+candidatura	candidacy	Vou enviar a minha candidatura.	I'm going to send my application.				[sound:1000_candidatura.mp3]	noun
+capaz	capable	Ele é capaz de fazer isso.	He is capable of doing that.	capaz de = capable of			[sound:1000_capaz.mp3]	adjective
+correr	to run	Gosto de correr de manhã.	I like running in the morning.				[sound:1000_correr.mp3]	verb
+contrário	contrary	Pelo contrário, gosto muito.	On the contrary, I like it a lot.				[sound:1000_contrário.mp3]	adjective
+agente	agent	O agente de viagens ajudou-me.	The travel agent helped me.				[sound:1000_agente.mp3]	noun
+relatório	report	O relatório está completo.	The report is complete.				[sound:1000_relatório.mp3]	noun
+significar	to mean	O que significa esta palavra?	What does this word mean?				[sound:1000_significar.mp3]	verb
+ler	to read	Gosto de ler antes de dormir.	I like reading before going to sleep.	Irregular: leio, lês, lê, lemos, leem			[sound:1000_ler.mp3]	verb
+combate	combat	O combate à pobreza é importante.	The fight against poverty is important.	Also verb: combater			[sound:1000_combate.mp3]	noun
+polícia	police	A polícia chegou rapidamente.	The police arrived quickly.	Also: o polícia (the police officer)			[sound:1000_polícia.mp3]	noun
+aí	there	O supermercado é ali, aí perto.	The supermarket is over there, nearby.	Less specific than ali or aqui			[sound:1000_aí.mp3]	adverb
+mundial	worldwide	O campeonato mundial é em junho.	The world championship is in June.				[sound:1000_mundial.mp3]	adjective
+sinal	signal	O sinal de trânsito é vermelho.	The traffic sign is red.	Also means "signal"			[sound:1000_sinal.mp3]	noun
+visitar	to visit	Quero visitar o museu.	I want to visit the museum.				[sound:1000_visitar.mp3]	verb
+conforme	according	Conforme o plano, vamos às dez.	According to the plan, we go at ten.	Also conjunction: as, in accordance with			[sound:1000_conforme.mp3]	preposition
+evolução	evolution	A evolução foi positiva.	The evolution was positive.				[sound:1000_evolução.mp3]	noun
+perto	close	A escola fica perto de casa.	The school is close to home.	Also adverb: aqui perto (nearby)			[sound:1000_perto.mp3]	adverb
+excelente	excellent	O resultado foi excelente.	The result was excellent.				[sound:1000_excelente.mp3]	adjective
+sete	seven	Tenho sete livros novos.	I have seven new books.				[sound:1000_sete.mp3]	numeral
+máscara	mask	Preciso de uma máscara.	I need a mask.				[sound:1000_máscara.mp3]	noun
+nascer	to be born	Onde é que nasceste?	Where were you born?	Also means "to be born"			[sound:1000_nascer.mp3]	verb
+declaração	declaration	A declaração foi clara.	The declaration was clear.				[sound:1000_declaração.mp3]	noun
+destinar	to destine	O dinheiro vai destinar-se à caridade.	The money will be destined for charity.	Formal			[sound:1000_destinar.mp3]	verb
+câmara	chamber	A câmara de vídeo é nova.	The video camera is new.	Also: câmara municipal (city hall)			[sound:1000_câmara.mp3]	noun
+enfrentar	to face	Vou enfrentar o problema.	I'm going to face the problem.				[sound:1000_enfrentar.mp3]	verb
+ocupar	to occupy	Ele vai ocupar o escritório.	He is going to occupy the office.				[sound:1000_ocupar.mp3]	verb
+reunir	to gather	Vamos reunir a equipa.	Let's gather the team.	reunir-se = to get together			[sound:1000_reunir.mp3]	verb
+formar	to form	Vou formar um grupo de estudo.	I'm going to form a study group.	formar-se = to graduate			[sound:1000_formar.mp3]	verb
+dez	ten	Conto até dez.	I count to ten.				[sound:1000_dez.mp3]	numeral
+valer	worth	A tua opinião vale muito.	Your opinion is worth a lot.	Irregular: valho, vales, vale			[sound:1000_valer.mp3]	verb
+óbito	a death	O número de óbitos diminuiu.	The number of deaths decreased.	Formal word for "death"			[sound:1000_óbito.mp3]	noun
+cenário	scenario	O cenário é muito bonito.	The scenery is very beautiful.	Also means "scenario"			[sound:1000_cenário.mp3]	noun
+descobrir	to discover	Vou descobrir a verdade.	I'm going to discover the truth.				[sound:1000_descobrir.mp3]	verb
+diferença	difference	Qual é a diferença entre os dois?	What is the difference between the two?				[sound:1000_diferença.mp3]	noun
+buscar	fetch	Vou buscar o meu casaco.	I'm going to fetch my coat.	EU PT: ir buscar = to go get			[sound:1000_buscar.mp3]	verb
+executivo	executive	O diretor executivo está aqui.	The executive director is here.	Also noun: o executivo			[sound:1000_executivo.mp3]	adjective
+vaga	vacancy	Há uma vaga disponível.	There is a vacancy available.	Also adjective: uma ideia vaga			[sound:1000_vaga.mp3]	noun
+opinião	opinion	Qual é a tua opinião?	What is your opinion?				[sound:1000_opinião.mp3]	noun
+verificar	check	Vou verificar a informação.	I'm going to check the information.				[sound:1000_verificar.mp3]	verb
+justiça	justice	A justiça vai prevalecer.	Justice will prevail.				[sound:1000_justiça.mp3]	noun
+alguém	someone	Alguém está à porta.	Someone is at the door.				[sound:1000_alguém.mp3]	pronoun
+natureza	nature	A natureza é bonita.	Nature is beautiful.				[sound:1000_natureza.mp3]	noun
+relativo	relative	O preço é relativo.	The price is relative.				[sound:1000_relativo.mp3]	adjective
+solicitar	to request	Vou solicitar uma reunião.	I'm going to request a meeting.	Formal. Less formal: pedir			[sound:1000_solicitar.mp3]	verb
+provocar	provoke	Não quero provocar problemas.	I don't want to cause problems.				[sound:1000_provocar.mp3]	verb
+China	China	A China é um país grande.	China is a big country.				[sound:1000_China.mp3]	proper-noun
+aula	class	A aula começa às nove.	The class starts at nine.	EU PT: aula. Also means "lesson"			[sound:1000_aula.mp3]	noun
+visar	to aim	Esta lei visa proteger as crianças.	This law aims to protect children.	Formal			[sound:1000_visar.mp3]	verb
+aceitar	to accept	Vou aceitar o convite.	I'm going to accept the invitation.				[sound:1000_aceitar.mp3]	verb
+ambos	both	Ambos os livros são bons.	Both books are good.	Feminine: ambas			[sound:1000_ambos.mp3]	determiner
+limite	limit	Qual é o limite de velocidade?	What is the speed limit?				[sound:1000_limite.mp3]	noun
+recuperar	to recover	Ele vai recuperar em breve.	He will recover soon.				[sound:1000_recuperar.mp3]	verb
+vigor	vigor	A lei entra em vigor amanhã.	The law comes into force tomorrow.	entrar em vigor = to come into effect			[sound:1000_vigor.mp3]	noun
+subir	go up	Vou subir as escadas.	I'm going to go up the stairs.				[sound:1000_subir.mp3]	verb
+aproveitar	enjoy	Vou aproveitar o bom tempo.	I'm going to enjoy the good weather.	Also: aproveitar a oportunidade			[sound:1000_aproveitar.mp3]	verb
+alcançar	reach	Vou alcançar o meu objetivo.	I'm going to reach my goal.				[sound:1000_alcançar.mp3]	verb
+ar	air	O ar está fresco hoje.	The air is fresh today.	ao ar livre = outdoors			[sound:1000_ar.mp3]	noun
+jornal	newspaper	Leio o jornal de manhã.	I read the newspaper in the morning.	Plural: jornais			[sound:1000_jornal.mp3]	noun
+tradicional	traditional	A comida tradicional é boa.	Traditional food is good.				[sound:1000_tradicional.mp3]	adjective
+festa	party	A festa foi muito divertida.	The party was very fun.	Also means "celebration"			[sound:1000_festa.mp3]	noun
+propor	to propose	Vou propor uma ideia.	I'm going to propose an idea.	Irregular like pôr			[sound:1000_propor.mp3]	verb
+década	decade	A última década foi difícil.	The last decade was difficult.				[sound:1000_década.mp3]	noun
+adquirir	to purchase	Quero adquirir um apartamento.	I want to purchase an apartment.	Formal. Less formal: comprar			[sound:1000_adquirir.mp3]	verb
+associar	to associate	Vou associar estas duas ideias.	I'm going to associate these two ideas.	associar-se a = to join			[sound:1000_associar.mp3]	verb
+principalmente	mainly	Gosto principalmente de café.	I mainly like coffee.				[sound:1000_principalmente.mp3]	adverb
+enorme	huge	A casa é enorme.	The house is huge.				[sound:1000_enorme.mp3]	adjective
+mal	bad	Sinto-me mal.	I feel bad.	Also adverb: mal cheguei (I barely arrived)			[sound:1000_mal.mp3]	adverb
+relativamente	relatively	O café é relativamente barato.	The coffee is relatively cheap.				[sound:1000_relativamente.mp3]	adverb
+permanecer	to stay	Vou permanecer aqui.	I'm going to stay here.	Formal. Less formal: ficar			[sound:1000_permanecer.mp3]	verb
+depender	to depend	O resultado vai depender do esforço.	The result will depend on the effort.	depender de = to depend on			[sound:1000_depender.mp3]	verb
+característica	characteristic	Qual é a característica principal?	What is the main characteristic?				[sound:1000_característica.mp3]	noun
+adotar	to adopt	Vou adotar um gato.	I'm going to adopt a cat.				[sound:1000_adotar.mp3]	verb
+matéria	matter	A matéria é muito interessante.	The subject matter is very interesting.	Also means "material, substance"			[sound:1000_matéria.mp3]	noun
+assinar	to sign	Vou assinar o contrato.	I'm going to sign the contract.				[sound:1000_assinar.mp3]	verb
+indústria	industry	A indústria está a crescer.	The industry is growing.				[sound:1000_indústria.mp3]	noun
+entrega	delivery	A entrega é amanhã.	The delivery is tomorrow.				[sound:1000_entrega.mp3]	noun
+luz	light	A luz do sol é forte.	The sunlight is strong.	Plural: luzes			[sound:1000_luz.mp3]	noun
+restante	remaining	O restante do grupo chegou.	The rest of the group arrived.				[sound:1000_restante.mp3]	adjective
+amor	love	O amor é importante.	Love is important.				[sound:1000_amor.mp3]	noun
+média	average	A temperatura média é agradável.	The average temperature is pleasant.	Also noun: os média (the media)			[sound:1000_média.mp3]	noun
+saída	exit	Onde é a saída?	Where is the exit?	saída de emergência = emergency exit			[sound:1000_saída.mp3]	noun
+Algarve	Algarve	O Algarve é muito turístico.	The Algarve is very touristic.	Southern region of Portugal			[sound:1000_Algarve.mp3]	proper-noun
+loja	store	Vou à loja comprar pão.	I'm going to the store to buy bread.				[sound:1000_loja.mp3]	noun
+estabelecimento	establishment	O estabelecimento é novo.	The establishment is new.				[sound:1000_estabelecimento.mp3]	noun
+resultar	to result	O esforço vai resultar em sucesso.	The effort will result in success.	resultar em = to result in			[sound:1000_resultar.mp3]	verb
+respeitar	to respect	Tens de respeitar as regras.	You have to respect the rules.				[sound:1000_respeitar.mp3]	verb
+motivo	reason	Qual é o motivo da reunião?	What is the reason for the meeting?	Similar to razão			[sound:1000_motivo.mp3]	noun
+memória	memory	Ele tem boa memória.	He has a good memory.				[sound:1000_memória.mp3]	noun
+Espanha	Spain	A Espanha fica ao lado de Portugal.	Spain is next to Portugal.				[sound:1000_Espanha.mp3]	proper-noun
+escolha	choice	É uma boa escolha.	It is a good choice.				[sound:1000_escolha.mp3]	noun
+portanto	therefore	Portanto, vou ficar em casa.	Therefore, I'm going to stay home.				[sound:1000_portanto.mp3]	conjunction
+aprender	to learn	Quero aprender português.	I want to learn Portuguese.				[sound:1000_aprender.mp3]	verb
+consumidor	consumer	O consumidor tem direitos.	The consumer has rights.				[sound:1000_consumidor.mp3]	noun
+efetuar	carry out	Vou efectuar o pagamento.	I'm going to carry out the payment.	EU PT verb; modern spelling: efetuar			[sound:1000_efectuar.mp3]	verb
+central	central	A estação central é grande.	The central station is big.				[sound:1000_central.mp3]	adjective
+missão	mission	A missão é importante.	The mission is important.				[sound:1000_missão.mp3]	noun
+adequado	adequate	Este lugar é adequado.	This place is adequate.	Feminine: adequada			[sound:1000_adequado.mp3]	adjective
+oito	eight	Tenho oito livros.	I have eight books.				[sound:1000_oito.mp3]	numeral
+talvez	perhaps	Talvez eu vá amanhã.	Perhaps I will go tomorrow.	Takes subjunctive			[sound:1000_talvez.mp3]	adverb
+norma	norm	A norma é clara.	The norm is clear.				[sound:1000_norma.mp3]	noun
+promoção	promotion	Há uma promoção na loja.	There is a promotion in the store.				[sound:1000_promoção.mp3]	noun
+proteção	protection	A proteção do ambiente é essencial.	Environmental protection is essential.				[sound:1000_proteção.mp3]	noun
+orientação	orientation	A orientação do professor ajudou.	The teacher's guidance helped.				[sound:1000_orientação.mp3]	noun
+manutenção	maintenance	A manutenção do carro é cara.	The car maintenance is expensive.				[sound:1000_manutenção.mp3]	noun
+canal	channel	O canal de televisão é popular.	The TV channel is popular.				[sound:1000_canal.mp3]	noun
+compor	to compose	Vou compor uma música.	I'm going to compose a song.	Irregular like pôr			[sound:1000_compor.mp3]	verb
+alterar	to change	Vou alterar o meu plano.	I'm going to change my plan.	Similar to mudar			[sound:1000_alterar.mp3]	verb
+automóvel	automobile	O automóvel é novo.	The automobile is new.	More formal than carro			[sound:1000_automóvel.mp3]	noun
+vontade	will	Tenho vontade de viajar.	I feel like traveling.	ter vontade de = to feel like			[sound:1000_vontade.mp3]	noun
+comportamento	behavior	O comportamento foi adequado.	The behavior was adequate.				[sound:1000_comportamento.mp3]	noun
+pena	sadness	Que pena! Não posso ir.	What a shame! I can't go.	Also means "feather, penalty"			[sound:1000_pena.mp3]	noun
+mar	sea	Gosto de ver o mar.	I like looking at the sea.				[sound:1000_mar.mp3]	noun
+declarar	to declare	Vou declarar a verdade.	I'm going to declare the truth.				[sound:1000_declarar.mp3]	verb
+elas	they	Elas moram em Coimbra.	They live in Coimbra.	Feminine plural of ele			[sound:1000_elas.mp3]	pronoun
+aquilo	that	Aquilo não é importante.	That is not important.	Refers to something far from both speakers			[sound:1000_aquilo.mp3]	pronoun
+exterior	outside	O jardim exterior é bonito.	The outdoor garden is beautiful.	Also noun: o exterior (the outside)			[sound:1000_exterior.mp3]	adjective
+protocolo	protocol	O protocolo é rigoroso.	The protocol is strict.				[sound:1000_protocolo.mp3]	noun
+conselho	advice	Obrigado pelo conselho.	Thank you for the advice.	Also means "council"			[sound:1000_conselho.mp3]	noun
+comércio	trade	O comércio local é importante.	Local trade is important.				[sound:1000_comércio.mp3]	noun
+completo	complete	O curso está completo.	The course is complete.	Feminine: completa			[sound:1000_completo.mp3]	adjective
+carreira	career	Ele tem uma boa carreira.	He has a good career.				[sound:1000_carreira.mp3]	noun
+comunicar	to communicate	Vou comunicar a decisão.	I'm going to communicate the decision.				[sound:1000_comunicar.mp3]	verb
+debate	debate	O debate foi interessante.	The debate was interesting.				[sound:1000_debate.mp3]	noun
+proporcionar	to provide	Quero proporcionar uma boa experiência.	I want to provide a good experience.	Formal			[sound:1000_proporcionar.mp3]	verb
+sede	thirst	Tenho sede. Quero água.	I'm thirsty. I want water.	ter sede = to be thirsty. Also: headquarters			[sound:1000_sede.mp3]	noun
+expectativa	expectation	A expectativa é alta.	The expectation is high.				[sound:1000_expectativa.mp3]	noun
+abertura	opening	A abertura da loja é amanhã.	The store opening is tomorrow.				[sound:1000_abertura.mp3]	noun
+benefício	benefit	O benefício é grande.	The benefit is great.				[sound:1000_benefício.mp3]	noun
+despesa	expense	A despesa foi alta.	The expense was high.				[sound:1000_despesa.mp3]	noun
+interno	internal	O problema interno foi resolvido.	The internal problem was solved.	Feminine: interna			[sound:1000_interno.mp3]	adjective
+imprensa	the press	A imprensa publicou a notícia.	The press published the news.				[sound:1000_imprensa.mp3]	noun
+financiamento	financing	O financiamento foi aprovado.	The financing was approved.				[sound:1000_financiamento.mp3]	noun
+observar	to observe	Vou observar as estrelas.	I'm going to observe the stars.				[sound:1000_observar.mp3]	verb
+obrigatório	mandatory	O uso de máscara é obrigatório.	Wearing a mask is mandatory.	Feminine: obrigatória			[sound:1000_obrigatório.mp3]	adjective
+civil	civil	O registo civil fica no centro.	The civil registry is in the center.				[sound:1000_civil.mp3]	adjective
+ciência	science	A ciência é importante.	Science is important.				[sound:1000_ciência.mp3]	noun
+existente	existing	O sistema existente funciona bem.	The existing system works well.				[sound:1000_existente.mp3]	adjective
+servidor	server	O servidor está a funcionar.	The server is running.	Also means "servant, public employee"			[sound:1000_servidor.mp3]	noun
+revista	magazine	Leio uma revista todas as semanas.	I read a magazine every week.				[sound:1000_revista.mp3]	noun
+mau	bad	O tempo está mau.	The weather is bad.	Feminine: má			[sound:1000_mau.mp3]	adjective
+consequência	consequence	A consequência foi grave.	The consequence was serious.				[sound:1000_consequência.mp3]	noun
+preocupação	worry	A preocupação é grande.	The worry is great.				[sound:1000_preocupação.mp3]	noun
+atribuir	to assign	Vou atribuir a tarefa ao Pedro.	I'm going to assign the task to Pedro.				[sound:1000_atribuir.mp3]	verb
+posto	post	O posto de gasolina é ali.	The gas station is over there.	Also means "position, post"			[sound:1000_posto.mp3]	noun
+localizar	to locate	Vou localizar o restaurante no mapa.	I'm going to locate the restaurant on the map.				[sound:1000_localizar.mp3]	verb
+fornecer	to provide	A empresa vai fornecer o material.	The company will provide the material.				[sound:1000_fornecer.mp3]	verb
+branco	white	O gato branco é muito bonito.	The white cat is very beautiful.	Feminine: branca			[sound:1000_branco.mp3]	adjective
+conferência	conference	A conferência é na próxima semana.	The conference is next week.				[sound:1000_conferência.mp3]	noun
+prisão	prison	A prisão fica fora da cidade.	The prison is outside the city.				[sound:1000_prisão.mp3]	noun
+horário	time	Qual é o horário do museu?	What are the museum hours?	Also means "timetable, schedule"			[sound:1000_horário.mp3]	noun
+melhoria	improvement	Houve uma melhoria na qualidade.	There was an improvement in quality.				[sound:1000_melhoria.mp3]	noun
+advogado	lawyer	O advogado é muito competente.	The lawyer is very competent.	Feminine: advogada			[sound:1000_advogado.mp3]	noun
+tirar	take away	Vou tirar uma fotografia.	I'm going to take a photograph.	tirar fotos = to take photos			[sound:1000_tirar.mp3]	verb
+eleitoral	electoral	A campanha eleitoral começou.	The electoral campaign started.				[sound:1000_eleitoral.mp3]	adjective
+diretor	director	O diretor da escola está aqui.	The school director is here.	Feminine: diretora			[sound:1000_diretor.mp3]	noun
+empresário	businessman, entrepreneur	O empresário criou uma nova empresa.	The businessman created a new company.	Feminine: empresária			[sound:1000_empresário.mp3]	noun
+artista	artist	O artista pintou um quadro.	The artist painted a painting.				[sound:1000_artista.mp3]	noun
+luta	fight	A luta pela liberdade é importante.	The fight for freedom is important.				[sound:1000_luta.mp3]	noun
+procura	search	Estou à procura de emprego.	I am looking for a job.	à procura de = looking for			[sound:1000_procura.mp3]	noun
+atleta	athlete	O atleta treina todos os dias.	The athlete trains every day.				[sound:1000_atleta.mp3]	noun
+ativo	active	Ele é muito ativo.	He is very active.	Feminine: ativa			[sound:1000_ativo.mp3]	adjective
+liberdade	freedom	A liberdade é um direito.	Freedom is a right.				[sound:1000_liberdade.mp3]	noun
+publicação	publication	A publicação é mensal.	The publication is monthly.				[sound:1000_publicação.mp3]	noun
+conceito	concept	O conceito é simples.	The concept is simple.				[sound:1000_conceito.mp3]	noun
+individual	individual	Cada pessoa é individual.	Each person is an individual.	Also adjective: trabalho individual			[sound:1000_individual.mp3]	adjective
+confiança	confidence	A confiança é essencial.	Confidence is essential.	Also means "trust"			[sound:1000_confiança.mp3]	noun
+respectivo	respective	A informação é do respectivo autor.	The information is from the respective author.	Formal			[sound:1000_respectivo.mp3]	adjective
+jornalista	journalist	O jornalista escreveu o artigo.	The journalist wrote the article.				[sound:1000_jornalista.mp3]	noun
+igual	equal	Todos são iguais perante a lei.	Everyone is equal before the law.	Plural of igual			[sound:1000_igual.mp3]	adjective
+vereador	councilor	O vereador tomou uma decisão.	The councilor made a decision.	Local government official			[sound:1000_vereador.mp3]	noun
+destaque	featured	A notícia teve destaque no jornal.	The news was featured in the newspaper.	Also verb: destacar			[sound:1000_destaque.mp3]	noun
+dívida	debt	Ele tem uma dívida grande.	He has a large debt.				[sound:1000_dívida.mp3]	noun
+busca	searching	Estou em busca de respostas.	I am searching for answers.	em busca de = in search of			[sound:1000_busca.mp3]	noun
+negativo	negative	O resultado é negativo.	The result is negative.				[sound:1000_negativo.mp3]	adjective
+ataque	attack	O ataque foi inesperado.	The attack was unexpected.				[sound:1000_ataque.mp3]	noun
+imediato	immediate	Preciso de uma resposta imediata.	I need an immediate response.	Feminine: imediata			[sound:1000_imediato.mp3]	adjective
+idoso	elderly	O idoso está no hospital.	The elderly man is in the hospital.	Also adjective: uma pessoa idosa			[sound:1000_idoso.mp3]	noun
+expressão	expression	É uma expressão comum.	It is a common expression.				[sound:1000_expressão.mp3]	noun
+competição	competition	A competição é amanhã.	The competition is tomorrow.				[sound:1000_competição.mp3]	noun
+acidente	accident	Houve um acidente na estrada.	There was an accident on the road.				[sound:1000_acidente.mp3]	noun
+salário	salary	O salário é bom.	The salary is good.				[sound:1000_salário.mp3]	noun
+Madeira	wood	A Madeira é uma ilha bonita.	Madeira is a beautiful island.	Portuguese island. Also means "wood"			[sound:1000_Madeira.mp3]	proper-noun
+verdadeiro	true	É uma história verdadeira.	It is a true story.	Feminine: verdadeira			[sound:1000_verdadeiro.mp3]	adjective
+normal	normal	Isto é normal.	This is normal.				[sound:1000_normal.mp3]	adjective
+prender	arrest	A polícia vai prender o suspeito.	The police will arrest the suspect.	Also means "to fasten, to attach"			[sound:1000_prender.mp3]	verb
+estudar	to study	Quero estudar medicina.	I want to study medicine.				[sound:1000_estudar.mp3]	verb
+instalar	to install	Vou instalar a aplicação.	I'm going to install the app.				[sound:1000_instalar.mp3]	verb
+Aveiro	Aveiro	Aveiro é uma cidade bonita.	Aveiro is a beautiful city.	Called the "Venice of Portugal"			[sound:1000_Aveiro.mp3]	proper-noun
+consulta	consultation	A consulta é às dez horas.	The appointment is at ten.	Also means "consultation"			[sound:1000_consulta.mp3]	noun
+orçamento	budget	O orçamento é limitado.	The budget is limited.				[sound:1000_orçamento.mp3]	noun
+demais	too much	É demais para mim.	It's too much for me.				[sound:1000_demais.mp3]	adverb
+temporada	season	A temporada de verão é boa.	The summer season is good.				[sound:1000_temporada.mp3]	noun
+sequência	sequence	A sequência dos eventos é clara.	The sequence of events is clear.				[sound:1000_sequência.mp3]	noun
+vantagem	advantage	Temos uma vantagem neste jogo.	We have an advantage in this game.				[sound:1000_vantagem.mp3]	noun
+matar	to kill	Não se deve matar animais.	One shouldn't kill animals.				[sound:1000_matar.mp3]	verb
+dirigir	to drive	Vou dirigir até ao Porto.	I'm going to drive to Porto.	Also means "to direct, to manage"			[sound:1000_dirigir.mp3]	verb
+demonstrar	to demonstrate	Vou demonstrar como funciona.	I'm going to demonstrate how it works.				[sound:1000_demonstrar.mp3]	verb
+geração	generation	A nova geração é diferente.	The new generation is different.				[sound:1000_geração.mp3]	noun
+favor	please	Por favor, ajuda-me.	Please help me.	se faz favor = more formal EU PT			[sound:1000_favor.mp3]	noun
+dispor	to arrange	Vou dispor os livros na estante.	I'm going to arrange the books on the shelf.	Irregular like pôr			[sound:1000_dispor.mp3]	verb
+atualmente	currently	Atualmente, moro em Lisboa.	Currently, I live in Lisbon.				[sound:1000_atualmente.mp3]	adverb
+universidade	university	A universidade de Coimbra é famosa.	The University of Coimbra is famous.				[sound:1000_universidade.mp3]	noun
+investir	to invest	Quero investir no futuro.	I want to invest in the future.	investir em = to invest in			[sound:1000_investir.mp3]	verb
+aquisição	acquisition	A aquisição foi aprovada.	The acquisition was approved.				[sound:1000_aquisição.mp3]	noun
+erro	error	Cometi um erro.	I made a mistake.				[sound:1000_erro.mp3]	noun
+distribuição	distribution	A distribuição é gratuita.	The distribution is free.				[sound:1000_distribuição.mp3]	noun
+abordar	to address	Vou abordar este tema na reunião.	I'm going to address this topic in the meeting.				[sound:1000_abordar.mp3]	verb
+guerra	war	A guerra é terrível.	War is terrible.				[sound:1000_guerra.mp3]	noun
+tendência	trend	Esta tendência vai continuar.	This trend will continue.				[sound:1000_tendência.mp3]	noun
+superior	higher	A qualidade é superior.	The quality is higher.				[sound:1000_superior.mp3]	adjective
+companhia	company	Gosto da tua companhia.	I like your company.	Also means "company" (business)			[sound:1000_companhia.mp3]	noun
+exame	examination	Vou fazer o exame amanhã.	I'm going to take the exam tomorrow.	Also means "examination" (medical)			[sound:1000_exame.mp3]	noun
