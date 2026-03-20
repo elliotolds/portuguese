@@ -1,0 +1,31 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:12
+LE^a/{p2[v	A2_custom	Elliot_PT_regular_verbs	I speak Portuguese.	Eu falo português.							
+zgq7C5y!+&	A2_custom	Elliot_PT_regular_verbs	You speak very fast.	<em>Tu falas muito rápido.</em>							
+m[tzs1z7<b	A2_custom	Elliot_PT_regular_verbs	She speaks three languages.	<em>Ela fala três línguas.</em>							
+Nz|.i)R!}H	A2_custom	Elliot_PT_regular_verbs	<em></em>We speak&nbsp;every day.	Nós falamos todos os dias.							
+P}9yn5rHvh	A2_custom	Elliot_PT_regular_verbs	They speak&nbsp;English well.	Eles falam bem inglês.							
+nBM9VF(uWo	A2_custom	Elliot_PT_regular_verbs	<em></em>I spoke with the doctor.	<em>Eu falei com o médico.</em>							
+"j/Q75*#-y5"	A2_custom	Elliot_PT_regular_verbs	Did you speak with Maria?	<em>Tu falaste com a Maria?</em>							
+s:I}XX|[,h	A2_custom	Elliot_PT_regular_verbs	<em></em>He spoke a lot at the meeting.	Ele falou muito na reunião.							
+mLW)U2txC.	A2_custom	Elliot_PT_regular_verbs	We spoke about the problem.	Nós falámos sobre o problema.							
+IWn/-IU_5a	A2_custom	Elliot_PT_regular_verbs	<em></em>Did you all speak with the teacher?	Vocês falaram com o professor?							
+jY~.I|,Qws	A2_custom	Elliot_PT_regular_verbs	<em></em>I always eat at 1pm.	<em>Eu como sempre às 13h.</em>							
+sZVI;_Jgma	A2_custom	Elliot_PT_regular_verbs	Do you eat a lot of fruit?	Tu comes muita fruta?							
+xmbPI`{6%P	A2_custom	Elliot_PT_regular_verbs	She always eats at the same restaurant.	Ela come sempre no mesmo restaurante.							
+OTV0>]@*d^	A2_custom	Elliot_PT_regular_verbs	We eat together on Sundays. (present)	Nós comemos juntos ao domingo.							
+AW>^yZQ^1?	A2_custom	Elliot_PT_regular_verbs	They always eat at home.	Eles comem sempre em casa.							
+hS3vow67_Q	A2_custom	Elliot_PT_regular_verbs	<em></em>I ate a cake yesterday.	Eu comi um bolo ontem.							
+l1,5mLEm]}	A2_custom	Elliot_PT_regular_verbs	<em></em>Did you eat well today?	Tu comeste bem hoje?							
+HjV7;g=2{~	A2_custom	Elliot_PT_regular_verbs	<em></em>He ate everything!	Ele comeu tudo!							
+vT5%CEFMQX	A2_custom	Elliot_PT_regular_verbs	<em></em>We ate at the new restaurant. (we eat is the same)	Nós comemos no restaurante novo.							
+FZk}cJ_&Jm	A2_custom	Elliot_PT_regular_verbs	They ate before going out.	Eles comeram antes de sair.							
+K/NrwQ>_|O	A2_custom	Elliot_PT_regular_verbs	<em></em>I leave tomorrow morning.	Eu parto amanhã de manhã.							
+"n`och#?3CR"	A2_custom	Elliot_PT_regular_verbs	<em></em>What time do you leave?	<em>Tu partes a que horas?</em>							
+kAC;={`?/D	A2_custom	Elliot_PT_regular_verbs	<em></em>He leaves at eight.	<em>Ele parte às oito.</em>							
+CMa,Sv@RJu	A2_custom	Elliot_PT_regular_verbs	We leave on Monday.	Nós partimos na segunda-feira.							
+v:kzM8H!SC	A2_custom	Elliot_PT_regular_verbs	They always leave early.	Eles partem sempre cedo.							
