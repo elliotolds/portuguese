@@ -7,11 +7,12 @@
 Ad2sF(Q?t9	A2_custom	Elliot_Portuguese_Glue	Eu	I	Eu estava feliz	i was happy					
 "Iyq+Efp#rV"	A2_custom	Elliot_Portuguese_Glue	tu	you (informal)	Tu estás bem?	Are you okay?	te, ti, contigo, teu / tua / teus / tuas				
 C_iKcH{sB6	A2_custom	Elliot_Portuguese_Glue	que	what / that	O que queres?	What do you want?	means what in questions, that when linking clauses				
-j?uo~)s:[{	A2_custom	Elliot_Portuguese_Glue	porque / porquê	why	Porque é que chegaste tarde?	Why did you arrive late?	<em>porque é que</em> = why; <em>porquê</em> is used on its own or at the end of a short question				
+j?uo~)s:[{	A2_custom	Elliot_Portuguese_Glue	porque é que	why	Porque é que chegaste tarde?	Why did you arrive late?	common way to ask why in European Portuguese				
+gQ4]pL7x!R	A2_custom	Elliot_Portuguese_Glue	porquê	why / the reason why	Ninguém explicou o porquê.	No one explained why.	usually used as a noun				
 FP339wmV(s	A2_custom	Elliot_Portuguese_Glue	onde	where	Onde fica a estação de comboios?	Where is the train station?
 pfvJh6nFk-	A2_custom	Elliot_Portuguese_Glue	quando	when	Quando começa a aula?	When does the class start?
 rKUe{[-U+W	A2_custom	Elliot_Portuguese_Glue	quem	who	Quem é aquele rapaz?	Who is that boy?
-uGW&k=RXzp	A2_custom	Elliot_Portuguese_Glue	como (question)	how	Como posso ir para o centro da cidade?	How can I get to the city center?
+uGW&k=RXzp	A2_custom	Elliot_Portuguese_Glue	como (not as)	how	Como posso ir para o centro da cidade?	How can I get to the city center?
 h^/C0%XBgg	A2_custom	Elliot_Portuguese_Glue	qual&nbsp;	which	Qual é o teu prato favorito?	What is your favorite dish?
 MW3orT&8.j	A2_custom	Elliot_Portuguese_Glue	quanto	how much	Quanto custa este casaco?	How much does this coat cost?
 qL;LsszR|e	A2_custom	Elliot_Portuguese_Glue	quantos	how many	Quantos irmãos tens?	How many siblings do you have?
@@ -27,7 +28,7 @@ b^@(^.ys?e	A2_custom	Elliot_Portuguese_Glue	aqui	here (near me)	Eu moro aqui	I l
 BRA54{q5{y	A2_custom	Elliot_Portuguese_Glue	aí	there (near you)	O que tens aí?	What do you have there?					
 ReSDWF?N&2	A2_custom	Elliot_Portuguese_Glue	ali	over there (visible, not too far)	Vês aquele homem ali?	Do you see that man over there?					
 Afu[+q`QCn	A2_custom	Elliot_Portuguese_Glue	lá	there (far away, or not visible)	Nunca fui lá.	I've never been there.					
-"cvq_q-W9#e"	A2_custom	Elliot_Portuguese_Glue	se	if	Se faz bom tempo, vamos à praia.	If the weather is good, we go to the beach.					
+"cvq_q-W9#e"	A2_custom	Elliot_Portuguese_Glue	se (not oneself)	if	Se faz bom tempo, vamos à praia.	If the weather is good, we go to the beach.					
 Qa{rdcsj`]	A2_custom	Elliot_Portuguese_Glue	só	only	Só havia uma menina entre as crianças.	There was only one girl among the children.					
 L^@+csWTp$	A2_custom	Elliot_Portuguese_Glue	então	so / then	Então, o que vamos fazer hoje?	So, what are we going to do today?	means so as a filler or then, not so as an intensifier				
 F^:TixJ2Bd	A2_custom	Elliot_Portuguese_Glue	de	of / from	Eu sou de Portugal.	I am from Portugal.
@@ -36,3 +37,103 @@ CA.TN]BS2)	A2_custom	Elliot_Portuguese_Glue	talvez	maybe	Talvez sim, talvez não
 fN[pm=(&$^	A2_custom	Elliot_Portuguese_Glue	sobre	on / about	Vamos falar sobre as férias.	Let's talk about the holidays.	over / upon / above / across				
 t%^J_^sq>U	A2_custom	Elliot_Portuguese_Glue	alguns	some	Alguns alunos chegaram tarde.	Some students arrived late.					
 c;!hU1{W*!	A2_custom	Elliot_Portuguese_Glue	assim	like this / like that / this way	Não faças assim!	Don't do it like that!
+!ga(sTsGY)	A2_custom	Elliot_Portuguese_Glue	e	and	Eu comprei pão e leite.	I bought bread and milk.					
+%.xPQmkKm_	A2_custom	Elliot_Portuguese_Glue	mas	but	Quero ir, mas não posso.	I want to go, but I can't.					
+%m_vo?HZ0_	A2_custom	Elliot_Portuguese_Glue	não	not / no	Hoje não trabalho.	I am not working today.					
+%z%(S}*H8!	A2_custom	Elliot_Portuguese_Glue	nem	nor / not even	Não bebo café nem chá.	I drink neither coffee nor tea.					
+%{2g9aRi~1	A2_custom	Elliot_Portuguese_Glue	também	also	Eu também gosto de música.	I also like music.					
+&3V8bj1tZW	A2_custom	Elliot_Portuguese_Glue	também não	not ... either	Eu não fumo e ela também não.	I don't smoke and she doesn't either.					
+)?XLf{?w;L	A2_custom	Elliot_Portuguese_Glue	já	already	Já terminei os trabalhos de casa.	I already finished my homework.					
+*LMl&0iOPS	A2_custom	Elliot_Portuguese_Glue	ainda	still / yet	Ainda moro com os meus pais.	I still live with my parents.					
+*hTwZ94Uy2	A2_custom	Elliot_Portuguese_Glue	ainda não	not yet	O autocarro ainda não chegou.	The bus hasn't arrived yet.					
+*q98m]iin]	A2_custom	Elliot_Portuguese_Glue	agora	now	Agora tenho tempo.	I have time now.					
++-PLmf_cOc	A2_custom	Elliot_Portuguese_Glue	depois	after / later / afterwards	Primeiro almoço e depois estudo.	First I have lunch and then I study.					
+08&6gh:]+e	A2_custom	Elliot_Portuguese_Glue	antes	before / earlier	Ele chega sempre cinco minutos antes.	He always arrives five minutes early.					
+0]c!O[860D	A2_custom	Elliot_Portuguese_Glue	sempre	always	Ela vai sempre a pé para o trabalho.	She always walks to work.					
+2XN]YLoM]p	A2_custom	Elliot_Portuguese_Glue	nunca	never	Eu nunca tomo o pequeno-almoço em casa.	I never eat breakfast at home.					
+5-jjabh%-(	A2_custom	Elliot_Portuguese_Glue	mais	more	Quero mais água, por favor.	I want more water, please.					
+5S3!g^gAwR	A2_custom	Elliot_Portuguese_Glue	menos	less / fewer	Este mês tenho menos tempo.	This month I have less time.					
+6;BFhbK[R4	A2_custom	Elliot_Portuguese_Glue	muito	much / very / a lot	Gosto muito de Lisboa.	I like Lisbon a lot.					
+6SuWxDe25)	A2_custom	Elliot_Portuguese_Glue	muita	much / many / a lot of	Há muita gente aqui.	There are a lot of people here.					
+6{XW-d8;1?	A2_custom	Elliot_Portuguese_Glue	pouco	little / not much	Hoje tenho pouco dinheiro.	I have little money today.					
+8GNAEUX4r*	A2_custom	Elliot_Portuguese_Glue	pouca	little / not much	Há pouca água na garrafa.	There is little water in the bottle.					
+8MGNAr&j1^	A2_custom	Elliot_Portuguese_Glue	todo	every / whole	Trabalhei todo o dia.	I worked all day.					
+8nHncx4z0t	A2_custom	Elliot_Portuguese_Glue	toda	every / whole	Fiquei em casa toda a manhã.	I stayed at home all morning.					
+9@W}MyOc[P	A2_custom	Elliot_Portuguese_Glue	tudo	everything	Está tudo bem?	Is everything okay?					
+9jYcRi^l:i	A2_custom	Elliot_Portuguese_Glue	nada	nothing / anything	Não vi nada.	I didn't see anything.					
+9uoL1UPMVv	A2_custom	Elliot_Portuguese_Glue	alguém	someone / anyone	Está alguém em casa?	Is anyone at home?					
+;8S_[)G8uQ	A2_custom	Elliot_Portuguese_Glue	ninguém	nobody / no one	Hoje ninguém veio cedo.	No one came early today.					
+;9s+1Nwfj4	A2_custom	Elliot_Portuguese_Glue	outro	other / another	Quero outro café, por favor.	I want another coffee, please.					
+;FO-}tk!hx	A2_custom	Elliot_Portuguese_Glue	outra	other / another	Preciso de outra cadeira.	I need another chair.					
+?jOXihha&U	A2_custom	Elliot_Portuguese_Glue	cada	each / every	Cada aluno tem um livro.	Each student has a book.					
+@M)3NLtTTm	A2_custom	Elliot_Portuguese_Glue	por isso	therefore / so	Estava cansado, por isso fui para casa.	I was tired, so I went home.					
+D?9yr%uMFo	A2_custom	Elliot_Portuguese_Glue	por exemplo	for example	Gosto de frutas, por exemplo maçãs e peras.	I like fruit, for example apples and pears.					
+HHs*!b1dLE	A2_custom	Elliot_Portuguese_Glue	o que	what	O que estás a fazer?	What are you doing?					
+HX?TBU0T9^	A2_custom	Elliot_Portuguese_Glue	é que	question / emphasis chunk	Onde é que moras?	Where do you live?	very common in questions in European Portuguese				
+IUKMibhU1B	A2_custom	Elliot_Portuguese_Glue	do que	than	O João é mais alto do que o Pedro.	João is taller than Pedro.	used in comparisons				
+IXtcVCWy.8	A2_custom	Elliot_Portuguese_Glue	antes de	before	Lavo os dentes antes de dormir.	I brush my teeth before sleeping.					
+J@XNp5D.&O	A2_custom	Elliot_Portuguese_Glue	depois de	after	Depois de jantar, vejo televisão.	After dinner, I watch television.					
+Ju]]mhNgGk	A2_custom	Elliot_Portuguese_Glue	por causa de	because of	Cheguei tarde por causa do trânsito.	I arrived late because of the traffic.					
+K~aKnLcfWB	A2_custom	Elliot_Portuguese_Glue	ao lado de	next to	A farmácia fica ao lado do banco.	The pharmacy is next to the bank.					
+L7)^Okf4X3	A2_custom	Elliot_Portuguese_Glue	perto de	near	Moro perto da escola.	I live near the school.					
+LK8VHONT?B	A2_custom	Elliot_Portuguese_Glue	longe de	far from	O meu escritório fica longe de casa.	My office is far from home.					
+M)AAq7;^Qp	A2_custom	Elliot_Portuguese_Glue	a (not the)	to / at	Vou a Lisboa amanhã.	I'm going to Lisbon tomorrow.	preposition here, not the article <em>a</em>				
+M6l7mD}X(L	A2_custom	Elliot_Portuguese_Glue	com	with	Vou com a minha irmã.	I'm going with my sister.					
+MWYs%%kPYj	A2_custom	Elliot_Portuguese_Glue	sem	without	Saí de casa sem o telemóvel.	I left home without my phone.					
+M}~v?87DA6	A2_custom	Elliot_Portuguese_Glue	para	for / to	Este presente é para ti.	This present is for you.					
+QPn5mQ+yt~	A2_custom	Elliot_Portuguese_Glue	até	until / up to	Trabalho até às seis.	I work until six.					
+QS)w}!bprO	A2_custom	Elliot_Portuguese_Glue	entre	between / among	O banco fica entre o café e a farmácia.	The bank is between the cafe and the pharmacy.					
+Q{AeE3dS+^	A2_custom	Elliot_Portuguese_Glue	do	of the / from the	O livro do professor está aqui.	The teacher's book is here.	<em>de + o</em>				
+RA!5Jc~4cW	A2_custom	Elliot_Portuguese_Glue	da	of the / from the	A chave da porta está na mesa.	The key to the door is on the table.	<em>de + a</em>				
+RdRRI@qqIw	A2_custom	Elliot_Portuguese_Glue	dos	of the / from the	Os quartos dos alunos são pequenos.	The students' rooms are small.	<em>de + os</em>				
+RpwyBot!%m	A2_custom	Elliot_Portuguese_Glue	das	of the / from the	O nome das ruas mudou.	The names of the streets changed.	<em>de + as</em>				
+RtX%gyZ0Gj	A2_custom	Elliot_Portuguese_Glue	no	in the / on the	O João está no carro.	João is in the car.	<em>em + o</em>				
+SX3i0w+31P	A2_custom	Elliot_Portuguese_Glue	na	in the / on the	A Ana trabalha na biblioteca.	Ana works in the library.	<em>em + a</em>				
+V+ER?AgqPn	A2_custom	Elliot_Portuguese_Glue	nos (not us)	in the / on the	Os livros estão nos sacos.	The books are in the bags.	<em>em + os</em>				
+W.A2k:fdoZ	A2_custom	Elliot_Portuguese_Glue	nas	in the / on the	As chaves estão nas gavetas.	The keys are in the drawers.	<em>em + as</em>				
+YyZkWa]kB:	A2_custom	Elliot_Portuguese_Glue	num	in a / in one	Moro num apartamento pequeno.	I live in a small apartment.	<em>em + um</em>				
+Z]X~j}+.P3	A2_custom	Elliot_Portuguese_Glue	numa	in a / in one	Deixei o casaco numa cadeira.	I left the coat on a chair.	<em>em + uma</em>				
+]Isy%~9-~.	A2_custom	Elliot_Portuguese_Glue	ao	to the / at the	Vou ao supermercado depois do trabalho.	I'm going to the supermarket after work.	<em>a + o</em>				
+^59+iMLTdG	A2_custom	Elliot_Portuguese_Glue	à	to the / at the	Vou à praia no sábado.	I'm going to the beach on Saturday.	<em>a + a</em>				
+^DtIjJ73n4	A2_custom	Elliot_Portuguese_Glue	pelo	through the / by the / for the	Passei pelo parque antes de jantar.	I went through the park before dinner.	<em>por + o</em>				
+^f{A]Oe1rQ	A2_custom	Elliot_Portuguese_Glue	pela	through the / by the / for the	Passei pela estação antes de vir para casa.	I went through the station before coming home.	<em>por + a</em>				
+__Rq+xb1^Y	A2_custom	Elliot_Portuguese_Glue	comigo	with me	Queres vir comigo?	Do you want to come with me?					
+c23kB.Wn6)	A2_custom	Elliot_Portuguese_Glue	contigo	with you	Posso falar contigo um momento?	Can I speak with you for a moment?					
+c5ffwfJs6x	A2_custom	Elliot_Portuguese_Glue	nós	we	Nós moramos em Braga.	We live in Braga.					
+c_)?8TQ8h^	A2_custom	Elliot_Portuguese_Glue	vocês	you (plural)	Vocês querem comer agora?	Do you all want to eat now?					
+ccEO^0vBl}	A2_custom	Elliot_Portuguese_Glue	ele	he	Ele chega amanhã de manhã.	He arrives tomorrow morning.					
+eMB.7^elf&	A2_custom	Elliot_Portuguese_Glue	ela	she	Ela fala muito depressa.	She speaks very quickly.					
+f:qSf[Kv*!	A2_custom	Elliot_Portuguese_Glue	eles	they	Eles estudam juntos na biblioteca.	They study together in the library.					
+fROgyt+yt?	A2_custom	Elliot_Portuguese_Glue	elas	they	Elas trabalham no centro da cidade.	They work in the city centre.					
+fdQykBP12_	A2_custom	Elliot_Portuguese_Glue	meu	my	Este é o meu casaco.	This is my coat.					
+hdI?Qu:?m.	A2_custom	Elliot_Portuguese_Glue	minha	my	A minha casa é pequena.	My house is small.					
+h}[Vo[3Fc+	A2_custom	Elliot_Portuguese_Glue	teu	your	Onde está o teu irmão?	Where is your brother?					
+jd9~vImme)	A2_custom	Elliot_Portuguese_Glue	tua	your	Gosto muito da tua ideia.	I really like your idea.					
+kP:c9w-7yW	A2_custom	Elliot_Portuguese_Glue	seu	his / her / your	O seu nome é Pedro?	Is your name Pedro?	can mean his / her / your depending on context				
+l2^F2%0fRh	A2_custom	Elliot_Portuguese_Glue	sua	his / her / your	A sua chave está aqui.	Your key is here.	can mean his / her / your depending on context				
+n5Csg_S;f:	A2_custom	Elliot_Portuguese_Glue	nosso	our	O nosso professor é simpático.	Our teacher is nice.					
+oT]NMFmGnO	A2_custom	Elliot_Portuguese_Glue	nossa	our	A nossa aula começa às nove.	Our class starts at nine.					
+pwVud;N7aF	A2_custom	Elliot_Portuguese_Glue	me	me	Ela vê-me todos os dias.	She sees me every day.	in affirmative European Portuguese, these pronouns often attach after the verb				
+rnB_NZ@f6+	A2_custom	Elliot_Portuguese_Glue	te	you	Eu telefono-te logo.	I'll call you soon.	in affirmative European Portuguese, these pronouns often attach after the verb				
+sxa~IF9*x.	A2_custom	Elliot_Portuguese_Glue	lhe	to him / to her / to you	Vou dar-lhe o livro amanhã.	I'm going to give him the book tomorrow.	often indirect object singular				
+uD64_jei8t	A2_custom	Elliot_Portuguese_Glue	nos (not in the)	us / to us	O professor explica-nos tudo.	The teacher explains everything to us.	in affirmative European Portuguese, these pronouns often attach after the verb				
+vW!xmP!_Ma	A2_custom	Elliot_Portuguese_Glue	se (not if)	oneself / himself / herself	Ele chama-se Miguel.	His name is Miguel.	pronoun here, not the conjunction <em>se</em> = if				
+wJ%0d(CjLD	A2_custom	Elliot_Portuguese_Glue	este	this	Este autocarro vai para o centro.	This bus goes to the centre.					
+wf6e(3F3-[	A2_custom	Elliot_Portuguese_Glue	esta	this	Esta rua é muito calma.	This street is very quiet.					
+xNv_%8ct-_	A2_custom	Elliot_Portuguese_Glue	esse	that	Esse café é muito caro.	That cafe is very expensive.					
+xWClwC@jIr	A2_custom	Elliot_Portuguese_Glue	essa	that	Essa camisa é nova?	Is that shirt new?					
+xfyvKi75.q	A2_custom	Elliot_Portuguese_Glue	aquele	that over there	Aquele prédio é muito antigo.	That building over there is very old.					
+}RKSTwGrSQ	A2_custom	Elliot_Portuguese_Glue	aquela	that over there	Aquela senhora é a minha vizinha.	That lady over there is my neighbour.					
+~)I1X5usgO	A2_custom	Elliot_Portuguese_Glue	isto	this	O que é isto?	What is this?					
+~lUWlcw(;i	A2_custom	Elliot_Portuguese_Glue	isso	that	Isso não é verdade.	That's not true.					
+~ou0wfKJ0S	A2_custom	Elliot_Portuguese_Glue	aquilo	that over there	O que é aquilo?	What is that over there?					
+Aq7]mN2p!K	A2_custom	Elliot_Portuguese_Glue	bem	well / fine	Dormi bem ontem à noite.	I slept well last night.					
+bL4^sT9x?Q	A2_custom	Elliot_Portuguese_Glue	dele	his / of him	O carro dele é novo.	His car is new.					
+C8w_eR5u.M	A2_custom	Elliot_Portuguese_Glue	dela	hers / of her	A casa dela fica perto daqui.	Her house is near here.					
+dP2)kH6n&W	A2_custom	Elliot_Portuguese_Glue	aos	to the / at the	Escrevo aos meus avós todas as semanas.	I write to my grandparents every week.	<em>a + os</em>				
+E5y+uJ1c]R	A2_custom	Elliot_Portuguese_Glue	às	to the / at the	Chego às oito em ponto.	I arrive at eight sharp.	<em>a + as</em>				
+fG9:qa4Lz(	A2_custom	Elliot_Portuguese_Glue	pelos	through the / by the / for the	Passeámos pelos jardins do palácio.	We walked through the palace gardens.	<em>por + os</em>				
+H2m}tV7p_S	A2_custom	Elliot_Portuguese_Glue	pelas	through the / by the / for the	Passei pelas lojas antes de ir para casa.	I went by the shops before going home.	<em>por + as</em>				
+jN6;wB3r@X	A2_custom	Elliot_Portuguese_Glue	como (not how)	like / as	Ele canta como a mãe.	He sings like his mother.	used for comparison				
+m7@Dq2V]sE	A2_custom	Elliot_Portuguese_Glue	pois	well / yes / so / because	Pois, tens razão.	Well, you're right.	common in spoken European Portuguese; meaning depends on context				
+pL8^wN5c?A	A2_custom	Elliot_Portuguese_Glue	enquanto	while	Eu ouço música enquanto estudo.	I listen to music while I study.					
