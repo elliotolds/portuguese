@@ -7,32 +7,32 @@
 Ad2sF(Q?t9	A2_custom	Elliot_Portuguese_Glue	Eu	I	Eu estava feliz	i was happy					
 "Iyq+Efp#rV"	A2_custom	Elliot_Portuguese_Glue	tu	you (informal)	Tu estás bem?	Are you good?	te, ti, contigo, teu / tua / teus / tuas				
 C_iKcH{sB6	A2_custom	Elliot_Portuguese_Glue	que	what / that	Que queres?	What do you want?	means what in questions, that when connecting to things				
-j?uo~)s:[{	A2_custom	Elliot_Portuguese_Glue	porque / porquê	why			ê on its own or at the end of short Q				
-FP339wmV(s	A2_custom	Elliot_Portuguese_Glue	onde	where							
-pfvJh6nFk-	A2_custom	Elliot_Portuguese_Glue	quando	when							
-rKUe{[-U+W	A2_custom	Elliot_Portuguese_Glue	quem	who							
-uGW&k=RXzp	A2_custom	Elliot_Portuguese_Glue	como (question)	how							
-h^/C0%XBgg	A2_custom	Elliot_Portuguese_Glue	qual&nbsp;	which							
-MW3orT&8.j	A2_custom	Elliot_Portuguese_Glue	quanto	how much							
-qL;LsszR|e	A2_custom	Elliot_Portuguese_Glue	quantos	how many							
-kSTdB0GO]j	A2_custom	Elliot_Portuguese_Glue	de quem	whose							
+j?uo~)s:[{	A2_custom	Elliot_Portuguese_Glue	porque / porquê	why	Porque é que chegaste tarde?	Why did you arrive late?	ê on its own or at the end of short Q				
+FP339wmV(s	A2_custom	Elliot_Portuguese_Glue	onde	where	Onde fica a estação de comboios?	Where is the train station?
+pfvJh6nFk-	A2_custom	Elliot_Portuguese_Glue	quando	when	Quando começa a aula?	When does the class start?
+rKUe{[-U+W	A2_custom	Elliot_Portuguese_Glue	quem	who	Quem é aquele rapaz?	Who is that boy?
+uGW&k=RXzp	A2_custom	Elliot_Portuguese_Glue	como (question)	how	Como posso ir para o centro da cidade?	How can I get to the city center?
+h^/C0%XBgg	A2_custom	Elliot_Portuguese_Glue	qual&nbsp;	which	Qual é o teu prato favorito?	Which is your favorite dish?
+MW3orT&8.j	A2_custom	Elliot_Portuguese_Glue	quanto	how much	Quanto custa este casaco?	How much does this coat cost?
+qL;LsszR|e	A2_custom	Elliot_Portuguese_Glue	quantos	how many	Quantos irmãos tens?	How many siblings do you have?
+kSTdB0GO]j	A2_custom	Elliot_Portuguese_Glue	de quem	whose	De quem é este livro?	Whose book is this?
 B.k?tr!Wo!	A2_custom	Elliot_Portuguese_Glue	você	you<br>(polite)	Você quer café?	Do you want coffee?	"<em>você</em> is often dropped entirely since the verb form already indicates ""you"""				
-t.RL/cxkLP	A2_custom	Elliot_Portuguese_Glue	porque	because / why							
-fznP!>aXbH	A2_custom	Elliot_Portuguese_Glue	em	in / on / at							
-QvXeI`yis(	A2_custom	Elliot_Portuguese_Glue	ou	or							
-Px6=f@u=8U	A2_custom	Elliot_Portuguese_Glue	tão&nbsp;	so (intensifier)							
-Mv&5a0nmc7	A2_custom	Elliot_Portuguese_Glue	então	then / so			so as similar to 'then', not as an intensifier				
-cskKJttR*k	A2_custom	Elliot_Portuguese_Glue	tal	such							
+t.RL/cxkLP	A2_custom	Elliot_Portuguese_Glue	porque	because / why	Não fui à escola porque estava doente.	I didn't go to school because I was sick.
+fznP!>aXbH	A2_custom	Elliot_Portuguese_Glue	em	in / on / at	Eu trabalho em Lisboa.	I work in Lisbon.
+QvXeI`yis(	A2_custom	Elliot_Portuguese_Glue	ou	or	Preferes chá ou café?	Do you prefer tea or coffee?
+Px6=f@u=8U	A2_custom	Elliot_Portuguese_Glue	tão&nbsp;	so (intensifier)	Este filme é tão interessante!	This movie is so interesting!
+Mv&5a0nmc7	A2_custom	Elliot_Portuguese_Glue	então	then / so	Estou cansado, então vou dormir cedo.	I'm tired, so I'm going to sleep early.	so as similar to 'then', not as an intensifier				
+cskKJttR*k	A2_custom	Elliot_Portuguese_Glue	tal	such	Nunca vi tal coisa!	I've never seen such a thing!
 b^@(^.ys?e	A2_custom	Elliot_Portuguese_Glue	aqui	here (near me)	Eu moro aqui	I live here.					
 BRA54{q5{y	A2_custom	Elliot_Portuguese_Glue	aí	there (near you)	O que tens aí?	What do you have there?					
 ReSDWF?N&2	A2_custom	Elliot_Portuguese_Glue	ali	over there (visible, not too far)	Vês aquele homem ali?	Do you see that man over there?					
 Afu[+q`QCn	A2_custom	Elliot_Portuguese_Glue	lá	there (far away, or not visible)	Nunca fui lá.	I've never been there.					
 "cvq_q-W9#e"	A2_custom	Elliot_Portuguese_Glue	se	if	Nós iremos à praia se o tempo estiver bom.	We will go to the beach if the weather is good.					
 Qa{rdcsj`]	A2_custom	Elliot_Portuguese_Glue	só	only	Só havia uma menina entre as crianças.	There was only one girl among the children.					
-L^@+csWTp$	A2_custom	Elliot_Portuguese_Glue	então	so / then			means 'so' as a filler or like 'then', not as an intensifier				
-F^:TixJ2Bd	A2_custom	Elliot_Portuguese_Glue	de	of / from							
-LD>Nq6^i5^	A2_custom	Elliot_Portuguese_Glue	por	by / for / through							
-CA.TN]BS2)	A2_custom	Elliot_Portuguese_Glue	talvez	maybe							
-fN[pm=(&$^	A2_custom	Elliot_Portuguese_Glue	sobre	on / about			over / upon / above / across				
+L^@+csWTp$	A2_custom	Elliot_Portuguese_Glue	então	so / then	Então, o que vamos fazer hoje?	So, what are we going to do today?	means 'so' as a filler or like 'then', not as an intensifier				
+F^:TixJ2Bd	A2_custom	Elliot_Portuguese_Glue	de	of / from	Eu sou de Portugal.	I am from Portugal.
+LD>Nq6^i5^	A2_custom	Elliot_Portuguese_Glue	por	by / for / through	Obrigado por tudo.	Thank you for everything.
+CA.TN]BS2)	A2_custom	Elliot_Portuguese_Glue	talvez	maybe	Talvez eu vá à praia amanhã.	Maybe I'll go to the beach tomorrow.
+fN[pm=(&$^	A2_custom	Elliot_Portuguese_Glue	sobre	on / about	Vamos falar sobre as férias.	Let's talk about the holidays.	over / upon / above / across				
 t%^J_^sq>U	A2_custom	Elliot_Portuguese_Glue	alguns	some	eu quero uma boca	i want a mouth	this isn't relevant at all				
-c;!hU1{W*!	A2_custom	Elliot_Portuguese_Glue	assim	like this / like that / this way							
+c;!hU1{W*!	A2_custom	Elliot_Portuguese_Glue	assim	like this / like that / this way	Não faças assim!	Don't do it like that!
