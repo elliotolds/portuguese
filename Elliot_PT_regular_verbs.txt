@@ -4,33 +4,21 @@
 #notetype column:2
 #deck column:3
 #tags column:12
-LE^a/{p2[v	A2_custom	Elliot_PT_regular_verbs	Eu {falar} (present: I speak)	Eu falo			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam
-zgq7C5y!+&	A2_custom	Elliot_PT_regular_verbs	Tu {falar} (present: you speak)	Tu falas			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam
-m[tzs1z7<b	A2_custom	Elliot_PT_regular_verbs	Ele/Ela {falar} (present: he/she speaks)	Ele/Ela fala			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam
-Nz|.i)R!}H	A2_custom	Elliot_PT_regular_verbs	Nós {falar} (present: we speak)	Nós falamos			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam
-P}9yn5rHvh	A2_custom	Elliot_PT_regular_verbs	Eles/Elas {falar} (present: they speak)	Eles/Elas falam			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam
-nBM9VF(uWo	A2_custom	Elliot_PT_regular_verbs	Eu {falar} (simple past: I spoke)	Eu falei			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram
-"j/Q75*#-y5"	A2_custom	Elliot_PT_regular_verbs	Tu {falar} (simple past: you spoke)	Tu falaste			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram
-s:I}XX|[,h	A2_custom	Elliot_PT_regular_verbs	Ele/Ela {falar} (simple past: he/she spoke)	Ele/Ela falou			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram
-mLW)U2txC.	A2_custom	Elliot_PT_regular_verbs	Nós {falar} (simple past: we spoke)	Nós falámos			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram
-IWn/-IU_5a	A2_custom	Elliot_PT_regular_verbs	Eles/Elas {falar} (simple past: they spoke)	Eles/Elas falaram			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram
-jY~.I|,Qws	A2_custom	Elliot_PT_regular_verbs	Eu {comer} (present: I eat)	Eu como			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem
-sZVI;_Jgma	A2_custom	Elliot_PT_regular_verbs	Tu {comer} (present: you eat)	Tu comes			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem
-xmbPI`{6%P	A2_custom	Elliot_PT_regular_verbs	Ele/Ela {comer} (present: he/she eats)	Ele/Ela come			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem
-OTV0>]@*d^	A2_custom	Elliot_PT_regular_verbs	Nós {comer} (present: we eat)	Nós comemos			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem
-AW>^yZQ^1?	A2_custom	Elliot_PT_regular_verbs	Eles/Elas {comer} (present: they eat)	Eles/Elas comem			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem
-hS3vow67_Q	A2_custom	Elliot_PT_regular_verbs	Eu {comer} (simple past: I ate)	Eu comi			Eu comi<br>Tu comeste<br>Ele/Ela comeu<br>Nós comemos<br>Eles/Elas comeram
-l1,5mLEm]}	A2_custom	Elliot_PT_regular_verbs	Tu {comer} (simple past: you ate)	Tu comeste			Eu comi<br>Tu comeste<br>Ele/Ela comeu<br>Nós comemos<br>Eles/Elas comeram
-HjV7;g=2{~	A2_custom	Elliot_PT_regular_verbs	Ele/Ela {comer} (simple past: he/she ate)	Ele/Ela comeu			Eu comi<br>Tu comeste<br>Ele/Ela comeu<br>Nós comemos<br>Eles/Elas comeram
-vT5%CEFMQX	A2_custom	Elliot_PT_regular_verbs	Nós {comer} (simple past: we ate)	Nós comemos			Eu comi<br>Tu comeste<br>Ele/Ela comeu<br>Nós comemos<br>Eles/Elas comeram
-FZk}cJ_&Jm	A2_custom	Elliot_PT_regular_verbs	Eles/Elas {comer} (simple past: they ate)	Eles/Elas comeram			Eu comi<br>Tu comeste<br>Ele/Ela comeu<br>Nós comemos<br>Eles/Elas comeram
-K/NrwQ>_|O	A2_custom	Elliot_PT_regular_verbs	Eu {partir} (present: I leave)	Eu parto			Eu parto<br>Tu partes<br>Ele/Ela parte<br>Nós partimos<br>Eles/Elas partem
-"n`och#?3CR"	A2_custom	Elliot_PT_regular_verbs	Tu {partir} (present: you leave)	Tu partes			Eu parto<br>Tu partes<br>Ele/Ela parte<br>Nós partimos<br>Eles/Elas partem
-kAC;={`?/D	A2_custom	Elliot_PT_regular_verbs	Ele/Ela {partir} (present: he/she leaves)	Ele/Ela parte			Eu parto<br>Tu partes<br>Ele/Ela parte<br>Nós partimos<br>Eles/Elas partem
-CMa,Sv@RJu	A2_custom	Elliot_PT_regular_verbs	Nós {partir} (present: we leave)	Nós partimos			Eu parto<br>Tu partes<br>Ele/Ela parte<br>Nós partimos<br>Eles/Elas partem
-v:kzM8H!SC	A2_custom	Elliot_PT_regular_verbs	Eles/Elas {partir} (present: they leave)	Eles/Elas partem			Eu parto<br>Tu partes<br>Ele/Ela parte<br>Nós partimos<br>Eles/Elas partem
-Rq3&Tw!m9K	A2_custom	Elliot_PT_regular_verbs	Eu {partir} (simple past: I left)	Eu parti			Eu parti<br>Tu partiste<br>Ele/Ela partiu<br>Nós partimos<br>Eles/Elas partiram
-Yd8$Km2v#L	A2_custom	Elliot_PT_regular_verbs	Tu {partir} (simple past: you left)	Tu partiste			Eu parti<br>Tu partiste<br>Ele/Ela partiu<br>Nós partimos<br>Eles/Elas partiram
-Wp6!Bn4x@Q	A2_custom	Elliot_PT_regular_verbs	Ele/Ela {partir} (simple past: he/she left)	Ele/Ela partiu			Eu parti<br>Tu partiste<br>Ele/Ela partiu<br>Nós partimos<br>Eles/Elas partiram
-Xc9%Fj7s&R	A2_custom	Elliot_PT_regular_verbs	Nós {partir} (simple past: we left)	Nós partimos			Eu parti<br>Tu partiste<br>Ele/Ela partiu<br>Nós partimos<br>Eles/Elas partiram
-Ht2@Gl5w!V	A2_custom	Elliot_PT_regular_verbs	Eles/Elas {partir} (simple past: they left)	Eles/Elas partiram			Eu parti<br>Tu partiste<br>Ele/Ela partiu<br>Nós partimos<br>Eles/Elas partiram
+LE^a/{p2[v	A2_custom	Elliot_PT_regular_verbs	Eu {falar} (present: I speak)	Eu falo			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam				
+zgq7C5y!+&	A2_custom	Custom Study Session	Tu {falar} (present: you speak)	Tu falas			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam				
+m[tzs1z7<b	A2_custom	Custom Study Session	Ele/Ela {falar} (present: he/she speaks)	Ele/Ela fala			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam				
+Nz|.i)R!}H	A2_custom	Elliot_PT_regular_verbs	Nós {falar} (present: we speak)	Nós falamos			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam				
+P}9yn5rHvh	A2_custom	Custom Study Session	Eles/Elas {falar} (present: they speak)	Eles/Elas falam			Eu falo<br>Tu falas<br>Ele/Ela fala<br>Nós falamos<br>Eles/Elas falam				
+nBM9VF(uWo	A2_custom	Elliot_PT_regular_verbs	Eu {falar} (simple past: I spoke)	Eu falei			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram				
+"j/Q75*#-y5"	A2_custom	Elliot_PT_regular_verbs	Tu {falar} (simple past: you spoke)	Tu falaste			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram				
+mLW)U2txC.	A2_custom	Elliot_PT_regular_verbs	Nós {falar} (simple past: we spoke)	Nós falámos			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram				
+IWn/-IU_5a	A2_custom	Elliot_PT_regular_verbs	Eles/Elas {falar} (simple past: they spoke)	Eles/Elas falaram			Eu falei<br>Tu falaste<br>Ele/Ela falou<br>Nós falámos<br>Eles/Elas falaram				
+jY~.I|,Qws	A2_custom	Elliot_PT_regular_verbs	Eu {comer} (present: I eat)	Eu como			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem				
+sZVI;_Jgma	A2_custom	Elliot_PT_regular_verbs	Tu {comer} (present: you eat)	Tu comes			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem				
+OTV0>]@*d^	A2_custom	Elliot_PT_regular_verbs	Nós {comer} (present: we eat)	Nós comemos			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem				
+AW>^yZQ^1?	A2_custom	Elliot_PT_regular_verbs	Eles/Elas {comer} (present: they eat)	Eles/Elas comem			Eu como<br>Tu comes<br>Ele/Ela come<br>Nós comemos<br>Eles/Elas comem				
+hS3vow67_Q	A2_custom	Elliot_PT_regular_verbs	Eu {comer} (simple past: I ate)	Eu comi			Eu comi<br>Tu comeste<br>Ele/Ela comeu<br>Nós comemos<br>Eles/Elas comeram				
+l1,5mLEm]}	A2_custom	Custom Study Session	Tu {comer} (simple past: you ate)	Tu comeste			Eu comi<br>Tu comeste<br>Ele/Ela comeu<br>Nós comemos<br>Eles/Elas comeram				
+vT5%CEFMQX	A2_custom	Elliot_PT_regular_verbs	Nós {comer} (simple past: we ate)	Nós comemos			Eu comi<br>Tu comeste<br>Ele/Ela comeu<br>Nós comemos<br>Eles/Elas comeram				
+kAC;={`?/D	A2_custom	Custom Study Session	Ele/Ela {partir} (present: he/she leaves)	Ele/Ela parte			Eu parto<br>Tu partes<br>Ele/Ela parte<br>Nós partimos<br>Eles/Elas partem				
+CMa,Sv@RJu	A2_custom	Custom Study Session	Nós {partir} (present: we leave)	Nós partimos			Eu parto<br>Tu partes<br>Ele/Ela parte<br>Nós partimos<br>Eles/Elas partem				

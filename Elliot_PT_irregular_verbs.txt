@@ -1,0 +1,106 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:12
+p)yo+F=N/R	A2_custom	Elliot_PT_irregular_verbs	Eu {ser} (present: I am)	Eu sou			Eu sou<br>Tu és<br>Ele/Ela é<br>Nós somos<br>Eles/Elas são				
+uxJae[[}Kn	A2_custom	Elliot_PT_irregular_verbs	Tu {ser} (present: you are)	Tu és			Eu sou<br>Tu és<br>Ele/Ela é<br>Nós somos<br>Eles/Elas são				
+g5|s)2gnsY	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {ser} (present: he/she is)	Ele/Ela é			Eu sou<br>Tu és<br>Ele/Ela é<br>Nós somos<br>Eles/Elas são				
+d.W3@Y6A%T	A2_custom	Elliot_PT_irregular_verbs	Nós {ser} (present: we are)	Nós somos			Eu sou<br>Tu és<br>Ele/Ela é<br>Nós somos<br>Eles/Elas são				
+N/xf-F{NB9	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {ser} (present: they are)	Eles/Elas são			Eu sou<br>Tu és<br>Ele/Ela é<br>Nós somos<br>Eles/Elas são				
+e{vxtj!{lp	A2_custom	Elliot_PT_irregular_verbs	Eu {ser} (simple past: I was)	Eu fui			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+om9[^%p0p`	A2_custom	Elliot_PT_irregular_verbs	Tu {ser} (simple past: you were)	Tu foste			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+C@m+{U,f$H	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {ser} (simple past: he/she was)	Ele/Ela foi			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+e+ZeI46$Rw	A2_custom	Elliot_PT_irregular_verbs	Nós {ser} (simple past: we were)	Nós fomos			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+FE$RgE*+V&	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {ser} (simple past: they were)	Eles/Elas foram			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+OO?.AJLm}u	A2_custom	Elliot_PT_irregular_verbs	Eu {estar} (present: I am)	Eu estou			Eu estou<br>Tu estás<br>Ele/Ela está<br>Nós estamos<br>Eles/Elas estão				
+t2PEjz&gWk	A2_custom	Elliot_PT_irregular_verbs	Tu {estar} (present: you are)	Tu estás			Eu estou<br>Tu estás<br>Ele/Ela está<br>Nós estamos<br>Eles/Elas estão				
+j*[<I]qgR(	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {estar} (present: he/she is)	Ele/Ela está			Eu estou<br>Tu estás<br>Ele/Ela está<br>Nós estamos<br>Eles/Elas estão				
+l)yP,np=8V	A2_custom	Elliot_PT_irregular_verbs	Nós {estar} (present: we are)	Nós estamos			Eu estou<br>Tu estás<br>Ele/Ela está<br>Nós estamos<br>Eles/Elas estão				
+j;RU&i7*~i	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {estar} (present: they are)	Eles/Elas estão			Eu estou<br>Tu estás<br>Ele/Ela está<br>Nós estamos<br>Eles/Elas estão				
+lU2yCsU~,R	A2_custom	Elliot_PT_irregular_verbs	Eu {estar} (simple past: I was)	Eu estive			Eu estive<br>Tu estiveste<br>Ele/Ela esteve<br>Nós estivemos<br>Eles/Elas estiveram				
+BGot*A,HW(	A2_custom	Elliot_PT_irregular_verbs	Tu {estar} (simple past: you were)	Tu estiveste			Eu estive<br>Tu estiveste<br>Ele/Ela esteve<br>Nós estivemos<br>Eles/Elas estiveram				
+bpLs=E2Tpl	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {estar} (simple past: he/she was)	Ele/Ela esteve			Eu estive<br>Tu estiveste<br>Ele/Ela esteve<br>Nós estivemos<br>Eles/Elas estiveram				
+"FMWzqW#Zlg"	A2_custom	Elliot_PT_irregular_verbs	Nós {estar} (simple past: we were)	Nós estivemos			Eu estive<br>Tu estiveste<br>Ele/Ela esteve<br>Nós estivemos<br>Eles/Elas estiveram				
+x.%tgUW.h[	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {estar} (simple past: they were)	Eles/Elas estiveram			Eu estive<br>Tu estiveste<br>Ele/Ela esteve<br>Nós estivemos<br>Eles/Elas estiveram				
+z_Zdf*;xPY	A2_custom	Elliot_PT_irregular_verbs	Eu {ter} (present: I have)	Eu tenho			Eu tenho<br>Tu tens<br>Ele/Ela tem<br>Nós temos<br>Eles/Elas têm				
+CG7HK]biH)	A2_custom	Elliot_PT_irregular_verbs	Tu {ter} (present: you have)	Tu tens			Eu tenho<br>Tu tens<br>Ele/Ela tem<br>Nós temos<br>Eles/Elas têm				
+yX/6+z>AV9	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {ter} (present: he/she has)	Ele/Ela tem			Eu tenho<br>Tu tens<br>Ele/Ela tem<br>Nós temos<br>Eles/Elas têm				
+jItgLfXG./	A2_custom	Elliot_PT_irregular_verbs	Nós {ter} (present: we have)	Nós temos			Eu tenho<br>Tu tens<br>Ele/Ela tem<br>Nós temos<br>Eles/Elas têm				
+"K6!d?##{*4"	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {ter} (present: they have)	Eles/Elas têm			Eu tenho<br>Tu tens<br>Ele/Ela tem<br>Nós temos<br>Eles/Elas têm				
+bPSQ$k(3U]	A2_custom	Elliot_PT_irregular_verbs	Eu {ter} (simple past: I had)	Eu tive			Eu tive<br>Tu tiveste<br>Ele/Ela teve<br>Nós tivemos<br>Eles/Elas tiveram				
+tyc5F6uZV}	A2_custom	Elliot_PT_irregular_verbs	Tu {ter} (simple past: you had)	Tu tiveste			Eu tive<br>Tu tiveste<br>Ele/Ela teve<br>Nós tivemos<br>Eles/Elas tiveram				
+Al`u}G+uiN	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {ter} (simple past: he/she had)	Ele/Ela teve			Eu tive<br>Tu tiveste<br>Ele/Ela teve<br>Nós tivemos<br>Eles/Elas tiveram				
+j$mbQOT/J^	A2_custom	Elliot_PT_irregular_verbs	Nós {ter} (simple past: we had)	Nós tivemos			Eu tive<br>Tu tiveste<br>Ele/Ela teve<br>Nós tivemos<br>Eles/Elas tiveram				
+rq{2pBBa$@	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {ter} (simple past: they had)	Eles/Elas tiveram			Eu tive<br>Tu tiveste<br>Ele/Ela teve<br>Nós tivemos<br>Eles/Elas tiveram				
+P{;i(Ka!hq	A2_custom	Elliot_PT_irregular_verbs	Eu {ir} (present: I go)	Eu vou			Eu vou<br>Tu vais<br>Ele/Ela vai<br>Nós vamos<br>Eles/Elas vão				
+w+8HRF!aao	A2_custom	Elliot_PT_irregular_verbs	Tu {ir} (present: you go)	Tu vais			Eu vou<br>Tu vais<br>Ele/Ela vai<br>Nós vamos<br>Eles/Elas vão				
+O+<NbX`=h+	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {ir} (present: he/she goes)	Ele/Ela vai			Eu vou<br>Tu vais<br>Ele/Ela vai<br>Nós vamos<br>Eles/Elas vão				
+xS%yEqW;.y	A2_custom	Elliot_PT_irregular_verbs	Nós {ir} (present: we go)	Nós vamos			Eu vou<br>Tu vais<br>Ele/Ela vai<br>Nós vamos<br>Eles/Elas vão				
+k|g[e._Sq+	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {ir} (present: they go)	Eles/Elas vão			Eu vou<br>Tu vais<br>Ele/Ela vai<br>Nós vamos<br>Eles/Elas vão				
+x<Ix:d<mgM	A2_custom	Elliot_PT_irregular_verbs	Eu {ir} (simple past: I went)	Eu fui			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+DfV>NW^lhV	A2_custom	Elliot_PT_irregular_verbs	Tu {ir} (simple past: you went)	Tu foste			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+C_TY^s)a,{	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {ir} (simple past: he/she went)	Ele/Ela foi			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+o[B0D;MPK:	A2_custom	Elliot_PT_irregular_verbs	Nós {ir} (simple past: we went)	Nós fomos			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram<div>(same for SER)</div>				
+u1ttS.)NU~	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {ir} (simple past: they went)	Eles/Elas foram			Eu fui<br>Tu foste<br>Ele/Ela foi<br>Nós fomos<br>Eles/Elas foram				
+xOXb3fbUm^	A2_custom	Elliot_PT_irregular_verbs	Eu {fazer} (present: I do)	Eu faço			Eu faço<br>Tu fazes<br>Ele/Ela faz<br>Nós fazemos<br>Eles/Elas fazem				
+qo6X5nqsuV	A2_custom	Elliot_PT_irregular_verbs	Tu {fazer} (present: you do)	Tu fazes			Eu faço<br>Tu fazes<br>Ele/Ela faz<br>Nós fazemos<br>Eles/Elas fazem				
+"f3C[b7#VqF"	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {fazer} (present: he/she does)	Ele/Ela faz			Eu faço<br>Tu fazes<br>Ele/Ela faz<br>Nós fazemos<br>Eles/Elas fazem				
+kc@_KQ@RaB	A2_custom	Elliot_PT_irregular_verbs	Nós {fazer} (present: we do)	Nós fazemos			Eu faço<br>Tu fazes<br>Ele/Ela faz<br>Nós fazemos<br>Eles/Elas fazem				
+dA.c|HTOl0	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {fazer} (present: they do)	Eles/Elas fazem			Eu faço<br>Tu fazes<br>Ele/Ela faz<br>Nós fazemos<br>Eles/Elas fazem				
+O~&[jX?)c;	A2_custom	Elliot_PT_irregular_verbs	Eu {fazer} (simple past: I did)	Eu fiz			Eu fiz<br>Tu fizeste<br>Ele/Ela fez<br>Nós fizemos<br>Eles/Elas fizeram				
+"ey#}i_J{yn"	A2_custom	Elliot_PT_irregular_verbs	Tu {fazer} (simple past: you did)	Tu fizeste			Eu fiz<br>Tu fizeste<br>Ele/Ela fez<br>Nós fizemos<br>Eles/Elas fizeram				
+I,AIIvvN[:	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {fazer} (simple past: he/she did)	Ele/Ela fez			Eu fiz<br>Tu fizeste<br>Ele/Ela fez<br>Nós fizemos<br>Eles/Elas fizeram				
+n{-}B~&(9x	A2_custom	Elliot_PT_irregular_verbs	Nós {fazer} (simple past: we did)	Nós fizemos			Eu fiz<br>Tu fizeste<br>Ele/Ela fez<br>Nós fizemos<br>Eles/Elas fizeram				
+PEflifs)Fz	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {fazer} (simple past: they did)	Eles/Elas fizeram			Eu fiz<br>Tu fizeste<br>Ele/Ela fez<br>Nós fizemos<br>Eles/Elas fizeram				
+i58GV-6S%o	A2_custom	Elliot_PT_irregular_verbs	Eu {poder} (present: I can)	Eu posso			Eu posso<br>Tu podes<br>Ele/Ela pode<br>Nós podemos<br>Eles/Elas podem				
+st8vG2-NfI	A2_custom	Elliot_PT_irregular_verbs	Tu {poder} (present: you can)	Tu podes			Eu posso<br>Tu podes<br>Ele/Ela pode<br>Nós podemos<br>Eles/Elas podem				
+lRo*C5,/)E	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {poder} (present: he/she can)	Ele/Ela pode			Eu posso<br>Tu podes<br>Ele/Ela pode<br>Nós podemos<br>Eles/Elas podem				
+hxWLD]&^nD	A2_custom	Elliot_PT_irregular_verbs	Nós {poder} (present: we can)	Nós podemos			Eu posso<br>Tu podes<br>Ele/Ela pode<br>Nós podemos<br>Eles/Elas podem				
+p4-?V,hof+	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {poder} (present: they can)	Eles/Elas podem			Eu posso<br>Tu podes<br>Ele/Ela pode<br>Nós podemos<br>Eles/Elas podem				
+E.gnnn8<-[	A2_custom	Elliot_PT_irregular_verbs	Eu {poder} (simple past: I managed to)	Eu pude			Eu pude<br>Tu pudeste<br>Ele/Ela pôde<br>Nós pudemos<br>Eles/Elas puderam				
+fL!&C@%*r&	A2_custom	Elliot_PT_irregular_verbs	Tu {poder} (simple past: you managed to)	Tu pudeste			Eu pude<br>Tu pudeste<br>Ele/Ela pôde<br>Nós pudemos<br>Eles/Elas puderam				
+n|;qU3MOIZ	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {poder} (simple past: he/she managed to)	Ele/Ela pôde			Eu pude<br>Tu pudeste<br>Ele/Ela pôde<br>Nós pudemos<br>Eles/Elas puderam				
+rj7?EY>z{b	A2_custom	Elliot_PT_irregular_verbs	Nós {poder} (simple past: we managed to)	Nós pudemos			Eu pude<br>Tu pudeste<br>Ele/Ela pôde<br>Nós pudemos<br>Eles/Elas puderam				
+jfn)mB2WNH	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {poder} (simple past: they managed to)	Eles/Elas puderam			Eu pude<br>Tu pudeste<br>Ele/Ela pôde<br>Nós pudemos<br>Eles/Elas puderam				
+f>V&=65Cs2	A2_custom	Elliot_PT_irregular_verbs	Eu {querer} (present: I want)	Eu quero			Eu quero<br>Tu queres<br>Ele/Ela quer<br>Nós queremos<br>Eles/Elas querem				
+"c5sw*7+#a]"	A2_custom	Elliot_PT_irregular_verbs	Tu {querer} (present: you want)	Tu queres			Eu quero<br>Tu queres<br>Ele/Ela quer<br>Nós queremos<br>Eles/Elas querem				
+sk$%]C*F+N	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {querer} (present: he/she wants)	Ele/Ela quer			Eu quero<br>Tu queres<br>Ele/Ela quer<br>Nós queremos<br>Eles/Elas querem				
+d6bjMdNsA4	A2_custom	Elliot_PT_irregular_verbs	Nós {querer} (present: we want)	Nós queremos			Eu quero<br>Tu queres<br>Ele/Ela quer<br>Nós queremos<br>Eles/Elas querem				
+k*[,FfahW_	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {querer} (present: they want)	Eles/Elas querem			Eu quero<br>Tu queres<br>Ele/Ela quer<br>Nós queremos<br>Eles/Elas querem				
+M()20${Nd^	A2_custom	Elliot_PT_irregular_verbs	Eu {querer} (simple past: I tried to)	Eu quis			Eu quis<br>Tu quiseste<br>Ele/Ela quis<br>Nós quisemos<br>Eles/Elas quiseram				
+nhzE,PE:Ec	A2_custom	Elliot_PT_irregular_verbs	Tu {querer} (simple past: you tried to)	Tu quiseste			Eu quis<br>Tu quiseste<br>Ele/Ela quis<br>Nós quisemos<br>Eles/Elas quiseram				
+Eh<],`Xq:f	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {querer} (simple past: he/she tried to)	Ele/Ela quis			Eu quis<br>Tu quiseste<br>Ele/Ela quis<br>Nós quisemos<br>Eles/Elas quiseram				
+"hqJ*UI#WrU"	A2_custom	Elliot_PT_irregular_verbs	Nós {querer} (simple past: we tried to)	Nós quisemos			Eu quis<br>Tu quiseste<br>Ele/Ela quis<br>Nós quisemos<br>Eles/Elas quiseram				
+mSw$<,!@S.	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {querer} (simple past: they tried to)	Eles/Elas quiseram			Eu quis<br>Tu quiseste<br>Ele/Ela quis<br>Nós quisemos<br>Eles/Elas quiseram				
+wrJ>3W;2xe	A2_custom	Elliot_PT_irregular_verbs	Eu {dizer} (present: I say)	Eu digo			Eu digo<br>Tu dizes<br>Ele/Ela diz<br>Nós dizemos<br>Eles/Elas dizem				
+m,_uCum)!k	A2_custom	Elliot_PT_irregular_verbs	Tu {dizer} (present: you say)	Tu dizes			Eu digo<br>Tu dizes<br>Ele/Ela diz<br>Nós dizemos<br>Eles/Elas dizem				
+npXv(qUS/Y	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {dizer} (present: he/she says)	Ele/Ela diz			Eu digo<br>Tu dizes<br>Ele/Ela diz<br>Nós dizemos<br>Eles/Elas dizem				
+JoV6m)5ar5	A2_custom	Elliot_PT_irregular_verbs	Nós {dizer} (present: we say)	Nós dizemos			Eu digo<br>Tu dizes<br>Ele/Ela diz<br>Nós dizemos<br>Eles/Elas dizem				
+HnnR@J=hEO	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {dizer} (present: they say)	Eles/Elas dizem			Eu digo<br>Tu dizes<br>Ele/Ela diz<br>Nós dizemos<br>Eles/Elas dizem				
+cskSw^cZR-	A2_custom	Elliot_PT_irregular_verbs	Eu {dizer} (simple past: I said)	Eu disse			Eu disse<br>Tu disseste<br>Ele/Ela disse<br>Nós dissemos<br>Eles/Elas disseram				
+pEVMQ^2UIz	A2_custom	Elliot_PT_irregular_verbs	Tu {dizer} (simple past: you said)	Tu disseste			Eu disse<br>Tu disseste<br>Ele/Ela disse<br>Nós dissemos<br>Eles/Elas disseram				
+F%i{ROy5vX	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {dizer} (simple past: he/she said)	Ele/Ela disse			Eu disse<br>Tu disseste<br>Ele/Ela disse<br>Nós dissemos<br>Eles/Elas disseram				
+Pe3BdW/G+I	A2_custom	Elliot_PT_irregular_verbs	Nós {dizer} (simple past: we said)	Nós dissemos			Eu disse<br>Tu disseste<br>Ele/Ela disse<br>Nós dissemos<br>Eles/Elas disseram				
+k(lV=2@=Z}	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {dizer} (simple past: they said)	Eles/Elas disseram			Eu disse<br>Tu disseste<br>Ele/Ela disse<br>Nós dissemos<br>Eles/Elas disseram				
+B0nCgavf/l	A2_custom	Elliot_PT_irregular_verbs	Eu {saber} (present: I know)	Eu sei			Eu sei<br>Tu sabes<br>Ele/Ela sabe<br>Nós sabemos<br>Eles/Elas sabem				
+uQp+L1SAA2	A2_custom	Elliot_PT_irregular_verbs	Tu {saber} (present: you know)	Tu sabes			Eu sei<br>Tu sabes<br>Ele/Ela sabe<br>Nós sabemos<br>Eles/Elas sabem				
+i@75Svl<y{	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {saber} (present: he/she knows)	Ele/Ela sabe			Eu sei<br>Tu sabes<br>Ele/Ela sabe<br>Nós sabemos<br>Eles/Elas sabem				
+PIf<>N2g|*	A2_custom	Elliot_PT_irregular_verbs	Nós {saber} (present: we know)	Nós sabemos			Eu sei<br>Tu sabes<br>Ele/Ela sabe<br>Nós sabemos<br>Eles/Elas sabem				
+Fz4%x&=YNR	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {saber} (present: they know)	Eles/Elas sabem			Eu sei<br>Tu sabes<br>Ele/Ela sabe<br>Nós sabemos<br>Eles/Elas sabem				
+J-Pr^a{TLj	A2_custom	Elliot_PT_irregular_verbs	Eu {saber} (simple past: I found out)	Eu soube			Eu soube<br>Tu soubeste<br>Ele/Ela soube<br>Nós soubemos<br>Eles/Elas souberam				
+v26goo8h4n	A2_custom	Elliot_PT_irregular_verbs	Tu {saber} (simple past: you found out)	Tu soubeste			Eu soube<br>Tu soubeste<br>Ele/Ela soube<br>Nós soubemos<br>Eles/Elas souberam				
+FA|we[BmPT	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {saber} (simple past: he/she found out)	Ele/Ela soube			Eu soube<br>Tu soubeste<br>Ele/Ela soube<br>Nós soubemos<br>Eles/Elas souberam				
+AA`B~ZR4Zd	A2_custom	Elliot_PT_irregular_verbs	Nós {saber} (simple past: we found out)	Nós soubemos			Eu soube<br>Tu soubeste<br>Ele/Ela soube<br>Nós soubemos<br>Eles/Elas souberam				
+q2<kd,hgts	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {saber} (simple past: they found out)	Eles/Elas souberam			Eu soube<br>Tu soubeste<br>Ele/Ela soube<br>Nós soubemos<br>Eles/Elas souberam				
+ek)!@O8iME	A2_custom	Elliot_PT_irregular_verbs	Eu {dar} (present: I give)	Eu dou			Eu dou<br>Tu dás<br>Ele/Ela dá<br>Nós damos<br>Eles/Elas dão				
+czEcKee2o&	A2_custom	Elliot_PT_irregular_verbs	Tu {dar} (present: you give)	Tu dás			Eu dou<br>Tu dás<br>Ele/Ela dá<br>Nós damos<br>Eles/Elas dão				
+fk}nf1i&R8	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {dar} (present: he/she gives)	Ele/Ela dá			Eu dou<br>Tu dás<br>Ele/Ela dá<br>Nós damos<br>Eles/Elas dão				
+M>0LXk!i/Y	A2_custom	Elliot_PT_irregular_verbs	Nós {dar} (present: we give)	Nós damos			Eu dou<br>Tu dás<br>Ele/Ela dá<br>Nós damos<br>Eles/Elas dão				
+Aq-{@gdSs3	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {dar} (present: they give)	Eles/Elas dão			Eu dou<br>Tu dás<br>Ele/Ela dá<br>Nós damos<br>Eles/Elas dão				
+o9_],u(+;.	A2_custom	Elliot_PT_irregular_verbs	Eu {dar} (simple past: I gave)	Eu dei			Eu dei<br>Tu deste<br>Ele/Ela deu<br>Nós demos<br>Eles/Elas deram				
+w?Y+7fJ}Ry	A2_custom	Elliot_PT_irregular_verbs	Tu {dar} (simple past: you gave)	Tu deste			Eu dei<br>Tu deste<br>Ele/Ela deu<br>Nós demos<br>Eles/Elas deram				
+Os^a$EBLF&	A2_custom	Elliot_PT_irregular_verbs	Ele/Ela {dar} (simple past: he/she gave)	Ele/Ela deu			Eu dei<br>Tu deste<br>Ele/Ela deu<br>Nós demos<br>Eles/Elas deram				
+D{5TL)%&*v	A2_custom	Elliot_PT_irregular_verbs	Nós {dar} (simple past: we gave)	Nós demos			Eu dei<br>Tu deste<br>Ele/Ela deu<br>Nós demos<br>Eles/Elas deram				
+Fy-l[sN^}L	A2_custom	Elliot_PT_irregular_verbs	Eles/Elas {dar} (simple past: they gave)	Eles/Elas deram			Eu dei<br>Tu deste<br>Ele/Ela deu<br>Nós demos<br>Eles/Elas deram				

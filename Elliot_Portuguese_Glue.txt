@@ -1,0 +1,38 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#deck column:3
+#tags column:12
+Ad2sF(Q?t9	A2_custom	Elliot_Portuguese_Glue	I	Eu	Eu estava feliz	i was happy					
+"Iyq+Efp#rV"	A2_custom	Elliot_Portuguese_Glue	you (informal)	tu	Tu estás bem?	Are you good?	te, ti, contigo, teu / tua / teus / tuas				
+C_iKcH{sB6	A2_custom	Elliot_Portuguese_Glue	what / that	que	Que queres?	What do you want?	means what in questions, that when connecting to things				
+j?uo~)s:[{	A2_custom	Elliot_Portuguese_Glue	why	porque / porquê			ê on its own or at the end of short Q				
+FP339wmV(s	A2_custom	Elliot_Portuguese_Glue	where	onde							
+pfvJh6nFk-	A2_custom	Elliot_Portuguese_Glue	when	quando							
+rKUe{[-U+W	A2_custom	Elliot_Portuguese_Glue	who	quem							
+uGW&k=RXzp	A2_custom	Elliot_Portuguese_Glue	how	como (question)							
+h^/C0%XBgg	A2_custom	Elliot_Portuguese_Glue	which	qual&nbsp;							
+MW3orT&8.j	A2_custom	Elliot_Portuguese_Glue	how much	quanto							
+qL;LsszR|e	A2_custom	Elliot_Portuguese_Glue	how many	quantos							
+kSTdB0GO]j	A2_custom	Elliot_Portuguese_Glue	whose	de quem							
+B.k?tr!Wo!	A2_custom	Elliot_Portuguese_Glue	you<br>(polite)	você	Você quer café?	Do you want coffee?	"<em>você</em> is often dropped entirely since the verb form already indicates ""you"""				
+t.RL/cxkLP	A2_custom	Elliot_Portuguese_Glue	because / why	porque							
+fznP!>aXbH	A2_custom	Elliot_Portuguese_Glue	in / on / at	em							
+QvXeI`yis(	A2_custom	Elliot_Portuguese_Glue	or	ou							
+Px6=f@u=8U	A2_custom	Elliot_Portuguese_Glue	so (intensifier)	tão&nbsp;							
+Mv&5a0nmc7	A2_custom	Elliot_Portuguese_Glue	then / so	então			so as similar to 'then', not as an intensifier				
+cskKJttR*k	A2_custom	Elliot_Portuguese_Glue	such	tal							
+b^@(^.ys?e	A2_custom	Elliot_Portuguese_Glue	here (near me)	aqui	Eu moro aqui	I live here.					
+BRA54{q5{y	A2_custom	Elliot_Portuguese_Glue	there (near you)	aí	O que tens aí?	What do you have there?					
+ReSDWF?N&2	A2_custom	Elliot_Portuguese_Glue	over there (visible, not too far)	ali	Vês aquele homem ali?	Do you see that man over there?					
+Afu[+q`QCn	A2_custom	Elliot_Portuguese_Glue	there (far away, or not visible)	lá	Nunca fui lá.	I've never been there.					
+"cvq_q-W9#e"	A2_custom	Elliot_Portuguese_Glue	if	se	Nós iremos à praia se o tempo estiver bom.	We will go to the beach if the weather is good.					
+Qa{rdcsj`]	A2_custom	Elliot_Portuguese_Glue	only	só	Só havia uma menina entre as crianças.	There was only one girl among the children.					
+L^@+csWTp$	A2_custom	Elliot_Portuguese_Glue	so / then	então			means 'so' as a filler or like 'then', not as an intensifier				
+F^:TixJ2Bd	A2_custom	Elliot_Portuguese_Glue	of / from	de							
+LD>Nq6^i5^	A2_custom	Elliot_Portuguese_Glue	by / for / through	por							
+CA.TN]BS2)	A2_custom	Elliot_Portuguese_Glue	maybe	talvez							
+fN[pm=(&$^	A2_custom	Elliot_Portuguese_Glue	on / about	sobre			over / upon / above / across				
+t%^J_^sq>U	A2_custom	Elliot_Portuguese_Glue	some	alguns	eu quero uma boca	i want a mouth	this isn't relevant at all				
+c;!hU1{W*!	A2_custom	Elliot_Portuguese_Glue	like this / like that / this way	assim							
