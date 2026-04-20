@@ -14,7 +14,7 @@ em,in / on / at,,quem,who,,tu,ti,,eu,me,,,,,,dizer,to say / to tell,,bom / boa,g
 a,to / at,,de quem,whose,,você,si,,tu,te,,,tempo,weather / time,,falar,to speak,,mau / má,bad,,sempre,always
 para,for / to (destination),,onde,where,,(everything else),(unchanged),,ele/ela/você,se,,,sol,sun,,ver,to see / to watch,,bonito/a,pretty / nice-looking,,nunca,never
 por,by / through / for,,quando,when,,prep pronouns with com (fused form),,,nós,nos,,,chuva,rain,,dar,to give,,feio/a,ugly,,às vezes,sometimes
-com,with,,porque/ê,why,,comigo,com mim (with me),,eles/elas/vocês,se,,,frio,cold,,vir,to come,,novo/a,new / young,,muitas vezes,often
+com,with,,porquê,why,,comigo,com mim (with me),,eles/elas/vocês,se,,,frio,cold,,vir,to come,,novo/a,new / young,,muitas vezes,often
 sem,without,,como,how,,contigo,"com ti (with you, inf.)",,,,,,calor,heat,,ficar,to stay / to be located,,velho/a,old,,poucas vezes,rarely
 sobre,about / on top of,,qual ,which,,consigo,"com si (with you, form., or himself/herself)",,Possessives,,,,vento,wind,,chamar-se,to be called,,interessante,interesting,,normalmente,normally
 entre,between,,quais,which (plural),,connosco,com nós (with us),,Person,Masc.,Fem. ,,neve,snow,,morar,to live (reside),,aborrecido/a,boring / bored,,geralmente,generally
@@ -33,7 +33,7 @@ já,already / now,,,,,,,,,,,,mãe,mother,,escrever,to write,,antipático/a,unfri
 ainda,still / yet,,Yes / no response words,,,Contractions,,,,,,,filho/a,son / daughter,,ouvir,to hear / to listen,,alegre,cheerful,,em baixo,below / underneath
 cedo,early,,sim,yes,,,o,a,os,as,um,uma,irmão/irmã,brother / sister,,pensar,to think,,calmo/a,calm,,à frente,in front
 tarde,late,,não,no / not,,de,do,da,dos,das,dum,duma,amigo/a,friend,,perceber,to understand,,nervoso/a,nervous / anxious,,atrás,behind
-,,,talvez,maybe,,em,no,na,nos,nas,num,numa,homem,man,,achar,to think / to find (opinion),,tímido/a,shy,,,
+durante,during,,talvez,maybe,,em,no,na,nos,nas,num,numa,homem,man,,achar,to think / to find (opinion),,tímido/a,shy,,,
 ,,,claro,of course,,a,ao,à,aos,às,,,mulher,woman / wife,,precisar de,to need,,engraçado/a,funny,,bem,well
 Quantity / degree words,,,ok / está bem,ok,,por,pelo,pela,pelos,pelas,,,criança,child,,pedir,to ask for / to order,,inteligente,intelligent,,mal,badly
 muito,a lot / very,,pois,right / indeed (filler),,,,,,,,,senhor(a),sir / madam,,perguntar,to ask (a question),,preguiçoso/a,lazy,,assim,like this / so
@@ -44,38 +44,38 @@ tão,so,,Masculine,algum,alguns,,,,,,,,primo/a,cousin (m/f),,pagar,to pay,,respo
 bastante,quite / enough,,Feminine,alguma,algumas,,,,,,,,neto/a,grandson/daughter,,dever,must / should / to owe,,,,,sozinho/a,alone
 demasiado,too much,,,,,,,,,,,,marido,husband,,custar,to cost,,feliz,happy,,melhor,better
 todo / toda,all,,Numbers,,,Weekdays,,,Getting around,,,,esposa,wife,,gastar,to spend,,triste,sad,,pior,worse
-,,,zero,0,,segunda-feira,Monday,,à esquerda,to the left,,,namorado/a,boyfriend/girlfriend,,vender,to sell,,contente,glad / pleased,,,
-Indefinite pronouns & quantifiers,,,um / uma,1,,terça-feira,Tuesday,,à direita,to the right,,,bebé,baby,,trazer,to bring,,cansado/a,tired,,muito,a lot / very
-algo,something,,dois / duas,2,,quarta-feira,Wednesday,,em frente,straight ahead,,,,,,levar,to take / to carry,,doente,sick,,pouco,a little
-nada,nothing,,três,3,,quinta-feira,Thursday,,sempre em frente,straight ahead / keep going straight,,,,,,andar,to walk,,saudável,healthy,,mais,more
-alguém,someone,,quatro,4,,sexta-feira,Friday,,virar à esquerda,turn left,,,nome,name,,correr,to run,figurative,zangado/a,angry,,menos,less
-ninguém,nobody / no one,,cinco,5,,sábado,Saturday,,virar à direita,turn right,,,idade,age,,sair,to go out / to leave,,preocupado/a,worried,,bastante,quite / enough
-tudo,everything,,seis,6,,domingo,Sunday,,seguir,keep going / continue,,,morada,address,,chegar,to arrive,,ocupado/a,busy,,demasiado,too much
-outro/a,other / another,,sete,7,,fim de semana,weekend,,atravessar,to cross,,,número,number,,entrar,to enter,,livre,free,,quase,almost
-qualquer,any (of them) / whichever,,oito,8,,,,,atravessar a rua,to cross the street,,,profissão,profession,,voltar,to return,,nervoso/a,nervous / anxious,,só,only
-cada,each,,nove,9,,Months,,,ao lado de,next to,,,nacionalidade,nationality,,passar,to pass / to spend (time),,apaixonado/a,in love,,apenas,only / just
-vários/as,several,,dez,10,,janeiro,January,,perto de,near,,,língua,language,,viajar,to travel,,,,,também,also / too
-,,,onze,11,,fevereiro,February,,longe de,far from,,,,,,visitar,to visit,,magro/a,thin,,tão,so
-,,,doze,12,,março,March,,em frente de,opposite / facing,,,trabalho,work / job,,reservar,to reserve / to book,,gordo/a,fat,,,
+meio/a,half,,zero,0,,segunda-feira,Monday,,à esquerda,to the left,,,namorado/a,boyfriend/girlfriend,,vender,to sell,,contente,glad / pleased,,,
+,,,um / uma,1,,terça-feira,Tuesday,,à direita,to the right,,,bebé,baby,,trazer,to bring,,cansado/a,tired,,muito,a lot / very
+,,,dois / duas,2,,quarta-feira,Wednesday,,em frente,straight ahead,,,,,,levar,to take / to carry,,doente,sick,,pouco,a little
+Indefinite pronouns & quantifiers,,,três,3,,quinta-feira,Thursday,,sempre em frente,straight ahead / keep going straight,,,,,,andar,to walk,,saudável,healthy,,mais,more
+algo,something,,quatro,4,,sexta-feira,Friday,,virar à esquerda,turn left,,,nome,name,,correr,to run,figurative,zangado/a,angry,,menos,less
+nada,nothing,,cinco,5,,sábado,Saturday,,virar à direita,turn right,,,idade,age,,sair,to go out / to leave,,preocupado/a,worried,,bastante,quite / enough
+alguém,someone,,seis,6,,domingo,Sunday,,seguir,keep going / continue,,,morada,address,,chegar,to arrive,,ocupado/a,busy,,demasiado,too much
+ninguém,nobody / no one,,sete,7,,fim de semana,weekend,,atravessar,to cross,,,número,number,,entrar,to enter,,livre,free,,quase,almost
+tudo,everything,,oito,8,,,,,atravessar a rua,to cross the street,,,profissão,profession,,voltar,to return,,nervoso/a,nervous / anxious,,só,only
+outro/a,other / another,,nove,9,,Months,,,ao lado de,next to,,,nacionalidade,nationality,,passar,to pass / to spend (time),,apaixonado/a,in love,,apenas,only / just
+qualquer,any (of them) / whichever,,dez,10,,janeiro,January,,perto de,near,,,língua,language,,viajar,to travel,,,,,também,also / too
+cada,each,,onze,11,,fevereiro,February,,longe de,far from,,,,,,visitar,to visit,,magro/a,thin,,tão,so
+vários/as,several,,doze,12,,março,March,,em frente de,opposite / facing,,,trabalho,work / job,,reservar,to reserve / to book,,gordo/a,fat,,,
 ,,,treze,13,,abril,April,,entre,between,,,emprego,job,,usar,to use / to wear,,forte,strong,,sim,yes
 ,,,catorze,14,,maio,May,,na esquina,on the corner,,,empresa,company,,aprender,to learn,,fraco/a,weak,,não,no / not
 ,,,quinze,15,,junho,June,,a primeira rua,the first street,,,reunião,meeting,,ensinar,to teach,,jovem,young,,talvez,maybe
 ,,,dezasseis,16,,julho,July,,a segunda rua,the second street,,,escola,school,,explicar,to explain,,idoso/a,elderly,,claro,of course
 "to add somewhere, not sure where?",,,dezassete,17,,agosto,August,,o cruzamento,the crossroads / intersection,,,aula,class / lesson,,mostrar,to show,,careca,bald,,provavelmente,probably
 através,through / via,,dezoito,18,,setembro,September,,o semáforo,the traffic light,,,professor(a),teacher,,começar,to start,,barbudo/a,bearded,,,
-,,,dezanove,19,,outubro,October,,a paragem de autocarro,the bus stop,,,aluno/a,student,,acabar,to finish,,,,,,
-,,,vinte,20,,novembro,November,,a estação,the station,,,,,,continuar,to continue,,branco/a,white,,,
-,,,trinta,30,,dezembro,December,,o mapa,the map,,,casa,house / home,,parar,to stop,,preto/a,black,,,
-,,,quarenta,40,,mês,month,,onde fica ...?,where is ...?,,,apartamento,apartment,,esperar,to wait / to hope,,vermelho/a,red,,,
-,,,cinquenta,50,,ano,year,,como vou para ...?,how do I get to ...?,,,quarto,bedroom / room,,encontrar,to find / to meet,,azul,blue,,,
-,,,sessenta,60,,,,,,,,,sala,living room,,procurar,to look for,,verde,green,,,
-,,,setenta,70,,Greetings,,,,,,,cozinha,kitchen,,perder,to lose / to miss,,amarelo/a,yellow,,,
-,,,oitenta,80,,olá,hi / hello,,,,,,casa de banho,bathroom,,ganhar,to win / to earn,,cor-de-rosa,pink,,,
-,,,noventa,90,,bom dia,good morning,,,,,,porta,door,,abrir,to open,,cor-de-laranja,orange,,,
+Já agora,by the way / while we're at it,,dezanove,19,,outubro,October,,a paragem de autocarro,the bus stop,,,aluno/a,student,,acabar,to finish,,,,,,
+emprestar,to lend,on CIPLE,vinte,20,,novembro,November,,a estação,the station,,,,,,continuar,to continue,,branco/a,white,,,
+daqui,from now (time),on CIPLE,trinta,30,,dezembro,December,,o mapa,the map,,,casa,house / home,,parar,to stop,,preto/a,black,,,
+no entanto,however,,quarenta,40,,mês,month,,onde fica ...?,where is ...?,,,apartamento,apartment,,esperar,to wait / to hope,,vermelho/a,red,,,
+enquanto,while,,cinquenta,50,,ano,year,,como vou para ...?,how do I get to ...?,,,quarto,bedroom / room,,encontrar,to find / to meet,,azul,blue,,,
+por isso,for this reason,,sessenta,60,,,,,,,,,sala,living room,,procurar,to look for,,verde,green,,,
+do que,than,,setenta,70,,Greetings,,,,,,,cozinha,kitchen,,perder,to lose / to miss,,amarelo/a,yellow,,,
+nem,nor,,oitenta,80,,olá,hi / hello,,,,,,casa de banho,bathroom,,ganhar,to win / to earn,,cor-de-rosa,pink,,,
+vez,time (instance),,noventa,90,,bom dia,good morning,,,,,,porta,door,,abrir,to open,,cor-de-laranja,orange,,,
 ,,,cem / cento,100,,boa tarde,good afternoon,,,,,,janela,window,,fechar,to close,,castanho/a,brown,,,
 ,,,duzentos,200,,boa noite,good evening / night,,,,,,mesa,table,,escolher,to choose,,cinzento/a,grey,,,
 ,,,trezentos,300,,adeus,goodbye,,,,,,cadeira,chair,,decidir,to decide,,roxo/a,purple,,,
-,,,quatrocentos,400,,tchau,bye,,,,,,cama,bed,,mudar,to change / to move,,,,,,
+,,,quatrocentos,400,,tchau,bye,,,,,,cama,bed,,mudar (de),to change / to move,,,,,,
 ,,,quinhentos,500,,até logo,see you later,,,,,,,,,cozinhar,to cook,,quente,hot,,,
 ,,,seiscentos,600,,até já,see you soon,,,,,,comida,food,,lavar,to wash,,frio/a,cold,,,
 ,,,setecentos,700,,até amanhã,see you tomorrow,,,,,,água,water,,limpar,to clean,,fresco/a,cool / fresh,,,
@@ -88,7 +88,7 @@ através,through / via,,dezoito,18,,setembro,September,,o semáforo,the traffic 
 ,,,quarto,4th,,tudo bem?,all good?,,,,,,carne,meat,,sentir-se,to feel,,doce,sweet,,,
 ,,,quinto,5th,,prazer em conhecer-te,pleased to meet you (inf),,,,,,peixe,fish,,doer,to hurt,,salgado/a,salty,,,
 ,,,sexto,6th,,prazer em conhecê-lo/la,pleased to meet you (form),,,,,,arroz,rice,,tentar,to try,,amargo/a,bitter,,,
-,,,sétimo,7th,,,,,,,,,batata,potato,,conseguir,to manage / to be able,,picante,spicy,,,
+,,,sétimo,7th,,bem-vindo/a/os/as,welcome,,,,,,batata,potato,,conseguir,to manage / to be able,,picante,spicy,,,
 ,,,oitavo,8th,,,,,,,,,ovo,egg,,costumar,to usually (do),,fresco/a,fresh,,,
 ,,,nono,9th,,,,,,,,,queijo,cheese,,demorar,to take (time),,gelado/a,frozen / very cold,,,
 ,,,décimo,10th,,,,,,,,,sopa,soup,,chover,to rain,,delicioso/a,delicious,,,
@@ -120,8 +120,8 @@ através,through / via,,dezoito,18,,setembro,September,,o semáforo,the traffic 
 ,,,,,,,,,,,,,loja,shop,,oferecer,to offer,,falso/a,false,,,
 ,,,,,,,,,,,,,supermercado,supermarket,,nadar,to swim,,igual,equal / same,,,
 ,,,,,,,,,,,,,mercado,market,,morrer,to die,,diferente,different,,,
-,,,,,,,,,,,,,banco,bank,,,,,mesmo/a,same,,,
-,,,,,,,,,,,,,,,,,,,próprio/a,own,,,
+,,,,,,,,,,,,,banco,bank,,perceber,to understand / get it,,mesmo/a,same,,,
+,,,,,,,,,,,,,,,,buscar,to get,(used with ir),próprio/a,own,,,
 ,,,,,,,,,,,,,correios,post office,,,,,possível,possible,,,
 ,,,,,,,,,,,,,farmácia,pharmacy,,,,,impossível,impossible,,,
 ,,,,,,,,,,,,,hospital,hospital,,,,,,,,,
@@ -262,3 +262,5 @@ através,through / via,,dezoito,18,,setembro,September,,o semáforo,the traffic 
 ,,,,,,,,,,,,,ideia,idea,,,,,,,,,
 ,,,,,,,,,,,,,problema,problem,,,,,,,,,
 ,,,,,,,,,,,,,presente,gift / present,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,dúvida,doubt,if you have any doubt... (used often instead of 'any question'),,,,,,,,
