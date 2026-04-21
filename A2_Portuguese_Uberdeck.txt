@@ -8,7 +8,7 @@ A2_custom	mas	but	Gosto de viajar, mas não tenho dinheiro.	I like to travel, bu
 A2_custom	porque	because	Fico em casa porque está a chover muito.	I'm staying home because it's raining a lot.	Conjunction (attached: <strong>porque</strong>). Question word is <strong>porquê</strong>.			[sound:1000_porque.mp3]	conjunction uberA2
 A2_custom	então	so / then	Estou cansado. Então vou para casa.	I'm tired. So I'm going home.				[sound:1000_então.mp3]	conjunction uberA2
 A2_custom	quando	when	Quando chego a casa, jantamos juntos.	When I get home, we have dinner together.	Also a question word: <strong>Quando chegas?</strong>			[sound:1000_quando.mp3]	conjunction time uberA2
-A2_custom	se	if	Se chover amanhã, ficamos em casa.	If it rains tomorrow, we stay home.	Also a reflexive pronoun: <strong>ela chama-se Ana</strong>.			[sound:1000_se.mp3]	conjunction uberA2
+A2_custom	se	if	Se chover amanhã, ficamos em casa.	If it rains tomorrow, we stay home.	Subordinating conjunction. Triggers the subjunctive in future contexts: <em>se chover amanhã</em>. (The reflexive pronoun <strong>se</strong> has its own card.)			[sound:1000_se.mp3]	conjunction uberA2
 A2_custom	durante	during	Durmo mal durante o verão por causa do calor.	I sleep badly during the summer because of the heat.				[sound:1000_durante.mp3]	preposition time uberA2
 A2_custom	através	through / via	Soube da notícia através do jornal.	I heard the news through the newspaper.	Usually with <strong>de</strong>: <strong>através de</strong>.			[sound:1000_através.mp3]	preposition uberA2
 A2_custom	no entanto	however	Está a chover; no entanto, vou sair.	It's raining; however, I'm going out.					conjunction uberA2
@@ -27,20 +27,20 @@ A2_custom	sobre	on / about	O livro está sobre a mesa.	The book is on the table.
 A2_custom	entre	between / among	A farmácia fica entre o banco e o café.	The pharmacy is between the bank and the café.				[sound:1000_entre.mp3]	preposition uberA2
 A2_custom	até	until / up to / even	Fico aqui até às cinco da tarde.	I'm staying here until five in the afternoon.	"Also means ""even"": <strong>até eu sei fazer isso</strong>."			[sound:1000_até.mp3]	preposition uberA2
 A2_custom	o	the (m)	O café está quente demais para mim.	The coffee is too hot for me.	Masculine definite article. Plural: <strong>os</strong>. Feminine: <strong>a</strong>. Contracts with prepositions (ao, do, no, pelo).			[sound:1000_o.mp3]	article uberA2
-A2_custom	a	the (f)	A casa nova dos meus pais é grande.	My parents' new house is big.	"Feminine definite article. Plural: <strong>as</strong>. Masculine: <strong>o</strong>. Also preposition ""to""."			[sound:1000_a.mp3]	article uberA2
+A2_custom	a	the (f)	A casa nova dos meus pais é grande.	My parents' new house is big.	Feminine definite article. Plural: <strong>as</strong>. Masculine: <strong>o</strong>. (The preposition <strong>a</strong> = to/at has its own card.)			[sound:1000_a.mp3]	article uberA2
 A2_custom	os	the (m. pl.)	Os meninos estão na escola até às três.	The boys are at school until three.	Masculine plural. Singular: <strong>o</strong>. Also direct-object pronoun (I see them: <strong>vejo-os</strong>).				article uberA2
 A2_custom	as	the (f. pl.)	As minhas irmãs estão a ler no jardim.	My sisters are reading in the garden.	Feminine plural. Singular: <strong>a</strong>.				article uberA2
-A2_custom	um	a / one (m)	Quero um café, por favor.	I'd like a coffee, please.	Feminine: <strong>uma</strong>. Plural: <strong>uns</strong>. Also the number 1.			[sound:1000_um.mp3]	article numeral uberA2
+A2_custom	um	a / one (m)	Quero um café, por favor.	I'd like a coffee, please.	"Feminine: <strong>uma</strong>. Plural: <strong>uns</strong>. Also used as the numeral ""one""."			[sound:1000_um.mp3]	article numeral uberA2
 A2_custom	uma	a / one (f)	Tenho uma irmã mais nova e dois irmãos.	I have a younger sister and two brothers.	Masculine: <strong>um</strong>. Plural: <strong>umas</strong>.			[sound:1000_uma.mp3]	article numeral uberA2
 A2_custom	uns	some (m. pl.)	Comprei uns livros na feira ontem.	I bought some books at the market yesterday.	"Feminine: <strong>umas</strong>. Means ""a few / some""."				article uberA2
 A2_custom	umas	some (f. pl.)	Vi umas amigas antigas na festa.	I saw some old friends at the party.	Masculine: <strong>uns</strong>.				article uberA2
-A2_custom	que	what / that	Que queres fazer hoje à noite?	What do you want to do tonight?	"Doubles as conjunction ""that"" (<strong>Sei que é verdade</strong>) and relative pronoun (<strong>o livro que li</strong>)."			[sound:1000_que.mp3]	pronoun question uberA2
+A2_custom	que	what	Que queres fazer hoje à noite?	What do you want to do tonight?	Question word. Also serves as relative pronoun: <em>o livro que li</em> (the book that I read). (The subordinating conjunction <strong>que</strong> = that has its own card.)			[sound:1000_que.mp3]	pronoun question uberA2
 A2_custom	o que	what (emphatic)	O que é que fazes ao fim de semana?	What do you do on weekends?	Slightly stronger than <strong>que</strong> alone. Often paired with <strong>é que</strong>.				pronoun question uberA2
 A2_custom	quem	who / whom	Quem é aquela pessoa ao pé da porta?	Who is that person by the door?	Invariable — no gender/number.			[sound:1000_quem.mp3]	pronoun question uberA2
 A2_custom	de quem	whose	De quem é este casaco?	Whose coat is this?	"Literally ""of whom""."				phrase question uberA2
 A2_custom	onde	where	Onde mora o teu irmão mais velho?	Where does your older brother live?	With direction: <strong>aonde</strong> (to where, colloquial).			[sound:1000_onde.mp3]	adverb question uberA2
 A2_custom	porquê	why	Porquê essa cara triste?	Why that sad face?	Question word (stressed on final syllable). Don't confuse with conjunction <strong>porque</strong> (because).				adverb question uberA2
-A2_custom	como	how	Como vais para o trabalho todos os dias?	How do you get to work every day?	"Also means ""as / like"" in comparisons: <strong>falo como um português</strong>."			[sound:1000_como.mp3]	adverb question uberA2
+A2_custom	como	how	Como vais para o trabalho todos os dias?	How do you get to work every day?	"Also means ""as / like"" — that usage has its own card."			[sound:1000_como.mp3]	adverb question uberA2
 A2_custom	qual	which	Qual é a tua cor preferida?	What is your favourite colour?	Plural: <strong>quais</strong>. Picks one out of a known set.			[sound:1000_qual.mp3]	pronoun question uberA2
 A2_custom	quais	which (pl.)	Quais são os teus livros preferidos?	Which are your favourite books?	Plural of <strong>qual</strong>.				pronoun question uberA2
 A2_custom	quanto	how much	Quanto custa este livro?	How much does this book cost?	Agrees with noun: <strong>quanto/a/os/as</strong>.			[sound:1000_quanto.mp3]	adverb question uberA2
@@ -94,7 +94,7 @@ A2_custom	algum	some	Tens algum dinheiro para o táxi?	Do you have some money fo
 A2_custom	sim	yes	Sim, conheço bem o Porto.	Yes, I know Porto well.				[sound:1000_sim.mp3]	interjection uberA2
 A2_custom	não	no / not	Não quero ir agora, prefiro mais tarde.	I don't want to go now, I prefer later.	"Placed before the verb to negate. Also used alone as ""no""."			[sound:1000_não.mp3]	adverb uberA2
 A2_custom	talvez	maybe / perhaps	Talvez chova amanhã de manhã.	Maybe it will rain tomorrow morning.	Often triggers the subjunctive (<em>talvez chova, talvez seja…</em>).			[sound:1000_talvez.mp3]	adverb uberA2
-A2_custom	claro	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	"Also an adjective meaning ""clear / light in colour"" (fem. <strong>clara</strong>): <em>camisa azul clara</em>."			[sound:1000_claro.mp3]	interjection uberA2
+A2_custom	claro	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	Interjection expressing agreement/affirmation. (The adjective <strong>claro</strong> = clear/light has its own card.)			[sound:1000_claro.mp3]	interjection uberA2
 A2_custom	pois	right / indeed	Pois é, tens toda a razão.	Right, you're absolutely correct.	Very common EP filler expressing agreement or acknowledgement.			[sound:1000_pois.mp3]	interjection uberA2
 A2_custom	ok	OK	Está bem, faço isso amanhã de manhã.	OK, I'll do that tomorrow morning.	Informal. Standard PT: <strong>está bem</strong>.				interjection uberA2
 A2_custom	zero	zero	O termómetro marca zero graus.	The thermometer reads zero degrees.					numeral number uberA2
@@ -296,7 +296,7 @@ A2_custom	o professor	teacher	O professor de matemática é muito bom.	The maths
 A2_custom	o aluno	student	Os alunos estão a estudar para o exame.	The students are studying for the exam.	Feminine: <strong>aluna</strong>.			[sound:1000_aluno.mp3]	noun school uberA2
 A2_custom	a casa	house / home	A minha casa fica perto da praia.	My house is near the beach.	(f)			[sound:1000_casa.mp3]	noun home uberA2
 A2_custom	o apartamento	apartment / flat	Moro num apartamento no segundo andar.	I live in an apartment on the second floor.	(m)				noun home uberA2
-A2_custom	o quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	"(m). Also the ordinal ""fourth"" / 4º (fem. <strong>quarta</strong>): <em>abril é o quarto mês</em>."			[sound:1000_quarto.mp3]	noun home uberA2
+A2_custom	o quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	(m). (The ordinal <strong>quarto</strong> = fourth has its own card.)			[sound:1000_quarto.mp3]	noun home uberA2
 A2_custom	a sala	living room	Temos duas televisões: uma na sala e outra no quarto.	We have two TVs: one in the living room and another in the bedroom.	(f) Full form: <em>sala de estar</em>.			[sound:1000_sala.mp3]	noun home uberA2
 A2_custom	a cozinha	kitchen	Passo muito tempo na cozinha aos fins de semana.	I spend a lot of time in the kitchen on weekends.	(f) Also the verb <em>cozinhar</em> (to cook).				noun home uberA2
 A2_custom	a casa de banho	bathroom	A casa de banho é ao fundo do corredor.	The bathroom is at the end of the hallway.	(f) EP; BR: <strong>banheiro</strong>.				noun home uberA2
@@ -692,7 +692,7 @@ A2_custom	castanho	brown	Tenho os olhos castanhos.	I have brown eyes.	Feminine: 
 A2_custom	cinzento	grey	O céu está cinzento hoje.	The sky is grey today.	Feminine: <strong>cinzenta</strong>. BR: <strong>cinza</strong> (invariable).				adjective color uberA2
 A2_custom	roxo	purple	As uvas roxas são doces.	Purple grapes are sweet.	Feminine: <strong>roxa</strong>.				adjective color uberA2
 A2_custom	quente	hot	Esta sopa está muito quente.	This soup is very hot.	Same for m/f.				adjective weather uberA2
-A2_custom	frio	cold	A água do mar está fria hoje.	The sea water is cold today.	Feminine: <strong>fria</strong>. Also a masculine noun meaning cold (weather / sensation): <em>tenho frio</em>, <em>o frio é intenso</em>.				adjective weather uberA2
+A2_custom	frio	cold	A água do mar está fria hoje.	The sea water is cold today.	Feminine: <strong>fria</strong>. (The masculine noun <strong>o frio</strong> = cold weather/sensation has its own card.)				adjective weather uberA2
 A2_custom	fresco	cool / fresh	Uma brisa fresca vinha do mar.	A cool breeze came from the sea.	"Feminine: <strong>fresca</strong>. Both ""cool (temp)"" and ""fresh (not stale)""."				adjective weather uberA2
 A2_custom	seco	dry	A roupa já está seca.	The clothes are already dry.	Feminine: <strong>seca</strong>.				adjective weather uberA2
 A2_custom	húmido	humid / damp	O tempo está húmido hoje.	The weather is humid today.	Feminine: <strong>húmida</strong>. EP; BR: <strong>úmido</strong>.				adjective weather uberA2
@@ -737,3 +737,10 @@ A2_custom	italiano	Italian	A comida italiana é a minha preferida.	Italian food 
 A2_custom	americano	American	Os turistas americanos gostam de Lisboa.	American tourists like Lisbon.	Feminine: <strong>americana</strong>.				adjective nationality uberA2
 A2_custom	chinês	Chinese	Há um restaurante chinês perto de casa.	There's a Chinese restaurant near home.	Feminine: <strong>chinesa</strong>. Plural: <strong>chineses/chinesas</strong>.				adjective nationality uberA2
 A2_custom	africano	African	Visitei vários países africanos.	I visited several African countries.	Feminine: <strong>africana</strong>.				adjective nationality uberA2
+A2_custom	a (preposition)	to / at	Vou a Lisboa amanhã de comboio.	I'm going to Lisbon tomorrow by train.	Contracts with articles: <strong>a + o/a/os/as = ao, à, aos, às</strong>. Also the feminine article <strong>a</strong>.			[sound:1000_a.mp3]	preposition uberA2
+A2_custom	quarto (ordinal)	fourth	Abril é o quarto mês do ano.	April is the fourth month of the year.	Feminine: <strong>quarta</strong>. Also the masculine noun <strong>o quarto</strong> (bedroom / room).			[sound:1000_quarto.mp3]	numeral ordinal uberA2
+A2_custom	claro (adjective)	light / clear	Prefiro a camisa azul clara.	I prefer the light blue shirt.	"Feminine: <strong>clara</strong>. Also the interjection <strong>claro</strong> (""of course"")."			[sound:1000_claro.mp3]	adjective color uberA2
+A2_custom	o frio	cold (noun)	No inverno, o frio é intenso no norte.	In winter, the cold is intense in the north.	(m). Also the adjective <strong>frio/a</strong> (cold): <em>água fria</em>. Common idiom: <em>tenho frio</em> = I feel cold.				noun weather uberA2
+A2_custom	que (conjunction)	that	Acho que vai chover esta tarde.	I think (that) it's going to rain this afternoon.	Subordinating conjunction introducing clauses. Often untranslated in English. Also the question word <strong>que</strong> (what) and the relative pronoun (<em>o livro que li</em>).			[sound:1000_que.mp3]	conjunction uberA2
+A2_custom	se (reflexive)	himself / herself / yourself (formal) / themselves	Ela chama-se Ana e levanta-se cedo.	Her name is Ana and she gets up early.	3rd-person reflexive pronoun (sg. and pl.) and formal-you reflexive. Attached to the verb with a hyphen in affirmative: <em>lava-se, senta-se</em>. Proclitic after <strong>não, que, quando, porque</strong>: <em>não se lava</em>. Also the conjunction <strong>se</strong> (if).			[sound:1000_se.mp3]	pronoun grammar uberA2
+A2_custom	como (not in question)	as / like	Falo como um português.	I speak like a Portuguese person.	Used for comparisons. Also the question word <strong>como</strong> (how).			[sound:1000_como.mp3]	adverb uberA2
