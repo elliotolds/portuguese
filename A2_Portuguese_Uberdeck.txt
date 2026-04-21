@@ -94,7 +94,7 @@ A2_custom	algum	some	Tens algum dinheiro para o táxi?	Do you have some money fo
 A2_custom	sim	yes	Sim, conheço bem o Porto.	Yes, I know Porto well.				[sound:1000_sim.mp3]	interjection
 A2_custom	não	no / not	Não quero ir agora, prefiro mais tarde.	I don't want to go now, I prefer later.	"Placed before the verb to negate. Also used alone as ""no""."			[sound:1000_não.mp3]	adverb
 A2_custom	talvez	maybe / perhaps	Talvez vá à festa hoje à noite.	Maybe I'll go to the party tonight.	Often triggers the subjunctive.			[sound:1000_talvez.mp3]	adverb
-A2_custom	claro	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	"Also an adjective meaning ""clear / light (in colour)""."			[sound:1000_claro.mp3]	interjection
+A2_custom	claro	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	"Also an adjective meaning ""clear / light (in colour)"".<div>Also an adjective meaning ""clear / light in colour"" (fem. <strong>clara</strong>): <em>camisa azul clara</em>.</div>"			[sound:1000_claro.mp3]	interjection
 A2_custom	pois	right / indeed	Pois é, tens toda a razão.	Right, you're absolutely correct.	Very common EP filler expressing agreement or acknowledgement.			[sound:1000_pois.mp3]	interjection
 A2_custom	ok	OK	Está bem, faço isso amanhã de manhã.	OK, I'll do that tomorrow morning.	Informal. Standard PT: <strong>está bem</strong>.				interjection
 A2_custom	zero	zero	O termómetro marca zero graus.	The thermometer reads zero degrees.					numeral number
@@ -137,7 +137,6 @@ A2_custom	mil	thousand	Este carro custa vinte mil euros.	This car costs twenty t
 A2_custom	primeiro	first	Ele foi o primeiro a chegar à festa.	He was the first to arrive at the party.	Feminine: <strong>primeira</strong>.			[sound:1000_primeiro.mp3]	numeral ordinal
 A2_custom	segundo	second	Cheguei em segundo lugar na corrida.	I came in second place in the race.	"Feminine: <strong>segunda</strong>. Also means ""according to"": <strong>segundo ele</strong>."			[sound:1000_segundo.mp3]	numeral ordinal
 A2_custom	terceiro	third	Moro no terceiro andar.	I live on the third floor.	Feminine: <strong>terceira</strong>.			[sound:1000_terceiro.mp3]	numeral ordinal
-A2_custom	quarto	fourth	Abril é o quarto mês do ano.	April is the fourth month of the year.	Feminine: <strong>quarta</strong>. Also the noun <strong>quarto</strong> (bedroom).			[sound:1000_quarto.mp3]	numeral ordinal
 A2_custom	quinto	fifth	Este é o quinto livro que leio este ano.	This is the fifth book I've read this year.	Feminine: <strong>quinta</strong>.				numeral ordinal
 A2_custom	sexto	sixth	Junho é o sexto mês.	June is the sixth month.	Feminine: <strong>sexta</strong>.				numeral ordinal
 A2_custom	sétimo	seventh	Vivo no sétimo andar de um prédio.	I live on the seventh floor of a building.	Feminine: <strong>sétima</strong>.				numeral ordinal
@@ -297,7 +296,7 @@ A2_custom	professor	teacher	O professor de matemática é muito bom.	The maths t
 A2_custom	aluno	student	Os alunos estão a estudar para o exame.	The students are studying for the exam.	Feminine: <strong>aluna</strong>.			[sound:1000_aluno.mp3]	noun school
 A2_custom	casa	house / home	A minha casa fica perto da praia.	My house is near the beach.	(f)			[sound:1000_casa.mp3]	noun home
 A2_custom	apartamento	apartment / flat	Moro num apartamento no segundo andar.	I live in an apartment on the second floor.	(m)				noun home
-A2_custom	quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	"(m) Also the ordinal ""fourth""."			[sound:1000_quarto.mp3]	noun home
+A2_custom	quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	"(m) Also the ordinal ""fourth"".<div>Also the ordinal ""fourth"" / 4º (fem. <strong>quarta</strong>): <em>abril é o quarto mês</em>.</div>"			[sound:1000_quarto.mp3]	noun home
 A2_custom	sala	living room	Temos duas televisões: uma na sala e outra no quarto.	We have two TVs: one in the living room and another in the bedroom.	(f) Full form: <em>sala de estar</em>.			[sound:1000_sala.mp3]	noun home
 A2_custom	cozinha	kitchen	Passo muito tempo na cozinha aos fins de semana.	I spend a lot of time in the kitchen on weekends.	(f) Also the verb <em>cozinhar</em> (to cook).				noun home
 A2_custom	casa de banho	bathroom	A casa de banho é ao fundo do corredor.	The bathroom is at the end of the hallway.	(f) EP; BR: <strong>banheiro</strong>.				noun home
@@ -403,7 +402,6 @@ A2_custom	tempo	time / weather	O tempo está ótimo hoje.	The weather is great t
 A2_custom	aniversário	birthday / anniversary	Os meus amigos fizeram-me uma festa de aniversário.	My friends threw me a birthday party.	(m)				noun time
 A2_custom	sol	sun	Hoje está muito sol.	It's very sunny today.	(m) <em>Estar sol</em> = to be sunny.				noun weather
 A2_custom	chuva	rain	A chuva não para desde ontem.	The rain hasn't stopped since yesterday.	(f) Verb: <strong>chover</strong>.				noun weather
-A2_custom	frio	cold	No inverno, o frio é intenso no norte.	In winter, the cold is intense in the north.	(m) Also adjective: <em>água fria</em>.				noun weather
 A2_custom	calor	heat	Este calor é insuportável.	This heat is unbearable.	(m) <em>Ter calor</em> = to feel hot.				noun weather
 A2_custom	vento	wind	Há muito vento hoje.	There's a lot of wind today.	(m)				noun weather
 A2_custom	neve	snow	A neve cobriu as montanhas.	The snow covered the mountains.	(f)				noun weather
@@ -694,7 +692,7 @@ A2_custom	castanho	brown	Tenho os olhos castanhos.	I have brown eyes.	Feminine: 
 A2_custom	cinzento	grey	O céu está cinzento hoje.	The sky is grey today.	Feminine: <strong>cinzenta</strong>. BR: <strong>cinza</strong> (invariable).				adjective color
 A2_custom	roxo	purple	As uvas roxas são doces.	Purple grapes are sweet.	Feminine: <strong>roxa</strong>.				adjective color
 A2_custom	quente	hot	Esta sopa está muito quente.	This soup is very hot.	Same for m/f.				adjective weather
-A2_custom	frio	cold	A água do mar está fria hoje.	The sea water is cold today.	Feminine: <strong>fria</strong>. Also noun: <strong>o frio</strong>.				adjective weather
+A2_custom	frio	cold	A água do mar está fria hoje.	The sea water is cold today.	Feminine: <strong>fria</strong>. Also noun: <strong>o frio</strong>.<div>Also a masculine noun meaning cold (as weather / sensation): <em>tenho frio</em>, <em>o frio é intenso</em>.</div>				adjective weather
 A2_custom	fresco	cool / fresh	Uma brisa fresca vinha do mar.	A cool breeze came from the sea.	"Feminine: <strong>fresca</strong>. Both ""cool (temp)"" and ""fresh (not stale)""."				adjective weather
 A2_custom	seco	dry	A roupa já está seca.	The clothes are already dry.	Feminine: <strong>seca</strong>.				adjective weather
 A2_custom	húmido	humid / damp	O tempo está húmido hoje.	The weather is humid today.	Feminine: <strong>húmida</strong>. EP; BR: <strong>úmido</strong>.				adjective weather
@@ -715,7 +713,6 @@ A2_custom	rápido	fast / quick	O comboio é rápido e confortável.	The train is
 A2_custom	lento	slow	A internet está lenta hoje.	The internet is slow today.	Feminine: <strong>lenta</strong>.				adjective
 A2_custom	limpo	clean	A cozinha está limpa.	The kitchen is clean.	Feminine: <strong>limpa</strong>.				adjective
 A2_custom	sujo	dirty	Os sapatos estão sujos de lama.	The shoes are dirty with mud.	Feminine: <strong>suja</strong>.				adjective
-A2_custom	claro	light / clear	Prefiro a camisa azul clara.	I prefer the light blue shirt.	"Feminine: <strong>clara</strong>. Also the interjection ""of course""."			[sound:1000_claro.mp3]	adjective color
 A2_custom	escuro	dark	Está escuro lá fora.	It's dark outside.	Feminine: <strong>escura</strong>.				adjective color
 A2_custom	passado	last / past	O mês passado fui ao Porto.	Last month I went to Porto.	Feminine: <strong>passada</strong>. <em>A semana passada</em> = last week.			[sound:1000_passado.mp3]	adjective time
 A2_custom	próximo	next / close	Apanhamos o próximo autocarro.	We'll catch the next bus.	"Feminine: <strong>próxima</strong>. Also ""close (by)""."			[sound:1000_próximo.mp3]	adjective time
