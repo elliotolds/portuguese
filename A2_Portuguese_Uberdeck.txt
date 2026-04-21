@@ -264,7 +264,7 @@ A2_custom	a família	family	A minha família mora em Coimbra.	My family lives in
 A2_custom	o pai	father	O meu pai é médico.	My father is a doctor.	"Plural <strong>pais</strong> can mean ""parents"" (father + mother)."			[sound:1000_pai.mp3]	noun family uberA2
 A2_custom	a mãe	mother	A minha mãe faz o melhor bolo do mundo.	My mother makes the best cake in the world.				[sound:1000_mãe.mp3]	noun family uberA2
 A2_custom	o filho	son / child	O meu filho tem cinco anos.	My son is five.	Feminine: <strong>filha</strong> (daughter). Plural <strong>filhos</strong> = children.			[sound:1000_filho.mp3]	noun family uberA2
-A2_custom	o irmão	brother	O meu irmão mais velho mora em Berlim.	My older brother lives in Berlin.	Feminine: <strong>irmã</strong> (sister). Plural: <strong>irmãos</strong>.				noun family uberA2
+A2_custom	o irmão	brother	O meu irmão mais velho mora em Berlim.	My older brother lives in Berlin.	"Feminine: <strong>irmã</strong> (sister). Plural: <strong style=""color: red;"">os irmãos</strong> — uses the rare <strong>-ão → -ãos</strong> pattern. <br><br><strong>Important:</strong> <em>os irmãos</em> can mean (a) <em>brothers</em> — an all-male group — or (b) <em>siblings</em> — a mixed-gender group (brothers and sisters). Portuguese uses the masculine plural as the default when the group is mixed. For an all-female group, use <strong>as irmãs</strong>."				noun family uberA2
 A2_custom	o amigo	friend	Tenho um amigo brasileiro muito simpático.	I have a very nice Brazilian friend.	Feminine: <strong>amiga</strong>.			[sound:1000_amigo.mp3]	noun family uberA2
 A2_custom	o homem	man	Aquele homem é o meu professor.	That man is my teacher.	Plural: <strong>homens</strong>. (m)			[sound:1000_homem.mp3]	noun family uberA2
 A2_custom	a mulher	woman / wife	A mulher dele chama-se Ana.	His wife's name is Ana.	"Can mean ""woman"" or ""wife"" depending on context. (f)"			[sound:1000_mulher.mp3]	noun family uberA2
@@ -307,7 +307,7 @@ A2_custom	a cadeira	chair	Esta cadeira é muito confortável.	This chair is very
 A2_custom	a cama	bed	A minha cama é grande e confortável.	My bed is big and comfortable.	(f)				noun home uberA2
 A2_custom	o corpo	body	Preciso de exercitar o corpo mais vezes.	I need to exercise my body more often.	(m)			[sound:1000_corpo.mp3]	noun body uberA2
 A2_custom	a cabeça	head	Estou com dores de cabeça hoje.	I have a headache today.	(f) Common idiom: <em>ter dores de cabeça</em>.				noun body uberA2
-A2_custom	a mão	hand	Lava as mãos antes de comer.	Wash your hands before eating.	(f), despite ending in <em>-m</em>. Plural: <strong>mãos</strong>.			[sound:1000_mão.mp3]	noun body uberA2
+A2_custom	a mão	hand	Lava as mãos antes de comer.	Wash your hands before eating.	"(f), despite ending in <em>-ão</em>. Irregular plural: <strong style=""color: red;"">as mãos</strong> — uses the rarest -ão pattern <strong>-ão → -ãos</strong> (keep the -o, add -s). Same family: <em>irmão → irmãos, órfão → órfãos</em>."			[sound:1000_mão.mp3]	noun body uberA2
 A2_custom	o pé	foot	Tenho os pés cansados depois de tanto andar.	My feet are tired after walking so much.	(m) <em>A pé</em> = on foot.				noun body uberA2
 A2_custom	o braço	arm	Quebrou o braço a esquiar.	He broke his arm skiing.	(m)				noun body uberA2
 A2_custom	a perna	leg	Magoei a perna a correr.	I hurt my leg running.	(f)				noun body uberA2
@@ -334,7 +334,7 @@ A2_custom	a comida	food	A comida portuguesa é deliciosa.	Portuguese food is del
 A2_custom	a água	water	Queria uma garrafa de água, por favor.	I'd like a bottle of water, please.	(f), despite beginning with <em>á-</em>.			[sound:1000_água.mp3]	noun drink uberA2
 A2_custom	o café	coffee / café	Vou tomar um café depois do almoço.	I'll have a coffee after lunch.	"(m) Also means ""café"" (the place)."				noun drink uberA2
 A2_custom	o chá	tea	Queres chá preto ou chá verde?	Do you want black tea or green tea?	(m)				noun drink uberA2
-A2_custom	o pão	bread	De manhã, como pão com manteiga.	In the morning, I eat bread with butter.	(m) Plural: <strong>pães</strong>.				noun food uberA2
+A2_custom	o pão	bread	De manhã, como pão com manteiga.	In the morning, I eat bread with butter.	"(m). Irregular plural: <strong style=""color: red;"">os pães</strong> — uses the <strong>-ão → -ães</strong> pattern (not the usual <em>-ões</em>). Same family: <em>cão → cães, alemão → alemães, capitão → capitães</em>."				noun food uberA2
 A2_custom	o leite	milk	Bebo um copo de leite ao pequeno-almoço.	I drink a glass of milk with breakfast.	(m)				noun drink uberA2
 A2_custom	a fruta	fruit	Como fruta todos os dias.	I eat fruit every day.	(f) Collective singular; a piece of fruit is <em>uma peça de fruta</em> or <em>um fruto</em>.				noun food uberA2
 A2_custom	os legumes	vegetables	Os legumes da horta são os melhores.	The vegetables from the garden are the best.	(m) Usually plural.				noun food uberA2
@@ -440,7 +440,7 @@ A2_custom	o rio	river	O rio Tejo atravessa Lisboa.	The Tagus river crosses Lisbo
 A2_custom	a montanha	mountain	As montanhas da Serra estão cobertas de neve.	The Serra mountains are covered in snow.	(f)				noun place uberA2
 A2_custom	o campo	countryside / field	Prefiro viver no campo a viver na cidade.	I prefer living in the countryside to living in the city.	(m)			[sound:1000_campo.mp3]	noun place uberA2
 A2_custom	o animal	animal	Gosto muito de animais, especialmente de cães.	I love animals, especially dogs.	(m) Plural: <strong>animais</strong>.			[sound:1000_animal.mp3]	noun animal uberA2
-A2_custom	o cão	dog	O meu cão adora correr no parque.	My dog loves running in the park.	(m) Plural: <strong>cães</strong>. Feminine: <strong>cadela</strong>.				noun animal uberA2
+A2_custom	o cão	dog	O meu cão adora correr no parque.	My dog loves running in the park.	"(m). Feminine: <strong>cadela</strong>. Irregular plural: <strong style=""color: red;"">os cães</strong> (<strong>-ão → -ães</strong>)."				noun animal uberA2
 A2_custom	o gato	cat	O gato dorme em cima da cama.	The cat sleeps on top of the bed.	(m) Feminine: <strong>gata</strong>.				noun animal uberA2
 A2_custom	a flor	flower	Comprei uma flor para a minha mãe.	I bought a flower for my mother.	(f), despite ending in <em>-r</em>. Plural: <strong>flores</strong>.				noun uberA2
 A2_custom	a árvore	tree	Há uma árvore muito grande no jardim.	There's a very big tree in the garden.	(f), despite ending in <em>-e</em>. Plural: <strong>árvores</strong>.				noun uberA2
@@ -732,7 +732,7 @@ A2_custom	brasileiro	Brazilian	Tenho um amigo brasileiro em Lisboa.	I have a Bra
 A2_custom	espanhol	Spanish	A minha vizinha é espanhola.	My neighbour is Spanish.	Feminine: <strong>espanhola</strong>.				adjective nationality uberA2
 A2_custom	francês	French	Ele fala francês fluentemente.	He speaks French fluently.	Feminine: <strong>francesa</strong>. Plural: <strong>franceses/francesas</strong>.				adjective nationality uberA2
 A2_custom	inglês	English	O meu professor é inglês.	My teacher is English.	Feminine: <strong>inglesa</strong>. Plural: <strong>ingleses/inglesas</strong>.				adjective nationality uberA2
-A2_custom	alemão	German	Ela aprende alemão há dois anos.	She has been learning German for two years.	Feminine: <strong>alemã</strong>. Plural: <strong>alemães/alemãs</strong>.				adjective nationality uberA2
+A2_custom	alemão	German	Ela aprende alemão há dois anos.	She has been learning German for two years.	"Feminine: <strong>alemã</strong>. Irregular plural: <strong style=""color: red;"">alemães</strong> (m) / <strong>alemãs</strong> (f) — the masculine uses the rare <strong>-ão → -ães</strong> pattern; the feminine is regular <em>-ã → -ãs</em>."				adjective nationality uberA2
 A2_custom	italiano	Italian	A comida italiana é a minha preferida.	Italian food is my favourite.	Feminine: <strong>italiana</strong>.				adjective nationality uberA2
 A2_custom	americano	American	Os turistas americanos gostam de Lisboa.	American tourists like Lisbon.	Feminine: <strong>americana</strong>.				adjective nationality uberA2
 A2_custom	chinês	Chinese	Há um restaurante chinês perto de casa.	There's a Chinese restaurant near home.	Feminine: <strong>chinesa</strong>. Plural: <strong>chineses/chinesas</strong>.				adjective nationality uberA2
