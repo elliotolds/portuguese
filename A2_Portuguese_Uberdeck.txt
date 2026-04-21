@@ -143,14 +143,14 @@ A2_custom	sétimo	seventh	Vivo no sétimo andar de um prédio.	I live on the sev
 A2_custom	oitavo	eighth	Agosto é o oitavo mês do ano.	August is the eighth month of the year.	Feminine: <strong>oitava</strong>.				numeral ordinal uberA2
 A2_custom	nono	ninth	O escritório fica no nono andar.	The office is on the ninth floor.	Feminine: <strong>nona</strong>.				numeral ordinal uberA2
 A2_custom	décimo	tenth	Tirei o décimo lugar na competição.	I came tenth in the competition.	Feminine: <strong>décima</strong>. Compound: <strong>décimo primeiro</strong> (11th).				numeral ordinal uberA2
-A2_custom	segunda-feira	Monday	Na segunda-feira começo um emprego novo.	On Monday I start a new job.	Often shortened to <strong>segunda</strong>.				noun day uberA2
-A2_custom	terça-feira	Tuesday	Terça-feira vou ao médico de manhã.	On Tuesday I'm going to the doctor in the morning.	Often shortened to <strong>terça</strong>.				noun day uberA2
-A2_custom	quarta-feira	Wednesday	Tenho aulas à quarta-feira à tarde.	I have classes on Wednesday afternoons.	Often shortened to <strong>quarta</strong>.				noun day uberA2
-A2_custom	quinta-feira	Thursday	Vamos jantar fora na quinta-feira.	We're eating out on Thursday.	Often shortened to <strong>quinta</strong>.				noun day uberA2
-A2_custom	sexta-feira	Friday	Sexta-feira é o meu dia preferido.	Friday is my favourite day.	Often shortened to <strong>sexta</strong>.				noun day uberA2
-A2_custom	sábado	Saturday	Aos sábados faço compras no mercado.	On Saturdays I shop at the market.	No <em>-feira</em> suffix. Feminine article: <strong>no sábado</strong> (m).			[sound:1000_sábado.mp3]	noun day uberA2
-A2_custom	domingo	Sunday	Ao domingo almoço com a família.	On Sundays I have lunch with my family.	No <em>-feira</em> suffix.			[sound:1000_domingo.mp3]	noun day uberA2
-A2_custom	fim de semana	weekend	Este fim de semana vou à praia.	This weekend I'm going to the beach.	Article + gender: <strong>o fim de semana</strong> (m).				noun day uberA2
+A2_custom	a segunda-feira	Monday	Na segunda-feira começo um emprego novo.	On Monday I start a new job.	Often shortened to <strong>segunda</strong>.				noun day uberA2
+A2_custom	a terça-feira	Tuesday	Terça-feira vou ao médico de manhã.	On Tuesday I'm going to the doctor in the morning.	Often shortened to <strong>terça</strong>.				noun day uberA2
+A2_custom	a quarta-feira	Wednesday	Tenho aulas à quarta-feira à tarde.	I have classes on Wednesday afternoons.	Often shortened to <strong>quarta</strong>.				noun day uberA2
+A2_custom	a quinta-feira	Thursday	Vamos jantar fora na quinta-feira.	We're eating out on Thursday.	Often shortened to <strong>quinta</strong>.				noun day uberA2
+A2_custom	a sexta-feira	Friday	Sexta-feira é o meu dia preferido.	Friday is my favourite day.	Often shortened to <strong>sexta</strong>.				noun day uberA2
+A2_custom	o sábado	Saturday	Aos sábados faço compras no mercado.	On Saturdays I shop at the market.	No <em>-feira</em> suffix. Feminine article: <strong>no sábado</strong> (m).			[sound:1000_sábado.mp3]	noun day uberA2
+A2_custom	o domingo	Sunday	Ao domingo almoço com a família.	On Sundays I have lunch with my family.	No <em>-feira</em> suffix.			[sound:1000_domingo.mp3]	noun day uberA2
+A2_custom	o fim de semana	weekend	Este fim de semana vou à praia.	This weekend I'm going to the beach.	Article + gender: <strong>o fim de semana</strong> (m).				noun day uberA2
 A2_custom	janeiro	January	Em janeiro faz muito frio em Lisboa.	In January it's very cold in Lisbon.	Months are lowercase in PT.			[sound:1000_janeiro.mp3]	noun month uberA2
 A2_custom	fevereiro	February	Fevereiro tem vinte e oito ou vinte e nove dias.	February has twenty-eight or twenty-nine days.				[sound:1000_fevereiro.mp3]	noun month uberA2
 A2_custom	março	March	A primavera começa em março.	Spring begins in March.				[sound:1000_março.mp3]	noun month uberA2
@@ -259,246 +259,246 @@ A2_custom	só	only	Só quero um copo de água.	I just want a glass of water.	"Al
 A2_custom	apenas	only / just	Estudo apenas duas horas por dia.	I only study two hours a day.	Synonym of <strong>só</strong>, slightly more formal.			[sound:1000_apenas.mp3]	adverb uberA2
 A2_custom	provavelmente	probably	Provavelmente vai chover amanhã.	It will probably rain tomorrow.					adverb uberA2
 A2_custom	daqui	from here / from now	Daqui a uma hora, chego aí.	An hour from now, I'll be there.	<strong>Daqui a X</strong> = X from now. <strong>Daqui</strong> alone = from here.				adverb time uberA2
-A2_custom	pessoa	person	Aquela pessoa é muito simpática.	That person is very nice.	Always feminine, regardless of the person's gender.			[sound:1000_pessoa.mp3]	noun family uberA2
-A2_custom	família	family	A minha família mora em Coimbra.	My family lives in Coimbra.				[sound:1000_família.mp3]	noun family uberA2
-A2_custom	pai	father	O meu pai é médico.	My father is a doctor.	"Plural <strong>pais</strong> can mean ""parents"" (father + mother)."			[sound:1000_pai.mp3]	noun family uberA2
-A2_custom	mãe	mother	A minha mãe faz o melhor bolo do mundo.	My mother makes the best cake in the world.				[sound:1000_mãe.mp3]	noun family uberA2
-A2_custom	filho	son / child	O meu filho tem cinco anos.	My son is five.	Feminine: <strong>filha</strong> (daughter). Plural <strong>filhos</strong> = children.			[sound:1000_filho.mp3]	noun family uberA2
-A2_custom	irmão	brother	O meu irmão mais velho mora em Berlim.	My older brother lives in Berlin.	Feminine: <strong>irmã</strong> (sister). Plural: <strong>irmãos</strong>.				noun family uberA2
-A2_custom	amigo	friend	Tenho um amigo brasileiro muito simpático.	I have a very nice Brazilian friend.	Feminine: <strong>amiga</strong>.			[sound:1000_amigo.mp3]	noun family uberA2
-A2_custom	homem	man	Aquele homem é o meu professor.	That man is my teacher.	Plural: <strong>homens</strong>. (m)			[sound:1000_homem.mp3]	noun family uberA2
-A2_custom	mulher	woman / wife	A mulher dele chama-se Ana.	His wife's name is Ana.	"Can mean ""woman"" or ""wife"" depending on context. (f)"			[sound:1000_mulher.mp3]	noun family uberA2
-A2_custom	criança	child	Há muitas crianças no parque hoje.	There are many children in the park today.	Always feminine, even for boys: <em>a criança</em>.			[sound:1000_criança.mp3]	noun family uberA2
-A2_custom	senhor	sir / gentleman / Mr.	Bom dia, senhor.	Good morning, sir.	Feminine: <strong>senhora</strong> (ma'am / Mrs.). Polite address.				noun family uberA2
-A2_custom	colega	colleague / classmate	Os meus colegas são todos muito simpáticos.	My colleagues are all very nice.	Same form for m/f: <em>o colega, a colega</em>.				noun work uberA2
-A2_custom	avô	grandfather	O meu avô tem setenta e cinco anos.	My grandfather is seventy-five.	Feminine: <strong>avó</strong> (note different accent). Plural <strong>avós</strong> = grandparents.				noun family uberA2
-A2_custom	tio	uncle	O meu tio vive no Porto.	My uncle lives in Porto.	Feminine: <strong>tia</strong> (aunt). Plural <strong>tios</strong> = aunt and uncle.				noun family uberA2
-A2_custom	primo	cousin	Tenho muitos primos no Brasil.	I have many cousins in Brazil.	Feminine: <strong>prima</strong>.				noun family uberA2
-A2_custom	neto	grandson	O meu neto nasceu a semana passada.	My grandson was born last week.	Feminine: <strong>neta</strong>. Plural <strong>netos</strong> = grandchildren.				noun family uberA2
-A2_custom	marido	husband	O marido da Ana é engenheiro.	Ana's husband is an engineer.	(m)				noun family uberA2
-A2_custom	esposa	wife	A esposa dele é minha amiga.	His wife is my friend.	(f) Alternative: <strong>mulher</strong>.				noun family uberA2
-A2_custom	namorado	boyfriend	O meu namorado chama-se João.	My boyfriend's name is João.	Feminine: <strong>namorada</strong> (girlfriend).				noun family uberA2
-A2_custom	bebé	baby	O bebé dorme a maior parte do dia.	The baby sleeps most of the day.	(m) BR: <strong>bebê</strong>.				noun family uberA2
-A2_custom	nome	name	O meu nome é Ana, prazer em conhecer-te.	My name is Ana, pleased to meet you.	(m) Surname: <strong>apelido</strong>.			[sound:1000_nome.mp3]	noun uberA2
-A2_custom	idade	age	Qual é a tua idade?	What's your age?	(f) More common: <em>Quantos anos tens?</em>			[sound:1000_idade.mp3]	noun uberA2
-A2_custom	morada	address	Podes dar-me a tua morada, por favor?	Can you give me your address, please?	(f) EP word; BR: <strong>endereço</strong>.				noun uberA2
-A2_custom	número	number	Qual é o teu número de telemóvel?	What's your mobile number?	(m)			[sound:1000_número.mp3]	noun uberA2
-A2_custom	profissão	profession / job	Qual é a sua profissão?	What's your profession?	(f)				noun work uberA2
-A2_custom	nacionalidade	nationality	A minha nacionalidade é portuguesa.	My nationality is Portuguese.	(f)				noun nationality uberA2
-A2_custom	língua	language / tongue	Falo três línguas: português, inglês e francês.	I speak three languages: Portuguese, English, and French.	"Also means ""tongue"" (body part)."				noun uberA2
-A2_custom	trabalho	work / job	Começo o trabalho novo na próxima segunda-feira.	I start my new job next Monday.	(m) Verb: <strong>trabalhar</strong>.			[sound:1000_trabalho.mp3]	noun work uberA2
-A2_custom	emprego	job / employment	Arranjei um emprego no centro da cidade.	I got a job in the city centre.	(m)			[sound:1000_emprego.mp3]	noun work uberA2
-A2_custom	empresa	company	Trabalho numa empresa pequena.	I work in a small company.	(f)			[sound:1000_empresa.mp3]	noun work uberA2
-A2_custom	reunião	meeting	A reunião é às dez da manhã.	The meeting is at ten in the morning.	(f)			[sound:1000_reunião.mp3]	noun work uberA2
-A2_custom	escola	school	Os meus filhos andam na mesma escola.	My children go to the same school.	(f)			[sound:1000_escola.mp3]	noun school uberA2
-A2_custom	aula	class / lesson	A aula de português começa às seis.	The Portuguese class starts at six.	(f)			[sound:1000_aula.mp3]	noun school uberA2
-A2_custom	professor	teacher	O professor de matemática é muito bom.	The maths teacher is very good.	Feminine: <strong>professora</strong>.			[sound:1000_professor.mp3]	noun school uberA2
-A2_custom	aluno	student	Os alunos estão a estudar para o exame.	The students are studying for the exam.	Feminine: <strong>aluna</strong>.			[sound:1000_aluno.mp3]	noun school uberA2
-A2_custom	casa	house / home	A minha casa fica perto da praia.	My house is near the beach.	(f)			[sound:1000_casa.mp3]	noun home uberA2
-A2_custom	apartamento	apartment / flat	Moro num apartamento no segundo andar.	I live in an apartment on the second floor.	(m)				noun home uberA2
-A2_custom	quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	"(m). Also the ordinal ""fourth"" / 4º (fem. <strong>quarta</strong>): <em>abril é o quarto mês</em>."			[sound:1000_quarto.mp3]	noun home uberA2
-A2_custom	sala	living room	Temos duas televisões: uma na sala e outra no quarto.	We have two TVs: one in the living room and another in the bedroom.	(f) Full form: <em>sala de estar</em>.			[sound:1000_sala.mp3]	noun home uberA2
-A2_custom	cozinha	kitchen	Passo muito tempo na cozinha aos fins de semana.	I spend a lot of time in the kitchen on weekends.	(f) Also the verb <em>cozinhar</em> (to cook).				noun home uberA2
-A2_custom	casa de banho	bathroom	A casa de banho é ao fundo do corredor.	The bathroom is at the end of the hallway.	(f) EP; BR: <strong>banheiro</strong>.				noun home uberA2
-A2_custom	porta	door	Fecha a porta quando saíres, por favor.	Close the door when you leave, please.	(f)			[sound:1000_porta.mp3]	noun home uberA2
-A2_custom	janela	window	Abri a janela porque estava muito calor.	I opened the window because it was very hot.	(f)				noun home uberA2
-A2_custom	mesa	table	O jantar está pronto, vem para a mesa.	Dinner's ready, come to the table.	(f)				noun home uberA2
-A2_custom	cadeira	chair	Esta cadeira é muito confortável.	This chair is very comfortable.	(f)				noun home uberA2
-A2_custom	cama	bed	A minha cama é grande e confortável.	My bed is big and comfortable.	(f)				noun home uberA2
-A2_custom	corpo	body	Preciso de exercitar o corpo mais vezes.	I need to exercise my body more often.	(m)			[sound:1000_corpo.mp3]	noun body uberA2
-A2_custom	cabeça	head	Estou com dores de cabeça hoje.	I have a headache today.	(f) Common idiom: <em>ter dores de cabeça</em>.				noun body uberA2
-A2_custom	mão	hand	Lava as mãos antes de comer.	Wash your hands before eating.	(f), despite ending in <em>-m</em>. Plural: <strong>mãos</strong>.			[sound:1000_mão.mp3]	noun body uberA2
-A2_custom	pé	foot	Tenho os pés cansados depois de tanto andar.	My feet are tired after walking so much.	(m) <em>A pé</em> = on foot.				noun body uberA2
-A2_custom	braço	arm	Quebrou o braço a esquiar.	He broke his arm skiing.	(m)				noun body uberA2
-A2_custom	perna	leg	Magoei a perna a correr.	I hurt my leg running.	(f)				noun body uberA2
-A2_custom	olho	eye	Ela tem os olhos verdes.	She has green eyes.	(m)				noun body uberA2
-A2_custom	boca	mouth	Não fales com a boca cheia.	Don't speak with your mouth full.	(f)				noun body uberA2
-A2_custom	dente	tooth	Tenho que ir ao dentista — dói-me um dente.	I have to go to the dentist — one of my teeth hurts.	(m) Plural: <strong>dentes</strong>.				noun body uberA2
-A2_custom	cabelo	hair	Cortei o cabelo ontem.	I got a haircut yesterday.	(m)				noun body uberA2
-A2_custom	cara	face	Ele tem uma cara simpática.	He has a friendly face.	(f)				noun body uberA2
-A2_custom	nariz	nose	Estou constipada — o nariz está a escorrer.	I have a cold — my nose is running.	(m)				noun body uberA2
-A2_custom	orelha	ear (outer)	Ela tem as orelhas pequenas.	She has small ears.	(f) The outer ear.				noun body uberA2
-A2_custom	ouvido	ear (inner / hearing)	Dói-me o ouvido esquerdo.	My left ear hurts.	(m) The inner ear / sense of hearing. Distinct from <strong>orelha</strong> (outer ear).				noun body uberA2
-A2_custom	pescoço	neck	O pescoço dói-me quando durmo mal.	My neck hurts when I sleep badly.	(m)				noun body uberA2
-A2_custom	costas	back	Tenho dores nas costas de tanto estar sentado.	I have back pain from sitting so much.	"(f) Always plural: <strong>as costas</strong>. False friend: ≠ ""coast"" (that's <em>costa</em> singular)."				noun body uberA2
-A2_custom	coração	heart	O coração dele bate muito rápido.	His heart beats very fast.	(m) Plural: <strong>corações</strong>.				noun body uberA2
-A2_custom	dedo	finger / toe	Cortei o dedo com a faca.	I cut my finger with the knife.	(m) Covers both finger and toe; <em>dedo do pé</em> for toe when needed.				noun body uberA2
-A2_custom	joelho	knee	Caí e magoei o joelho.	I fell and hurt my knee.	(m)				noun body uberA2
-A2_custom	ombro	shoulder	Ele partiu o ombro num acidente.	He broke his shoulder in an accident.	(m)				noun body uberA2
-A2_custom	barriga	belly / stomach	Tenho a barriga cheia depois do almoço.	My stomach is full after lunch.	(f) Informal; medical: <em>estômago</em>.				noun body uberA2
-A2_custom	fome	hunger	Tenho muita fome, vamos jantar.	I'm very hungry, let's have dinner.	(f) <em>Ter fome</em> = to be hungry.				noun feeling uberA2
-A2_custom	sede	thirst	Com este calor, tenho sempre sede.	With this heat, I'm always thirsty.	(f) <em>Ter sede</em> = to be thirsty.			[sound:1000_sede.mp3]	noun feeling uberA2
-A2_custom	sono	sleep / sleepiness	Estou com muito sono, vou para a cama.	I'm very sleepy, I'm going to bed.	(m) <em>Ter sono</em> = to be sleepy.				noun feeling uberA2
-A2_custom	pressa	hurry	Estou com pressa, falamos depois.	I'm in a hurry, we'll talk later.	(f) <em>Ter pressa</em> = to be in a hurry.				noun feeling uberA2
-A2_custom	comida	food	A comida portuguesa é deliciosa.	Portuguese food is delicious.	(f)				noun food uberA2
-A2_custom	água	water	Queria uma garrafa de água, por favor.	I'd like a bottle of water, please.	(f), despite beginning with <em>á-</em>.			[sound:1000_água.mp3]	noun drink uberA2
-A2_custom	café	coffee / café	Vou tomar um café depois do almoço.	I'll have a coffee after lunch.	"(m) Also means ""café"" (the place)."				noun drink uberA2
-A2_custom	chá	tea	Queres chá preto ou chá verde?	Do you want black tea or green tea?	(m)				noun drink uberA2
-A2_custom	pão	bread	De manhã, como pão com manteiga.	In the morning, I eat bread with butter.	(m) Plural: <strong>pães</strong>.				noun food uberA2
-A2_custom	leite	milk	Bebo um copo de leite ao pequeno-almoço.	I drink a glass of milk with breakfast.	(m)				noun drink uberA2
-A2_custom	fruta	fruit	Como fruta todos os dias.	I eat fruit every day.	(f) Collective singular; a piece of fruit is <em>uma peça de fruta</em> or <em>um fruto</em>.				noun food uberA2
-A2_custom	legumes	vegetables	Os legumes da horta são os melhores.	The vegetables from the garden are the best.	(m) Usually plural.				noun food uberA2
-A2_custom	carne	meat	Não como carne há cinco anos.	I haven't eaten meat for five years.	(f)				noun food uberA2
-A2_custom	peixe	fish	Em Lisboa, come-se muito peixe fresco.	In Lisbon, people eat a lot of fresh fish.	(m)				noun food uberA2
-A2_custom	arroz	rice	O arroz malandrinho é um prato típico.	"""Arroz malandrinho"" is a typical dish."	(m)				noun food uberA2
-A2_custom	batata	potato	Batatas fritas com peixe grelhado, por favor.	Fries with grilled fish, please.	(f) <em>Batatas fritas</em> = fries / chips.				noun food uberA2
-A2_custom	ovo	egg	Como ovos mexidos quase todas as manhãs.	I eat scrambled eggs almost every morning.	(m)				noun food uberA2
-A2_custom	queijo	cheese	Este queijo da Serra é fantástico.	This Serra cheese is fantastic.	(m)				noun food uberA2
-A2_custom	sopa	soup	A sopa de legumes está quente.	The vegetable soup is hot.	(f) Very common in EP meals.				noun food uberA2
-A2_custom	bolo	cake	A minha avó faz o melhor bolo de chocolate.	My grandmother makes the best chocolate cake.	(m)				noun food uberA2
-A2_custom	açúcar	sugar	Tomo o café sem açúcar.	I take my coffee without sugar.	(m)				noun food uberA2
-A2_custom	sal	salt	Esta sopa precisa de mais sal.	This soup needs more salt.	(m)				noun food uberA2
-A2_custom	vinho	wine	Um copo de vinho tinto, se faz favor.	A glass of red wine, please.	(m) <em>Vinho tinto</em> = red wine; <em>vinho branco</em> = white.				noun drink uberA2
-A2_custom	cerveja	beer	Uma cerveja bem fresca era ótima agora.	A nice cold beer would be great right now.	(f)				noun drink uberA2
-A2_custom	sumo	juice	Queres sumo de laranja natural?	Would you like fresh orange juice?	(m) EP; BR: <strong>suco</strong>.				noun drink uberA2
-A2_custom	manteiga	butter	Passo manteiga no pão todas as manhãs.	I spread butter on bread every morning.	(f)				noun food uberA2
-A2_custom	sandes	sandwich	Almoço sempre uma sandes no escritório.	I always have a sandwich at the office for lunch.	(f, invariable) Standard EP form: <em>uma sandes, duas sandes</em>. Also acceptable: <strong>sanduíche</strong> (f).				noun food uberA2
-A2_custom	salada	salad	Uma salada mista com atum, por favor.	A mixed salad with tuna, please.	(f)				noun food uberA2
-A2_custom	massa	pasta	Faço massa com molho de tomate.	I make pasta with tomato sauce.	"(f) Also means ""dough""."				noun food uberA2
-A2_custom	chocolate	chocolate	Adoro chocolate preto amargo.	I love dark bitter chocolate.	(m)				noun food uberA2
-A2_custom	pequeno-almoço	breakfast	Toma um bom pequeno-almoço todos os dias.	Have a good breakfast every day.	(m) EP; BR: <em>café da manhã</em>.				noun food uberA2
-A2_custom	almoço	lunch	O almoço é o momento mais importante do dia.	Lunch is the most important moment of the day.	(m) Verb: <strong>almoçar</strong>.				noun food uberA2
-A2_custom	jantar	dinner	O jantar costuma ser às oito.	Dinner is usually at eight.	(m) Also the verb <strong>jantar</strong> (to have dinner).				noun food uberA2
-A2_custom	restaurante	restaurant	Há um restaurante novo ali na esquina.	There's a new restaurant on the corner there.	(m)				noun food uberA2
-A2_custom	ementa	menu	Podemos ver a ementa, por favor?	Can we see the menu, please?	(f) EP; BR: <strong>cardápio</strong>.				noun food uberA2
-A2_custom	prato	plate / dish	Este é o prato do dia.	This is today's special.	"(m) Also ""dish"" as in a menu item."				noun food uberA2
-A2_custom	copo	glass / cup	Dá-me um copo de água, por favor.	Give me a glass of water, please.	(m)				noun food uberA2
-A2_custom	garrafa	bottle	Uma garrafa de vinho para quatro pessoas.	One bottle of wine for four people.	(f)				noun food uberA2
-A2_custom	conta	bill / account	A conta, se faz favor.	The bill, please.	"(f) Also ""bank account""."			[sound:1000_conta.mp3]	noun food uberA2
-A2_custom	saúde	health	A saúde é o mais importante.	Health is the most important thing.	(f) Also a toast: <em>Saúde!</em>			[sound:1000_saúde.mp3]	noun health uberA2
-A2_custom	médico	doctor	Vou ao médico na próxima terça-feira.	I'm going to the doctor next Tuesday.	Feminine: <strong>médica</strong>.			[sound:1000_médico.mp3]	noun health uberA2
-A2_custom	enfermeiro	nurse	O enfermeiro foi muito simpático comigo.	The nurse was very kind to me.	Feminine: <strong>enfermeira</strong>.				noun health uberA2
-A2_custom	dor	pain	Tenho uma dor nas costas há dois dias.	I've had back pain for two days.	(f) Plural: <strong>dores</strong>.				noun health uberA2
-A2_custom	remédio	medicine	Tomo este remédio duas vezes por dia.	I take this medicine twice a day.	(m)				noun health uberA2
-A2_custom	febre	fever	Acho que estou com febre.	I think I have a fever.	(f) <em>Ter febre</em> = to have a fever.				noun health uberA2
-A2_custom	tosse	cough	A tosse não me deixa dormir.	The cough won't let me sleep.	(f)				noun health uberA2
-A2_custom	gripe	flu	Tenho uma gripe há uma semana.	I've had the flu for a week.	(f)				noun health uberA2
-A2_custom	constipação	cold	Estou com uma constipação forte.	I have a bad cold.	"(f) EP; BR: <strong>resfriado</strong>. False friend with English ""constipation""."				noun health uberA2
-A2_custom	doença	illness / disease	É uma doença pouco comum.	It's a rare illness.	(f)			[sound:1000_doença.mp3]	noun health uberA2
-A2_custom	dinheiro	money	Não tenho dinheiro suficiente para o táxi.	I don't have enough money for the taxi.	(m)			[sound:1000_dinheiro.mp3]	noun shopping uberA2
-A2_custom	preço	price	O preço deste telemóvel é muito alto.	The price of this mobile is very high.	(m)			[sound:1000_preço.mp3]	noun shopping uberA2
-A2_custom	troco	change (money)	Guarde o troco, por favor.	Keep the change, please.	(m) The money returned.				noun shopping uberA2
-A2_custom	loja	shop / store	Vou à loja de roupa esta tarde.	I'm going to the clothes shop this afternoon.	(f)			[sound:1000_loja.mp3]	noun shopping uberA2
-A2_custom	supermercado	supermarket	Faço as compras no supermercado ao sábado.	I do the shopping at the supermarket on Saturday.	(m)				noun shopping uberA2
-A2_custom	mercado	market	Ao domingo há feira no mercado.	There's a fair at the market on Sundays.	(m)			[sound:1000_mercado.mp3]	noun shopping uberA2
-A2_custom	banco	bank	O banco está fechado ao fim de semana.	The bank is closed on weekends.	"(m) Also ""bench""."			[sound:1000_banco.mp3]	noun place uberA2
-A2_custom	correios	post office	Vou aos correios enviar uma carta.	I'm going to the post office to send a letter.	(m, plural) Always plural.				noun place uberA2
-A2_custom	farmácia	pharmacy	A farmácia fica aberta até às dez.	The pharmacy is open until ten.	(f)				noun place uberA2
-A2_custom	hospital	hospital	Levaram-no ao hospital de ambulância.	They took him to the hospital by ambulance.	(m)			[sound:1000_hospital.mp3]	noun place uberA2
-A2_custom	igreja	church	A igreja no centro é muito antiga.	The church in the centre is very old.	(f)				noun place uberA2
-A2_custom	museu	museum	O museu fecha à segunda-feira.	The museum is closed on Mondays.	(m)				noun place uberA2
-A2_custom	cinema	cinema	Vamos ao cinema logo à noite?	Shall we go to the cinema tonight?	(m), despite ending in <em>-a</em>.				noun place uberA2
-A2_custom	teatro	theatre	Gosto mais de teatro do que de cinema.	I like theatre more than cinema.	(m)				noun place uberA2
-A2_custom	biblioteca	library	Estudo na biblioteca quando tenho exames.	I study at the library when I have exams.	(f)				noun place uberA2
-A2_custom	dia	day	Hoje é um dia lindo de primavera.	Today is a beautiful spring day.	(m)			[sound:1000_dia.mp3]	noun time uberA2
-A2_custom	ano	year	Passei um ano a viver em Paris.	I spent a year living in Paris.	(m)			[sound:1000_ano.mp3]	noun time uberA2
-A2_custom	hora	hour / time (clock)	Que horas são?	What time is it?	(f) Plural for time of day: <em>Que horas são?</em>			[sound:1000_hora.mp3]	noun time uberA2
-A2_custom	semana	week	Vou ter umas férias na próxima semana.	I'm having a holiday next week.	(f)			[sound:1000_semana.mp3]	noun time uberA2
-A2_custom	mês	month	Passei um mês sem falar com ele.	I went a month without talking to him.	(m) Plural: <strong>meses</strong>.			[sound:1000_mês.mp3]	noun time uberA2
-A2_custom	manhã	morning	De manhã, corro no parque.	In the morning, I run in the park.	(f)			[sound:1000_manhã.mp3]	noun time uberA2
-A2_custom	noite	night / evening	À noite, leio antes de dormir.	At night, I read before sleeping.	(f)			[sound:1000_noite.mp3]	noun time uberA2
-A2_custom	minuto	minute	Chego em cinco minutos.	I'll be there in five minutes.	(m)			[sound:1000_minuto.mp3]	noun time uberA2
-A2_custom	tempo	time / weather	O tempo está ótimo hoje.	The weather is great today.	"(m) Means both ""time"" (<em>não tenho tempo</em>) and ""weather"" (<em>está bom tempo</em>)."			[sound:1000_tempo.mp3]	noun time uberA2
-A2_custom	aniversário	birthday / anniversary	Os meus amigos fizeram-me uma festa de aniversário.	My friends threw me a birthday party.	(m)				noun time uberA2
-A2_custom	sol	sun	Hoje está muito sol.	It's very sunny today.	(m) <em>Estar sol</em> = to be sunny.				noun weather uberA2
-A2_custom	chuva	rain	A chuva não para desde ontem.	The rain hasn't stopped since yesterday.	(f) Verb: <strong>chover</strong>.				noun weather uberA2
-A2_custom	calor	heat	Está muito calor hoje.	It's very hot today.	(m) <em>Ter calor</em> = to feel hot.				noun weather uberA2
-A2_custom	vento	wind	Há muito vento hoje.	There's a lot of wind today.	(m)				noun weather uberA2
-A2_custom	neve	snow	A neve cobriu as montanhas.	The snow covered the mountains.	(f)				noun weather uberA2
-A2_custom	céu	sky	O céu está azul sem uma nuvem.	The sky is blue without a cloud.	(m)				noun weather uberA2
-A2_custom	nuvem	cloud	Uma nuvem escura tapou o sol.	A dark cloud covered the sun.	(f), despite ending in <em>-m</em>. Plural: <strong>nuvens</strong>.				noun weather uberA2
-A2_custom	estação do ano	season	A minha estação do ano preferida é o outono.	My favourite season is autumn.	"(f) Also just <strong>estação</strong>. <em>Estação</em> alone can also mean ""(train) station""."				noun season uberA2
-A2_custom	verão	summer	No verão, vou sempre à praia.	In the summer, I always go to the beach.	(m)				noun season uberA2
-A2_custom	inverno	winter	O inverno em Portugal é suave.	Winter in Portugal is mild.	(m)				noun season uberA2
-A2_custom	primavera	spring	A primavera traz flores e cores.	Spring brings flowers and colours.	(f)				noun season uberA2
-A2_custom	outono	autumn / fall	O outono é uma estação bonita.	Autumn is a beautiful season.	(m)				noun season uberA2
-A2_custom	carro	car	Tenho um carro pequeno mas confortável.	I have a small but comfortable car.	(m)			[sound:1000_carro.mp3]	noun transport uberA2
-A2_custom	autocarro	bus	Apanho o autocarro para o trabalho.	I take the bus to work.	(m) EP; BR: <strong>ônibus</strong>.				noun transport uberA2
-A2_custom	comboio	train	O comboio para o Porto sai às nove.	The train to Porto leaves at nine.	(m) EP; BR: <strong>trem</strong>.				noun transport uberA2
-A2_custom	avião	plane	O avião aterra dentro de meia hora.	The plane lands in half an hour.	(m) Plural: <strong>aviões</strong>.				noun transport uberA2
-A2_custom	metro	metro / subway	Vou de metro todos os dias.	I take the metro every day.	"(m) Also the measurement ""metre""."				noun transport uberA2
-A2_custom	bicicleta	bicycle	Ando de bicicleta no fim de semana.	I ride a bike on weekends.	(f) Short form: <strong>bici</strong>.				noun transport uberA2
-A2_custom	táxi	taxi	Chamei um táxi porque estava a chover.	I called a taxi because it was raining.	(m)				noun transport uberA2
-A2_custom	bilhete	ticket	Comprei o bilhete de comboio online.	I bought the train ticket online.	(m)				noun transport uberA2
-A2_custom	paragem	(bus) stop	A paragem do autocarro fica ali.	The bus stop is over there.	(f) EP; BR: <strong>ponto</strong>.				noun transport uberA2
-A2_custom	estação	station	Encontramo-nos na estação de comboios.	Let's meet at the train station.	(f)				noun transport uberA2
-A2_custom	aeroporto	airport	O aeroporto de Lisboa fica perto do centro.	Lisbon airport is close to the centre.	(m)				noun transport uberA2
-A2_custom	viagem	trip / journey	A viagem durou seis horas.	The trip lasted six hours.	(f) Verb: <strong>viajar</strong>.			[sound:1000_viagem.mp3]	noun transport uberA2
-A2_custom	férias	holidays / vacation	Vou de férias em agosto.	I'm going on holiday in August.	(f, plural) Always plural.				noun time uberA2
-A2_custom	hotel	hotel	O hotel fica mesmo em frente da praia.	The hotel is right in front of the beach.	(m)				noun place uberA2
-A2_custom	cidade	city	Lisboa é a cidade mais antiga da Europa ocidental.	Lisbon is the oldest city in Western Europe.	(f)			[sound:1000_cidade.mp3]	noun place uberA2
-A2_custom	país	country	Portugal é um país pequeno mas bonito.	Portugal is a small but beautiful country.	(m) Plural: <strong>países</strong>.			[sound:1000_país.mp3]	noun place uberA2
-A2_custom	rua	street	A minha rua é muito calma à noite.	My street is very quiet at night.	(f)			[sound:1000_rua.mp3]	noun place uberA2
-A2_custom	avenida	avenue	A avenida principal está cheia de lojas.	The main avenue is full of shops.	(f)				noun place uberA2
-A2_custom	praça	square	A praça no centro é sempre movimentada.	The square in the centre is always busy.	(f)				noun place uberA2
-A2_custom	ponte	bridge	A ponte sobre o Tejo é impressionante.	The bridge over the Tagus is impressive.	(f)				noun place uberA2
-A2_custom	parque	park	Vou ao parque correr todas as manhãs.	I go to the park to run every morning.	(m)				noun place uberA2
-A2_custom	jardim	garden	O jardim de casa está cheio de flores.	The garden at home is full of flowers.	(m)				noun place uberA2
-A2_custom	praia	beach	Adoro ir à praia ao fim de semana.	I love going to the beach on weekends.	(f)				noun place uberA2
-A2_custom	mar	sea	O mar está muito frio em abril.	The sea is very cold in April.	(m)			[sound:1000_mar.mp3]	noun place uberA2
-A2_custom	rio	river	O rio Tejo atravessa Lisboa.	The Tagus river crosses Lisbon.	(m)			[sound:1000_rio.mp3]	noun place uberA2
-A2_custom	montanha	mountain	As montanhas da Serra estão cobertas de neve.	The Serra mountains are covered in snow.	(f)				noun place uberA2
-A2_custom	campo	countryside / field	Prefiro viver no campo a viver na cidade.	I prefer living in the countryside to living in the city.	(m)			[sound:1000_campo.mp3]	noun place uberA2
-A2_custom	animal	animal	Gosto muito de animais, especialmente de cães.	I love animals, especially dogs.	(m) Plural: <strong>animais</strong>.			[sound:1000_animal.mp3]	noun animal uberA2
-A2_custom	cão	dog	O meu cão adora correr no parque.	My dog loves running in the park.	(m) Plural: <strong>cães</strong>. Feminine: <strong>cadela</strong>.				noun animal uberA2
-A2_custom	gato	cat	O gato dorme em cima da cama.	The cat sleeps on top of the bed.	(m) Feminine: <strong>gata</strong>.				noun animal uberA2
-A2_custom	flor	flower	Comprei uma flor para a minha mãe.	I bought a flower for my mother.	(f), despite ending in <em>-r</em>. Plural: <strong>flores</strong>.				noun uberA2
-A2_custom	árvore	tree	Há uma árvore muito grande no jardim.	There's a very big tree in the garden.	(f), despite ending in <em>-e</em>. Plural: <strong>árvores</strong>.				noun uberA2
-A2_custom	roupa	clothes / clothing	Vou lavar a roupa esta tarde.	I'm going to do the laundry this afternoon.	(f) Singular collective in EP.				noun clothing uberA2
-A2_custom	camisa	shirt	Esta camisa branca fica-te bem.	This white shirt suits you.	(f)				noun clothing uberA2
-A2_custom	camisola	sweater / T-shirt	Põe uma camisola, está frio lá fora.	Put on a sweater, it's cold outside.	(f) EP. Can mean sweater or T-shirt depending on context.				noun clothing uberA2
-A2_custom	calças	trousers / pants	Estas calças são demasiado apertadas.	These trousers are too tight.	(f, plural) Always plural.				noun clothing uberA2
-A2_custom	saia	skirt	Compro uma saia nova para a festa.	I'll buy a new skirt for the party.	(f)				noun clothing uberA2
-A2_custom	vestido	dress	O vestido preto é elegante.	The black dress is elegant.	(m)				noun clothing uberA2
-A2_custom	casaco	coat / jacket	Leva o casaco, vai chover.	Take a coat, it's going to rain.	(m)				noun clothing uberA2
-A2_custom	sapato	shoe	Estes sapatos são muito confortáveis.	These shoes are very comfortable.	(m)				noun clothing uberA2
-A2_custom	chapéu	hat	Usa chapéu no verão por causa do sol.	Wear a hat in the summer because of the sun.	(m)				noun clothing uberA2
-A2_custom	meias	socks	Onde pus as meias pretas?	Where did I put the black socks?	(f, plural) Singular <em>meia</em> exists but plural is standard for socks.				noun clothing uberA2
-A2_custom	cinto	belt	O cinto é de couro castanho.	The belt is brown leather.	(m)				noun clothing uberA2
-A2_custom	ténis	sneakers / trainers	Calcei os ténis para ir correr.	I put on my sneakers to go running.	"(m) Same word used for the sport ""tennis""."				noun clothing uberA2
-A2_custom	botas	boots	No inverno, uso botas quentes.	In winter, I wear warm boots.	(f, plural) Singular <em>bota</em> exists.				noun clothing uberA2
-A2_custom	cor	colour	Qual é a tua cor preferida?	What's your favourite colour?	(f), despite ending in <em>-r</em>. Plural: <strong>cores</strong>.			[sound:1000_cor.mp3]	noun color uberA2
-A2_custom	tamanho	size	Que tamanho veste?	What size do you wear?	(m)				noun clothing uberA2
-A2_custom	mala	bag / suitcase	A minha mala está cheia de livros.	My bag is full of books.	"(f) Also ""suitcase""."				noun clothing uberA2
-A2_custom	carteira	wallet	Perdi a carteira no metro.	I lost my wallet on the metro.	(f)				noun clothing uberA2
-A2_custom	óculos	glasses	Não vejo nada sem os óculos.	I can't see anything without my glasses.	(m, plural) Always plural.				noun clothing uberA2
-A2_custom	relógio	watch / clock	O meu relógio está atrasado cinco minutos.	My watch is five minutes slow.	(m)				noun clothing uberA2
-A2_custom	chave	key	Perdi as chaves de casa.	I lost my house keys.	(f) Plural: <strong>chaves</strong>.				noun uberA2
-A2_custom	telemóvel	mobile phone	O meu telemóvel está sem bateria.	My mobile phone is out of battery.	(m) EP; BR: <strong>celular</strong>.				noun uberA2
-A2_custom	telefone	telephone	Atende o telefone, por favor.	Answer the phone, please.	(m)				noun uberA2
-A2_custom	computador	computer	Trabalho ao computador oito horas por dia.	I work at the computer eight hours a day.	(m)				noun uberA2
-A2_custom	internet	internet	A internet está muito lenta hoje.	The internet is very slow today.	(f)				noun uberA2
-A2_custom	email	email	Vou enviar-te um email mais tarde.	I'll send you an email later.	(m) Pronounced Portuguese-style.				noun uberA2
-A2_custom	mensagem	message	Recebi a tua mensagem agora mesmo.	I just received your message.	(f)			[sound:1000_mensagem.mp3]	noun uberA2
-A2_custom	livro	book	Estou a ler um livro em português.	I'm reading a book in Portuguese.	(m)			[sound:1000_livro.mp3]	noun uberA2
-A2_custom	jornal	newspaper	Leio o jornal todos os dias de manhã.	I read the newspaper every morning.	(m)			[sound:1000_jornal.mp3]	noun uberA2
-A2_custom	revista	magazine	Comprei uma revista para ler no comboio.	I bought a magazine to read on the train.	(f)			[sound:1000_revista.mp3]	noun uberA2
-A2_custom	carta	letter	Escrevi uma carta à minha avó.	I wrote a letter to my grandmother.	(f)				noun uberA2
-A2_custom	papel	paper	Dá-me uma folha de papel, por favor.	Give me a sheet of paper, please.	(m)			[sound:1000_papel.mp3]	noun uberA2
-A2_custom	caneta	pen	Esta caneta já não escreve.	This pen doesn't write anymore.	(f)				noun uberA2
-A2_custom	lápis	pencil	Preciso de um lápis para desenhar.	I need a pencil to draw.	(m) Invariable in plural: <strong>os lápis</strong>.				noun uberA2
-A2_custom	palavra	word	Aprendi uma palavra nova hoje.	I learned a new word today.	(f)			[sound:1000_palavra.mp3]	noun uberA2
-A2_custom	pergunta	question	Tenho uma pergunta para ti.	I have a question for you.	(f)				noun uberA2
-A2_custom	resposta	answer	A resposta correta é a terceira.	The correct answer is the third one.	(f)			[sound:1000_resposta.mp3]	noun uberA2
-A2_custom	história	story / history	Conta-me a história toda.	Tell me the whole story.	(f)			[sound:1000_história.mp3]	noun uberA2
-A2_custom	notícia	news	Ouviste a notícia desta manhã?	Did you hear the news this morning?	(f) Singular form; also used uncountably.			[sound:1000_notícia.mp3]	noun uberA2
-A2_custom	música	music	Gosto de ouvir música clássica.	I like listening to classical music.	(f)			[sound:1000_música.mp3]	noun uberA2
-A2_custom	filme	film / movie	O filme começa às nove da noite.	The film starts at nine in the evening.	(m)			[sound:1000_filme.mp3]	noun uberA2
-A2_custom	festa	party	A festa de aniversário foi ótima.	The birthday party was great.	(f)			[sound:1000_festa.mp3]	noun uberA2
-A2_custom	desporto	sport	Pratico desporto três vezes por semana.	I do sports three times a week.	(m) EP; BR: <strong>esporte</strong>.				noun uberA2
-A2_custom	jogo	game	O jogo do Benfica é amanhã à noite.	The Benfica game is tomorrow night.	(m)			[sound:1000_jogo.mp3]	noun uberA2
-A2_custom	futebol	football / soccer	O futebol é o desporto mais popular em Portugal.	Football is the most popular sport in Portugal.	(m)			[sound:1000_futebol.mp3]	noun uberA2
-A2_custom	passatempo	hobby	Qual é o teu passatempo preferido?	What's your favourite hobby?	(m)				noun uberA2
-A2_custom	tempo livre	free time	Nos tempos livres, leio e cozinho.	In my free time, I read and cook.	(m)				noun uberA2
-A2_custom	televisão	television	Não vejo muita televisão.	I don't watch much television.	(f) Short: <strong>TV</strong>.				noun uberA2
-A2_custom	rádio	radio	Ouço rádio no carro.	I listen to the radio in the car.	(m) Masculine for the device; <em>a rádio</em> (f) for the station/industry.				noun uberA2
-A2_custom	coisa	thing	Tenho muitas coisas para fazer hoje.	I have many things to do today.	(f)			[sound:1000_coisa.mp3]	noun uberA2
-A2_custom	vida	life	A vida é curta, aproveita-a.	Life is short, enjoy it.	(f)			[sound:1000_vida.mp3]	noun uberA2
-A2_custom	ideia	idea	Tenho uma boa ideia para o fim de semana.	I have a good idea for the weekend.	(f)			[sound:1000_ideia.mp3]	noun uberA2
-A2_custom	problema	problem	Este problema não tem solução fácil.	This problem doesn't have an easy solution.	(m), despite ending in <em>-a</em>.			[sound:1000_problema.mp3]	noun uberA2
-A2_custom	presente	gift / present	Comprei um presente para a minha mãe.	I bought a present for my mother.	"(m) Also means ""present"" (tense, time)."			[sound:1000_presente.mp3]	noun uberA2
-A2_custom	dúvida	doubt	Se tiveres alguma dúvida, pergunta.	If you have any doubt, ask.	"(f) Often used instead of ""question"": <em>tens alguma dúvida?</em>"			[sound:1000_dúvida.mp3]	noun uberA2
-A2_custom	vez	time (instance)	Desta vez vou conseguir.	This time I'll make it.	(f) Plural: <strong>vezes</strong>. Distinct from <em>tempo</em> (time in general).			[sound:1000_vez.mp3]	noun uberA2
+A2_custom	a pessoa	person	Aquela pessoa é muito simpática.	That person is very nice.	Always feminine, regardless of the person's gender.			[sound:1000_pessoa.mp3]	noun family uberA2
+A2_custom	a família	family	A minha família mora em Coimbra.	My family lives in Coimbra.				[sound:1000_família.mp3]	noun family uberA2
+A2_custom	o pai	father	O meu pai é médico.	My father is a doctor.	"Plural <strong>pais</strong> can mean ""parents"" (father + mother)."			[sound:1000_pai.mp3]	noun family uberA2
+A2_custom	a mãe	mother	A minha mãe faz o melhor bolo do mundo.	My mother makes the best cake in the world.				[sound:1000_mãe.mp3]	noun family uberA2
+A2_custom	o filho	son / child	O meu filho tem cinco anos.	My son is five.	Feminine: <strong>filha</strong> (daughter). Plural <strong>filhos</strong> = children.			[sound:1000_filho.mp3]	noun family uberA2
+A2_custom	o irmão	brother	O meu irmão mais velho mora em Berlim.	My older brother lives in Berlin.	Feminine: <strong>irmã</strong> (sister). Plural: <strong>irmãos</strong>.				noun family uberA2
+A2_custom	o amigo	friend	Tenho um amigo brasileiro muito simpático.	I have a very nice Brazilian friend.	Feminine: <strong>amiga</strong>.			[sound:1000_amigo.mp3]	noun family uberA2
+A2_custom	o homem	man	Aquele homem é o meu professor.	That man is my teacher.	Plural: <strong>homens</strong>. (m)			[sound:1000_homem.mp3]	noun family uberA2
+A2_custom	a mulher	woman / wife	A mulher dele chama-se Ana.	His wife's name is Ana.	"Can mean ""woman"" or ""wife"" depending on context. (f)"			[sound:1000_mulher.mp3]	noun family uberA2
+A2_custom	a criança	child	Há muitas crianças no parque hoje.	There are many children in the park today.	Always feminine, even for boys: <em>a criança</em>.			[sound:1000_criança.mp3]	noun family uberA2
+A2_custom	o senhor	sir / gentleman / Mr.	Bom dia, senhor.	Good morning, sir.	Feminine: <strong>senhora</strong> (ma'am / Mrs.). Polite address.				noun family uberA2
+A2_custom	o/a colega	colleague / classmate	Os meus colegas são todos muito simpáticos.	My colleagues are all very nice.	Same form for m/f: <em>o colega, a colega</em>.				noun work uberA2
+A2_custom	o avô	grandfather	O meu avô tem setenta e cinco anos.	My grandfather is seventy-five.	Feminine: <strong>avó</strong> (note different accent). Plural <strong>avós</strong> = grandparents.				noun family uberA2
+A2_custom	o tio	uncle	O meu tio vive no Porto.	My uncle lives in Porto.	Feminine: <strong>tia</strong> (aunt). Plural <strong>tios</strong> = aunt and uncle.				noun family uberA2
+A2_custom	o primo	cousin	Tenho muitos primos no Brasil.	I have many cousins in Brazil.	Feminine: <strong>prima</strong>.				noun family uberA2
+A2_custom	o neto	grandson	O meu neto nasceu a semana passada.	My grandson was born last week.	Feminine: <strong>neta</strong>. Plural <strong>netos</strong> = grandchildren.				noun family uberA2
+A2_custom	o marido	husband	O marido da Ana é engenheiro.	Ana's husband is an engineer.	(m)				noun family uberA2
+A2_custom	a esposa	wife	A esposa dele é minha amiga.	His wife is my friend.	(f) Alternative: <strong>mulher</strong>.				noun family uberA2
+A2_custom	o namorado	boyfriend	O meu namorado chama-se João.	My boyfriend's name is João.	Feminine: <strong>namorada</strong> (girlfriend).				noun family uberA2
+A2_custom	o bebé	baby	O bebé dorme a maior parte do dia.	The baby sleeps most of the day.	(m) BR: <strong>bebê</strong>.				noun family uberA2
+A2_custom	o nome	name	O meu nome é Ana, prazer em conhecer-te.	My name is Ana, pleased to meet you.	(m) Surname: <strong>apelido</strong>.			[sound:1000_nome.mp3]	noun uberA2
+A2_custom	a idade	age	Qual é a tua idade?	What's your age?	(f) More common: <em>Quantos anos tens?</em>			[sound:1000_idade.mp3]	noun uberA2
+A2_custom	a morada	address	Podes dar-me a tua morada, por favor?	Can you give me your address, please?	(f) EP word; BR: <strong>endereço</strong>.				noun uberA2
+A2_custom	o número	number	Qual é o teu número de telemóvel?	What's your mobile number?	(m)			[sound:1000_número.mp3]	noun uberA2
+A2_custom	a profissão	profession / job	Qual é a sua profissão?	What's your profession?	(f)				noun work uberA2
+A2_custom	a nacionalidade	nationality	A minha nacionalidade é portuguesa.	My nationality is Portuguese.	(f)				noun nationality uberA2
+A2_custom	a língua	language / tongue	Falo três línguas: português, inglês e francês.	I speak three languages: Portuguese, English, and French.	"Also means ""tongue"" (body part)."				noun uberA2
+A2_custom	o trabalho	work / job	Começo o trabalho novo na próxima segunda-feira.	I start my new job next Monday.	(m) Verb: <strong>trabalhar</strong>.			[sound:1000_trabalho.mp3]	noun work uberA2
+A2_custom	o emprego	job / employment	Arranjei um emprego no centro da cidade.	I got a job in the city centre.	(m)			[sound:1000_emprego.mp3]	noun work uberA2
+A2_custom	a empresa	company	Trabalho numa empresa pequena.	I work in a small company.	(f)			[sound:1000_empresa.mp3]	noun work uberA2
+A2_custom	a reunião	meeting	A reunião é às dez da manhã.	The meeting is at ten in the morning.	(f)			[sound:1000_reunião.mp3]	noun work uberA2
+A2_custom	a escola	school	Os meus filhos andam na mesma escola.	My children go to the same school.	(f)			[sound:1000_escola.mp3]	noun school uberA2
+A2_custom	a aula	class / lesson	A aula de português começa às seis.	The Portuguese class starts at six.	(f)			[sound:1000_aula.mp3]	noun school uberA2
+A2_custom	o professor	teacher	O professor de matemática é muito bom.	The maths teacher is very good.	Feminine: <strong>professora</strong>.			[sound:1000_professor.mp3]	noun school uberA2
+A2_custom	o aluno	student	Os alunos estão a estudar para o exame.	The students are studying for the exam.	Feminine: <strong>aluna</strong>.			[sound:1000_aluno.mp3]	noun school uberA2
+A2_custom	a casa	house / home	A minha casa fica perto da praia.	My house is near the beach.	(f)			[sound:1000_casa.mp3]	noun home uberA2
+A2_custom	o apartamento	apartment / flat	Moro num apartamento no segundo andar.	I live in an apartment on the second floor.	(m)				noun home uberA2
+A2_custom	o quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	"(m). Also the ordinal ""fourth"" / 4º (fem. <strong>quarta</strong>): <em>abril é o quarto mês</em>."			[sound:1000_quarto.mp3]	noun home uberA2
+A2_custom	a sala	living room	Temos duas televisões: uma na sala e outra no quarto.	We have two TVs: one in the living room and another in the bedroom.	(f) Full form: <em>sala de estar</em>.			[sound:1000_sala.mp3]	noun home uberA2
+A2_custom	a cozinha	kitchen	Passo muito tempo na cozinha aos fins de semana.	I spend a lot of time in the kitchen on weekends.	(f) Also the verb <em>cozinhar</em> (to cook).				noun home uberA2
+A2_custom	a casa de banho	bathroom	A casa de banho é ao fundo do corredor.	The bathroom is at the end of the hallway.	(f) EP; BR: <strong>banheiro</strong>.				noun home uberA2
+A2_custom	a porta	door	Fecha a porta quando saíres, por favor.	Close the door when you leave, please.	(f)			[sound:1000_porta.mp3]	noun home uberA2
+A2_custom	a janela	window	Abri a janela porque estava muito calor.	I opened the window because it was very hot.	(f)				noun home uberA2
+A2_custom	a mesa	table	O jantar está pronto, vem para a mesa.	Dinner's ready, come to the table.	(f)				noun home uberA2
+A2_custom	a cadeira	chair	Esta cadeira é muito confortável.	This chair is very comfortable.	(f)				noun home uberA2
+A2_custom	a cama	bed	A minha cama é grande e confortável.	My bed is big and comfortable.	(f)				noun home uberA2
+A2_custom	o corpo	body	Preciso de exercitar o corpo mais vezes.	I need to exercise my body more often.	(m)			[sound:1000_corpo.mp3]	noun body uberA2
+A2_custom	a cabeça	head	Estou com dores de cabeça hoje.	I have a headache today.	(f) Common idiom: <em>ter dores de cabeça</em>.				noun body uberA2
+A2_custom	a mão	hand	Lava as mãos antes de comer.	Wash your hands before eating.	(f), despite ending in <em>-m</em>. Plural: <strong>mãos</strong>.			[sound:1000_mão.mp3]	noun body uberA2
+A2_custom	o pé	foot	Tenho os pés cansados depois de tanto andar.	My feet are tired after walking so much.	(m) <em>A pé</em> = on foot.				noun body uberA2
+A2_custom	o braço	arm	Quebrou o braço a esquiar.	He broke his arm skiing.	(m)				noun body uberA2
+A2_custom	a perna	leg	Magoei a perna a correr.	I hurt my leg running.	(f)				noun body uberA2
+A2_custom	o olho	eye	Ela tem os olhos verdes.	She has green eyes.	(m)				noun body uberA2
+A2_custom	a boca	mouth	Não fales com a boca cheia.	Don't speak with your mouth full.	(f)				noun body uberA2
+A2_custom	o dente	tooth	Tenho que ir ao dentista — dói-me um dente.	I have to go to the dentist — one of my teeth hurts.	(m) Plural: <strong>dentes</strong>.				noun body uberA2
+A2_custom	o cabelo	hair	Cortei o cabelo ontem.	I got a haircut yesterday.	(m)				noun body uberA2
+A2_custom	a cara	face	Ele tem uma cara simpática.	He has a friendly face.	(f)				noun body uberA2
+A2_custom	o nariz	nose	Estou constipada — o nariz está a escorrer.	I have a cold — my nose is running.	(m)				noun body uberA2
+A2_custom	a orelha	ear (outer)	Ela tem as orelhas pequenas.	She has small ears.	(f) The outer ear.				noun body uberA2
+A2_custom	o ouvido	ear (inner / hearing)	Dói-me o ouvido esquerdo.	My left ear hurts.	(m) The inner ear / sense of hearing. Distinct from <strong>orelha</strong> (outer ear).				noun body uberA2
+A2_custom	o pescoço	neck	O pescoço dói-me quando durmo mal.	My neck hurts when I sleep badly.	(m)				noun body uberA2
+A2_custom	as costas	back	Tenho dores nas costas de tanto estar sentado.	I have back pain from sitting so much.	"(f) Always plural: <strong>as costas</strong>. False friend: ≠ ""coast"" (that's <em>costa</em> singular)."				noun body uberA2
+A2_custom	o coração	heart	O coração dele bate muito rápido.	His heart beats very fast.	(m) Plural: <strong>corações</strong>.				noun body uberA2
+A2_custom	o dedo	finger / toe	Cortei o dedo com a faca.	I cut my finger with the knife.	(m) Covers both finger and toe; <em>dedo do pé</em> for toe when needed.				noun body uberA2
+A2_custom	o joelho	knee	Caí e magoei o joelho.	I fell and hurt my knee.	(m)				noun body uberA2
+A2_custom	o ombro	shoulder	Ele partiu o ombro num acidente.	He broke his shoulder in an accident.	(m)				noun body uberA2
+A2_custom	a barriga	belly / stomach	Tenho a barriga cheia depois do almoço.	My stomach is full after lunch.	(f) Informal; medical: <em>estômago</em>.				noun body uberA2
+A2_custom	a fome	hunger	Tenho muita fome, vamos jantar.	I'm very hungry, let's have dinner.	(f) <em>Ter fome</em> = to be hungry.				noun feeling uberA2
+A2_custom	a sede	thirst	Com este calor, tenho sempre sede.	With this heat, I'm always thirsty.	(f) <em>Ter sede</em> = to be thirsty.			[sound:1000_sede.mp3]	noun feeling uberA2
+A2_custom	o sono	sleep / sleepiness	Estou com muito sono, vou para a cama.	I'm very sleepy, I'm going to bed.	(m) <em>Ter sono</em> = to be sleepy.				noun feeling uberA2
+A2_custom	a pressa	hurry	Estou com pressa, falamos depois.	I'm in a hurry, we'll talk later.	(f) <em>Ter pressa</em> = to be in a hurry.				noun feeling uberA2
+A2_custom	a comida	food	A comida portuguesa é deliciosa.	Portuguese food is delicious.	(f)				noun food uberA2
+A2_custom	a água	water	Queria uma garrafa de água, por favor.	I'd like a bottle of water, please.	(f), despite beginning with <em>á-</em>.			[sound:1000_água.mp3]	noun drink uberA2
+A2_custom	o café	coffee / café	Vou tomar um café depois do almoço.	I'll have a coffee after lunch.	"(m) Also means ""café"" (the place)."				noun drink uberA2
+A2_custom	o chá	tea	Queres chá preto ou chá verde?	Do you want black tea or green tea?	(m)				noun drink uberA2
+A2_custom	o pão	bread	De manhã, como pão com manteiga.	In the morning, I eat bread with butter.	(m) Plural: <strong>pães</strong>.				noun food uberA2
+A2_custom	o leite	milk	Bebo um copo de leite ao pequeno-almoço.	I drink a glass of milk with breakfast.	(m)				noun drink uberA2
+A2_custom	a fruta	fruit	Como fruta todos os dias.	I eat fruit every day.	(f) Collective singular; a piece of fruit is <em>uma peça de fruta</em> or <em>um fruto</em>.				noun food uberA2
+A2_custom	os legumes	vegetables	Os legumes da horta são os melhores.	The vegetables from the garden are the best.	(m) Usually plural.				noun food uberA2
+A2_custom	a carne	meat	Não como carne há cinco anos.	I haven't eaten meat for five years.	(f)				noun food uberA2
+A2_custom	o peixe	fish	Em Lisboa, come-se muito peixe fresco.	In Lisbon, people eat a lot of fresh fish.	(m)				noun food uberA2
+A2_custom	o arroz	rice	O arroz malandrinho é um prato típico.	"""Arroz malandrinho"" is a typical dish."	(m)				noun food uberA2
+A2_custom	a batata	potato	Batatas fritas com peixe grelhado, por favor.	Fries with grilled fish, please.	(f) <em>Batatas fritas</em> = fries / chips.				noun food uberA2
+A2_custom	o ovo	egg	Como ovos mexidos quase todas as manhãs.	I eat scrambled eggs almost every morning.	(m)				noun food uberA2
+A2_custom	o queijo	cheese	Este queijo da Serra é fantástico.	This Serra cheese is fantastic.	(m)				noun food uberA2
+A2_custom	a sopa	soup	A sopa de legumes está quente.	The vegetable soup is hot.	(f) Very common in EP meals.				noun food uberA2
+A2_custom	o bolo	cake	A minha avó faz o melhor bolo de chocolate.	My grandmother makes the best chocolate cake.	(m)				noun food uberA2
+A2_custom	o açúcar	sugar	Tomo o café sem açúcar.	I take my coffee without sugar.	(m)				noun food uberA2
+A2_custom	o sal	salt	Esta sopa precisa de mais sal.	This soup needs more salt.	(m)				noun food uberA2
+A2_custom	o vinho	wine	Um copo de vinho tinto, se faz favor.	A glass of red wine, please.	(m) <em>Vinho tinto</em> = red wine; <em>vinho branco</em> = white.				noun drink uberA2
+A2_custom	a cerveja	beer	Uma cerveja bem fresca era ótima agora.	A nice cold beer would be great right now.	(f)				noun drink uberA2
+A2_custom	o sumo	juice	Queres sumo de laranja natural?	Would you like fresh orange juice?	(m) EP; BR: <strong>suco</strong>.				noun drink uberA2
+A2_custom	a manteiga	butter	Passo manteiga no pão todas as manhãs.	I spread butter on bread every morning.	(f)				noun food uberA2
+A2_custom	a sandes	sandwich	Almoço sempre uma sandes no escritório.	I always have a sandwich at the office for lunch.	(f, invariable) Standard EP form: <em>uma sandes, duas sandes</em>. Also acceptable: <strong>sanduíche</strong> (f).				noun food uberA2
+A2_custom	a salada	salad	Uma salada mista com atum, por favor.	A mixed salad with tuna, please.	(f)				noun food uberA2
+A2_custom	a massa	pasta	Faço massa com molho de tomate.	I make pasta with tomato sauce.	"(f) Also means ""dough""."				noun food uberA2
+A2_custom	o chocolate	chocolate	Adoro chocolate preto amargo.	I love dark bitter chocolate.	(m)				noun food uberA2
+A2_custom	o pequeno-almoço	breakfast	Toma um bom pequeno-almoço todos os dias.	Have a good breakfast every day.	(m) EP; BR: <em>café da manhã</em>.				noun food uberA2
+A2_custom	o almoço	lunch	O almoço é o momento mais importante do dia.	Lunch is the most important moment of the day.	(m) Verb: <strong>almoçar</strong>.				noun food uberA2
+A2_custom	o jantar	dinner	O jantar costuma ser às oito.	Dinner is usually at eight.	(m) Also the verb <strong>jantar</strong> (to have dinner).				noun food uberA2
+A2_custom	o restaurante	restaurant	Há um restaurante novo ali na esquina.	There's a new restaurant on the corner there.	(m)				noun food uberA2
+A2_custom	a ementa	menu	Podemos ver a ementa, por favor?	Can we see the menu, please?	(f) EP; BR: <strong>cardápio</strong>.				noun food uberA2
+A2_custom	o prato	plate / dish	Este é o prato do dia.	This is today's special.	"(m) Also ""dish"" as in a menu item."				noun food uberA2
+A2_custom	o copo	glass / cup	Dá-me um copo de água, por favor.	Give me a glass of water, please.	(m)				noun food uberA2
+A2_custom	a garrafa	bottle	Uma garrafa de vinho para quatro pessoas.	One bottle of wine for four people.	(f)				noun food uberA2
+A2_custom	a conta	bill / account	A conta, se faz favor.	The bill, please.	"(f) Also ""bank account""."			[sound:1000_conta.mp3]	noun food uberA2
+A2_custom	a saúde	health	A saúde é o mais importante.	Health is the most important thing.	(f) Also a toast: <em>Saúde!</em>			[sound:1000_saúde.mp3]	noun health uberA2
+A2_custom	o médico	doctor	Vou ao médico na próxima terça-feira.	I'm going to the doctor next Tuesday.	Feminine: <strong>médica</strong>.			[sound:1000_médico.mp3]	noun health uberA2
+A2_custom	o enfermeiro	nurse	O enfermeiro foi muito simpático comigo.	The nurse was very kind to me.	Feminine: <strong>enfermeira</strong>.				noun health uberA2
+A2_custom	a dor	pain	Tenho uma dor nas costas há dois dias.	I've had back pain for two days.	(f) Plural: <strong>dores</strong>.				noun health uberA2
+A2_custom	o remédio	medicine	Tomo este remédio duas vezes por dia.	I take this medicine twice a day.	(m)				noun health uberA2
+A2_custom	a febre	fever	Acho que estou com febre.	I think I have a fever.	(f) <em>Ter febre</em> = to have a fever.				noun health uberA2
+A2_custom	a tosse	cough	A tosse não me deixa dormir.	The cough won't let me sleep.	(f)				noun health uberA2
+A2_custom	a gripe	flu	Tenho uma gripe há uma semana.	I've had the flu for a week.	(f)				noun health uberA2
+A2_custom	a constipação	cold	Estou com uma constipação forte.	I have a bad cold.	"(f) EP; BR: <strong>resfriado</strong>. False friend with English ""constipation""."				noun health uberA2
+A2_custom	a doença	illness / disease	É uma doença pouco comum.	It's a rare illness.	(f)			[sound:1000_doença.mp3]	noun health uberA2
+A2_custom	o dinheiro	money	Não tenho dinheiro suficiente para o táxi.	I don't have enough money for the taxi.	(m)			[sound:1000_dinheiro.mp3]	noun shopping uberA2
+A2_custom	o preço	price	O preço deste telemóvel é muito alto.	The price of this mobile is very high.	(m)			[sound:1000_preço.mp3]	noun shopping uberA2
+A2_custom	o troco	change (money)	Guarde o troco, por favor.	Keep the change, please.	(m) The money returned.				noun shopping uberA2
+A2_custom	a loja	shop / store	Vou à loja de roupa esta tarde.	I'm going to the clothes shop this afternoon.	(f)			[sound:1000_loja.mp3]	noun shopping uberA2
+A2_custom	o supermercado	supermarket	Faço as compras no supermercado ao sábado.	I do the shopping at the supermarket on Saturday.	(m)				noun shopping uberA2
+A2_custom	o mercado	market	Ao domingo há feira no mercado.	There's a fair at the market on Sundays.	(m)			[sound:1000_mercado.mp3]	noun shopping uberA2
+A2_custom	o banco	bank	O banco está fechado ao fim de semana.	The bank is closed on weekends.	"(m) Also ""bench""."			[sound:1000_banco.mp3]	noun place uberA2
+A2_custom	os correios	post office	Vou aos correios enviar uma carta.	I'm going to the post office to send a letter.	(m, plural) Always plural.				noun place uberA2
+A2_custom	a farmácia	pharmacy	A farmácia fica aberta até às dez.	The pharmacy is open until ten.	(f)				noun place uberA2
+A2_custom	o hospital	hospital	Levaram-no ao hospital de ambulância.	They took him to the hospital by ambulance.	(m)			[sound:1000_hospital.mp3]	noun place uberA2
+A2_custom	a igreja	church	A igreja no centro é muito antiga.	The church in the centre is very old.	(f)				noun place uberA2
+A2_custom	o museu	museum	O museu fecha à segunda-feira.	The museum is closed on Mondays.	(m)				noun place uberA2
+A2_custom	o cinema	cinema	Vamos ao cinema logo à noite?	Shall we go to the cinema tonight?	(m), despite ending in <em>-a</em>.				noun place uberA2
+A2_custom	o teatro	theatre	Gosto mais de teatro do que de cinema.	I like theatre more than cinema.	(m)				noun place uberA2
+A2_custom	a biblioteca	library	Estudo na biblioteca quando tenho exames.	I study at the library when I have exams.	(f)				noun place uberA2
+A2_custom	o dia	day	Hoje é um dia lindo de primavera.	Today is a beautiful spring day.	(m)			[sound:1000_dia.mp3]	noun time uberA2
+A2_custom	o ano	year	Passei um ano a viver em Paris.	I spent a year living in Paris.	(m)			[sound:1000_ano.mp3]	noun time uberA2
+A2_custom	a hora	hour / time (clock)	Que horas são?	What time is it?	(f) Plural for time of day: <em>Que horas são?</em>			[sound:1000_hora.mp3]	noun time uberA2
+A2_custom	a semana	week	Vou ter umas férias na próxima semana.	I'm having a holiday next week.	(f)			[sound:1000_semana.mp3]	noun time uberA2
+A2_custom	o mês	month	Passei um mês sem falar com ele.	I went a month without talking to him.	(m) Plural: <strong>meses</strong>.			[sound:1000_mês.mp3]	noun time uberA2
+A2_custom	a manhã	morning	De manhã, corro no parque.	In the morning, I run in the park.	(f)			[sound:1000_manhã.mp3]	noun time uberA2
+A2_custom	a noite	night / evening	À noite, leio antes de dormir.	At night, I read before sleeping.	(f)			[sound:1000_noite.mp3]	noun time uberA2
+A2_custom	o minuto	minute	Chego em cinco minutos.	I'll be there in five minutes.	(m)			[sound:1000_minuto.mp3]	noun time uberA2
+A2_custom	o tempo	time / weather	O tempo está ótimo hoje.	The weather is great today.	"(m) Means both ""time"" (<em>não tenho tempo</em>) and ""weather"" (<em>está bom tempo</em>)."			[sound:1000_tempo.mp3]	noun time uberA2
+A2_custom	o aniversário	birthday / anniversary	Os meus amigos fizeram-me uma festa de aniversário.	My friends threw me a birthday party.	(m)				noun time uberA2
+A2_custom	o sol	sun	Hoje está muito sol.	It's very sunny today.	(m) <em>Estar sol</em> = to be sunny.				noun weather uberA2
+A2_custom	a chuva	rain	A chuva não para desde ontem.	The rain hasn't stopped since yesterday.	(f) Verb: <strong>chover</strong>.				noun weather uberA2
+A2_custom	o calor	heat	Está muito calor hoje.	It's very hot today.	(m) <em>Ter calor</em> = to feel hot.				noun weather uberA2
+A2_custom	o vento	wind	Há muito vento hoje.	There's a lot of wind today.	(m)				noun weather uberA2
+A2_custom	a neve	snow	A neve cobriu as montanhas.	The snow covered the mountains.	(f)				noun weather uberA2
+A2_custom	o céu	sky	O céu está azul sem uma nuvem.	The sky is blue without a cloud.	(m)				noun weather uberA2
+A2_custom	a nuvem	cloud	Uma nuvem escura tapou o sol.	A dark cloud covered the sun.	(f), despite ending in <em>-m</em>. Plural: <strong>nuvens</strong>.				noun weather uberA2
+A2_custom	a estação do ano	season	A minha estação do ano preferida é o outono.	My favourite season is autumn.	"(f) Also just <strong>estação</strong>. <em>Estação</em> alone can also mean ""(train) station""."				noun season uberA2
+A2_custom	o verão	summer	No verão, vou sempre à praia.	In the summer, I always go to the beach.	(m)				noun season uberA2
+A2_custom	o inverno	winter	O inverno em Portugal é suave.	Winter in Portugal is mild.	(m)				noun season uberA2
+A2_custom	a primavera	spring	A primavera traz flores e cores.	Spring brings flowers and colours.	(f)				noun season uberA2
+A2_custom	o outono	autumn / fall	O outono é uma estação bonita.	Autumn is a beautiful season.	(m)				noun season uberA2
+A2_custom	o carro	car	Tenho um carro pequeno mas confortável.	I have a small but comfortable car.	(m)			[sound:1000_carro.mp3]	noun transport uberA2
+A2_custom	o autocarro	bus	Apanho o autocarro para o trabalho.	I take the bus to work.	(m) EP; BR: <strong>ônibus</strong>.				noun transport uberA2
+A2_custom	o comboio	train	O comboio para o Porto sai às nove.	The train to Porto leaves at nine.	(m) EP; BR: <strong>trem</strong>.				noun transport uberA2
+A2_custom	o avião	plane	O avião aterra dentro de meia hora.	The plane lands in half an hour.	(m) Plural: <strong>aviões</strong>.				noun transport uberA2
+A2_custom	o metro	metro / subway	Vou de metro todos os dias.	I take the metro every day.	"(m) Also the measurement ""metre""."				noun transport uberA2
+A2_custom	a bicicleta	bicycle	Ando de bicicleta no fim de semana.	I ride a bike on weekends.	(f) Short form: <strong>bici</strong>.				noun transport uberA2
+A2_custom	o táxi	taxi	Chamei um táxi porque estava a chover.	I called a taxi because it was raining.	(m)				noun transport uberA2
+A2_custom	o bilhete	ticket	Comprei o bilhete de comboio online.	I bought the train ticket online.	(m)				noun transport uberA2
+A2_custom	a paragem	(bus) stop	A paragem do autocarro fica ali.	The bus stop is over there.	(f) EP; BR: <strong>ponto</strong>.				noun transport uberA2
+A2_custom	a estação	station	Encontramo-nos na estação de comboios.	Let's meet at the train station.	(f)				noun transport uberA2
+A2_custom	o aeroporto	airport	O aeroporto de Lisboa fica perto do centro.	Lisbon airport is close to the centre.	(m)				noun transport uberA2
+A2_custom	a viagem	trip / journey	A viagem durou seis horas.	The trip lasted six hours.	(f) Verb: <strong>viajar</strong>.			[sound:1000_viagem.mp3]	noun transport uberA2
+A2_custom	as férias	holidays / vacation	Vou de férias em agosto.	I'm going on holiday in August.	(f, plural) Always plural.				noun time uberA2
+A2_custom	o hotel	hotel	O hotel fica mesmo em frente da praia.	The hotel is right in front of the beach.	(m)				noun place uberA2
+A2_custom	a cidade	city	Lisboa é a cidade mais antiga da Europa ocidental.	Lisbon is the oldest city in Western Europe.	(f)			[sound:1000_cidade.mp3]	noun place uberA2
+A2_custom	o país	country	Portugal é um país pequeno mas bonito.	Portugal is a small but beautiful country.	(m) Plural: <strong>países</strong>.			[sound:1000_país.mp3]	noun place uberA2
+A2_custom	a rua	street	A minha rua é muito calma à noite.	My street is very quiet at night.	(f)			[sound:1000_rua.mp3]	noun place uberA2
+A2_custom	a avenida	avenue	A avenida principal está cheia de lojas.	The main avenue is full of shops.	(f)				noun place uberA2
+A2_custom	a praça	square	A praça no centro é sempre movimentada.	The square in the centre is always busy.	(f)				noun place uberA2
+A2_custom	a ponte	bridge	A ponte sobre o Tejo é impressionante.	The bridge over the Tagus is impressive.	(f)				noun place uberA2
+A2_custom	o parque	park	Vou ao parque correr todas as manhãs.	I go to the park to run every morning.	(m)				noun place uberA2
+A2_custom	o jardim	garden	O jardim de casa está cheio de flores.	The garden at home is full of flowers.	(m)				noun place uberA2
+A2_custom	a praia	beach	Adoro ir à praia ao fim de semana.	I love going to the beach on weekends.	(f)				noun place uberA2
+A2_custom	o mar	sea	O mar está muito frio em abril.	The sea is very cold in April.	(m)			[sound:1000_mar.mp3]	noun place uberA2
+A2_custom	o rio	river	O rio Tejo atravessa Lisboa.	The Tagus river crosses Lisbon.	(m)			[sound:1000_rio.mp3]	noun place uberA2
+A2_custom	a montanha	mountain	As montanhas da Serra estão cobertas de neve.	The Serra mountains are covered in snow.	(f)				noun place uberA2
+A2_custom	o campo	countryside / field	Prefiro viver no campo a viver na cidade.	I prefer living in the countryside to living in the city.	(m)			[sound:1000_campo.mp3]	noun place uberA2
+A2_custom	o animal	animal	Gosto muito de animais, especialmente de cães.	I love animals, especially dogs.	(m) Plural: <strong>animais</strong>.			[sound:1000_animal.mp3]	noun animal uberA2
+A2_custom	o cão	dog	O meu cão adora correr no parque.	My dog loves running in the park.	(m) Plural: <strong>cães</strong>. Feminine: <strong>cadela</strong>.				noun animal uberA2
+A2_custom	o gato	cat	O gato dorme em cima da cama.	The cat sleeps on top of the bed.	(m) Feminine: <strong>gata</strong>.				noun animal uberA2
+A2_custom	a flor	flower	Comprei uma flor para a minha mãe.	I bought a flower for my mother.	(f), despite ending in <em>-r</em>. Plural: <strong>flores</strong>.				noun uberA2
+A2_custom	a árvore	tree	Há uma árvore muito grande no jardim.	There's a very big tree in the garden.	(f), despite ending in <em>-e</em>. Plural: <strong>árvores</strong>.				noun uberA2
+A2_custom	a roupa	clothes / clothing	Vou lavar a roupa esta tarde.	I'm going to do the laundry this afternoon.	(f) Singular collective in EP.				noun clothing uberA2
+A2_custom	a camisa	shirt	Esta camisa branca fica-te bem.	This white shirt suits you.	(f)				noun clothing uberA2
+A2_custom	a camisola	sweater / T-shirt	Põe uma camisola, está frio lá fora.	Put on a sweater, it's cold outside.	(f) EP. Can mean sweater or T-shirt depending on context.				noun clothing uberA2
+A2_custom	as calças	trousers / pants	Estas calças são demasiado apertadas.	These trousers are too tight.	(f, plural) Always plural.				noun clothing uberA2
+A2_custom	a saia	skirt	Compro uma saia nova para a festa.	I'll buy a new skirt for the party.	(f)				noun clothing uberA2
+A2_custom	o vestido	dress	O vestido preto é elegante.	The black dress is elegant.	(m)				noun clothing uberA2
+A2_custom	o casaco	coat / jacket	Leva o casaco, vai chover.	Take a coat, it's going to rain.	(m)				noun clothing uberA2
+A2_custom	o sapato	shoe	Estes sapatos são muito confortáveis.	These shoes are very comfortable.	(m)				noun clothing uberA2
+A2_custom	o chapéu	hat	Usa chapéu no verão por causa do sol.	Wear a hat in the summer because of the sun.	(m)				noun clothing uberA2
+A2_custom	as meias	socks	Onde pus as meias pretas?	Where did I put the black socks?	(f, plural) Singular <em>meia</em> exists but plural is standard for socks.				noun clothing uberA2
+A2_custom	o cinto	belt	O cinto é de couro castanho.	The belt is brown leather.	(m)				noun clothing uberA2
+A2_custom	o ténis	sneakers / trainers	Calcei os ténis para ir correr.	I put on my sneakers to go running.	"(m) Same word used for the sport ""tennis""."				noun clothing uberA2
+A2_custom	as botas	boots	No inverno, uso botas quentes.	In winter, I wear warm boots.	(f, plural) Singular <em>bota</em> exists.				noun clothing uberA2
+A2_custom	a cor	colour	Qual é a tua cor preferida?	What's your favourite colour?	(f), despite ending in <em>-r</em>. Plural: <strong>cores</strong>.			[sound:1000_cor.mp3]	noun color uberA2
+A2_custom	o tamanho	size	Que tamanho veste?	What size do you wear?	(m)				noun clothing uberA2
+A2_custom	a mala	bag / suitcase	A minha mala está cheia de livros.	My bag is full of books.	"(f) Also ""suitcase""."				noun clothing uberA2
+A2_custom	a carteira	wallet	Perdi a carteira no metro.	I lost my wallet on the metro.	(f)				noun clothing uberA2
+A2_custom	os óculos	glasses	Não vejo nada sem os óculos.	I can't see anything without my glasses.	(m, plural) Always plural.				noun clothing uberA2
+A2_custom	o relógio	watch / clock	O meu relógio está atrasado cinco minutos.	My watch is five minutes slow.	(m)				noun clothing uberA2
+A2_custom	a chave	key	Perdi as chaves de casa.	I lost my house keys.	(f) Plural: <strong>chaves</strong>.				noun uberA2
+A2_custom	o telemóvel	mobile phone	O meu telemóvel está sem bateria.	My mobile phone is out of battery.	(m) EP; BR: <strong>celular</strong>.				noun uberA2
+A2_custom	o telefone	telephone	Atende o telefone, por favor.	Answer the phone, please.	(m)				noun uberA2
+A2_custom	o computador	computer	Trabalho ao computador oito horas por dia.	I work at the computer eight hours a day.	(m)				noun uberA2
+A2_custom	a internet	internet	A internet está muito lenta hoje.	The internet is very slow today.	(f)				noun uberA2
+A2_custom	o email	email	Vou enviar-te um email mais tarde.	I'll send you an email later.	(m) Pronounced Portuguese-style.				noun uberA2
+A2_custom	a mensagem	message	Recebi a tua mensagem agora mesmo.	I just received your message.	(f)			[sound:1000_mensagem.mp3]	noun uberA2
+A2_custom	o livro	book	Estou a ler um livro em português.	I'm reading a book in Portuguese.	(m)			[sound:1000_livro.mp3]	noun uberA2
+A2_custom	o jornal	newspaper	Leio o jornal todos os dias de manhã.	I read the newspaper every morning.	(m)			[sound:1000_jornal.mp3]	noun uberA2
+A2_custom	a revista	magazine	Comprei uma revista para ler no comboio.	I bought a magazine to read on the train.	(f)			[sound:1000_revista.mp3]	noun uberA2
+A2_custom	a carta	letter	Escrevi uma carta à minha avó.	I wrote a letter to my grandmother.	(f)				noun uberA2
+A2_custom	o papel	paper	Dá-me uma folha de papel, por favor.	Give me a sheet of paper, please.	(m)			[sound:1000_papel.mp3]	noun uberA2
+A2_custom	a caneta	pen	Esta caneta já não escreve.	This pen doesn't write anymore.	(f)				noun uberA2
+A2_custom	o lápis	pencil	Preciso de um lápis para desenhar.	I need a pencil to draw.	(m) Invariable in plural: <strong>os lápis</strong>.				noun uberA2
+A2_custom	a palavra	word	Aprendi uma palavra nova hoje.	I learned a new word today.	(f)			[sound:1000_palavra.mp3]	noun uberA2
+A2_custom	a pergunta	question	Tenho uma pergunta para ti.	I have a question for you.	(f)				noun uberA2
+A2_custom	a resposta	answer	A resposta correta é a terceira.	The correct answer is the third one.	(f)			[sound:1000_resposta.mp3]	noun uberA2
+A2_custom	a história	story / history	Conta-me a história toda.	Tell me the whole story.	(f)			[sound:1000_história.mp3]	noun uberA2
+A2_custom	a notícia	news	Ouviste a notícia desta manhã?	Did you hear the news this morning?	(f) Singular form; also used uncountably.			[sound:1000_notícia.mp3]	noun uberA2
+A2_custom	a música	music	Gosto de ouvir música clássica.	I like listening to classical music.	(f)			[sound:1000_música.mp3]	noun uberA2
+A2_custom	o filme	film / movie	O filme começa às nove da noite.	The film starts at nine in the evening.	(m)			[sound:1000_filme.mp3]	noun uberA2
+A2_custom	a festa	party	A festa de aniversário foi ótima.	The birthday party was great.	(f)			[sound:1000_festa.mp3]	noun uberA2
+A2_custom	o desporto	sport	Pratico desporto três vezes por semana.	I do sports three times a week.	(m) EP; BR: <strong>esporte</strong>.				noun uberA2
+A2_custom	o jogo	game	O jogo do Benfica é amanhã à noite.	The Benfica game is tomorrow night.	(m)			[sound:1000_jogo.mp3]	noun uberA2
+A2_custom	o futebol	football / soccer	O futebol é o desporto mais popular em Portugal.	Football is the most popular sport in Portugal.	(m)			[sound:1000_futebol.mp3]	noun uberA2
+A2_custom	o passatempo	hobby	Qual é o teu passatempo preferido?	What's your favourite hobby?	(m)				noun uberA2
+A2_custom	o tempo livre	free time	Nos tempos livres, leio e cozinho.	In my free time, I read and cook.	(m)				noun uberA2
+A2_custom	a televisão	television	Não vejo muita televisão.	I don't watch much television.	(f) Short: <strong>TV</strong>.				noun uberA2
+A2_custom	o rádio	radio	Ouço rádio no carro.	I listen to the radio in the car.	(m) Masculine for the device; <em>a rádio</em> (f) for the station/industry.				noun uberA2
+A2_custom	a coisa	thing	Tenho muitas coisas para fazer hoje.	I have many things to do today.	(f)			[sound:1000_coisa.mp3]	noun uberA2
+A2_custom	a vida	life	A vida é curta, aproveita-a.	Life is short, enjoy it.	(f)			[sound:1000_vida.mp3]	noun uberA2
+A2_custom	a ideia	idea	Tenho uma boa ideia para o fim de semana.	I have a good idea for the weekend.	(f)			[sound:1000_ideia.mp3]	noun uberA2
+A2_custom	o problema	problem	Este problema não tem solução fácil.	This problem doesn't have an easy solution.	(m), despite ending in <em>-a</em>.			[sound:1000_problema.mp3]	noun uberA2
+A2_custom	o presente	gift / present	Comprei um presente para a minha mãe.	I bought a present for my mother.	"(m) Also means ""present"" (tense, time)."			[sound:1000_presente.mp3]	noun uberA2
+A2_custom	a dúvida	doubt	Se tiveres alguma dúvida, pergunta.	If you have any doubt, ask.	"(f) Often used instead of ""question"": <em>tens alguma dúvida?</em>"			[sound:1000_dúvida.mp3]	noun uberA2
+A2_custom	a vez	time (instance)	Desta vez vou conseguir.	This time I'll make it.	(f) Plural: <strong>vezes</strong>. Distinct from <em>tempo</em> (time in general).			[sound:1000_vez.mp3]	noun uberA2
 A2_custom	ser	to be (permanent)	Eu sou português.	I am Portuguese.	Irregular: <strong>sou, és, é, somos, são</strong>. Contrast with <strong>estar</strong> (temporary).			[sound:1000_ser.mp3]	verb uberA2
 A2_custom	estar	to be (temporary / location)	Estou cansado hoje.	I'm tired today.	Irregular: <strong>estou, estás, está, estamos, estão</strong>. Contrast with <strong>ser</strong>.			[sound:1000_estar.mp3]	verb uberA2
 A2_custom	ter	to have	Tenho dois irmãos.	I have two brothers.	"Irregular: <strong>tenho, tens, tem, temos, têm</strong>. Contrast with <strong>haver</strong> (impersonal ""there is"")."			[sound:1000_ter.mp3]	verb uberA2
