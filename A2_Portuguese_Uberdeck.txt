@@ -6,7 +6,7 @@ A2_custom	e	and	Tenho um irmão e uma irmã mais nova.	I have a brother and a yo
 A2_custom	ou	or	Queres café ou chá depois do jantar?	Do you want coffee or tea after dinner?				[sound:1000_ou.mp3]	conjunction uberA2
 A2_custom	mas	but	Gosto de viajar, mas não tenho dinheiro.	I like to travel, but I don't have money.				[sound:1000_mas.mp3]	conjunction uberA2
 A2_custom	porque	because	Fico em casa porque está a chover muito.	I'm staying home because it's raining a lot.	Conjunction (attached: <strong>porque</strong>). Question word is <strong>porquê</strong>.			[sound:1000_porque.mp3]	conjunction uberA2
-A2_custom	então	so / then	Não tens fome? Então não comas nada.	Not hungry? Then don't eat anything.				[sound:1000_então.mp3]	conjunction uberA2
+A2_custom	então	so / then	Estou cansado. Então vou para casa.	I'm tired. So I'm going home.				[sound:1000_então.mp3]	conjunction uberA2
 A2_custom	quando	when	Quando chego a casa, jantamos juntos.	When I get home, we have dinner together.	Also a question word: <strong>Quando chegas?</strong>			[sound:1000_quando.mp3]	conjunction time uberA2
 A2_custom	se	if	Se chover amanhã, ficamos em casa.	If it rains tomorrow, we stay home.	Also a reflexive pronoun: <strong>ela chama-se Ana</strong>.			[sound:1000_se.mp3]	conjunction uberA2
 A2_custom	durante	during	Durmo mal durante o verão por causa do calor.	I sleep badly during the summer because of the heat.				[sound:1000_durante.mp3]	preposition time uberA2
@@ -76,7 +76,7 @@ A2_custom	eu	I	Eu moro em Lisboa há dez anos.	I've lived in Lisbon for ten year
 A2_custom	tu	you (inf. sing.)	Tu és o meu melhor amigo.	You are my best friend.	Informal singular in EP. Formal: <strong>você</strong>. In most of Brazil, <strong>você</strong> replaces <strong>tu</strong>.				pronoun grammar uberA2
 A2_custom	ele	he	Ele é o meu irmão mais velho.	He is my older brother.	Feminine: <strong>ela</strong>. Plural: <strong>eles</strong>.			[sound:1000_ele.mp3]	pronoun grammar uberA2
 A2_custom	ela	she	Ela fala três línguas fluentemente.	She speaks three languages fluently.	Masculine: <strong>ele</strong>. Plural: <strong>elas</strong>.			[sound:1000_ela.mp3]	pronoun grammar uberA2
-A2_custom	você	you (formal / polite)	Você quer mais café?	Would you like more coffee?	"In EP used as polite/formal singular. In BR it's the standard informal ""you"", replacing <strong>tu</strong>. Plural: <strong>vocês</strong>."			[sound:1000_você.mp3]	pronoun grammar uberA2
+A2_custom	você	you (addressee — use with care in EP)	Quer mais café? (O senhor / A senhora quer mais café?)	Would you like more coffee? (polite forms in brackets)	"In <strong>EP</strong>, <strong>você</strong> is NOT simply polite — it can sound distant, blunt, or socially marked. For real politeness, use 3rd-person verb alone or <strong>o senhor / a senhora</strong>: <em>Quer mais café?</em> / <em>O senhor quer mais café?</em>. In <strong>BR</strong>, <strong>você</strong> is the standard informal ""you"", replacing <strong>tu</strong>. Plural: <strong>vocês</strong>."			[sound:1000_você.mp3]	pronoun grammar uberA2
 A2_custom	nós	we	Nós vamos à praia este fim de semana.	We're going to the beach this weekend.	Colloquial alternative: <strong>a gente</strong> (+ 3rd sing. verb).			[sound:1000_nós.mp3]	pronoun grammar uberA2
 A2_custom	eles	they (m or mixed)	Eles chegam hoje à noite de comboio.	They arrive tonight by train.	Feminine-only group: <strong>elas</strong>.			[sound:1000_eles.mp3]	pronoun grammar uberA2
 A2_custom	elas	they (f)	Elas são as minhas irmãs gémeas.	They are my twin sisters.	Masculine / mixed group: <strong>eles</strong>.			[sound:1000_elas.mp3]	pronoun grammar uberA2
@@ -93,8 +93,8 @@ A2_custom	vários	several	Tenho vários amigos brasileiros em Lisboa.	I have sev
 A2_custom	algum	some	Tens algum dinheiro para o táxi?	Do you have some money for the taxi?	Feminine: <strong>alguma</strong>. Plural: <strong>alguns/algumas</strong>.			[sound:1000_algum.mp3]	pronoun grammar uberA2
 A2_custom	sim	yes	Sim, conheço bem o Porto.	Yes, I know Porto well.				[sound:1000_sim.mp3]	interjection uberA2
 A2_custom	não	no / not	Não quero ir agora, prefiro mais tarde.	I don't want to go now, I prefer later.	"Placed before the verb to negate. Also used alone as ""no""."			[sound:1000_não.mp3]	adverb uberA2
-A2_custom	talvez	maybe / perhaps	Talvez vá à festa hoje à noite.	Maybe I'll go to the party tonight.	Often triggers the subjunctive.			[sound:1000_talvez.mp3]	adverb uberA2
-A2_custom	claro	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	"Also an adjective meaning ""clear / light (in colour)"".<div>Also an adjective meaning ""clear / light in colour"" (fem. <strong>clara</strong>): <em>camisa azul clara</em>.</div>"			[sound:1000_claro.mp3]	interjection uberA2
+A2_custom	talvez	maybe / perhaps	Talvez chova amanhã de manhã.	Maybe it will rain tomorrow morning.	Often triggers the subjunctive (<em>talvez chova, talvez seja…</em>).			[sound:1000_talvez.mp3]	adverb uberA2
+A2_custom	claro	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	"Also an adjective meaning ""clear / light in colour"" (fem. <strong>clara</strong>): <em>camisa azul clara</em>."			[sound:1000_claro.mp3]	interjection uberA2
 A2_custom	pois	right / indeed	Pois é, tens toda a razão.	Right, you're absolutely correct.	Very common EP filler expressing agreement or acknowledgement.			[sound:1000_pois.mp3]	interjection uberA2
 A2_custom	ok	OK	Está bem, faço isso amanhã de manhã.	OK, I'll do that tomorrow morning.	Informal. Standard PT: <strong>está bem</strong>.				interjection uberA2
 A2_custom	zero	zero	O termómetro marca zero graus.	The thermometer reads zero degrees.					numeral number uberA2
@@ -209,7 +209,7 @@ A2_custom	amanhã	tomorrow	Amanhã começamos um projeto novo.	Tomorrow we start
 A2_custom	agora	now	Tenho que sair agora, estou atrasado.	I have to leave now, I'm late.				[sound:1000_agora.mp3]	adverb time uberA2
 A2_custom	depois	after / later	Passo por tua casa depois do trabalho.	I'll drop by your place after work.	Also preposition: <strong>depois de</strong>.			[sound:1000_depois.mp3]	adverb time uberA2
 A2_custom	antes	before	Antes das oito, já estou no escritório.	Before eight, I'm already at the office.	Also preposition: <strong>antes de</strong>.			[sound:1000_antes.mp3]	adverb time uberA2
-A2_custom	sempre	always	Sempre bebo café de manhã.	I always have coffee in the morning.				[sound:1000_sempre.mp3]	adverb time uberA2
+A2_custom	sempre	always	Bebo sempre café de manhã.	I always have coffee in the morning.				[sound:1000_sempre.mp3]	adverb time uberA2
 A2_custom	nunca	never	Nunca fui ao Brasil.	I've never been to Brazil.	Double negative: <strong>não... nunca</strong> is also common.			[sound:1000_nunca.mp3]	adverb time uberA2
 A2_custom	já	already / right away	Já terminei o trabalho.	I've already finished the work.	"Can also mean ""right now"": <em>Vou já.</em>"			[sound:1000_já.mp3]	adverb time uberA2
 A2_custom	ainda	still / yet	Ainda estou a aprender português.	I'm still learning Portuguese.	<strong>Ainda não</strong> = not yet.			[sound:1000_ainda.mp3]	adverb time uberA2
@@ -229,7 +229,7 @@ A2_custom	aí	there (near you)	O livro está aí na tua mesa.	The book is there 
 A2_custom	ali	there (visible)	O café fica ali, ao lado do banco.	The café is there, next to the bank.	A bit away, but visible.				adverb direction uberA2
 A2_custom	lá	there (far / out of sight)	Estive lá o mês passado.	I was there last month.	Far from both.			[sound:1000_lá.mp3]	adverb direction uberA2
 A2_custom	cá	here (general area)	Cá em Portugal, jantamos tarde.	Here in Portugal, we have dinner late.	Broader than <strong>aqui</strong>.				adverb direction uberA2
-A2_custom	logo	soon / right away	Vou logo para casa.	I'm going home right away.	Also: <em>até logo</em> (see you later).			[sound:1000_logo.mp3]	adverb time uberA2
+A2_custom	logo	soon / later on	Vou logo para casa.	I am going home soon.	"In EP, <strong>logo</strong> leans ""soon / later on"" more than ""right away"". For ""right away"" use <strong>já</strong>. Also: <em>até logo</em> (see you later)."			[sound:1000_logo.mp3]	adverb time uberA2
 A2_custom	às vezes	sometimes	Às vezes vou correr à noite.	Sometimes I go running at night.					phrase time uberA2
 A2_custom	muitas vezes	often	Muitas vezes janto fora ao fim de semana.	I often eat out on weekends.					phrase time uberA2
 A2_custom	poucas vezes	rarely	Poucas vezes chego tarde ao trabalho.	I rarely arrive late to work.					phrase time uberA2
@@ -296,7 +296,7 @@ A2_custom	professor	teacher	O professor de matemática é muito bom.	The maths t
 A2_custom	aluno	student	Os alunos estão a estudar para o exame.	The students are studying for the exam.	Feminine: <strong>aluna</strong>.			[sound:1000_aluno.mp3]	noun school uberA2
 A2_custom	casa	house / home	A minha casa fica perto da praia.	My house is near the beach.	(f)			[sound:1000_casa.mp3]	noun home uberA2
 A2_custom	apartamento	apartment / flat	Moro num apartamento no segundo andar.	I live in an apartment on the second floor.	(m)				noun home uberA2
-A2_custom	quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	"(m) Also the ordinal ""fourth"".<div>Also the ordinal ""fourth"" / 4º (fem. <strong>quarta</strong>): <em>abril é o quarto mês</em>.</div>"			[sound:1000_quarto.mp3]	noun home uberA2
+A2_custom	quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	"(m). Also the ordinal ""fourth"" / 4º (fem. <strong>quarta</strong>): <em>abril é o quarto mês</em>."			[sound:1000_quarto.mp3]	noun home uberA2
 A2_custom	sala	living room	Temos duas televisões: uma na sala e outra no quarto.	We have two TVs: one in the living room and another in the bedroom.	(f) Full form: <em>sala de estar</em>.			[sound:1000_sala.mp3]	noun home uberA2
 A2_custom	cozinha	kitchen	Passo muito tempo na cozinha aos fins de semana.	I spend a lot of time in the kitchen on weekends.	(f) Also the verb <em>cozinhar</em> (to cook).				noun home uberA2
 A2_custom	casa de banho	bathroom	A casa de banho é ao fundo do corredor.	The bathroom is at the end of the hallway.	(f) EP; BR: <strong>banheiro</strong>.				noun home uberA2
@@ -312,7 +312,7 @@ A2_custom	pé	foot	Tenho os pés cansados depois de tanto andar.	My feet are tir
 A2_custom	braço	arm	Quebrou o braço a esquiar.	He broke his arm skiing.	(m)				noun body uberA2
 A2_custom	perna	leg	Magoei a perna a correr.	I hurt my leg running.	(f)				noun body uberA2
 A2_custom	olho	eye	Ela tem os olhos verdes.	She has green eyes.	(m)				noun body uberA2
-A2_custom	boca	mouth	Fala com a boca fechada enquanto comes.	Talk with your mouth closed while you eat.	(f)				noun body uberA2
+A2_custom	boca	mouth	Não fales com a boca cheia.	Don't speak with your mouth full.	(f)				noun body uberA2
 A2_custom	dente	tooth	Tenho que ir ao dentista — dói-me um dente.	I have to go to the dentist — one of my teeth hurts.	(m) Plural: <strong>dentes</strong>.				noun body uberA2
 A2_custom	cabelo	hair	Cortei o cabelo ontem.	I got a haircut yesterday.	(m)				noun body uberA2
 A2_custom	cara	face	Ele tem uma cara simpática.	He has a friendly face.	(f)				noun body uberA2
@@ -352,7 +352,7 @@ A2_custom	vinho	wine	Um copo de vinho tinto, se faz favor.	A glass of red wine, 
 A2_custom	cerveja	beer	Uma cerveja bem fresca era ótima agora.	A nice cold beer would be great right now.	(f)				noun drink uberA2
 A2_custom	sumo	juice	Queres sumo de laranja natural?	Would you like fresh orange juice?	(m) EP; BR: <strong>suco</strong>.				noun drink uberA2
 A2_custom	manteiga	butter	Passo manteiga no pão todas as manhãs.	I spread butter on bread every morning.	(f)				noun food uberA2
-A2_custom	sanduíche	sandwich	Almoço sempre uma sanduíche no escritório.	I always have a sandwich at the office for lunch.	(f) Also spelled <strong>sandes</strong> (f, inv.) in EP.				noun food uberA2
+A2_custom	sandes	sandwich	Almoço sempre uma sandes no escritório.	I always have a sandwich at the office for lunch.	(f, invariable) Standard EP form: <em>uma sandes, duas sandes</em>. Also acceptable: <strong>sanduíche</strong> (f).				noun food uberA2
 A2_custom	salada	salad	Uma salada mista com atum, por favor.	A mixed salad with tuna, please.	(f)				noun food uberA2
 A2_custom	massa	pasta	Faço massa com molho de tomate.	I make pasta with tomato sauce.	"(f) Also means ""dough""."				noun food uberA2
 A2_custom	chocolate	chocolate	Adoro chocolate preto amargo.	I love dark bitter chocolate.	(m)				noun food uberA2
@@ -402,7 +402,7 @@ A2_custom	tempo	time / weather	O tempo está ótimo hoje.	The weather is great t
 A2_custom	aniversário	birthday / anniversary	Os meus amigos fizeram-me uma festa de aniversário.	My friends threw me a birthday party.	(m)				noun time uberA2
 A2_custom	sol	sun	Hoje está muito sol.	It's very sunny today.	(m) <em>Estar sol</em> = to be sunny.				noun weather uberA2
 A2_custom	chuva	rain	A chuva não para desde ontem.	The rain hasn't stopped since yesterday.	(f) Verb: <strong>chover</strong>.				noun weather uberA2
-A2_custom	calor	heat	Este calor é insuportável.	This heat is unbearable.	(m) <em>Ter calor</em> = to feel hot.				noun weather uberA2
+A2_custom	calor	heat	Está muito calor hoje.	It's very hot today.	(m) <em>Ter calor</em> = to feel hot.				noun weather uberA2
 A2_custom	vento	wind	Há muito vento hoje.	There's a lot of wind today.	(m)				noun weather uberA2
 A2_custom	neve	snow	A neve cobriu as montanhas.	The snow covered the mountains.	(f)				noun weather uberA2
 A2_custom	céu	sky	O céu está azul sem uma nuvem.	The sky is blue without a cloud.	(m)				noun weather uberA2
@@ -456,7 +456,7 @@ A2_custom	chapéu	hat	Usa chapéu no verão por causa do sol.	Wear a hat in the 
 A2_custom	meias	socks	Onde pus as meias pretas?	Where did I put the black socks?	(f, plural) Singular <em>meia</em> exists but plural is standard for socks.				noun clothing uberA2
 A2_custom	cinto	belt	O cinto é de couro castanho.	The belt is brown leather.	(m)				noun clothing uberA2
 A2_custom	ténis	sneakers / trainers	Calcei os ténis para ir correr.	I put on my sneakers to go running.	"(m) Same word used for the sport ""tennis""."				noun clothing uberA2
-A2_custom	botas	boots	No inverno, uso botas impermeáveis.	In winter, I wear waterproof boots.	(f, plural) Singular <em>bota</em> exists.				noun clothing uberA2
+A2_custom	botas	boots	No inverno, uso botas quentes.	In winter, I wear warm boots.	(f, plural) Singular <em>bota</em> exists.				noun clothing uberA2
 A2_custom	cor	colour	Qual é a tua cor preferida?	What's your favourite colour?	(f), despite ending in <em>-r</em>. Plural: <strong>cores</strong>.			[sound:1000_cor.mp3]	noun color uberA2
 A2_custom	tamanho	size	Que tamanho veste?	What size do you wear?	(m)				noun clothing uberA2
 A2_custom	mala	bag / suitcase	A minha mala está cheia de livros.	My bag is full of books.	"(f) Also ""suitcase""."				noun clothing uberA2
@@ -508,8 +508,8 @@ A2_custom	haver	there is / there are	Há muitas pessoas na praia.	There are many
 A2_custom	poder	to be able / can	Podes abrir a janela?	Can you open the window?	Irregular: <strong>posso, podes, pode, podemos, podem</strong>.			[sound:1000_poder.mp3]	verb uberA2
 A2_custom	querer	to want	Quero um café, por favor.	I want a coffee, please.	Irregular: <strong>quero, queres, quer, queremos, querem</strong>.			[sound:1000_querer.mp3]	verb uberA2
 A2_custom	gostar de	to like	Gosto muito de viajar.	I really like travelling.	Always takes <strong>de</strong>: <em>gosto de café</em>.				verb uberA2
-A2_custom	saber	to know (facts)	Sei falar três línguas.	I can speak three languages.	Irregular: <strong>sei, sabes, sabe, sabemos, sabem</strong>. Contrast with <strong>conhecer</strong> (know people/places).			[sound:1000_saber.mp3]	verb uberA2
-A2_custom	conhecer	to know (people / places)	Conheço bem o Porto.	I know Porto well.	Regular -er. Contrast with <strong>saber</strong> (know facts).			[sound:1000_conhecer.mp3]	verb uberA2
+A2_custom	saber	to know (facts) / to know how to	Sei falar três línguas.	I can speak three languages.	Irregular: <strong>sei, sabes, sabe, sabemos, sabem</strong>. Contrast with <strong>conhecer</strong> (know people/places).			[sound:1000_saber.mp3]	verb uberA2
+A2_custom	conhecer	to know (people / places)	Conheço bem o Porto.	I know Porto well.	Present: <strong>conheço, conheces, conhece, conhecemos, conhecem</strong>. Note the <strong>ç</strong> in <em>conheço</em> — orthographic shift to keep the /s/ sound before <em>o/a</em>. Contrast with <strong>saber</strong> (know facts / know how to).			[sound:1000_conhecer.mp3]	verb uberA2
 A2_custom	dizer	to say / to tell	O que é que disseste?	What did you say?	Irregular: <strong>digo, dizes, diz, dizemos, dizem</strong>.			[sound:1000_dizer.mp3]	verb uberA2
 A2_custom	falar	to speak	Falas inglês?	Do you speak English?				[sound:1000_falar.mp3]	verb uberA2
 A2_custom	ver	to see / to watch	Nunca vi esse filme.	I've never seen that film.	Irregular: <strong>vejo, vês, vê, vemos, veem</strong>.			[sound:1000_ver.mp3]	verb uberA2
@@ -594,7 +594,7 @@ A2_custom	chover	to rain	Está a chover muito.	It's raining hard.	Impersonal (on
 A2_custom	apresentar	to introduce / to present	Posso apresentar-te o meu irmão?	May I introduce you to my brother?				[sound:1000_apresentar.mp3]	verb uberA2
 A2_custom	descansar	to rest	Preciso de descansar ao fim de semana.	I need to rest on weekends.					verb uberA2
 A2_custom	subir	to go up / to climb	Subi as escadas a correr.	I ran up the stairs.				[sound:1000_subir.mp3]	verb motion uberA2
-A2_custom	descer	to go down	Desce devagar, as escadas são íngremes.	Go down slowly, the stairs are steep.					verb motion uberA2
+A2_custom	descer	to go down	Desce as escadas devagar, por favor.	Go down the stairs slowly, please.					verb motion uberA2
 A2_custom	deixar	to leave / to let	Deixa o livro em cima da mesa.	Leave the book on top of the table.	"Also ""to let someone do"": <em>deixa-me ajudar</em>."			[sound:1000_deixar.mp3]	verb uberA2
 A2_custom	parecer	to seem	Ela parece cansada.	She seems tired.	Irregular: <strong>pareço, pareces, parece, parecemos, parecem</strong>.			[sound:1000_parecer.mp3]	verb uberA2
 A2_custom	nascer	to be born	Nasci em Lisboa.	I was born in Lisbon.	Pair with <strong>morrer</strong> (to die).			[sound:1000_nascer.mp3]	verb uberA2
@@ -605,7 +605,7 @@ A2_custom	pôr	to put	Pus o livro na mesa.	I put the book on the table.	Highly i
 A2_custom	vestir	to wear / to put on	Visto sempre uma camisola no inverno.	I always wear a sweater in winter.	Irregular: <strong>visto, vestes, veste, vestimos, vestem</strong>. Reflexive <em>vestir-se</em> = to get dressed.				verb uberA2
 A2_custom	olhar	to look	Olha para o céu, que belo.	Look at the sky, how beautiful.	Takes <strong>para</strong>. Distinct from <strong>ver</strong> (to see).			[sound:1000_olhar.mp3]	verb uberA2
 A2_custom	cantar	to sing	Ela canta muito bem.	She sings very well.					verb uberA2
-A2_custom	dançar	to dance	Adoro dançar fado.	I love dancing fado.					verb uberA2
+A2_custom	dançar	to dance	Adoro dançar salsa ao fim de semana.	I love dancing salsa on weekends.					verb uberA2
 A2_custom	rir	to laugh	Rimos muito com a história.	We laughed a lot at the story.	Irregular: <strong>rio, ris, ri, rimos, riem</strong>.				verb uberA2
 A2_custom	sorrir	to smile	Ela sorri sempre quando me vê.	She always smiles when she sees me.	Irregular like <strong>rir</strong>: <strong>sorrio, sorris, sorri, sorrimos, sorriem</strong>.				verb uberA2
 A2_custom	chorar	to cry	O bebé chora quando tem fome.	The baby cries when he's hungry.					verb uberA2
@@ -621,7 +621,7 @@ A2_custom	morrer	to die	O meu avô morreu há dez anos.	My grandfather died ten 
 A2_custom	buscar	to get / to fetch	Vou buscar pão à padaria.	I'm going to get bread from the bakery.	Usually <strong>ir buscar</strong> (go fetch) or <strong>vir buscar</strong> (come fetch).			[sound:1000_buscar.mp3]	verb uberA2
 A2_custom	emprestar	to lend	Podes emprestar-me o teu livro?	Can you lend me your book?	Also used for borrowing with a switched subject: <em>pedir emprestado</em>.				verb uberA2
 A2_custom	gostar mais de	to prefer	Gosto mais de chá do que de café.	I prefer tea to coffee.	Alt.: <strong>preferir</strong>.				verb uberA2
-A2_custom	grande	big / large	Lisboa é uma cidade grande mas acessível.	Lisbon is a big but accessible city.	Same for m/f.			[sound:1000_grande.mp3]	adjective uberA2
+A2_custom	grande	big / large	Lisboa é uma cidade grande e bonita.	Lisbon is a big and beautiful city.	Same for m/f.			[sound:1000_grande.mp3]	adjective uberA2
 A2_custom	pequeno	small	A minha casa é pequena mas confortável.	My house is small but comfortable.	Feminine: <strong>pequena</strong>.			[sound:1000_pequeno.mp3]	adjective uberA2
 A2_custom	alto	tall / high	O meu irmão é muito alto.	My brother is very tall.	Feminine: <strong>alta</strong>.			[sound:1000_alto.mp3]	adjective uberA2
 A2_custom	baixo	short / low	O tecto é muito baixo neste quarto.	The ceiling is very low in this room.	Feminine: <strong>baixa</strong>. Of a person: short.			[sound:1000_baixo.mp3]	adjective uberA2
@@ -692,7 +692,7 @@ A2_custom	castanho	brown	Tenho os olhos castanhos.	I have brown eyes.	Feminine: 
 A2_custom	cinzento	grey	O céu está cinzento hoje.	The sky is grey today.	Feminine: <strong>cinzenta</strong>. BR: <strong>cinza</strong> (invariable).				adjective color uberA2
 A2_custom	roxo	purple	As uvas roxas são doces.	Purple grapes are sweet.	Feminine: <strong>roxa</strong>.				adjective color uberA2
 A2_custom	quente	hot	Esta sopa está muito quente.	This soup is very hot.	Same for m/f.				adjective weather uberA2
-A2_custom	frio	cold	A água do mar está fria hoje.	The sea water is cold today.	Feminine: <strong>fria</strong>. Also noun: <strong>o frio</strong>.<div>Also a masculine noun meaning cold (as weather / sensation): <em>tenho frio</em>, <em>o frio é intenso</em>.</div>				adjective weather uberA2
+A2_custom	frio	cold	A água do mar está fria hoje.	The sea water is cold today.	Feminine: <strong>fria</strong>. Also a masculine noun meaning cold (weather / sensation): <em>tenho frio</em>, <em>o frio é intenso</em>.				adjective weather uberA2
 A2_custom	fresco	cool / fresh	Uma brisa fresca vinha do mar.	A cool breeze came from the sea.	"Feminine: <strong>fresca</strong>. Both ""cool (temp)"" and ""fresh (not stale)""."				adjective weather uberA2
 A2_custom	seco	dry	A roupa já está seca.	The clothes are already dry.	Feminine: <strong>seca</strong>.				adjective weather uberA2
 A2_custom	húmido	humid / damp	O tempo está húmido hoje.	The weather is humid today.	Feminine: <strong>húmida</strong>. EP; BR: <strong>úmido</strong>.				adjective weather uberA2
