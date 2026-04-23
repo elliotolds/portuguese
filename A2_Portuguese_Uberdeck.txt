@@ -9,9 +9,9 @@ A2_custom	porque	because	Fico em casa porque está a chover muito.	I'm staying h
 A2_custom	então	so / then	Estou cansado. Então vou para casa.	I'm tired. So I'm going home.				[sound:1000_então.mp3]	conjunction uberA2 glue
 A2_custom	quando	when	Quando chego a casa, jantamos juntos.	When I get home, we have dinner together.	Also a question word: <strong>Quando chegas?</strong>			[sound:1000_quando.mp3]	conjunction time uberA2 glue
 A2_custom	se	if	Se chover amanhã, ficamos em casa.	If it rains tomorrow, we stay home.	Subordinating conjunction. Triggers the subjunctive in future contexts: <em>se chover amanhã</em>. (The reflexive pronoun <strong>se</strong> has its own card.)			[sound:1000_se.mp3]	conjunction uberA2 glue
-A2_custom	durante	during	Durmo mal durante o verão por causa do calor.	I sleep badly during the summer because of the heat.				[sound:1000_durante.mp3]	preposition time uberA2
-A2_custom	através	through / via	Soube da notícia através do jornal.	I heard the news through the newspaper.	Usually with <strong>de</strong>: <strong>através de</strong>.			[sound:1000_através.mp3]	preposition uberA2
-A2_custom	no entanto	however	Está a chover; no entanto, vou sair.	It's raining; however, I'm going out.					conjunction uberA2
+A2_custom	durante	during	Durmo mal durante o verão por causa do calor.	I sleep badly during the summer because of the heat.				[sound:1000_durante.mp3]	preposition time uberA2 glue
+A2_custom	através	through / via	Soube da notícia através do jornal.	I heard the news through the newspaper.	Usually with <strong>de</strong>: <strong>através de</strong>.			[sound:1000_através.mp3]	preposition uberA2 glue
+A2_custom	no entanto	however	Está a chover; no entanto, vou sair.	It's raining; however, I'm going out.					conjunction uberA2 glue
 A2_custom	enquanto	while	Ouço música enquanto trabalho.	I listen to music while I work.				[sound:1000_enquanto.mp3]	conjunction uberA2 glue
 A2_custom	por isso	for this reason / so	Está frio, por isso levo um casaco.	It's cold, so I'm taking a coat.					conjunction uberA2 glue
 A2_custom	do que	than	O meu irmão é mais alto do que eu.	My brother is taller than I am.	Used after comparatives (<strong>mais</strong>, <strong>menos</strong>).				conjunction uberA2 glue
@@ -28,12 +28,12 @@ A2_custom	entre	between / among	A farmácia fica entre o banco e o café.	The ph
 A2_custom	até	until / up to / even	Fico aqui até às cinco da tarde.	I'm staying here until five in the afternoon.	"Also means ""even"": <strong>até eu sei fazer isso</strong>."			[sound:1000_até.mp3]	preposition uberA2 glue
 A2_custom	o	the (m)	O café está quente demais para mim.	The coffee is too hot for me.	Masculine definite article. Plural: <strong>os</strong>. Feminine: <strong>a</strong>. Contracts with prepositions (ao, do, no, pelo).			[sound:1000_o.mp3]	article uberA2 glue
 A2_custom	a	the (f)	A casa nova dos meus pais é grande.	My parents' new house is big.	Feminine definite article. Plural: <strong>as</strong>. Masculine: <strong>o</strong>. (The preposition <strong>a</strong> = to/at has its own card.)			[sound:1000_a.mp3]	article uberA2 glue
-A2_custom	os	the (m. pl.)	Os meninos estão na escola até às três.	The boys are at school until three.	Masculine plural. Singular: <strong>o</strong>. Also direct-object pronoun (I see them: <strong>vejo-os</strong>).				article uberA2
-A2_custom	as	the (f. pl.)	As minhas irmãs estão a ler no jardim.	My sisters are reading in the garden.	Feminine plural. Singular: <strong>a</strong>.				article uberA2
-A2_custom	um	a / one (m)	Quero um café, por favor.	I'd like a coffee, please.	"Feminine: <strong>uma</strong>. Plural: <strong>uns</strong>. Also used as the numeral ""one""."			[sound:1000_um.mp3]	article numeral uberA2
-A2_custom	uma	a / one (f)	Tenho uma irmã mais nova e dois irmãos.	I have a younger sister and two brothers.	Masculine: <strong>um</strong>. Plural: <strong>umas</strong>.			[sound:1000_uma.mp3]	article numeral uberA2
-A2_custom	uns	some (m. pl.)	Comprei uns livros na feira ontem.	I bought some books at the market yesterday.	"Feminine: <strong>umas</strong>. Means ""a few / some""."				article uberA2
-A2_custom	umas	some (f. pl.)	Vi umas amigas antigas na festa.	I saw some old friends at the party.	Masculine: <strong>uns</strong>.				article uberA2
+A2_custom	os	the (m. pl.)	Os meninos estão na escola até às três.	The boys are at school until three.	Masculine plural. Singular: <strong>o</strong>. Also direct-object pronoun (I see them: <strong>vejo-os</strong>).				article uberA2 glue
+A2_custom	as	the (f. pl.)	As minhas irmãs estão a ler no jardim.	My sisters are reading in the garden.	Feminine plural. Singular: <strong>a</strong>.				article uberA2 glue
+A2_custom	um	a / one (m)	Quero um café, por favor.	I'd like a coffee, please.	"Feminine: <strong>uma</strong>. Plural: <strong>uns</strong>. Also used as the numeral ""one""."			[sound:1000_um.mp3]	article numeral uberA2 glue
+A2_custom	uma	a / one (f)	Tenho uma irmã mais nova e dois irmãos.	I have a younger sister and two brothers.	Masculine: <strong>um</strong>. Plural: <strong>umas</strong>.			[sound:1000_uma.mp3]	article numeral uberA2 glue
+A2_custom	uns	some (m. pl.)	Comprei uns livros na feira ontem.	I bought some books at the market yesterday.	"Feminine: <strong>umas</strong>. Means ""a few / some""."				article uberA2 glue
+A2_custom	umas	some (f. pl.)	Vi umas amigas antigas na festa.	I saw some old friends at the party.	Masculine: <strong>uns</strong>.				article uberA2 glue
 A2_custom	que	what	Que queres fazer hoje à noite?	What do you want to do tonight?	Question word. Also serves as relative pronoun: <em>o livro que li</em> (the book that I read). (The subordinating conjunction <strong>que</strong> = that has its own card.)			[sound:1000_que.mp3]	pronoun question uberA2 glue
 A2_custom	o que	what (emphatic)	O que é que fazes ao fim de semana?	What do you do on weekends?	Slightly stronger than <strong>que</strong> alone. Often paired with <strong>é que</strong>.				pronoun question uberA2 glue
 A2_custom	quem	who / whom	Quem é aquela pessoa ao pé da porta?	Who is that person by the door?	Invariable — no gender/number.			[sound:1000_quem.mp3]	pronoun question uberA2 glue
@@ -42,7 +42,7 @@ A2_custom	onde	where	Onde mora o teu irmão mais velho?	Where does your older br
 A2_custom	porquê	why	Porquê essa cara triste?	Why that sad face?	Question word (stressed on final syllable). Don't confuse with conjunction <strong>porque</strong> (because).				adverb question uberA2 glue
 A2_custom	como	how	Como vais para o trabalho todos os dias?	How do you get to work every day?	"Also means ""as / like"" — that usage has its own card."			[sound:1000_como.mp3]	adverb question uberA2 glue
 A2_custom	qual	which	Qual é a tua cor preferida?	What is your favourite colour?	Plural: <strong>quais</strong>. Picks one out of a known set.			[sound:1000_qual.mp3]	pronoun question uberA2 glue
-A2_custom	quais	which (pl.)	Quais são os teus livros preferidos?	Which are your favourite books?	Plural of <strong>qual</strong>.				pronoun question uberA2
+A2_custom	quais	which (pl.)	Quais são os teus livros preferidos?	Which are your favourite books?	Plural of <strong>qual</strong>.				pronoun question uberA2 glue
 A2_custom	quanto	how much	Quanto custa este livro?	How much does this book cost?	Agrees with noun: <strong>quanto/a/os/as</strong>.			[sound:1000_quanto.mp3]	adverb question uberA2 glue
 A2_custom	quantos	how many	Quantos anos tens?	How old are you?	Feminine: <strong>quantas</strong>.				adverb question uberA2 glue
 A2_custom	é que	(question emphasis)	Onde é que vais esta noite?	Where are you going tonight?	Optional particle after a question word to emphasise. Untranslated.				phrase question uberA2 glue
@@ -62,16 +62,16 @@ A2_custom	me	me (object)	Podes ajudar-me com isto, por favor?	Can you help me wi
 A2_custom	te	you (informal, object)	Vou dar-te o meu número.	I'm going to give you my number.	Informal singular. Formal: <strong>lhe</strong> (IO) or <strong>si</strong>. DO/IO/reflexive.				pronoun grammar uberA2 glue
 A2_custom	lhe	to him / her / you (formal)	Dei-lhe as flores ontem à tarde.	I gave him/her the flowers yesterday afternoon.	Indirect object only. Ambiguous between him/her/you-formal. Plural: <strong>lhes</strong>.				pronoun grammar uberA2 glue
 A2_custom	nos	us / ourselves	Convidaram-nos para jantar em casa deles.	They invited us to dinner at their place.	Direct/indirect/reflexive. Also the contraction <strong>em + os</strong> (same spelling, different word).				pronoun grammar uberA2 glue
-A2_custom	vos	you all (object)	Vou ver-vos amanhã à noite.	I'll see you all tomorrow evening.	Plural informal. DO/IO/reflexive.				pronoun grammar uberA2
-A2_custom	lhes	to them / to you all	Comprei-lhes um presente para o Natal.	I bought them a gift for Christmas.	Plural indirect object. Singular: <strong>lhe</strong>.				pronoun grammar uberA2
-A2_custom	mim	me (after preposition)	Este café é para mim.	This coffee is for me.	Used after prepositions (<strong>para, de, sem, por</strong>). Exception with <strong>com</strong>: <strong>comigo</strong>.				pronoun grammar uberA2
-A2_custom	ti	you (inf., after preposition)	Trouxe este livro para ti.	I brought this book for you.	After prepositions. Exception: <strong>contigo</strong>.				pronoun grammar uberA2
-A2_custom	si	himself/herself/yourself (after prep)	Ele comprou um carro para si próprio.	He bought a car for himself.	After prepositions — reflexive or formal. Exception: <strong>consigo</strong>.				pronoun grammar uberA2
+A2_custom	vos	you all (object)	Vou ver-vos amanhã à noite.	I'll see you all tomorrow evening.	Plural informal. DO/IO/reflexive.				pronoun grammar uberA2 glue
+A2_custom	lhes	to them / to you all	Comprei-lhes um presente para o Natal.	I bought them a gift for Christmas.	Plural indirect object. Singular: <strong>lhe</strong>.				pronoun grammar uberA2 glue
+A2_custom	mim	me (after preposition)	Este café é para mim.	This coffee is for me.	Used after prepositions (<strong>para, de, sem, por</strong>). Exception with <strong>com</strong>: <strong>comigo</strong>.				pronoun grammar uberA2 glue
+A2_custom	ti	you (inf., after preposition)	Trouxe este livro para ti.	I brought this book for you.	After prepositions. Exception: <strong>contigo</strong>.				pronoun grammar uberA2 glue
+A2_custom	si	himself/herself/yourself (after prep)	Ele comprou um carro para si próprio.	He bought a car for himself.	After prepositions — reflexive or formal. Exception: <strong>consigo</strong>.				pronoun grammar uberA2 glue
 A2_custom	comigo	with me	Vens ao cinema comigo esta noite?	Are you coming to the cinema with me tonight?	<strong>com + mim</strong>.				pronoun grammar uberA2 glue
 A2_custom	contigo	with you (inf.)	Gosto muito de estar contigo.	I really like being with you.	<strong>com + ti</strong>. Informal.				pronoun grammar uberA2 glue
-A2_custom	consigo	with him/her/you (formal)	O professor levou os livros consigo.	The teacher took the books with him.	<strong>com + si</strong>. Reflexive or formal-you.				pronoun grammar uberA2
-A2_custom	connosco	with us	Os nossos primos vêm connosco ao Porto.	Our cousins are coming with us to Porto.	<strong>com + nós</strong>. EP spelling; BR uses <strong>conosco</strong>.				pronoun grammar uberA2
-A2_custom	convosco	with you all	Fico convosco até ao fim da festa.	I'll stay with you all until the end of the party.	<strong>com + vós</strong>.				pronoun grammar uberA2
+A2_custom	consigo	with him/her/you (formal)	O professor levou os livros consigo.	The teacher took the books with him.	<strong>com + si</strong>. Reflexive or formal-you.				pronoun grammar uberA2 glue
+A2_custom	connosco	with us	Os nossos primos vêm connosco ao Porto.	Our cousins are coming with us to Porto.	<strong>com + nós</strong>. EP spelling; BR uses <strong>conosco</strong>.				pronoun grammar uberA2 glue
+A2_custom	convosco	with you all	Fico convosco até ao fim da festa.	I'll stay with you all until the end of the party.	<strong>com + vós</strong>.				pronoun grammar uberA2 glue
 A2_custom	eu	I	Eu moro em Lisboa há dez anos.	I've lived in Lisbon for ten years.	Often dropped because the verb ending shows the person.			[sound:1000_eu.mp3]	pronoun grammar uberA2 glue
 A2_custom	tu	you (inf. sing.)	Tu és o meu melhor amigo.	You are my best friend.	Informal singular in EP. Formal: <strong>você</strong>. In most of Brazil, <strong>você</strong> replaces <strong>tu</strong>.				pronoun grammar uberA2 glue
 A2_custom	ele	he	Ele é o meu irmão mais velho.	He is my older brother.	Feminine: <strong>ela</strong>. Plural: <strong>eles</strong>.			[sound:1000_ele.mp3]	pronoun grammar uberA2 glue
@@ -81,22 +81,22 @@ A2_custom	nós	we	Nós vamos à praia este fim de semana.	We're going to the bea
 A2_custom	eles	they (m or mixed)	Eles chegam hoje à noite de comboio.	They arrive tonight by train.	Feminine-only group: <strong>elas</strong>.			[sound:1000_eles.mp3]	pronoun grammar uberA2 glue
 A2_custom	elas	they (f)	Elas são as minhas irmãs gémeas.	They are my twin sisters.	Masculine / mixed group: <strong>eles</strong>.			[sound:1000_elas.mp3]	pronoun grammar uberA2 glue
 A2_custom	vocês	you all	Vocês conhecem-se há muito tempo?	Have you all known each other long?	"Plural ""you"" in both EP and BR."				pronoun grammar uberA2 glue
-A2_custom	algo	something	Queres comer algo antes de sair?	Do you want to eat something before leaving?				[sound:1000_algo.mp3]	pronoun grammar uberA2
+A2_custom	algo	something	Queres comer algo antes de sair?	Do you want to eat something before leaving?				[sound:1000_algo.mp3]	pronoun grammar uberA2 glue
 A2_custom	nada	nothing	Não disse nada a ninguém sobre isso.	I didn't say anything to anyone about it.	Double negative is standard in Portuguese: <strong>não... nada</strong>.			[sound:1000_nada.mp3]	pronoun grammar uberA2 glue
 A2_custom	alguém	someone	Alguém bateu à porta agora mesmo.	Someone just knocked on the door.				[sound:1000_alguém.mp3]	pronoun grammar uberA2 glue
 A2_custom	ninguém	nobody	Ninguém sabe a resposta a esta pergunta.	Nobody knows the answer to this question.				[sound:1000_ninguém.mp3]	pronoun grammar uberA2 glue
 A2_custom	tudo	everything	Tudo correu bem na viagem ao Porto.	Everything went well on the trip to Porto.	Distinct from <strong>todo/a</strong> (every, used with a noun: <strong>todo o dia</strong>).			[sound:1000_tudo.mp3]	pronoun grammar uberA2 glue
 A2_custom	outro	other / another	Quero outro café, este já está frio.	I want another coffee, this one is already cold.	Feminine: <strong>outra</strong>. Plural: <strong>outros/outras</strong>.			[sound:1000_outro.mp3]	pronoun grammar uberA2 glue
-A2_custom	qualquer	any / whichever	Podes escolher qualquer livro que quiseres.	You can choose any book you want.	Plural: <strong>quaisquer</strong>. Same form for masculine and feminine.			[sound:1000_qualquer.mp3]	pronoun grammar uberA2
+A2_custom	qualquer	any / whichever	Podes escolher qualquer livro que quiseres.	You can choose any book you want.	Plural: <strong>quaisquer</strong>. Same form for masculine and feminine.			[sound:1000_qualquer.mp3]	pronoun grammar uberA2 glue
 A2_custom	cada	each	Cada aluno tem o seu próprio livro.	Each student has their own book.	Invariable — same for m/f and always singular.			[sound:1000_cada.mp3]	pronoun grammar uberA2 glue
-A2_custom	vários	several	Tenho vários amigos brasileiros em Lisboa.	I have several Brazilian friends in Lisbon.	Feminine: <strong>várias</strong>. Only used in the plural.			[sound:1000_vários.mp3]	pronoun grammar uberA2
+A2_custom	vários	several	Tenho vários amigos brasileiros em Lisboa.	I have several Brazilian friends in Lisbon.	Feminine: <strong>várias</strong>. Only used in the plural.			[sound:1000_vários.mp3]	pronoun grammar uberA2 glue
 A2_custom	algum	some	Tens algum dinheiro para o táxi?	Do you have some money for the taxi?	Feminine: <strong>alguma</strong>. Plural: <strong>alguns/algumas</strong>.			[sound:1000_algum.mp3]	pronoun grammar uberA2 glue
-A2_custom	sim	yes	Sim, conheço bem o Porto.	Yes, I know Porto well.				[sound:1000_sim.mp3]	interjection uberA2
+A2_custom	sim	yes	Sim, conheço bem o Porto.	Yes, I know Porto well.				[sound:1000_sim.mp3]	interjection uberA2 glue
 A2_custom	não	no / not	Não quero ir agora, prefiro mais tarde.	I don't want to go now, I prefer later.	"Placed before the verb to negate. Also used alone as ""no""."			[sound:1000_não.mp3]	adverb uberA2 glue
 A2_custom	talvez	maybe / perhaps	Talvez chova amanhã de manhã.	Maybe it will rain tomorrow morning.	Often triggers the subjunctive (<em>talvez chova, talvez seja…</em>).			[sound:1000_talvez.mp3]	adverb uberA2 glue
-A2_custom	claro	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	Interjection expressing agreement/affirmation. (The adjective <strong>claro</strong> = clear/light has its own card.)			[sound:1000_claro.mp3]	interjection uberA2
+A2_custom	claro	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	Interjection expressing agreement/affirmation. (The adjective <strong>claro</strong> = clear/light has its own card.)			[sound:1000_claro.mp3]	interjection uberA2 glue
 A2_custom	pois	right / indeed	Pois é, tens toda a razão.	Right, you're absolutely correct.	Very common EP filler expressing agreement or acknowledgement.			[sound:1000_pois.mp3]	interjection uberA2 glue
-A2_custom	ok	OK	Está bem, faço isso amanhã de manhã.	OK, I'll do that tomorrow morning.	Informal. Standard PT: <strong>está bem</strong>.				interjection uberA2
+A2_custom	ok	OK	Está bem, faço isso amanhã de manhã.	OK, I'll do that tomorrow morning.	Informal. Standard PT: <strong>está bem</strong>.				interjection uberA2 glue
 A2_custom	zero	zero	O termómetro marca zero graus.	The thermometer reads zero degrees.					numeral number uberA2
 A2_custom	dois	two	Tenho dois gatos em casa.	I have two cats at home.	Masculine numeral. Used with masculine nouns: <em>dois livros</em>, <em>dois anos</em>. Feminine <strong>duas</strong> has its own card.			[sound:1000_dois.mp3]	numeral number uberA2
 A2_custom	três	three	Trabalho três dias por semana.	I work three days a week.				[sound:1000_três.mp3]	numeral number uberA2
@@ -163,18 +163,18 @@ A2_custom	setembro	September	As aulas começam em setembro.	Classes start in Sep
 A2_custom	outubro	October	Em outubro, as folhas ficam amarelas.	In October, the leaves turn yellow.				[sound:1000_outubro.mp3]	noun month uberA2
 A2_custom	novembro	November	Novembro é um mês chuvoso.	November is a rainy month.				[sound:1000_novembro.mp3]	noun month uberA2
 A2_custom	dezembro	December	Em dezembro, passo o Natal com a família.	In December, I spend Christmas with my family.				[sound:1000_dezembro.mp3]	noun month uberA2
-A2_custom	olá	hello / hi	Olá, como estás hoje?	Hi, how are you today?	Universal greeting, any time of day.				interjection greeting uberA2
+A2_custom	olá	hello / hi	Olá, como estás hoje?	Hi, how are you today?	Universal greeting, any time of day.				interjection greeting uberA2 glue
 A2_custom	bom dia	good morning	Bom dia! Queria um café, por favor.	Good morning! I'd like a coffee, please.	Used until around midday.				phrase greeting uberA2
 A2_custom	boa tarde	good afternoon	Boa tarde, é aqui a farmácia?	Good afternoon, is this the pharmacy?	From about noon to sunset.				phrase greeting uberA2
 A2_custom	boa noite	good evening / night	Boa noite, até amanhã!	Good night, see you tomorrow!	After sunset, for both arrival and farewell.				phrase greeting uberA2
-A2_custom	adeus	goodbye	Adeus, tenham uma boa viagem.	Goodbye, have a good trip.	More formal than <strong>tchau</strong>.				interjection greeting uberA2
-A2_custom	tchau	bye	Tchau, até amanhã!	Bye, see you tomorrow!	Informal. From Italian <em>ciao</em>.				interjection greeting uberA2
+A2_custom	adeus	goodbye	Adeus, tenham uma boa viagem.	Goodbye, have a good trip.	More formal than <strong>tchau</strong>.				interjection greeting uberA2 glue
+A2_custom	tchau	bye	Tchau, até amanhã!	Bye, see you tomorrow!	Informal. From Italian <em>ciao</em>.				interjection greeting uberA2 glue
 A2_custom	até logo	see you later	Já saio do trabalho — até logo!	I'm leaving work now — see you later!					phrase greeting uberA2
 A2_custom	até já	see you soon	Vou só à loja, até já!	I'm just going to the shop, see you soon!	Shorter time than <strong>até logo</strong>.				phrase greeting uberA2
 A2_custom	até amanhã	see you tomorrow	Bom descanso, até amanhã!	Rest well, see you tomorrow!					phrase greeting uberA2
-A2_custom	obrigado	thank you (m)	Muito obrigado pela ajuda.	Thanks a lot for the help.	Feminine speaker says <strong>obrigada</strong>. Matches the speaker's gender, not the listener's.				interjection greeting uberA2
+A2_custom	obrigado	thank you (m)	Muito obrigado pela ajuda.	Thanks a lot for the help.	Feminine speaker says <strong>obrigada</strong>. Matches the speaker's gender, not the listener's.				interjection greeting uberA2 glue
 A2_custom	por favor	please	Uma água, por favor.	A water, please.					phrase greeting uberA2
-A2_custom	desculpa	sorry (inf)	Desculpa pelo atraso!	Sorry for being late!	Formal: <strong>desculpe</strong>. Also the verb <em>desculpar</em> (to excuse).				interjection greeting uberA2
+A2_custom	desculpa	sorry (inf)	Desculpa pelo atraso!	Sorry for being late!	Formal: <strong>desculpe</strong>. Also the verb <em>desculpar</em> (to excuse).				interjection greeting uberA2 glue
 A2_custom	com licença	excuse me	Com licença, posso passar?	Excuse me, may I come through?	Used to ask permission to pass, enter, or interrupt.				phrase greeting uberA2
 A2_custom	de nada	you're welcome	— Obrigado! — De nada.	— Thanks! — You're welcome.	"Literally ""of nothing""."				phrase greeting uberA2
 A2_custom	como estás	how are you (inf)	Olá! Como estás?	Hi! How are you?	Formal: <strong>como está</strong>. Plural: <strong>como estão</strong>.				phrase greeting uberA2 glue
@@ -203,9 +203,9 @@ A2_custom	a paragem de autocarro	the bus stop	A paragem de autocarro fica ali.	T
 A2_custom	o mapa	the map	Tens o mapa da cidade?	Do you have the city map?	Masculine despite ending in <em>-a</em>.				noun direction uberA2
 A2_custom	onde fica	where is (located)	Onde fica o Museu do Fado?	Where is the Fado Museum?	"Literally ""where stays"". <strong>Ficar</strong> is used for location."				phrase question uberA2
 A2_custom	como vou para	how do I get to	Como vou para o aeroporto?	How do I get to the airport?	Standard way to ask directions.				phrase question uberA2
-A2_custom	hoje	today	Hoje está um dia lindo.	Today is a beautiful day.				[sound:1000_hoje.mp3]	adverb time uberA2
-A2_custom	ontem	yesterday	Ontem fui ao cinema com amigos.	Yesterday I went to the cinema with friends.	Day before: <strong>anteontem</strong>.			[sound:1000_ontem.mp3]	adverb time uberA2
-A2_custom	amanhã	tomorrow	Amanhã começamos um projeto novo.	Tomorrow we start a new project.	Day after: <strong>depois de amanhã</strong>.				adverb time uberA2
+A2_custom	hoje	today	Hoje está um dia lindo.	Today is a beautiful day.				[sound:1000_hoje.mp3]	adverb time uberA2 glue
+A2_custom	ontem	yesterday	Ontem fui ao cinema com amigos.	Yesterday I went to the cinema with friends.	Day before: <strong>anteontem</strong>.			[sound:1000_ontem.mp3]	adverb time uberA2 glue
+A2_custom	amanhã	tomorrow	Amanhã começamos um projeto novo.	Tomorrow we start a new project.	Day after: <strong>depois de amanhã</strong>.				adverb time uberA2 glue
 A2_custom	agora	now	Tenho que sair agora, estou atrasado.	I have to leave now, I'm late.				[sound:1000_agora.mp3]	adverb time uberA2 glue
 A2_custom	depois	after / later	Passo por tua casa depois do trabalho.	I'll drop by your place after work.	Also preposition: <strong>depois de</strong>.			[sound:1000_depois.mp3]	adverb time uberA2 glue
 A2_custom	antes	before	Antes das oito, já estou no escritório.	Before eight, I'm already at the office.	Also preposition: <strong>antes de</strong>.			[sound:1000_antes.mp3]	adverb time uberA2 glue
@@ -213,52 +213,52 @@ A2_custom	sempre	always	Bebo sempre café de manhã.	I always have coffee in the
 A2_custom	nunca	never	Nunca fui ao Brasil.	I've never been to Brazil.	Double negative: <strong>não... nunca</strong> is also common.			[sound:1000_nunca.mp3]	adverb time uberA2 glue
 A2_custom	já	already / right away	Já terminei o trabalho.	I've already finished the work.	"Can also mean ""right now"": <em>Vou já.</em>"			[sound:1000_já.mp3]	adverb time uberA2 glue
 A2_custom	ainda	still / yet	Ainda estou a aprender português.	I'm still learning Portuguese.	<strong>Ainda não</strong> = not yet.			[sound:1000_ainda.mp3]	adverb time uberA2 glue
-A2_custom	cedo	early	Acordo cedo todos os dias.	I wake up early every day.					adverb time uberA2
-A2_custom	tarde	late	Cheguei tarde à reunião.	I arrived late to the meeting.	Also noun: <strong>a tarde</strong> (afternoon).			[sound:1000_tarde.mp3]	adverb time uberA2
+A2_custom	cedo	early	Acordo cedo todos os dias.	I wake up early every day.					adverb time uberA2 glue
+A2_custom	tarde	late	Cheguei tarde à reunião.	I arrived late to the meeting.	Also noun: <strong>a tarde</strong> (afternoon).			[sound:1000_tarde.mp3]	adverb time uberA2 glue
 A2_custom	muito	a lot / very	Gosto muito de Portugal.	I like Portugal a lot.	Also adjective agreeing with noun: <em>muito café, muita água, muitos livros</em>.			[sound:1000_muito.mp3]	adverb uberA2 glue
 A2_custom	pouco	a little / few	Dormi pouco esta noite.	I slept a little last night.	Also adjective: <em>pouco tempo, pouca água</em>.			[sound:1000_pouco.mp3]	adverb uberA2 glue
 A2_custom	mais	more	Quero mais água, por favor.	I'd like more water, please.	Comparative: <em>mais alto do que…</em>			[sound:1000_mais.mp3]	adverb uberA2 glue
 A2_custom	menos	less / fewer	Este mês gastei menos dinheiro.	This month I spent less money.	Comparative: <em>menos caro do que…</em>			[sound:1000_menos.mp3]	adverb uberA2 glue
 A2_custom	tão	so	Estou tão cansado esta noite.	I'm so tired tonight.	With comparisons: <em>tão alto como…</em>			[sound:1000_tão.mp3]	adverb uberA2 glue
-A2_custom	bastante	quite / enough	O filme foi bastante interessante.	The film was quite interesting.	Can be quantifier: <em>bastante tempo</em> (enough time).			[sound:1000_bastante.mp3]	adverb uberA2
-A2_custom	demasiado	too much	Bebi demasiado café esta manhã.	I drank too much coffee this morning.	Also adjective agreeing with noun: <em>demasiada água</em>.				adverb uberA2
+A2_custom	bastante	quite / enough	O filme foi bastante interessante.	The film was quite interesting.	Can be quantifier: <em>bastante tempo</em> (enough time).			[sound:1000_bastante.mp3]	adverb uberA2 glue
+A2_custom	demasiado	too much	Bebi demasiado café esta manhã.	I drank too much coffee this morning.	Also adjective agreeing with noun: <em>demasiada água</em>.				adverb uberA2 glue
 A2_custom	todo	all / every	Estudo todo o dia.	I study all day.	Feminine: <strong>toda</strong>. Plural: <strong>todos/todas</strong>. <em>Todos os dias</em> = every day.			[sound:1000_todo.mp3]	determiner uberA2 glue
 A2_custom	meio	half	Quero meio quilo de queijo.	I'd like half a kilo of cheese.	Feminine: <strong>meia</strong>. <em>Meia hora</em> = half an hour.			[sound:1000_meio.mp3]	adjective uberA2
 A2_custom	aqui	here	Aqui faz mais calor do que lá.	It's warmer here than there.	Near the speaker.			[sound:1000_aqui.mp3]	adverb direction uberA2 glue
 A2_custom	aí	there (near you)	O livro está aí na tua mesa.	The book is there on your table.	Near the listener.			[sound:1000_aí.mp3]	adverb direction uberA2 glue
 A2_custom	ali	there (visible)	O café fica ali, ao lado do banco.	The café is there, next to the bank.	A bit away, but visible.				adverb direction uberA2 glue
 A2_custom	lá	there (far / out of sight)	Estive lá o mês passado.	I was there last month.	Far from both.			[sound:1000_lá.mp3]	adverb direction uberA2 glue
-A2_custom	cá	here (general area)	Cá em Portugal, jantamos tarde.	Here in Portugal, we have dinner late.	Broader than <strong>aqui</strong>.				adverb direction uberA2
-A2_custom	logo	soon / later on	Vou logo para casa.	I am going home soon.	"In EP, <strong>logo</strong> leans ""soon / later on"" more than ""right away"". For ""right away"" use <strong>já</strong>. Also: <em>até logo</em> (see you later)."			[sound:1000_logo.mp3]	adverb time uberA2
-A2_custom	às vezes	sometimes	Às vezes vou correr à noite.	Sometimes I go running at night.					phrase time uberA2
-A2_custom	muitas vezes	often	Muitas vezes janto fora ao fim de semana.	I often eat out on weekends.					phrase time uberA2
-A2_custom	poucas vezes	rarely	Poucas vezes chego tarde ao trabalho.	I rarely arrive late to work.					phrase time uberA2
-A2_custom	normalmente	normally	Normalmente durmo sete horas por noite.	I normally sleep seven hours a night.					adverb time uberA2
-A2_custom	geralmente	generally	Geralmente chego a casa às seis.	I generally get home at six.					adverb time uberA2
-A2_custom	raramente	rarely	Raramente bebo refrigerantes.	I rarely drink soft drinks.					adverb time uberA2
-A2_custom	perto	near / nearby	Moro perto, posso ir a pé.	I live nearby, I can walk.	With object: <strong>perto de</strong>.			[sound:1000_perto.mp3]	adverb direction uberA2
-A2_custom	longe	far	A minha família mora longe.	My family lives far away.	With object: <strong>longe de</strong>.				adverb direction uberA2
-A2_custom	dentro	inside	Espera-me lá dentro, por favor.	Wait for me inside, please.	With object: <strong>dentro de</strong>.			[sound:1000_dentro.mp3]	adverb direction uberA2
-A2_custom	fora	outside	As crianças estão a brincar lá fora.	The children are playing outside.	With object: <strong>fora de</strong>.			[sound:1000_fora.mp3]	adverb direction uberA2
-A2_custom	em cima	on top / above	Pus o livro em cima da mesa.	I put the book on top of the table.	With object: <strong>em cima de</strong>.				phrase direction uberA2
-A2_custom	em baixo	below / underneath	O gato está em baixo da cadeira.	The cat is under the chair.	With object: <strong>em baixo de</strong> / <strong>debaixo de</strong>.				phrase direction uberA2
-A2_custom	à frente	in front	Sentou-se à frente na sala.	He sat in front in the room.	With object: <strong>à frente de</strong>.				phrase direction uberA2
-A2_custom	atrás	behind	Deixei a mala atrás da porta.	I left the bag behind the door.	With object: <strong>atrás de</strong>.				adverb direction uberA2
+A2_custom	cá	here (general area)	Cá em Portugal, jantamos tarde.	Here in Portugal, we have dinner late.	Broader than <strong>aqui</strong>.				adverb direction uberA2 glue
+A2_custom	logo	soon / later on	Vou logo para casa.	I am going home soon.	"In EP, <strong>logo</strong> leans ""soon / later on"" more than ""right away"". For ""right away"" use <strong>já</strong>. Also: <em>até logo</em> (see you later)."			[sound:1000_logo.mp3]	adverb time uberA2 glue
+A2_custom	às vezes	sometimes	Às vezes vou correr à noite.	Sometimes I go running at night.					phrase time uberA2 glue
+A2_custom	muitas vezes	often	Muitas vezes janto fora ao fim de semana.	I often eat out on weekends.					phrase time uberA2 glue
+A2_custom	poucas vezes	rarely	Poucas vezes chego tarde ao trabalho.	I rarely arrive late to work.					phrase time uberA2 glue
+A2_custom	normalmente	normally	Normalmente durmo sete horas por noite.	I normally sleep seven hours a night.					adverb time uberA2 glue
+A2_custom	geralmente	generally	Geralmente chego a casa às seis.	I generally get home at six.					adverb time uberA2 glue
+A2_custom	raramente	rarely	Raramente bebo refrigerantes.	I rarely drink soft drinks.					adverb time uberA2 glue
+A2_custom	perto	near / nearby	Moro perto, posso ir a pé.	I live nearby, I can walk.	With object: <strong>perto de</strong>.			[sound:1000_perto.mp3]	adverb direction uberA2 glue
+A2_custom	longe	far	A minha família mora longe.	My family lives far away.	With object: <strong>longe de</strong>.				adverb direction uberA2 glue
+A2_custom	dentro	inside	Espera-me lá dentro, por favor.	Wait for me inside, please.	With object: <strong>dentro de</strong>.			[sound:1000_dentro.mp3]	adverb direction uberA2 glue
+A2_custom	fora	outside	As crianças estão a brincar lá fora.	The children are playing outside.	With object: <strong>fora de</strong>.			[sound:1000_fora.mp3]	adverb direction uberA2 glue
+A2_custom	em cima	on top / above	Pus o livro em cima da mesa.	I put the book on top of the table.	With object: <strong>em cima de</strong>.				phrase direction uberA2 glue
+A2_custom	em baixo	below / underneath	O gato está em baixo da cadeira.	The cat is under the chair.	With object: <strong>em baixo de</strong> / <strong>debaixo de</strong>.				phrase direction uberA2 glue
+A2_custom	à frente	in front	Sentou-se à frente na sala.	He sat in front in the room.	With object: <strong>à frente de</strong>.				phrase direction uberA2 glue
+A2_custom	atrás	behind	Deixei a mala atrás da porta.	I left the bag behind the door.	With object: <strong>atrás de</strong>.				adverb direction uberA2 glue
 A2_custom	bem	well	Falas muito bem português.	You speak Portuguese very well.	Opposite of <strong>mal</strong>.			[sound:1000_bem.mp3]	adverb uberA2 glue
-A2_custom	mal	badly	Dormi mal por causa do barulho.	I slept badly because of the noise.	"Also conjunction meaning ""as soon as"": <em>mal cheguei, liguei-te</em>."			[sound:1000_mal.mp3]	adverb uberA2
+A2_custom	mal	badly	Dormi mal por causa do barulho.	I slept badly because of the noise.	"Also conjunction meaning ""as soon as"": <em>mal cheguei, liguei-te</em>."			[sound:1000_mal.mp3]	adverb uberA2 glue
 A2_custom	assim	like this / so	Faz assim, é mais fácil.	Do it like this, it's easier.				[sound:1000_assim.mp3]	adverb uberA2 glue
 A2_custom	devagar	slowly	Fala mais devagar, por favor.	Speak more slowly, please.					adverb uberA2
 A2_custom	depressa	quickly	Acaba o trabalho depressa.	Finish the work quickly.					adverb uberA2
 A2_custom	rapidamente	quickly / rapidly	Os dias passam rapidamente.	The days go by quickly.	Synonym of <strong>depressa</strong>, more formal.				adverb uberA2
 A2_custom	juntos	together	Fomos ao cinema juntos.	We went to the cinema together.	Feminine: <strong>juntas</strong>. Only plural.				adverb uberA2
 A2_custom	sozinho	alone	Hoje janto sozinho em casa.	Today I'm eating dinner alone at home.	Feminine: <strong>sozinha</strong>.				adjective uberA2
-A2_custom	melhor	better / best	Este restaurante é melhor do que o outro.	This restaurant is better than the other.	Comparative and superlative of <strong>bom</strong>.				adverb uberA2
-A2_custom	pior	worse / worst	O tempo está pior hoje.	The weather is worse today.	Comparative and superlative of <strong>mau</strong>.				adverb uberA2
-A2_custom	quase	almost	Quase caí no gelo.	I almost slipped on the ice.				[sound:1000_quase.mp3]	adverb uberA2
+A2_custom	melhor	better / best	Este restaurante é melhor do que o outro.	This restaurant is better than the other.	Comparative and superlative of <strong>bom</strong>.				adverb uberA2 glue
+A2_custom	pior	worse / worst	O tempo está pior hoje.	The weather is worse today.	Comparative and superlative of <strong>mau</strong>.				adverb uberA2 glue
+A2_custom	quase	almost	Quase caí no gelo.	I almost slipped on the ice.				[sound:1000_quase.mp3]	adverb uberA2 glue
 A2_custom	só	only	Só quero um copo de água.	I just want a glass of water.	"Also adjective ""alone"": <em>estou só</em>."			[sound:1000_só.mp3]	adverb uberA2 glue
-A2_custom	apenas	only / just	Estudo apenas duas horas por dia.	I only study two hours a day.	Synonym of <strong>só</strong>, slightly more formal.			[sound:1000_apenas.mp3]	adverb uberA2
-A2_custom	provavelmente	probably	Provavelmente vai chover amanhã.	It will probably rain tomorrow.					adverb uberA2
-A2_custom	daqui	from here / from now	Daqui a uma hora, chego aí.	An hour from now, I'll be there.	<strong>Daqui a X</strong> = X from now. <strong>Daqui</strong> alone = from here.				adverb time uberA2
+A2_custom	apenas	only / just	Estudo apenas duas horas por dia.	I only study two hours a day.	Synonym of <strong>só</strong>, slightly more formal.			[sound:1000_apenas.mp3]	adverb uberA2 glue
+A2_custom	provavelmente	probably	Provavelmente vai chover amanhã.	It will probably rain tomorrow.					adverb uberA2 glue
+A2_custom	daqui	from here / from now	Daqui a uma hora, chego aí.	An hour from now, I'll be there.	<strong>Daqui a X</strong> = X from now. <strong>Daqui</strong> alone = from here.				adverb time uberA2 glue
 A2_custom	a pessoa	person	Aquela pessoa é muito simpática.	That person is very nice.	Always feminine, regardless of the person's gender.			[sound:1000_pessoa.mp3]	noun family uberA2
 A2_custom	a família	family	A minha família mora em Coimbra.	My family lives in Coimbra.				[sound:1000_família.mp3]	noun family uberA2
 A2_custom	o pai	father	O meu pai é médico.	My father is a doctor.	"Plural <strong>pais</strong> can mean ""parents"" (father + mother)."			[sound:1000_pai.mp3]	noun family uberA2
@@ -765,19 +765,19 @@ A2_custom	aquilo	that (over there, neuter)	O que é aquilo lá ao fundo?	What is
 A2_custom	dele	his / of him	O carro dele é azul, o dela é vermelho.	His car is blue, hers is red.	<em>de + ele</em>. Used to disambiguate the possessive <strong>seu</strong> (which is ambiguous between his/her/your). Invariable — doesn't agree with the thing possessed. Plural: <strong>deles</strong>.				pronoun grammar uberA2 glue
 A2_custom	dela	hers / of her	A casa dela fica perto daqui.	Her house is near here.	<em>de + ela</em>. Used to disambiguate the possessive <strong>sua</strong>. Invariable. Plural: <strong>delas</strong>.				pronoun grammar uberA2 glue
 A2_custom	também	also / too	O meu irmão também fala inglês.	My brother also speaks English.	Placed after the subject and before the verb, or right after the verb. Negative counterpart: <strong>também não</strong> (not either).			[sound:1000_também.mp3]	adverb uberA2 glue
-A2_custom	desde	since / from	Moro em Lisboa desde 2015.	I've lived in Lisbon since 2015.	Used for time or place starting points. With time often paired with verbs in the present: <em>desde + time = since</em>.			[sound:1000_desde.mp3]	preposition uberA2
-A2_custom	contra	against	O carro bateu contra a parede.	The car crashed against the wall.				[sound:1000_contra.mp3]	preposition uberA2
-A2_custom	portanto	therefore / so	Estudei muito, portanto sei a resposta.	I studied a lot, therefore I know the answer.	More formal than <strong>por isso</strong>.			[sound:1000_portanto.mp3]	conjunction uberA2
-A2_custom	tanto	so much / so many	Não sabia que tinhas tanto trabalho.	I didn't know you had so much work.	Feminine: <strong>tanta</strong>. Plural: <strong>tantos/tantas</strong>. Agrees with the noun.			[sound:1000_tanto.mp3]	adverb uberA2
-A2_custom	ambos	both	Ambos os meus irmãos moram no Porto.	Both my brothers live in Porto.	Feminine: <strong>ambas</strong>. Usually followed by <em>os/as + noun</em>.			[sound:1000_ambos.mp3]	pronoun grammar uberA2
+A2_custom	desde	since / from	Moro em Lisboa desde 2015.	I've lived in Lisbon since 2015.	Used for time or place starting points. With time often paired with verbs in the present: <em>desde + time = since</em>.			[sound:1000_desde.mp3]	preposition uberA2 glue
+A2_custom	contra	against	O carro bateu contra a parede.	The car crashed against the wall.				[sound:1000_contra.mp3]	preposition uberA2 glue
+A2_custom	portanto	therefore / so	Estudei muito, portanto sei a resposta.	I studied a lot, therefore I know the answer.	More formal than <strong>por isso</strong>.			[sound:1000_portanto.mp3]	conjunction uberA2 glue
+A2_custom	tanto	so much / so many	Não sabia que tinhas tanto trabalho.	I didn't know you had so much work.	Feminine: <strong>tanta</strong>. Plural: <strong>tantos/tantas</strong>. Agrees with the noun.			[sound:1000_tanto.mp3]	adverb uberA2 glue
+A2_custom	ambos	both	Ambos os meus irmãos moram no Porto.	Both my brothers live in Porto.	Feminine: <strong>ambas</strong>. Usually followed by <em>os/as + noun</em>.			[sound:1000_ambos.mp3]	pronoun grammar uberA2 glue
 A2_custom	cerca de	about / around (approx.)	Cerca de cinquenta pessoas vieram à festa.	About fifty people came to the party.	Used before quantities, times, or approximations.			[sound:1000_cerca.mp3]	phrase uberA2
-A2_custom	sobretudo	especially / above all	Gosto de fruta, sobretudo maçãs.	I like fruit, especially apples.				[sound:1000_sobretudo.mp3]	adverb uberA2
+A2_custom	sobretudo	especially / above all	Gosto de fruta, sobretudo maçãs.	I like fruit, especially apples.				[sound:1000_sobretudo.mp3]	adverb uberA2 glue
 A2_custom	apesar de	despite / in spite of	Saí apesar do frio intenso.	I went out despite the intense cold.	Takes noun or <em>apesar de + infinitive</em>. Contracts: <em>apesar do/da/dos/das</em>.			[sound:1000_apesar.mp3]	phrase uberA2
-A2_custom	embora	although / away	Vou-me embora — está a ficar tarde.	I'm leaving — it's getting late.	"Two main senses. <strong>(1) ""Away / leaving""</strong> — very A2: <em>vou-me embora</em> (I'm leaving), <em>fui-me embora</em> (I left). Pairs with a reflexive pronoun. <br><br><strong>(2) ""Although""</strong> — late-A2/B1. Triggers the subjunctive: <em>embora esteja cansado, vou</em> (although I'm tired, I'll go). At A2 level, prefer the workarounds <strong>mas</strong> (<em>estou cansado, mas vou</em>) or <strong>apesar de + infinitive</strong> (<em>apesar de estar cansado, vou</em>)."			[sound:1000_embora.mp3]	conjunction uberA2
-A2_custom	demais	too / too much / excessively	Este café está quente demais.	This coffee is too hot.	Placed after the adjective or verb. Invariable.			[sound:1000_demais.mp3]	adverb uberA2
+A2_custom	embora	although / away	Vou-me embora — está a ficar tarde.	I'm leaving — it's getting late.	"Two main senses. <strong>(1) ""Away / leaving""</strong> — very A2: <em>vou-me embora</em> (I'm leaving), <em>fui-me embora</em> (I left). Pairs with a reflexive pronoun. <br><br><strong>(2) ""Although""</strong> — late-A2/B1. Triggers the subjunctive: <em>embora esteja cansado, vou</em> (although I'm tired, I'll go). At A2 level, prefer the workarounds <strong>mas</strong> (<em>estou cansado, mas vou</em>) or <strong>apesar de + infinitive</strong> (<em>apesar de estar cansado, vou</em>)."			[sound:1000_embora.mp3]	conjunction uberA2 glue
+A2_custom	demais	too / too much / excessively	Este café está quente demais.	This coffee is too hot.	Placed after the adjective or verb. Invariable.			[sound:1000_demais.mp3]	adverb uberA2 glue
 A2_custom	junto a	next to / together with	Sentou-se junto à janela.	He sat next to the window.	Also adjective <strong>junto/a</strong> (together). With <strong>a</strong>: next to. With <strong>com</strong>: together with.			[sound:1000_junto.mp3]	phrase direction uberA2
 A2_custom	acima de	above	O avião voa acima das nuvens.	The plane flies above the clouds.	Opposite: <strong>abaixo de</strong>.			[sound:1000_acima.mp3]	phrase direction uberA2
-A2_custom	a gente	we (colloquial) / people	A gente vai ao cinema esta noite?	Shall we go to the cinema tonight?	"(f, singular). Very common EP informal ""we"" — takes 3rd-person singular verb: <em>a gente vai</em>, not <em>a gente vamos</em>. Also literally means ""the people"".<br><br><strong>Register note:</strong> avoid in formal exam writing (e.g. CIPLE) — prefer <strong>nós</strong>."			[sound:1000_gente.mp3]	pronoun grammar uberA2
+A2_custom	a gente	we (colloquial) / people	A gente vai ao cinema esta noite?	Shall we go to the cinema tonight?	"(f, singular). Very common EP informal ""we"" — takes 3rd-person singular verb: <em>a gente vai</em>, not <em>a gente vamos</em>. Also literally means ""the people"".<br><br><strong>Register note:</strong> avoid in formal exam writing (e.g. CIPLE) — prefer <strong>nós</strong>."			[sound:1000_gente.mp3]	pronoun grammar uberA2 glue
 A2_custom	o lado	side	Do outro lado da rua há uma farmácia.	There's a pharmacy on the other side of the street.	(m). Common phrases: <em>ao lado de</em> (next to), <em>do lado</em> (aside), <em>por um lado / por outro lado</em> (on one hand / on the other hand).			[sound:1000_lado.mp3]	noun uberA2
 A2_custom	a razão	reason	Não sei a razão de ele estar zangado.	I don't know the reason he's angry.	(f). Key idiom: <strong>ter razão</strong> = to be right (<em>tens razão</em> = you're right). Plural: <strong>razões</strong>.			[sound:1000_razão.mp3]	noun uberA2
 A2_custom	a verdade	truth	Diz a verdade, por favor.	Tell the truth, please.	(f). Key idiom: <strong>é verdade</strong> = it's true. Also <em>na verdade</em> = actually.			[sound:1000_verdade.mp3]	noun uberA2
@@ -868,4 +868,5 @@ A2_custom	público	public	O transporte público é bom em Lisboa.	Public transpo
 A2_custom	privado	private	Isto é um assunto privado.	This is a private matter.	Feminine: <strong>privada</strong>.			[sound:1000_privado.mp3]	adjective uberA2
 A2_custom	real	real	Esta história parece real.	This story seems real.	Same form for m/f. Plural: <strong>reais</strong>.			[sound:1000_real.mp3]	adjective uberA2
 A2_custom	simples	simple	A receita é muito simples.	The recipe is very simple.	Same form for m/f and same for singular/plural (invariable).			[sound:1000_simples.mp3]	adjective uberA2
-A2_custom	cuidado (interjection)	watch out! / careful!	Cuidado! O chão está molhado.	Watch out! The floor is wet.	Used to warn someone of imminent danger. The noun <strong>o cuidado</strong> (care / caution) has its own card.			[sound:1000_cuidado.mp3]	interjection uberA2
+A2_custom	cuidado (interjection)	watch out! / careful!	Cuidado! O chão está molhado.	Watch out! The floor is wet.	Used to warn someone of imminent danger. The noun <strong>o cuidado</strong> (care / caution) has its own card.			[sound:1000_cuidado.mp3]	interjection uberA2 glue
+A2_custom	o fundo	bottom / back / end	A cozinha fica ao fundo do corredor.	The kitchen is at the end of the hallway.	(m) — bottom, far end, or back of a space.<br><br><strong>Key phrases:</strong><div>• <strong>ao fundo (de)</strong> = at the end of / at the back of: <em>ao fundo da rua</em> (at the end of the street).</div><div>• <strong>no fundo</strong> = deep down / actually: <em>no fundo, ele é simpático</em> (deep down, he's nice).</div><div>• <strong>a fundo</strong> = thoroughly: <em>estudar a fundo</em> (to study thoroughly).</div><div>• <strong>de fundo</strong> = underlying / basic: <em>um problema de fundo</em> (an underlying problem).</div><br><strong>As adjective — <em>fundo / funda</em></strong> = deep: <em>um rio fundo</em> (a deep river), <em>uma gaveta funda</em> (a deep drawer).<br><br><strong>Financial sense</strong> (B1+): <em>um fundo (de investimento)</em> = an (investment) fund. <em>Fundos públicos</em> = public funds.			[sound:1000_fundo.mp3]	noun uberA2
