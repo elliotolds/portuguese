@@ -41,11 +41,11 @@ A2_custom	de quem	whose	De quem é este casaco?	Whose coat is this?	"Literally "
 A2_custom	onde	where	Onde mora o teu irmão mais velho?	Where does your older brother live?	With direction: <strong>aonde</strong> (to where, colloquial).			[sound:1000_onde.mp3]	adverb question uberA2 glue
 A2_custom	porquê	why	Porquê essa cara triste?	Why that sad face?	Question word (stressed on final syllable). Don't confuse with conjunction <strong>porque</strong> (because).				adverb question uberA2 glue
 A2_custom	como	how	Como vais para o trabalho todos os dias?	How do you get to work every day?	"Also means ""as / like"" — that usage has its own card."			[sound:1000_como.mp3]	adverb question uberA2 glue
-A2_custom	qual	which	Qual é a tua cor preferida?	What is your favourite colour?	Plural: <strong>quais</strong>. Picks one out of a known set.			[sound:1000_qual.mp3]	pronoun question uberA2 glue
-A2_custom	quais	which (pl.)	Quais são os teus livros preferidos?	Which are your favourite books?	Plural of <strong>qual</strong>.				pronoun question uberA2 glue
+A2_custom	qual	which	Qual é a tua cor preferida?	What is your favorite color?	Plural: <strong>quais</strong>. Picks one out of a known set.			[sound:1000_qual.mp3]	pronoun question uberA2 glue
+A2_custom	quais	which (pl.)	Quais são os teus livros preferidos?	Which are your favorite books?	Plural of <strong>qual</strong>.				pronoun question uberA2 glue
 A2_custom	quanto	how much	Quanto custa este livro?	How much does this book cost?	Agrees with noun: <strong>quanto/a/os/as</strong>.			[sound:1000_quanto.mp3]	adverb question uberA2 glue
 A2_custom	quantos	how many	Quantos anos tens?	How old are you?	Feminine: <strong>quantas</strong>.				adverb question uberA2 glue
-A2_custom	é que	(question emphasis)	Onde é que vais esta noite?	Where are you going tonight?	Optional particle after a question word to emphasise. Untranslated.				phrase question uberA2 glue
+A2_custom	é que	(question emphasis)	Onde é que vais esta noite?	Where are you going tonight?	Optional particle after a question word to emphasize. Untranslated.				phrase question uberA2 glue
 A2_custom	este	this (m, near me)	Este livro é muito interessante.	This book is very interesting.	Feminine: <strong>esta</strong>. Neuter: <strong>isto</strong>. Plural: <strong>estes/estas</strong>. Refers to something near the speaker.			[sound:1000_este.mp3]	pronoun grammar uberA2 glue
 A2_custom	esse	that (m, near you)	Esse café que tens aí é bom?	Is that coffee you have there good?	Feminine: <strong>essa</strong>. Neuter: <strong>isso</strong>. Plural: <strong>esses/essas</strong>. Near the listener.			[sound:1000_esse.mp3]	pronoun grammar uberA2 glue
 A2_custom	aquele	that (m, far from both)	Aquele prédio ali é muito antigo.	That building over there is very old.	Feminine: <strong>aquela</strong>. Neuter: <strong>aquilo</strong>. Plural: <strong>aqueles/aquelas</strong>. Far from both speakers.			[sound:1000_aquele.mp3]	pronoun grammar uberA2 glue
@@ -147,7 +147,7 @@ A2_custom	a segunda-feira	Monday	Na segunda-feira começo um emprego novo.	On Mo
 A2_custom	a terça-feira	Tuesday	Terça-feira vou ao médico de manhã.	On Tuesday I'm going to the doctor in the morning.	Often shortened to <strong>terça</strong>.				noun day uberA2
 A2_custom	a quarta-feira	Wednesday	Tenho aulas à quarta-feira à tarde.	I have classes on Wednesday afternoons.	Often shortened to <strong>quarta</strong>.				noun day uberA2
 A2_custom	a quinta-feira	Thursday	Vamos jantar fora na quinta-feira.	We're eating out on Thursday.	Often shortened to <strong>quinta</strong>.				noun day uberA2
-A2_custom	a sexta-feira	Friday	Sexta-feira é o meu dia preferido.	Friday is my favourite day.	Often shortened to <strong>sexta</strong>.				noun day uberA2
+A2_custom	a sexta-feira	Friday	Sexta-feira é o meu dia preferido.	Friday is my favorite day.	Often shortened to <strong>sexta</strong>.				noun day uberA2
 A2_custom	o sábado	Saturday	Aos sábados faço compras no mercado.	On Saturdays I shop at the market.	No <em>-feira</em> suffix. Feminine article: <strong>no sábado</strong> (m).			[sound:1000_sábado.mp3]	noun day uberA2
 A2_custom	o domingo	Sunday	Ao domingo almoço com a família.	On Sundays I have lunch with my family.	No <em>-feira</em> suffix.			[sound:1000_domingo.mp3]	noun day uberA2
 A2_custom	o fim de semana	weekend	Este fim de semana vou à praia.	This weekend I'm going to the beach.	Article + gender: <strong>o fim de semana</strong> (m).				noun day uberA2
@@ -157,8 +157,8 @@ A2_custom	março	March	A primavera começa em março.	Spring begins in March.			
 A2_custom	abril	April	Em abril, águas mil — diz o ditado.	"""April showers"" — so goes the saying."	Idiom: <em>Em abril, águas mil</em>.			[sound:1000_abril.mp3]	noun month uberA2
 A2_custom	maio	May	Maio é um mês de flores e festas.	May is a month of flowers and festivals.				[sound:1000_maio.mp3]	noun month uberA2
 A2_custom	junho	June	Em junho celebramos o Santo António.	In June we celebrate Saint Anthony.	Popular saint festivals in EP.			[sound:1000_junho.mp3]	noun month uberA2
-A2_custom	julho	July	Em julho vou de férias para o Algarve.	In July I'm going on holiday to the Algarve.				[sound:1000_julho.mp3]	noun month uberA2
-A2_custom	agosto	August	Agosto é o mês mais quente do ano.	August is the hottest month of the year.	Many Portuguese take holidays in August.			[sound:1000_agosto.mp3]	noun month uberA2
+A2_custom	julho	July	Em julho vou de férias para o Algarve.	In July I'm going on vacation to the Algarve.				[sound:1000_julho.mp3]	noun month uberA2
+A2_custom	agosto	August	Agosto é o mês mais quente do ano.	August is the hottest month of the year.	Many Portuguese take vacation in August.			[sound:1000_agosto.mp3]	noun month uberA2
 A2_custom	setembro	September	As aulas começam em setembro.	Classes start in September.				[sound:1000_setembro.mp3]	noun month uberA2
 A2_custom	outubro	October	Em outubro, as folhas ficam amarelas.	In October, the leaves turn yellow.				[sound:1000_outubro.mp3]	noun month uberA2
 A2_custom	novembro	November	Novembro é um mês chuvoso.	November is a rainy month.				[sound:1000_novembro.mp3]	noun month uberA2
@@ -192,7 +192,7 @@ A2_custom	atravessar	to cross	Para ir ao parque, tem de atravessar a rua.	To get
 A2_custom	atravessar a rua	to cross the street	Atravessa a rua com cuidado.	Cross the street carefully.					phrase direction uberA2
 A2_custom	ao lado de	next to	A padaria fica ao lado do banco.	The bakery is next to the bank.					phrase direction uberA2 glue
 A2_custom	perto de	near (to)	Moro perto da universidade.	I live near the university.	Always takes <strong>de</strong> before the object.				phrase direction uberA2 glue
-A2_custom	longe de	far from	O aeroporto fica longe do centro.	The airport is far from the centre.	Always takes <strong>de</strong>.				phrase direction uberA2 glue
+A2_custom	longe de	far from	O aeroporto fica longe do centro.	The airport is far from the center.	Always takes <strong>de</strong>.				phrase direction uberA2 glue
 A2_custom	em frente de	opposite / in front of	O café fica em frente do hotel.	The café is opposite the hotel.					phrase direction uberA2
 A2_custom	na esquina	on the corner	A padaria fica na esquina da rua.	The bakery is on the corner of the street.					phrase direction uberA2
 A2_custom	a primeira rua	the first street	Vira à direita na primeira rua.	Turn right at the first street.					phrase direction uberA2
@@ -287,7 +287,7 @@ A2_custom	a profissão	profession / job	Qual é a sua profissão?	What's your pr
 A2_custom	a nacionalidade	nationality	A minha nacionalidade é portuguesa.	My nationality is Portuguese.	(f)				noun nationality uberA2
 A2_custom	a língua	language / tongue	Falo três línguas: português, inglês e francês.	I speak three languages: Portuguese, English, and French.	"Also means ""tongue"" (body part)."				noun uberA2
 A2_custom	o trabalho	work / job	Começo o trabalho novo na próxima segunda-feira.	I start my new job next Monday.	(m) Verb: <strong>trabalhar</strong>.			[sound:1000_trabalho.mp3]	noun work uberA2
-A2_custom	o emprego	job / employment	Arranjei um emprego no centro da cidade.	I got a job in the city centre.	(m)			[sound:1000_emprego.mp3]	noun work uberA2
+A2_custom	o emprego	job / employment	Arranjei um emprego no centro da cidade.	I got a job in the city center.	(m)			[sound:1000_emprego.mp3]	noun work uberA2
 A2_custom	a empresa	company	Trabalho numa empresa pequena.	I work in a small company.	(f)			[sound:1000_empresa.mp3]	noun work uberA2
 A2_custom	a reunião	meeting	A reunião é às dez da manhã.	The meeting is at ten in the morning.	(f)			[sound:1000_reunião.mp3]	noun work uberA2
 A2_custom	a escola	school	Os meus filhos andam na mesma escola.	My children go to the same school.	(f)			[sound:1000_escola.mp3]	noun school uberA2
@@ -385,15 +385,15 @@ A2_custom	o banco	bank	O banco está fechado ao fim de semana.	The bank is close
 A2_custom	os correios	post office	Vou aos correios enviar uma carta.	I'm going to the post office to send a letter.	(m, plural) Always plural.				noun place uberA2
 A2_custom	a farmácia	pharmacy	A farmácia fica aberta até às dez.	The pharmacy is open until ten.	(f)				noun place uberA2
 A2_custom	o hospital	hospital	Levaram-no ao hospital de ambulância.	They took him to the hospital by ambulance.	(m)			[sound:1000_hospital.mp3]	noun place uberA2
-A2_custom	a igreja	church	A igreja no centro é muito antiga.	The church in the centre is very old.	(f)				noun place uberA2
+A2_custom	a igreja	church	A igreja no centro é muito antiga.	The church in the center is very old.	(f)				noun place uberA2
 A2_custom	o museu	museum	O museu fecha à segunda-feira.	The museum is closed on Mondays.	(m)				noun place uberA2
 A2_custom	o cinema	cinema	Vamos ao cinema logo à noite?	Shall we go to the cinema tonight?	(m), despite ending in <em>-a</em>.				noun place uberA2
-A2_custom	o teatro	theatre	Gosto mais de teatro do que de cinema.	I like theatre more than cinema.	(m)				noun place uberA2
+A2_custom	o teatro	theater	Gosto mais de teatro do que de cinema.	I like theater more than cinema.	(m)				noun place uberA2
 A2_custom	a biblioteca	library	Estudo na biblioteca quando tenho exames.	I study at the library when I have exams.	(f)				noun place uberA2
 A2_custom	o dia	day	Hoje é um dia lindo de primavera.	Today is a beautiful spring day.	(m)			[sound:1000_dia.mp3]	noun time uberA2
 A2_custom	o ano	year	Passei um ano a viver em Paris.	I spent a year living in Paris.	(m)			[sound:1000_ano.mp3]	noun time uberA2
 A2_custom	a hora	hour / time (clock)	Que horas são?	What time is it?	(f) Plural for time of day: <em>Que horas são?</em>			[sound:1000_hora.mp3]	noun time uberA2
-A2_custom	a semana	week	Vou ter umas férias na próxima semana.	I'm having a holiday next week.	(f)			[sound:1000_semana.mp3]	noun time uberA2
+A2_custom	a semana	week	Vou ter umas férias na próxima semana.	I'm having a vacation next week.	(f)			[sound:1000_semana.mp3]	noun time uberA2
 A2_custom	o mês	month	Passei um mês sem falar com ele.	I went a month without talking to him.	(m) Plural: <strong>meses</strong>.			[sound:1000_mês.mp3]	noun time uberA2
 A2_custom	a manhã	morning	De manhã, corro no parque.	In the morning, I run in the park.	(f)			[sound:1000_manhã.mp3]	noun time uberA2
 A2_custom	a noite	night / evening	À noite, leio antes de dormir.	At night, I read before sleeping.	(f)			[sound:1000_noite.mp3]	noun time uberA2
@@ -407,30 +407,30 @@ A2_custom	o vento	wind	Há muito vento hoje.	There's a lot of wind today.	(m)			
 A2_custom	a neve	snow	A neve cobriu as montanhas.	The snow covered the mountains.	(f)				noun weather uberA2
 A2_custom	o céu	sky	O céu está azul sem uma nuvem.	The sky is blue without a cloud.	(m)				noun weather uberA2
 A2_custom	a nuvem	cloud	Uma nuvem escura tapou o sol.	A dark cloud covered the sun.	(f), despite ending in <em>-m</em>. Plural: <strong>nuvens</strong>.				noun weather uberA2
-A2_custom	a estação do ano	season	A minha estação do ano preferida é o outono.	My favourite season is autumn.	"(f) Also just <strong>estação</strong>. <em>Estação</em> alone can also mean ""(train) station""."				noun season uberA2
+A2_custom	a estação do ano	season	A minha estação do ano preferida é o outono.	My favorite season is autumn.	"(f) Also just <strong>estação</strong>. <em>Estação</em> alone can also mean ""(train) station""."				noun season uberA2
 A2_custom	o verão	summer	No verão, vou sempre à praia.	In the summer, I always go to the beach.	(m)				noun season uberA2
 A2_custom	o inverno	winter	O inverno em Portugal é suave.	Winter in Portugal is mild.	(m)				noun season uberA2
-A2_custom	a primavera	spring	A primavera traz flores e cores.	Spring brings flowers and colours.	(f)				noun season uberA2
+A2_custom	a primavera	spring	A primavera traz flores e cores.	Spring brings flowers and colors.	(f)				noun season uberA2
 A2_custom	o outono	autumn / fall	O outono é uma estação bonita.	Autumn is a beautiful season.	(m)				noun season uberA2
 A2_custom	o carro	car	Tenho um carro pequeno mas confortável.	I have a small but comfortable car.	(m)			[sound:1000_carro.mp3]	noun transport uberA2
 A2_custom	o autocarro	bus	Apanho o autocarro para o trabalho.	I take the bus to work.	(m) EP; BR: <strong>ônibus</strong>.				noun transport uberA2
 A2_custom	o comboio	train	O comboio para o Porto sai às nove.	The train to Porto leaves at nine.	(m) EP; BR: <strong>trem</strong>.				noun transport uberA2
 A2_custom	o avião	plane	O avião aterra dentro de meia hora.	The plane lands in half an hour.	(m) Plural: <strong>aviões</strong>.				noun transport uberA2
-A2_custom	o metro	metro / subway	Vou de metro todos os dias.	I take the metro every day.	"(m) Also the measurement ""metre""."				noun transport uberA2
+A2_custom	o metro	metro / subway	Vou de metro todos os dias.	I take the metro every day.	"(m) Also the measurement ""meter""."				noun transport uberA2
 A2_custom	a bicicleta	bicycle	Ando de bicicleta no fim de semana.	I ride a bike on weekends.	(f) Short form: <strong>bici</strong>.				noun transport uberA2
 A2_custom	o táxi	taxi	Chamei um táxi porque estava a chover.	I called a taxi because it was raining.	(m)				noun transport uberA2
 A2_custom	o bilhete	ticket	Comprei o bilhete de comboio online.	I bought the train ticket online.	(m)				noun transport uberA2
 A2_custom	a paragem	(bus) stop	A paragem do autocarro fica ali.	The bus stop is over there.	(f) EP; BR: <strong>ponto</strong>.				noun transport uberA2
 A2_custom	a estação	station	Encontramo-nos na estação de comboios.	Let's meet at the train station.	(f)				noun transport uberA2
-A2_custom	o aeroporto	airport	O aeroporto de Lisboa fica perto do centro.	Lisbon airport is close to the centre.	(m)				noun transport uberA2
+A2_custom	o aeroporto	airport	O aeroporto de Lisboa fica perto do centro.	Lisbon airport is close to the center.	(m)				noun transport uberA2
 A2_custom	a viagem	trip / journey	A viagem durou seis horas.	The trip lasted six hours.	(f) Verb: <strong>viajar</strong>.			[sound:1000_viagem.mp3]	noun transport uberA2
-A2_custom	as férias	holidays / vacation	Vou de férias em agosto.	I'm going on holiday in August.	(f, plural) Always plural.				noun time uberA2
+A2_custom	as férias	vacation / vacation	Vou de férias em agosto.	I'm going on vacation in August.	(f, plural) Always plural.				noun time uberA2
 A2_custom	o hotel	hotel	O hotel fica mesmo em frente da praia.	The hotel is right in front of the beach.	(m)				noun place uberA2
 A2_custom	a cidade	city	Lisboa é a cidade mais antiga da Europa ocidental.	Lisbon is the oldest city in Western Europe.	(f)			[sound:1000_cidade.mp3]	noun place uberA2
 A2_custom	o país	country	Portugal é um país pequeno mas bonito.	Portugal is a small but beautiful country.	(m) Plural: <strong>países</strong>.			[sound:1000_país.mp3]	noun place uberA2
 A2_custom	a rua	street	A minha rua é muito calma à noite.	My street is very quiet at night.	(f)			[sound:1000_rua.mp3]	noun place uberA2
 A2_custom	a avenida	avenue	A avenida principal está cheia de lojas.	The main avenue is full of shops.	(f)				noun place uberA2
-A2_custom	a praça	square	A praça no centro é sempre movimentada.	The square in the centre is always busy.	(f)				noun place uberA2
+A2_custom	a praça	square	A praça no centro é sempre movimentada.	The square in the center is always busy.	(f)				noun place uberA2
 A2_custom	a ponte	bridge	A ponte sobre o Tejo é impressionante.	The bridge over the Tagus is impressive.	(f)				noun place uberA2
 A2_custom	o parque	park	Vou ao parque correr todas as manhãs.	I go to the park to run every morning.	(m)				noun place uberA2
 A2_custom	o jardim	garden	O jardim de casa está cheio de flores.	The garden at home is full of flowers.	(m)				noun place uberA2
@@ -455,9 +455,9 @@ A2_custom	o sapato	shoe	Estes sapatos são muito confortáveis.	These shoes are 
 A2_custom	o chapéu	hat	Usa chapéu no verão por causa do sol.	Wear a hat in the summer because of the sun.	(m)				noun clothing uberA2
 A2_custom	as meias	socks	Onde pus as meias pretas?	Where did I put the black socks?	(f, plural) Singular <em>meia</em> exists but plural is standard for socks.				noun clothing uberA2
 A2_custom	o cinto	belt	O cinto é de couro castanho.	The belt is brown leather.	(m)				noun clothing uberA2
-A2_custom	o ténis	sneakers / trainers	Calcei os ténis para ir correr.	I put on my sneakers to go running.	"(m) Same word used for the sport ""tennis""."				noun clothing uberA2
+A2_custom	o ténis	sneakers / sneakers	Calcei os ténis para ir correr.	I put on my sneakers to go running.	"(m) Same word used for the sport ""tennis""."				noun clothing uberA2
 A2_custom	as botas	boots	No inverno, uso botas quentes.	In winter, I wear warm boots.	(f, plural) Singular <em>bota</em> exists.				noun clothing uberA2
-A2_custom	a cor	colour	Qual é a tua cor preferida?	What's your favourite colour?	(f), despite ending in <em>-r</em>. Plural: <strong>cores</strong>.			[sound:1000_cor.mp3]	noun color uberA2
+A2_custom	a cor	color	Qual é a tua cor preferida?	What's your favorite color?	(f), despite ending in <em>-r</em>. Plural: <strong>cores</strong>.			[sound:1000_cor.mp3]	noun color uberA2
 A2_custom	o tamanho	size	Que tamanho veste?	What size do you wear?	(m)				noun clothing uberA2
 A2_custom	a mala	bag / suitcase	A minha mala está cheia de livros.	My bag is full of books.	"(f) Also ""suitcase""."				noun clothing uberA2
 A2_custom	a carteira	wallet	Perdi a carteira no metro.	I lost my wallet on the metro.	(f)				noun clothing uberA2
@@ -488,7 +488,7 @@ A2_custom	a festa	party	A festa de aniversário foi ótima.	The birthday party w
 A2_custom	o desporto	sport	Pratico desporto três vezes por semana.	I do sports three times a week.	(m) EP; BR: <strong>esporte</strong>.				noun uberA2
 A2_custom	o jogo	game	O jogo do Benfica é amanhã à noite.	The Benfica game is tomorrow night.	(m)			[sound:1000_jogo.mp3]	noun uberA2
 A2_custom	o futebol	football / soccer	O futebol é o desporto mais popular em Portugal.	Football is the most popular sport in Portugal.	(m)			[sound:1000_futebol.mp3]	noun uberA2
-A2_custom	o passatempo	hobby	Qual é o teu passatempo preferido?	What's your favourite hobby?	(m)				noun uberA2
+A2_custom	o passatempo	hobby	Qual é o teu passatempo preferido?	What's your favorite hobby?	(m)				noun uberA2
 A2_custom	o tempo livre	free time	Nos tempos livres, leio e cozinho.	In my free time, I read and cook.	(m)				noun uberA2
 A2_custom	a televisão	television	Não vejo muita televisão.	I don't watch much television.	(f) Short: <strong>TV</strong>.				noun uberA2
 A2_custom	o rádio	radio	Ouço rádio no carro.	I listen to the radio in the car.	(m) Masculine for the device; <em>a rádio</em> (f) for the station/industry.				noun uberA2
@@ -507,7 +507,7 @@ A2_custom	fazer	to do / to make	Que fazes ao fim de semana?	What do you do on we
 A2_custom	haver	there is / there are	Há muitas pessoas na praia.	There are many people at the beach.	"Impersonal <strong>há</strong> for ""there is/are"". Also <em>há dois anos</em> = two years ago.<br><br>present  : _, _, <span style=""color: blue;""><b>há</b></span>, _, _<br>simp past: _, _, <span style=""color: blue;""><b>houve</b></span>, _, _<br>imperfect: _, _, havia, _, _<br>imperativ: _, _, _, _, _"			[sound:1000_haver.mp3]	verb uberA2
 A2_custom	poder	to be able / can	Podes abrir a janela?	Can you open the window?	"present  : <span style=""color: blue;""><b>posso</b></span>, podes, pode, podemos, podem<br>simp past: <b>pude</b>, <b>pudeste</b>, <span style=""color: blue;""><b>pôde</b></span>, <b>pudemos</b>, <b>puderam</b><br>imperfect: podia, podias, podia, podíamos, podiam<br>imperativ: _, pode, <b>possa</b>, <b>possamos</b>, <b>possam</b>"			[sound:1000_poder.mp3]	verb uberA2
 A2_custom	querer	to want	Quero um café, por favor.	I want a coffee, please.	"present  : quero, queres, <span style=""color: blue;""><b>quer</b></span>, queremos, querem<br>simp past: <span style=""color: purple;""><b>quis</b></span>, <b>quiseste</b>, <span style=""color: purple;""><b>quis</b></span>, <b>quisemos</b>, <b>quiseram</b><br>imperfect: queria, querias, queria, queríamos, queriam<br>imperativ: _, <span style=""color: blue;""><b>quer</b></span>, <b>queira</b>, <b>queiramos</b>, <b>queiram</b>"			[sound:1000_querer.mp3]	verb uberA2
-A2_custom	gostar de	to like	Gosto muito de viajar.	I really like travelling.	Always takes <strong>de</strong>: <em>gosto de café</em>.<br><br>Regular.				verb uberA2
+A2_custom	gostar de	to like	Gosto muito de viajar.	I really like traveling.	Always takes <strong>de</strong>: <em>gosto de café</em>.<br><br>Regular.				verb uberA2
 A2_custom	saber	to know (facts) / to know how to	Sei falar três línguas.	I can speak three languages.	"Contrast with <strong>conhecer</strong> (know people/places).<br><br>present  : <span style=""color: blue;""><b>sei</b></span>, sabes, sabe, sabemos, sabem<br>simp past: <span style=""color: purple;""><b>soube</b></span>, <b>soubeste</b>, <span style=""color: purple;""><b>soube</b></span>, <b>soubemos</b>, <b>souberam</b><br>imperfect: sabia, sabias, sabia, sabíamos, sabiam<br>imperativ: _, sabe, <b>saiba</b>, <b>saibamos</b>, <b>saibam</b>"			[sound:1000_saber.mp3]	verb uberA2
 A2_custom	conhecer	to know (people / places)	Conheço bem o Porto.	I know Porto well.	"Note the <strong>ç</strong> in <em>conheço</em> — orthographic shift to keep the /s/ sound before <em>o/a</em>. Contrast with <strong>saber</strong> (know facts / know how to).<br><br>present  : <span style=""color: blue;""><b>conheço</b></span>, conheces, conhece, conhecemos, conhecem<br>simp past: conheci, conheceste, conheceu, conhecemos, conheceram<br>imperfect: conhecia, conhecias, conhecia, conhecíamos, conheciam<br>imperativ: _, conhece, <b>conheça</b>, <b>conheçamos</b>, <b>conheçam</b>"			[sound:1000_conhecer.mp3]	verb uberA2
 A2_custom	dizer	to say / to tell	O que é que disseste?	What did you say?	"present  : <span style=""color: blue;""><b>digo</b></span>, dizes, <span style=""color: blue;""><b>diz</b></span>, dizemos, dizem<br>simp past: <span style=""color: purple;""><b>disse</b></span>, <b>disseste</b>, <span style=""color: purple;""><b>disse</b></span>, <b>dissemos</b>, <b>disseram</b><br>imperfect: dizia, dizias, dizia, dizíamos, diziam<br>imperativ: _, <span style=""color: blue;""><b>diz</b></span>, <b>diga</b>, <b>digamos</b>, <b>digam</b>"			[sound:1000_dizer.mp3]	verb uberA2
@@ -543,7 +543,7 @@ A2_custom	comprar	to buy	Comprei um vestido novo ontem.	I bought a new dress yes
 A2_custom	pagar	to pay	Pago com cartão, por favor.	I'll pay by card, please.	Regular.			[sound:1000_pagar.mp3]	verb shopping uberA2
 A2_custom	dever	must / should / to owe	Devo estudar mais.	I should study more.	"Modal meaning ""should"" or ""probably"". Also ""to owe"": <em>devo-te cinco euros</em>.<br><br>Regular."			[sound:1000_dever.mp3]	verb uberA2
 A2_custom	custar	to cost	Quanto custa este livro?	How much does this book cost?	Regular.				verb shopping uberA2
-A2_custom	gastar	to spend	Gastei muito dinheiro nas férias.	I spent a lot of money on the holidays.	Regular.				verb shopping uberA2
+A2_custom	gastar	to spend	Gastei muito dinheiro nas férias.	I spent a lot of money on the vacation.	Regular.				verb shopping uberA2
 A2_custom	vender	to sell	Vendi o carro velho a semana passada.	I sold the old car last week.	Regular.			[sound:1000_vender.mp3]	verb shopping uberA2
 A2_custom	trazer	to bring	Trouxeste o livro que te pedi?	Did you bring the book I asked for?	"Preterite: <em>trouxe</em>.<br><br>present  : <span style=""color: blue;""><b>trago</b></span>, trazes, <span style=""color: blue;""><b>traz</b></span>, trazemos, trazem<br>simp past: <span style=""color: purple;""><b>trouxe</b></span>, <b>trouxeste</b>, <span style=""color: purple;""><b>trouxe</b></span>, <b>trouxemos</b>, <b>trouxeram</b><br>imperfect: trazia, trazias, trazia, trazíamos, traziam<br>imperativ: _, <span style=""color: blue;""><b>traz</b></span>, <b>traga</b>, <b>tragamos</b>, <b>tragam</b>"			[sound:1000_trazer.mp3]	verb uberA2
 A2_custom	levar	to take / to carry	Levo o meu filho à escola todos os dias.	I take my son to school every day.	Contrast with <strong>trazer</strong>: bring toward speaker vs take away.<br><br>Regular.			[sound:1000_levar.mp3]	verb uberA2
@@ -554,7 +554,7 @@ A2_custom	chegar	to arrive	O comboio chega às seis.	The train arrives at six.	R
 A2_custom	entrar	to enter / to go in	Entra, por favor.	Come in, please.	<strong>Entrar em</strong> / <strong>entrar para</strong>.<br><br>Regular.			[sound:1000_entrar.mp3]	verb motion uberA2
 A2_custom	voltar	to return	Volto daqui a uma hora.	I'll be back in an hour.	Regular.			[sound:1000_voltar.mp3]	verb motion uberA2
 A2_custom	passar	to pass / to spend (time)	Passei o fim de semana no Porto.	I spent the weekend in Porto.	Many uses: pass by, spend time, iron clothes.<br><br>Regular.			[sound:1000_passar.mp3]	verb uberA2
-A2_custom	viajar	to travel	Adoro viajar pela Europa.	I love travelling around Europe.	Regular.				verb transport uberA2
+A2_custom	viajar	to travel	Adoro viajar pela Europa.	I love traveling around Europe.	Regular.				verb transport uberA2
 A2_custom	visitar	to visit	Visitei os meus avós no domingo.	I visited my grandparents on Sunday.	Regular.			[sound:1000_visitar.mp3]	verb uberA2
 A2_custom	reservar	to reserve / to book	Reservei uma mesa para duas pessoas.	I booked a table for two.	Regular.				verb uberA2
 A2_custom	usar	to use / to wear	Uso óculos para ler.	I use glasses to read.	"Both ""use"" and ""wear"" (for clothing).<br><br>Regular."			[sound:1000_usar.mp3]	verb uberA2
@@ -689,7 +689,7 @@ A2_custom	amarelo	yellow	O limão é amarelo.	The lemon is yellow.	Feminine: <st
 A2_custom	cor-de-rosa	pink	A blusa cor-de-rosa é linda.	The pink blouse is lovely.	Invariable — no gender change.				adjective color uberA2
 A2_custom	cor-de-laranja	orange	As folhas ficam cor-de-laranja no outono.	The leaves turn orange in autumn.	Invariable.				adjective color uberA2
 A2_custom	castanho	brown	Tenho os olhos castanhos.	I have brown eyes.	Feminine: <strong>castanha</strong>. BR: <strong>marrom</strong>.				adjective color uberA2
-A2_custom	cinzento	grey	O céu está cinzento hoje.	The sky is grey today.	Feminine: <strong>cinzenta</strong>. BR: <strong>cinza</strong> (invariable).				adjective color uberA2
+A2_custom	cinzento	gray	O céu está cinzento hoje.	The sky is gray today.	Feminine: <strong>cinzenta</strong>. BR: <strong>cinza</strong> (invariable).				adjective color uberA2
 A2_custom	roxo	purple	As uvas roxas são doces.	Purple grapes are sweet.	Feminine: <strong>roxa</strong>.				adjective color uberA2
 A2_custom	quente	hot	Esta sopa está muito quente.	This soup is very hot.	Same for m/f.				adjective weather uberA2
 A2_custom	frio	cold	A água do mar está fria hoje.	The sea water is cold today.	Feminine: <strong>fria</strong>. (The masculine noun <strong>o frio</strong> = cold weather/sensation has its own card.)				adjective weather uberA2
@@ -707,7 +707,7 @@ A2_custom	gelado	frozen / very cold	Quero água gelada, por favor.	I'd like ice-
 A2_custom	delicioso	delicious	O jantar estava delicioso.	Dinner was delicious.	Feminine: <strong>deliciosa</strong>.				adjective food uberA2
 A2_custom	saboroso	tasty	Esta sopa é muito saborosa.	This soup is very tasty.	Feminine: <strong>saborosa</strong>.				adjective food uberA2
 A2_custom	caro	expensive	Este restaurante é caro demais.	This restaurant is too expensive.	Feminine: <strong>cara</strong>. Don't confuse with noun <em>cara</em> (face).				adjective shopping uberA2
-A2_custom	barato	cheap / inexpensive	Encontrei um hotel barato perto do centro.	I found a cheap hotel near the centre.	Feminine: <strong>barata</strong>.				adjective shopping uberA2
+A2_custom	barato	cheap / inexpensive	Encontrei um hotel barato perto do centro.	I found a cheap hotel near the center.	Feminine: <strong>barata</strong>.				adjective shopping uberA2
 A2_custom	grátis	free (no cost)	A entrada no museu é grátis ao domingo.	Entry to the museum is free on Sundays.	Invariable — same for m/f/pl.				adjective shopping uberA2
 A2_custom	rápido	fast / quick	O comboio é rápido e confortável.	The train is fast and comfortable.	Feminine: <strong>rápida</strong>.			[sound:1000_rápido.mp3]	adjective uberA2
 A2_custom	lento	slow	A internet está lenta hoje.	The internet is slow today.	Feminine: <strong>lenta</strong>.				adjective uberA2
@@ -716,7 +716,7 @@ A2_custom	sujo	dirty	Os sapatos estão sujos de lama.	The shoes are dirty with m
 A2_custom	escuro	dark	Está escuro lá fora.	It's dark outside.	Feminine: <strong>escura</strong>.				adjective color uberA2
 A2_custom	passado	last / past	O mês passado fui ao Porto.	Last month I went to Porto.	Feminine: <strong>passada</strong>. <em>A semana passada</em> = last week.			[sound:1000_passado.mp3]	adjective time uberA2
 A2_custom	próximo	next / close	Apanhamos o próximo autocarro.	We'll catch the next bus.	"Feminine: <strong>próxima</strong>. Also ""close (by)""."			[sound:1000_próximo.mp3]	adjective time uberA2
-A2_custom	último	last / final	É o último dia de férias.	It's the last day of the holidays.	Feminine: <strong>última</strong>.			[sound:1000_último.mp3]	adjective time uberA2
+A2_custom	último	last / final	É o último dia de férias.	It's the last day of the vacation.	Feminine: <strong>última</strong>.			[sound:1000_último.mp3]	adjective time uberA2
 A2_custom	certo	right / correct	A resposta certa é a segunda.	The right answer is the second one.	Feminine: <strong>certa</strong>.			[sound:1000_certo.mp3]	adjective uberA2
 A2_custom	errado	wrong	A informação está errada.	The information is wrong.	Feminine: <strong>errada</strong>.				adjective uberA2
 A2_custom	verdadeiro	true	É uma história verdadeira.	It's a true story.	Feminine: <strong>verdadeira</strong>.			[sound:1000_verdadeiro.mp3]	adjective uberA2
@@ -729,11 +729,11 @@ A2_custom	possível	possible	É possível reservar online?	Is it possible to boo
 A2_custom	impossível	impossible	É impossível chegar a tempo.	It's impossible to arrive on time.	Same for m/f.				adjective uberA2
 A2_custom	português	Portuguese	O meu marido é português.	My husband is Portuguese.	Feminine: <strong>portuguesa</strong>. Plural: <strong>portugueses/portuguesas</strong>.			[sound:1000_português.mp3]	adjective nationality uberA2
 A2_custom	brasileiro	Brazilian	Tenho um amigo brasileiro em Lisboa.	I have a Brazilian friend in Lisbon.	Feminine: <strong>brasileira</strong>.			[sound:1000_brasileiro.mp3]	adjective nationality uberA2
-A2_custom	espanhol	Spanish	A minha vizinha é espanhola.	My neighbour is Spanish.	Feminine: <strong>espanhola</strong>.				adjective nationality uberA2
+A2_custom	espanhol	Spanish	A minha vizinha é espanhola.	My neighbor is Spanish.	Feminine: <strong>espanhola</strong>.				adjective nationality uberA2
 A2_custom	francês	French	Ele fala francês fluentemente.	He speaks French fluently.	Feminine: <strong>francesa</strong>. Plural: <strong>franceses/francesas</strong>.				adjective nationality uberA2
 A2_custom	inglês	English	O meu professor é inglês.	My teacher is English.	Feminine: <strong>inglesa</strong>. Plural: <strong>ingleses/inglesas</strong>.				adjective nationality uberA2
 A2_custom	alemão	German	Ela aprende alemão há dois anos.	She has been learning German for two years.	"Feminine: <strong>alemã</strong>. Irregular plural: <strong style=""color: red;"">alemães</strong> (m) / <strong>alemãs</strong> (f) — the masculine uses the rare <strong>-ão → -ães</strong> pattern; the feminine is regular <em>-ã → -ãs</em>."				adjective nationality uberA2
-A2_custom	italiano	Italian	A comida italiana é a minha preferida.	Italian food is my favourite.	Feminine: <strong>italiana</strong>.				adjective nationality uberA2
+A2_custom	italiano	Italian	A comida italiana é a minha preferida.	Italian food is my favorite.	Feminine: <strong>italiana</strong>.				adjective nationality uberA2
 A2_custom	americano	American	Os turistas americanos gostam de Lisboa.	American tourists like Lisbon.	Feminine: <strong>americana</strong>.				adjective nationality uberA2
 A2_custom	chinês	Chinese	Há um restaurante chinês perto de casa.	There's a Chinese restaurant near home.	Feminine: <strong>chinesa</strong>. Plural: <strong>chineses/chinesas</strong>.				adjective nationality uberA2
 A2_custom	africano	African	Visitei vários países africanos.	I visited several African countries.	Feminine: <strong>africana</strong>.				adjective nationality uberA2
@@ -788,7 +788,7 @@ A2_custom	a lei	law	A lei é igual para todos.	The law is the same for everyone.
 A2_custom	a ordem	order	Põe os livros por ordem alfabética.	Put the books in alphabetical order.	"(f), despite ending in <em>-m</em>. Plural: <strong>ordens</strong>. Also means ""command""."			[sound:1000_ordem.mp3]	noun uberA2
 A2_custom	a data	date	Qual é a data de hoje?	What's today's date?	(f). <em>Data de nascimento</em> = date of birth.			[sound:1000_data.mp3]	noun time uberA2
 A2_custom	a maneira	way / manner	Não gosto da maneira como ele fala.	I don't like the way he speaks.	(f). Synonym: <strong>modo</strong>. Phrase: <em>de qualquer maneira</em> = anyway.			[sound:1000_maneira.mp3]	noun uberA2
-A2_custom	o lugar	place	Este é o meu lugar preferido na cidade.	This is my favourite place in the city.	(m). Synonym: <strong>sítio</strong>. Phrase: <em>em lugar de</em> = instead of.			[sound:1000_lugar.mp3]	noun place uberA2
+A2_custom	o lugar	place	Este é o meu lugar preferido na cidade.	This is my favorite place in the city.	(m). Synonym: <strong>sítio</strong>. Phrase: <em>em lugar de</em> = instead of.			[sound:1000_lugar.mp3]	noun place uberA2
 A2_custom	a parte	part	Esta parte do livro é a mais interessante.	This part of the book is the most interesting.	(f). Phrase: <em>a maior parte</em> = the majority. <em>por toda a parte</em> = everywhere.			[sound:1000_parte.mp3]	noun uberA2
 A2_custom	a frente	front	Vou sentar-me na frente da sala.	I'll sit at the front of the room.	(f). Related to <strong>em frente</strong> (ahead) and <strong>à frente de</strong> (in front of).			[sound:1000_frente.mp3]	noun direction uberA2
 A2_custom	a volta	turn / lap / walk	Vamos dar uma volta pela cidade.	Let's take a walk around the city.	(f). Phrases: <em>dar uma volta</em> = to take a walk, <em>à volta de</em> = around, <em>de volta</em> = back.			[sound:1000_volta.mp3]	noun uberA2
@@ -806,7 +806,7 @@ A2_custom	a lista	list	Fiz uma lista de compras antes de sair.	I made a shopping
 A2_custom	a nota	grade / note	Tive uma boa nota no teste de português.	I got a good grade on the Portuguese test.	"(f). Means ""grade"" (school), ""note"" (music or message), and ""banknote""."			[sound:1000_nota.mp3]	noun school uberA2
 A2_custom	a ajuda	help	Preciso da tua ajuda com isto.	I need your help with this.	(f). Verb: <strong>ajudar</strong>.			[sound:1000_ajuda.mp3]	noun uberA2
 A2_custom	o cuidado	care / caution	Conduz com cuidado.	Drive with care.	(m). See also the interjection <strong>cuidado!</strong> = watch out!			[sound:1000_cuidado.mp3]	noun uberA2
-A2_custom	o favor	favour	Podes fazer-me um favor?	Can you do me a favour?	(m). Phrase: <em>por favor</em> = please. <em>a favor de</em> = in favour of.			[sound:1000_favor.mp3]	noun uberA2
+A2_custom	o favor	favor	Podes fazer-me um favor?	Can you do me a favor?	(m). Phrase: <em>por favor</em> = please. <em>a favor de</em> = in favor of.			[sound:1000_favor.mp3]	noun uberA2
 A2_custom	a pena	pity / shame	Que pena não poderes vir!	What a pity you can't come!	"(f). Most A2 use: <em>que pena!</em> = what a pity! Also means ""feather"" and ""penalty""."			[sound:1000_pena.mp3]	noun feeling uberA2
 A2_custom	a altura	height / point in time	Naquela altura, ainda morava em Coimbra.	At that time, I still lived in Coimbra.	(f). Means both physical height and a point in time.			[sound:1000_altura.mp3]	noun uberA2
 A2_custom	a universidade	university	Estudo na Universidade de Lisboa.	I study at the University of Lisbon.	(f). Short form: <strong>a uni</strong>.			[sound:1000_universidade.mp3]	noun school uberA2
@@ -827,7 +827,7 @@ A2_custom	existir	to exist	Existem muitas línguas no mundo.	Many languages exis
 A2_custom	cair	to fall	Tive cuidado para não cair no gelo.	I was careful not to fall on the ice.	"Irregular eu form: <strong>caio</strong>. Other forms have accents: <em>caí, caíste, caímos</em>.<br><br>present  : <span style=""color: blue;""><b>caio</b></span>, cais, cai, caímos, caem<br>simp past: caí, caíste, caiu, caímos, caíram<br>imperfect: caía, caías, caía, caíamos, caíam<br>imperativ: _, cai, <b>caia</b>, <b>caiamos</b>, <b>caiam</b>"			[sound:1000_cair.mp3]	verb motion uberA2
 A2_custom	ligar	to call (phone) / to connect / to turn on	Liguei-te ontem mas não atendeste.	I called you yesterday but you didn't answer.	Multiple senses: phone call (<em>ligar a alguém</em>), turn on a device, connect. Subjunctive: <em>ligue</em> (g → gu before e).<br><br>Regular.			[sound:1000_ligar.mp3]	verb uberA2
 A2_custom	aparecer	to appear / to show up	Ele apareceu na festa sem avisar.	He showed up at the party without warning.	"Orthographic <strong>c → ç</strong> before <em>o/a</em>. Same family as <strong>parecer</strong>.<br><br>present  : <span style=""color: blue;""><b>apareço</b></span>, apareces, aparece, aparecemos, aparecem<br>simp past: apareci, apareceste, apareceu, aparecemos, apareceram<br>imperfect: aparecia, aparecias, aparecia, aparecíamos, apareciam<br>imperativ: _, aparece, <b>apareça</b>, <b>apareçamos</b>, <b>apareçam</b>"			[sound:1000_aparecer.mp3]	verb uberA2
-A2_custom	descobrir	to discover / to find out	Descobri um café novo no centro.	I discovered a new café in the centre.	"Stem change: <em>o → u</em> in the eu form (<strong>descubro</strong>).<br><br>present  : <span style=""color: blue;""><b>descubro</b></span>, descobres, descobre, descobrimos, descobrem<br>simp past: descobri, descobriste, descobriu, descobrimos, descobriram<br>imperfect: descobria, descobrias, descobria, descobríamos, descobriam<br>imperativ: _, descobre, <b>descubra</b>, <b>descubramos</b>, <b>descubram</b>"			[sound:1000_descobrir.mp3]	verb uberA2
+A2_custom	descobrir	to discover / to find out	Descobri um café novo no centro.	I discovered a new café in the center.	"Stem change: <em>o → u</em> in the eu form (<strong>descubro</strong>).<br><br>present  : <span style=""color: blue;""><b>descubro</b></span>, descobres, descobre, descobrimos, descobrem<br>simp past: descobri, descobriste, descobriu, descobrimos, descobriram<br>imperfect: descobria, descobrias, descobria, descobríamos, descobriam<br>imperativ: _, descobre, <b>descubra</b>, <b>descubramos</b>, <b>descubram</b>"			[sound:1000_descobrir.mp3]	verb uberA2
 A2_custom	tirar	to take off / take out / take away	Tira os sapatos antes de entrar em casa.	Take off your shoes before entering the house.	Very versatile: remove clothing, take out of something, take a photo (<em>tirar uma foto</em>), get a degree (<em>tirar um curso</em>).<br><br>Regular.			[sound:1000_tirar.mp3]	verb uberA2
 A2_custom	tratar	to treat / to deal with	O médico tratou-o muito bem.	The doctor treated him very well.	With <strong>de</strong>: to take care of (<em>tratar de alguém</em>). With <strong>se</strong>: to be about (<em>trata-se de…</em> = it's about…).<br><br>Regular.			[sound:1000_tratar.mp3]	verb uberA2
 A2_custom	aceitar	to accept	Aceitei o convite para jantar.	I accepted the dinner invitation.	Regular.			[sound:1000_aceitar.mp3]	verb uberA2
@@ -852,7 +852,7 @@ A2_custom	geral	general	Em geral, prefiro chá a café.	In general, I prefer tea
 A2_custom	final	final	A prova final é na próxima semana.	The final test is next week.	Same form for m/f. Also a masculine noun: <em>o final do filme</em> = the end of the film.			[sound:1000_final.mp3]	adjective uberA2
 A2_custom	natural	natural	Prefiro sumos naturais aos industriais.	I prefer natural juices to industrial ones.	Same form for m/f. Plural: <strong>naturais</strong>.			[sound:1000_natural.mp3]	adjective uberA2
 A2_custom	seguinte	following / next	No dia seguinte, acordei muito cedo.	The next day, I woke up very early.	Same form for m/f. Used after the noun.			[sound:1000_seguinte.mp3]	adjective time uberA2
-A2_custom	seguro	safe / sure	Este bairro é muito seguro à noite.	This neighbourhood is very safe at night.	Feminine: <strong>segura</strong>. Also a masculine noun: <em>o seguro</em> = insurance.			[sound:1000_seguro.mp3]	adjective uberA2
+A2_custom	seguro	safe / sure	Este bairro é muito seguro à noite.	This neighborhood is very safe at night.	Feminine: <strong>segura</strong>. Also a masculine noun: <em>o seguro</em> = insurance.			[sound:1000_seguro.mp3]	adjective uberA2
 A2_custom	completo	complete / full	O hotel está completo este fim de semana.	The hotel is fully booked this weekend.	Feminine: <strong>completa</strong>.			[sound:1000_completo.mp3]	adjective uberA2
 A2_custom	principal	main	A rua principal da cidade tem muitas lojas.	The main street of the city has many shops.	Same form for m/f. Plural: <strong>principais</strong>.			[sound:1000_principal.mp3]	adjective uberA2
 A2_custom	normal	normal	É normal estar cansado depois de correr.	It's normal to be tired after running.	Same form for m/f. Plural: <strong>normais</strong>.			[sound:1000_normal.mp3]	adjective uberA2
@@ -860,7 +860,7 @@ A2_custom	grave	serious / grave	O acidente foi grave, mas todos estão bem.	The 
 A2_custom	capaz	capable	Ela é capaz de resolver qualquer problema.	She's capable of solving any problem.	Same form for m/f. Plural: <strong>capazes</strong>. Takes <strong>de</strong> + infinitive.			[sound:1000_capaz.mp3]	adjective uberA2
 A2_custom	tradicional	traditional	O bacalhau é um prato tradicional português.	Cod is a traditional Portuguese dish.	Same form for m/f. Plural: <strong>tradicionais</strong>.			[sound:1000_tradicional.mp3]	adjective uberA2
 A2_custom	nacional	national	O feriado nacional é no dia dez de junho.	The national holiday is on June 10th.	Same form for m/f. Plural: <strong>nacionais</strong>.			[sound:1000_nacional.mp3]	adjective uberA2
-A2_custom	internacional	international	O aeroporto internacional fica longe do centro.	The international airport is far from the centre.	Same form for m/f. Plural: <strong>internacionais</strong>.			[sound:1000_internacional.mp3]	adjective uberA2
+A2_custom	internacional	international	O aeroporto internacional fica longe do centro.	The international airport is far from the center.	Same form for m/f. Plural: <strong>internacionais</strong>.			[sound:1000_internacional.mp3]	adjective uberA2
 A2_custom	social	social	As redes sociais mudaram a comunicação.	Social media has changed communication.	Same form for m/f. Plural: <strong>sociais</strong>.			[sound:1000_social.mp3]	adjective uberA2
 A2_custom	total	total	O custo total da viagem foi duzentos euros.	The total cost of the trip was two hundred euros.	Same form for m/f. Plural: <strong>totais</strong>.			[sound:1000_total.mp3]	adjective uberA2
 A2_custom	único	unique / only	Este é o único supermercado aberto ao domingo.	This is the only supermarket open on Sundays.	Feminine: <strong>única</strong>.			[sound:1000_único.mp3]	adjective uberA2
