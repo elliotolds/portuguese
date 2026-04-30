@@ -1,0 +1,39 @@
+function boldSubSheetHeaders() {
+  const sheet = SpreadsheetApp
+    .getActiveSpreadsheet()
+    .getSheetByName("Sheet1"); // change to your tab name
+
+  if (!sheet) {
+    throw new Error("Sheet tab not found");
+  }
+
+  const range = sheet.getDataRange();
+  const values = range.getValues();
+
+  range.setFontWeight("normal");
+
+  for (let row = 0; row < values.length; row++) {
+    for (let col = 0; col < values[row].length; col++) {
+      const cell = values[row][col];
+      const prev = values[row][col - 1];
+      const next1 = values[row][col + 1];
+      const next2 = values[row][col + 2];
+
+      const hasText = cell !== "" && cell !== null;
+
+      const prevEmpty =
+        col === 0 ||
+        prev === "" ||
+        prev === null ||
+        prev === undefined;
+
+      const nextTwoEmpty =
+        (next1 === "" || next1 === null || next1 === undefined) &&
+        (next2 === "" || next2 === null || next2 === undefined);
+
+      if (hasText && prevEmpty && nextTwoEmpty) {
+        sheet.getRange(row + 1, col + 1).setFontWeight("bold");
+      }
+    }
+  }
+}
