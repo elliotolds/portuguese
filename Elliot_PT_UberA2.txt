@@ -1,0 +1,874 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#tags column:11
+c,NixU=XyE	A2_custom	através	through / via	Soube da notícia através do jornal.	I heard the news through the newspaper.	Usually with <strong>de</strong>: <strong>através de</strong>.			[sound:1000_através.mp3]	glue preposition
+bXurvHW,d{	A2_custom	no entanto	however	Está a chover; no entanto, vou sair.	It's raining; however, I'm going out.					conjunction glue
+H,oY)Lsb3L	A2_custom	já agora	by the way	Já agora, podes trazer pão?	By the way, can you bring bread?	"or, ""while we're at it"""				phrase
+przhR!KsgW	A2_custom	os	the (m. pl.)	Os meninos estão na escola até às três.	The boys are at school until three.	Masculine plural. Singular: <strong>o</strong>. Also direct-object pronoun (I see them: <strong>vejo-os</strong>).				article glue
+kMb<kYk*(v	A2_custom	as (PT)	the (f. pl.)	As minhas irmãs estão a ler no jardim.	My sisters are reading in the garden.	Feminine plural. Singular: <strong>a</strong>.				article glue
+q8ZK0yzkA;	A2_custom	uns	some (m. pl.)	Comprei uns livros na feira ontem.	I bought some books at the market yesterday.	"Feminine: <strong>umas</strong>. Means ""a few / some""."				article glue
+"_23#{]*DP"	A2_custom	umas	some (f. pl.)	Vi umas amigas antigas na festa.	I saw some old friends at the party.	Masculine: <strong>uns</strong>.<br>More casual than algumas.&nbsp;				article glue
+EAF)pTflbz	A2_custom	como	how	Como vais para o trabalho todos os dias?	How do you get to work every day?	"Also means ""as / like"" — that usage has its own card."			[sound:1000_como.mp3]	adverb glue question
+pXho*lZPj`	A2_custom	dum	of/from a (m)	Preciso dum café para acordar.	I need a coffee to wake up.	<strong>de + um</strong>, colloquial. Standard written: <strong>de um</strong>. Similar: <strong>duma, num, numa</strong>.				contraction glue preposition
+Cjs1lKBGZX	A2_custom	me (PT)	me (object)	Podes ajudar-me com isto, por favor?	Can you help me with this, please?	Direct and indirect object; also reflexive (<strong>lavo-me</strong>). Enclitic by default; proclitic after <strong>não, que, se, quando</strong>.				glue grammar pronoun
+K3E]Bxb_ND	A2_custom	nos	us / ourselves	Convidaram-nos para jantar em casa deles.	They invited us to dinner at their place.	Direct/indirect/reflexive. Also the contraction <strong>em + os</strong> (same spelling, different word).				glue grammar pronoun
+j|$j9A7wc/	A2_custom	vos	you all (object)	Vou ver-vos amanhã à noite.	I'll see you all tomorrow evening.	Plural informal. DO/IO/reflexive.				glue grammar pronoun
+BO,Ii]oOl0	A2_custom	lhes	to them / to you all	Comprei-lhes um presente para o Natal.	I bought them a gift for Christmas.	Plural indirect object. Singular: <strong>lhe</strong>.				glue grammar pronoun
+s/=lJn37TP	A2_custom	mim	me (after preposition)	Este café é para mim.	This coffee is for me.	Used after prepositions (<strong>para, de, sem, por</strong>). Exception with <strong>com</strong>: <strong>comigo</strong>.				glue grammar pronoun
+u|H+EUtuee	A2_custom	ti	you (inf., after preposition)	Trouxe este livro para ti.	I brought this book for you.	After prepositions. Exception: <strong>contigo</strong>.				glue grammar pronoun
+x+sEnVs]xS	A2_custom	si	himself/herself/yourself (after prep)	Ele comprou um carro para si próprio.	He bought a car for himself.	After prepositions — reflexive or formal. Exception: <strong>consigo</strong>.				glue grammar pronoun
+Gnp(:&2*wC	A2_custom	consigo	with him/her/you (formal)	O professor levou os livros consigo.	The teacher took the books with him.	<strong>com + si</strong>. Reflexive or formal-you.				glue grammar pronoun
+"Q#am)8PL/("	A2_custom	connosco	with us	Os nossos primos vêm connosco ao Porto.	Our cousins are coming with us to Porto.	<strong>com + nós</strong>. EP spelling; BR uses <strong>conosco</strong>.				glue grammar pronoun
+ky{r;Cg*hd	A2_custom	convosco	with you all	Fico convosco até ao fim da festa.	I'll stay with you all until the end of the party.	<strong>com + vós</strong>.				glue grammar pronoun
+imwTqZ<,e?	A2_custom	ok (PT)	OK (EN)	Está bem, faço isso amanhã de manhã.	OK, I'll do that tomorrow morning.	Informal. Standard PT: <strong>está bem</strong>.				glue interjection
+d=fEyjR];H	A2_custom	zero	zero	O termómetro marca zero graus.	The thermometer reads zero degrees.					number numeral
+Lk3ze|t*>*	A2_custom	nove	nine	Tenho nove livros na minha mala.	I have nine books in my bag.					number numeral
+gEHt,4NDHy	A2_custom	onze	eleven	O jogo começa às onze da manhã.	The game starts at eleven in the morning.					number numeral
+K}kJ$::LS.	A2_custom	doze	twelve	Há doze meses no ano.	There are twelve months in the year.					number numeral
+BF>7+Mqa>P	A2_custom	treze	thirteen	A minha prima faz treze anos hoje.	My cousin turns thirteen today.					number numeral
+r?x??yAm,1	A2_custom	catorze	fourteen	O autocarro passa de catorze em catorze minutos.	The bus comes every fourteen minutes.	BR often uses <strong>quatorze</strong>.				number numeral
+zyU-s}95Zx	A2_custom	quinze	fifteen	Falta um quarto de hora — quinze minutos.	A quarter of an hour left — fifteen minutes.					number numeral
+N|k.]|.}qI	A2_custom	dezasseis	sixteen	O meu irmão tem dezasseis anos.	My brother is sixteen.	BR: <strong>dezesseis</strong>.				number numeral
+eqGW@Zd(h,	A2_custom	dezassete	seventeen	Há dezassete alunos na turma.	There are seventeen students in the class.	BR: <strong>dezessete</strong>.				number numeral
+xU.7]W0f/x	A2_custom	dezoito	eighteen	Com dezoito anos, podes votar.	At eighteen, you can vote.					number numeral
+vTd}G<|w,;	A2_custom	dezanove	nineteen	O livro tem dezanove capítulos.	The book has nineteen chapters.	BR: <strong>dezenove</strong>.				number numeral
+Eg=5=M>TLf	A2_custom	vinte	twenty	Vinte euros chegam para o almoço.	Twenty euros is enough for lunch.					number numeral
+ET[c/JekMR	A2_custom	trinta	thirty	Trinta dias tem setembro.	September has thirty days.					number numeral
+oR2uaL_K%0	A2_custom	quarenta	forty	O meu pai tem quarenta e cinco anos.	My father is forty-five.	Connector: <strong>e</strong> between tens and units.				number numeral
+xt[%V{,X&D	A2_custom	cinquenta	fifty	A reunião dura cinquenta minutos.	The meeting lasts fifty minutes.					number numeral
+On&GbI0cp}	A2_custom	sessenta	sixty	Uma hora tem sessenta minutos.	An hour has sixty minutes.					number numeral
+tf8KJe`gYV	A2_custom	setenta	seventy	O meu avô tem setenta anos.	My grandfather is seventy.					number numeral
+N2U@>rTk<P	A2_custom	oitenta	eighty	A viagem custa oitenta euros.	The trip costs eighty euros.					number numeral
+Qkp}wp-k99	A2_custom	noventa	ninety	Ele trabalhou noventa horas esta semana.	He worked ninety hours this week.					number numeral
+Fnu<c_SFf4	A2_custom	cem	hundred	Tenho cem euros no bolso.	I have a hundred euros in my pocket.	<strong>Cem</strong> exactly 100; <strong>cento</strong> for 101+ (cento e um).				number numeral
+x`EUPNubCZ	A2_custom	duzentos	two hundred	O hotel custa duzentos euros por noite.	The hotel costs two hundred euros a night.	Feminine: <strong>duzentas</strong>.				number numeral
+HNklRrT&}a	A2_custom	trezentos	three hundred	O voo demora trezentos minutos.	The flight takes three hundred minutes.	Feminine: <strong>trezentas</strong>.				number numeral
+K3Z0_,?Qzs	A2_custom	quatrocentos	four hundred	Há quatrocentos alunos nesta escola.	There are four hundred students at this school.	Feminine: <strong>quatrocentas</strong>.				number numeral
+r4*x7uJA~v	A2_custom	quinhentos	five hundred	Percorri quinhentos quilómetros ontem.	I drove five hundred kilometres yesterday.	Feminine: <strong>quinhentas</strong>.				number numeral
+B`ok62W70[	A2_custom	seiscentos	six hundred	O prédio tem seiscentos anos.	The building is six hundred years old.	Feminine: <strong>seiscentas</strong>.				number numeral
+I(w[VLodAn	A2_custom	setecentos	seven hundred	O livro tem setecentas páginas.	The book has seven hundred pages.	Feminine: <strong>setecentas</strong>.				number numeral
+D&DSRfVmGs	A2_custom	oitocentos	eight hundred	A biblioteca tem oitocentos livros.	The library has eight hundred books.	Feminine: <strong>oitocentas</strong>.				number numeral
+Kn7Tkk$QTp	A2_custom	novecentos	nine hundred	O quadro foi pintado há novecentos anos.	The painting was done nine hundred years ago.	Feminine: <strong>novecentas</strong>.				number numeral
+zl^OTh/NS/	A2_custom	quinto	fifth	Este é o quinto livro que leio este ano.	This is the fifth book I've read this year.	Feminine: <strong>quinta</strong>.				numeral ordinal
+JJ<^tq;8N]	A2_custom	sexto	sixth	Junho é o sexto mês.	June is the sixth month.	Feminine: <strong>sexta</strong>.				numeral ordinal
+HrG$:<%q93	A2_custom	sétimo	seventh	Vivo no sétimo andar de um prédio.	I live on the seventh floor of a building.	Feminine: <strong>sétima</strong>.				numeral ordinal
+AS+h/6UJ{n	A2_custom	oitavo	eighth	Agosto é o oitavo mês do ano.	August is the eighth month of the year.	Feminine: <strong>oitava</strong>.				numeral ordinal
+v4Ygo&Q^-a	A2_custom	nono	ninth	O escritório fica no nono andar.	The office is on the ninth floor.	Feminine: <strong>nona</strong>.				numeral ordinal
+"FgJ#oIw7Ly"	A2_custom	décimo	tenth	Tirei o décimo lugar na competição.	I came tenth in the competition.	Feminine: <strong>décima</strong>. Compound: <strong>décimo primeiro</strong> (11th).				numeral ordinal
+d>*F6UAPOw	A2_custom	a segunda-feira	Monday	Na segunda-feira começo um emprego novo.	On Monday I start a new job.	Often shortened to <strong>segunda</strong>.				day noun
+ET1Ov2aU2E	A2_custom	a terça-feira	Tuesday	Terça-feira vou ao médico de manhã.	On Tuesday I'm going to the doctor in the morning.	Often shortened to <strong>terça</strong>.				day noun
+"jT~#o:~a+T"	A2_custom	a quarta-feira	Wednesday	Tenho aulas à quarta-feira à tarde.	I have classes on Wednesday afternoons.	Often shortened to <strong>quarta</strong>.				day noun
+sH9$$;p:r$	A2_custom	a quinta-feira	Thursday	Vamos jantar fora na quinta-feira.	We're eating out on Thursday.	Often shortened to <strong>quinta</strong>.				day noun
+cy&Np]4+xm	A2_custom	a sexta-feira	Friday	Sexta-feira é o meu dia preferido.	Friday is my favorite day.	Often shortened to <strong>sexta</strong>.				day noun
+"tAB{x6NOU#"	A2_custom	o sábado	Saturday	Aos sábados faço compras no mercado.	On Saturdays I shop at the market.	No <em>-feira</em> suffix. Masculine article: <strong>no sábado</strong> (m).			[sound:1000_sábado.mp3]	day noun
+Pv4vM_f&Ca	A2_custom	o domingo	Sunday	Ao domingo almoço com a família.	On Sundays I have lunch with my family.	No <em>-feira</em> suffix.			[sound:1000_domingo.mp3]	day noun
+k|m*g$qQKB	A2_custom	o fim de semana	weekend	Este fim de semana vou à praia.	This weekend I'm going to the beach.	Article + gender: <strong>o fim de semana</strong> (m).				day noun
+"Pm@?`.YM#]"	A2_custom	olá	hello / hi	Olá, como estás hoje?	Hi, how are you today?	Universal greeting, any time of day.				glue greeting interjection
+h@5lToD?AY	A2_custom	bom dia	good morning	Bom dia! Queria um café, por favor.	Good morning! I'd like a coffee, please.	Used until around midday.				greeting phrase
+I-CSUHovyR	A2_custom	boa tarde	good afternoon	Boa tarde, é aqui a farmácia?	Good afternoon, is this the pharmacy?	From about noon to sunset.				greeting phrase
+x^zc5Vx;[~	A2_custom	boa noite	good evening / night	Boa noite, até amanhã!	Good night, see you tomorrow!	After sunset, for both arrival and farewell.				greeting phrase
+HBFDd}]`:C	A2_custom	adeus	goodbye	Adeus, tenham uma boa viagem.	Goodbye, have a good trip.	More formal than <strong>tchau</strong>.				glue greeting interjection
+q_h+/TJxP9	A2_custom	tchau	bye	Tchau, até amanhã!	Bye, see you tomorrow!	Informal. From Italian <em>ciao</em>.				glue greeting interjection
+A!jO;t6l4H	A2_custom	até logo	see you later	Já saio do trabalho — até logo!	I'm leaving work now — see you later!					greeting phrase
+uqEG|(VG8D	A2_custom	até já	see you soon	Vou só à loja, até já!	I'm just going to the shop, see you soon!	Shorter time than <strong>até logo</strong>.				greeting phrase
+hhE:6Spzn-	A2_custom	até amanhã	see you tomorrow	Bom descanso, até amanhã!	Rest well, see you tomorrow!					greeting phrase
+wo!HdXr[N`	A2_custom	obrigado	thank you (m)	Muito obrigado pela ajuda.	Thanks a lot for the help.	Feminine speaker says <strong>obrigada</strong>. Matches the speaker's gender, not the listener's.				glue greeting interjection
+KoV_ucU5R^	A2_custom	por favor	please	Uma água, por favor.	A water, please.					greeting phrase
+ggX.1BEti?	A2_custom	desculpa	sorry (inf)	Desculpa pelo atraso!	Sorry for being late!	Formal: <strong>desculpe</strong>. Also the verb <em>desculpar</em> (to excuse).				glue greeting interjection
+eO+05%:Xj]	A2_custom	com licença	excuse me	Com licença, posso passar?	Excuse me, may I come through?	Used to ask permission to pass, enter, or interrupt.				greeting phrase
+"Png?uu#ytr"	A2_custom	de nada	you're welcome	— Obrigado! — De nada.	— Thanks! — You're welcome.	"Literally ""of nothing""."				greeting phrase
+Q&<:f@WFDE	A2_custom	como estás	how are you (inf)	Olá! Como estás?	Hi! How are you?	Formal: <strong>como está</strong>. Plural: <strong>como estão</strong>.				glue greeting phrase
+NgQwS9pgKa	A2_custom	tudo bem	all good / how's it going	— Tudo bem? — Tudo ótimo, obrigado.	— How's it going? — All great, thanks.	Used both as greeting and reply.				greeting phrase
+m`bDevj+|/	A2_custom	prazer em conhecer-te	pleased to meet you (inf)	Chamo-me Ana. Prazer em conhecer-te!	My name is Ana. Pleased to meet you!	Formal: <strong>prazer em conhecê-lo / conhecê-la</strong>. Short form: just <strong>muito prazer</strong>.				greeting phrase
+sY&)lUhcGS	A2_custom	bem-vindo	welcome (m)	Bem-vindo a Lisboa!	Welcome to Lisbon!	Feminine: <strong>bem-vinda</strong>. Plural: <strong>bem-vindos/-as</strong>.				adjective glue greeting
+t//Z%o-[!v	A2_custom	à esquerda	to/on the left	A farmácia fica à esquerda.	The pharmacy is on the left.					direction phrase
+PzLNCQ{Q%6	A2_custom	à direita	to/on the right	Vire à direita no semáforo.	Turn right at the traffic light.					direction phrase
+MNt5bF+@62	A2_custom	em frente	straight ahead	Siga em frente durante cinco minutos.	Go straight ahead for five minutes.					direction phrase
+"lgI{dIo#`_"	A2_custom	sempre em frente	keep going straight	Sempre em frente até à praça.	Keep going straight to the square.	Emphatic form of <strong>em frente</strong>.				direction phrase
+C3C@*6t)|Q	A2_custom	virar à esquerda	turn left	No próximo cruzamento, vire à esquerda.	At the next junction, turn left.					direction phrase
+CgvL5NAdV[	A2_custom	virar à direita	turn right	Vire à direita na primeira rua.	Turn right at the first street.					direction phrase
+C.FRMFUpn9	A2_custom	atravessar	to cross	Para ir ao parque, tem de atravessar a rua.	To get to the park, you have to cross the street.	Regular.				direction verb
+"ym]JrXT;#v"	A2_custom	atravessar a rua	to cross the street	Atravessa a rua com cuidado.	Cross the street carefully.					direction phrase
+P4_wsM&$.{	A2_custom	em frente de	opposite / in front of	O café fica em frente do hotel.	The café is opposite the hotel.					direction phrase
+bx-4ZWw?%b	A2_custom	na esquina	on the corner	A padaria fica na esquina da rua.	The bakery is on the corner of the street.					direction phrase
+OqJFGf{ln^	A2_custom	a primeira rua	the first street	Vira à direita na primeira rua.	Turn right at the first street.					direction phrase
+09q*Hi7?a	A2_custom	a segunda rua	the second street	Depois vira à esquerda na segunda rua.	Then turn left at the second street.					direction phrase
+AN,/8P<XhP	A2_custom	o cruzamento	the crossroads / junction	No cruzamento, siga em frente.	At the junction, go straight ahead.	Masculine noun: <strong>o cruzamento</strong>.				direction noun
+"s-a=`$8>E#"	A2_custom	o semáforo	traffic light	Pare no semáforo vermelho.	Stop at the red traffic light.	Masculine noun.				direction noun
+dD]ltz0};Q	A2_custom	a paragem de autocarro	the bus stop	A paragem de autocarro fica ali.	The bus stop is over there.	EP <strong>paragem</strong>; BR <strong>ponto</strong>.				direction noun
+Ed56cd`Ol=	A2_custom	o mapa	the map	Tens o mapa da cidade?	Do you have the city map?	Masculine despite ending in <em>-a</em>.				direction noun
+eJg:8>`cVx	A2_custom	onde fica	where is (located)	Onde fica o Museu do Fado?	Where is the Fado Museum?	"Literally ""where stays"". <strong>Ficar</strong> is used for location."				phrase question
+JDLk=(Q&Ap	A2_custom	como vou para	how do I get to	Como vou para o aeroporto?	How do I get to the airport?	Standard way to ask directions.				phrase question
+Pj?XmU*VZ(	A2_custom	amanhã	tomorrow	Amanhã começamos um projeto novo.	Tomorrow we start a new project.	Day after: <strong>depois de amanhã</strong>.				adverb glue Time
+PGB->IpG?0	A2_custom	cedo	early	Acordo cedo todos os dias.	I wake up early every day.					adverb glue Time
+si9?.iV8du	A2_custom	demasiado	too much	Bebi demasiado café esta manhã.	I drank too much coffee this morning.	Also adjective agreeing with noun: <em>demasiada água</em>.				adverb glue
+G.7<j/S9ba	A2_custom	cá	here (general area)	Cá em Portugal, jantamos tarde.	Here in Portugal, we have dinner late.	Broader than <strong>aqui</strong>, but similar.<strong>&nbsp;</strong>				adverb direction glue
+f|7{06[zu~	A2_custom	às vezes	sometimes	Às vezes vou correr à noite.	Sometimes I go running at night.					glue phrase Time
+o<FL=:XM)Q	A2_custom	muitas vezes	often	Muitas vezes janto fora ao fim de semana.	I often eat out on weekends.					glue phrase Time
+u:7)EWWY/Y	A2_custom	poucas vezes	rarely	Poucas vezes chego tarde ao trabalho.	I rarely arrive late to work.					glue phrase Time
+ygyRB=Ob0L	A2_custom	normalmente	normally	Normalmente durmo sete horas por noite.	I normally sleep seven hours a night.					adverb glue Time
+QBsWO@?`Uq	A2_custom	geralmente	generally	Geralmente chego a casa às seis.	I generally get home at six.					adverb glue Time
+fZfL;4|t!x	A2_custom	raramente	rarely	Raramente bebo refrigerantes.	I rarely drink soft drinks.					adverb glue Time
+GJoa@S+A(=	A2_custom	longe	far	A minha família mora longe.	My family lives far away.	With object: <strong>longe de</strong>.				adverb direction glue
+B_rG,z:pd6	A2_custom	em cima	on top / above	Pus o livro em cima da mesa.	I put the book on top of the table.	With object: <strong>em cima de</strong>.				direction glue phrase
+CQE)%vveA,	A2_custom	em baixo	below / underneath	O gato está em baixo da cadeira.	The cat is under the chair.	With object: <strong>em baixo de</strong> / <strong>debaixo de</strong>.				direction glue phrase
+mq.V=V|Jww	A2_custom	à frente	in front	Sentou-se à frente na sala.	He sat in front in the room.	With object: <strong>à frente de</strong>.				direction glue phrase
+wYEyQSb^vz	A2_custom	atrás	behind	Deixei a mala atrás da porta.	I left the bag behind the door.	With object: <strong>atrás de</strong>.				adverb direction glue
+"xI5H1?W#5]"	A2_custom	devagar	slowly	Fala mais devagar, por favor.	Speak more slowly, please.					adverb
+t|gvyd0cFz	A2_custom	depressa	quickly	Acaba o trabalho depressa.	Finish the work quickly.					adverb
+ro9k^uHvdB	A2_custom	rapidamente	quickly / rapidly	Os dias passam rapidamente.	The days go by quickly.	Synonym of <strong>depressa</strong>, more formal.				adverb
+"q#i~ru9+~P"	A2_custom	juntos	together	Fomos ao cinema juntos.	We went to the cinema together.	Feminine: <strong>juntas</strong>. Only plural.				adverb
+IE_,x}<]1U	A2_custom	sozinho	alone	Hoje janto sozinho em casa.	Today I'm eating dinner alone at home.	Feminine: <strong>sozinha</strong>.				adjective
+n}Gt1IH3u,	A2_custom	melhor	better / best	Este restaurante é melhor do que o outro.	This restaurant is better than the other.	Comparative and superlative of <strong>bom</strong>.				adverb glue
+dv|4*v_!z7	A2_custom	pior	worse / worst	O tempo está pior hoje.	The weather is worse today.	Comparative and superlative of <strong>mau</strong>.				adverb glue
+uwKToh-GAc	A2_custom	provavelmente	probably	Provavelmente vai chover amanhã.	It will probably rain tomorrow.					adverb glue
+I6z>A%Xu[G	A2_custom	daqui	from here / from now	Daqui a uma hora, chego aí.	An hour from now, I'll be there.	<strong>Daqui a X</strong> = X from now. <strong>Daqui</strong> alone = from here.				adverb glue Time
+w]l+}t4~V{	A2_custom	a pessoa	person	Aquela pessoa é muito simpática.	That person is very nice.	Always feminine, regardless of the person's gender.			[sound:1000_pessoa.mp3]	family noun
+"A=@m?A#$0<"	A2_custom	a família	family	A minha família mora em Coimbra.	My family lives in Coimbra.				[sound:1000_família.mp3]	family noun
+G{LqTCSz-R	A2_custom	o pai	father	O meu pai é médico.	My father is a doctor.	"Plural <strong>pais</strong> can mean ""parents"" (father + mother)."			[sound:1000_pai.mp3]	family noun
+k;U>6vTQnQ	A2_custom	a mãe	mother	A minha mãe faz o melhor bolo do mundo.	My mother makes the best cake in the world.				[sound:1000_mãe.mp3]	family noun
+b(*PPY>MjZ	A2_custom	o filho	son / child	O meu filho tem cinco anos.	My son is five.	Feminine: <strong>filha</strong> (daughter). Plural <strong>filhos</strong> = children.			[sound:1000_filho.mp3]	family noun
+f@@|;VKSn}	A2_custom	o irmão	brother	O meu irmão mais velho mora em Berlim.	My older brother lives in Berlin.	"Feminine: <strong>irmã</strong> (sister). Plural: <strong style=""color: red;"">os irmãos</strong> — uses the rare <strong>-ão → -ãos</strong> pattern. <br><br><strong>Important:</strong> <em>os irmãos</em> can mean (a) <em>brothers</em> — an all-male group — or (b) <em>siblings</em> — a mixed-gender group (brothers and sisters). Portuguese uses the masculine plural as the default when the group is mixed. For an all-female group, use <strong>as irmãs</strong>."				family noun
+gVJ~e]N1OU	A2_custom	o amigo	friend	Tenho um amigo brasileiro muito simpático.	I have a very nice Brazilian friend.	Feminine: <strong>amiga</strong>.			[sound:1000_amigo.mp3]	family noun
+Kyd.Wz>*s{	A2_custom	o homem	man	Aquele homem é o meu professor.	That man is my teacher.	Plural: <strong>homens</strong>. (m)			[sound:1000_homem.mp3]	family noun
+k4ML2R@a:6	A2_custom	a mulher	woman / wife	A mulher dele chama-se Ana.	His wife's name is Ana.	"Can mean ""woman"" or ""wife"" depending on context. (f)"			[sound:1000_mulher.mp3]	family noun
+"b1y^_J(#)C"	A2_custom	a criança	child	Há muitas crianças no parque hoje.	There are many children in the park today.	Always feminine, even for boys: <em>a criança</em>.			[sound:1000_criança.mp3]	family noun
+"s>(#~$J)Ol"	A2_custom	o senhor	sir / gentleman / Mr.	Bom dia, senhor.	Good morning, sir.	Feminine: <strong>senhora</strong> (ma'am / Mrs.). Polite address.				family noun
+j>?++&jrR~	A2_custom	o/a colega	colleague / classmate	Os meus colegas são todos muito simpáticos.	My colleagues are all very nice.	Same form for m/f: <em>o colega, a colega</em>.				noun work
+HA~Cev=xOG	A2_custom	o avô	grandfather	O meu avô tem setenta e cinco anos.	My grandfather is seventy-five.	(m). Note: <em>avô</em> has a circumflex (closed /o/). Plural <strong>avós</strong> = grandparents. Feminine <strong>avó</strong> (with acute accent) has its own card.				family noun
+kSb)LGS265	A2_custom	o tio	uncle	O meu tio vive no Porto.	My uncle lives in Porto.	Feminine: <strong>tia</strong> (aunt). Plural <strong>tios</strong> = aunt and uncle.				family noun
+h9R@F%uD6e	A2_custom	o primo	cousin	Tenho muitos primos no Brasil.	I have many cousins in Brazil.	Feminine: <strong>prima</strong>.				family noun
+OwWP<HpjJd	A2_custom	o neto	grandson	O meu neto nasceu a semana passada.	My grandson was born last week.	Feminine: <strong>neta</strong>. Plural <strong>netos</strong> = grandchildren.				family noun
+woLLN.<vvd	A2_custom	o marido	husband	O marido da Ana é engenheiro.	Ana's husband is an engineer.	(m)				family noun
+i.oFR_DC7w	A2_custom	a esposa	wife	A esposa dele é minha amiga.	His wife is my friend.	(f) Alternative: <strong>mulher</strong>.				family noun
+D)e?hf9;rc	A2_custom	o namorado	boyfriend	O meu namorado chama-se João.	My boyfriend's name is João.	Feminine: <strong>namorada</strong> (girlfriend).				family noun
+x;~SaA0&$m	A2_custom	o bebé	baby	O bebé dorme a maior parte do dia.	The baby sleeps most of the day.	(m) BR: <strong>bebê</strong>.				family noun
+P($0),Rxq]	A2_custom	o nome	name	O meu nome é Ana, prazer em conhecer-te.	My name is Ana, pleased to meet you.	(m) Surname: <strong>apelido</strong>.			[sound:1000_nome.mp3]	noun
+F:1HsS_A[d	A2_custom	a idade	age	Qual é a tua idade?	What's your age?	(f) More common: <em>Quantos anos tens?</em>			[sound:1000_idade.mp3]	noun
+"v|>ybFLJS#"	A2_custom	a morada	address	Podes dar-me a tua morada, por favor?	Can you give me your address, please?	(f) EP word; BR: <strong>endereço</strong>.				noun
+y7&+m~*8Nh	A2_custom	o número	number	Qual é o teu número de telemóvel?	What's your mobile number?	(m)			[sound:1000_número.mp3]	noun
+"oOw#~!1@8A"	A2_custom	a profissão	profession / job	Qual é a sua profissão?	What's your profession?	(f)				noun work
+gtX;2[zi>t	A2_custom	a nacionalidade	nationality	A minha nacionalidade é portuguesa.	My nationality is Portuguese.	(f)				nationality noun
+QlTsF(qX`n	A2_custom	a língua	language / tongue	Falo três línguas: português, inglês e francês.	I speak three languages: Portuguese, English, and French.	"Also means ""tongue"" (body part)."				noun
+jbobmnf7m]	A2_custom	o trabalho	work / job	Começo o trabalho novo na próxima segunda-feira.	I start my new job next Monday.	(m) Verb: <strong>trabalhar</strong>.			[sound:1000_trabalho.mp3]	noun work
+N[KH+s^J}^	A2_custom	o emprego	job / employment	Arranjei um emprego no centro da cidade.	I got a job in the city center.	(m)			[sound:1000_emprego.mp3]	noun work
+qXG~>7`LHc	A2_custom	a empresa	company	Trabalho numa empresa pequena.	I work in a small company.	(f)			[sound:1000_empresa.mp3]	noun work
+"H[;Z#+e/@B"	A2_custom	a reunião	meeting	A reunião é às dez da manhã.	The meeting is at ten in the morning.	(f)			[sound:1000_reunião.mp3]	noun work
+"C#SW[S9xax"	A2_custom	a escola	school	Os meus filhos andam na mesma escola.	My children go to the same school.	(f)			[sound:1000_escola.mp3]	noun school
+GaKq2ih[)H	A2_custom	a aula	class / lesson	A aula de português começa às seis.	The Portuguese class starts at six.	(f)			[sound:1000_aula.mp3]	noun school
+l}qGqmQ,4;	A2_custom	o professor	teacher	O professor de matemática é muito bom.	The maths teacher is very good.	Feminine: <strong>professora</strong>.			[sound:1000_professor.mp3]	noun school
+g=rV=TIu^x	A2_custom	o aluno	student	Os alunos estão a estudar para o exame.	The students are studying for the exam.	Feminine: <strong>aluna</strong>.			[sound:1000_aluno.mp3]	noun school
+s-dRx?t,_i	A2_custom	a casa	house / home	A minha casa fica perto da praia.	My house is near the beach.	(f)			[sound:1000_casa.mp3]	home noun
+dCPpEUK7W^	A2_custom	o apartamento	apartment / flat	Moro num apartamento no segundo andar.	I live in an apartment on the second floor.	(m)				home noun
+g{7N_9h+w!	A2_custom	o quarto	bedroom / room	O meu quarto é pequeno mas confortável.	My bedroom is small but comfortable.	(m). (The ordinal <strong>quarto</strong> = fourth has its own card.)			[sound:1000_quarto.mp3]	home noun
+f8u=?AIWPz	A2_custom	a sala	living room	Temos duas televisões: uma na sala e outra no quarto.	We have two TVs: one in the living room and another in the bedroom.	(f) Full form: <em>sala de estar</em>.			[sound:1000_sala.mp3]	home noun
+o6EqAy/=wV	A2_custom	a cozinha	kitchen	Passo muito tempo na cozinha aos fins de semana.	I spend a lot of time in the kitchen on weekends.	(f) Also the verb <em>cozinhar</em> (to cook).				home noun
+m5tO?Z1)%{	A2_custom	a casa de banho	bathroom	A casa de banho é ao fundo do corredor.	The bathroom is at the end of the hallway.	(f) EP; BR: <strong>banheiro</strong>.				home noun
+pqUa)NBw8p	A2_custom	a porta	door	Fecha a porta quando saíres, por favor.	Close the door when you leave, please.	(f)			[sound:1000_porta.mp3]	home noun
+wp-N8QwJ$p	A2_custom	a janela	window	Abri a janela porque estava muito calor.	I opened the window because it was very hot.	(f)				home noun
+u0J^7cDjG;	A2_custom	a mesa	table	O jantar está pronto, vem para a mesa.	Dinner's ready, come to the table.	(f)				home noun
+u~ZO*.5qL1	A2_custom	a cadeira	chair	Esta cadeira é muito confortável.	This chair is very comfortable.	(f)				home noun
+omef:@N`mU	A2_custom	a cama	bed	A minha cama é grande e confortável.	My bed is big and comfortable.	(f)				home noun
+vJT&[@L??A	A2_custom	o corpo	body	Preciso de exercitar o corpo mais vezes.	I need to exercise my body more often.	(m)			[sound:1000_corpo.mp3]	body noun
+M{ob1QI6U.	A2_custom	a cabeça	head	Estou com dores de cabeça hoje.	I have a headache today.	(f) Common idiom: <em>ter dores de cabeça</em>.				body noun
+xa@8b8`ER?	A2_custom	a mão	hand	Lava as mãos antes de comer.	Wash your hands before eating.	"(f), despite ending in <em>-ão</em>. Irregular plural: <strong style=""color: red;"">as mãos</strong> — uses the rarest -ão pattern <strong>-ão → -ãos</strong> (keep the -o, add -s). Same family: <em>irmão → irmãos, órfão → órfãos</em>."			[sound:1000_mão.mp3]	body noun
+lFiY)Fx/@^	A2_custom	o pé	foot	Tenho os pés cansados depois de tanto andar.	My feet are tired after walking so much.	(m) <em>A pé</em> = on foot.				body noun
+"C6wpt[A-#G"	A2_custom	o braço	arm	Quebrou o braço a esquiar.	He broke his arm skiing.	(m)				body noun
+"HySSU(.(#K"	A2_custom	a perna	leg	Magoei a perna a correr.	I hurt my leg running.	(f)				body noun
+OI_ee9c`Ha	A2_custom	o olho	eye	Ela tem os olhos verdes.	She has green eyes.	(m)				body noun
+vHq1v*mc/	A2_custom	a boca	mouth	Não fales com a boca cheia.	Don't speak with your mouth full.	(f)				body noun
+"I%#*PXPlfN"	A2_custom	o dente	tooth	Tenho que ir ao dentista — dói-me um dente.	I have to go to the dentist — one of my teeth hurts.	(m) Plural: <strong>dentes</strong>.				body noun
+Fg-}+F3{U/	A2_custom	o cabelo	hair	Cortei o cabelo ontem.	I got a haircut yesterday.	(m)				body noun
+z8N~kNonSj	A2_custom	a cara	face	Ele tem uma cara simpática.	He has a friendly face.	(f)				body noun
+dHCdFzPtX`	A2_custom	o nariz	nose	Estou constipada — o nariz está a escorrer.	I have a cold — my nose is running.	(m)				body noun
+wXP61pI>U:	A2_custom	a orelha	ear (outer)	Ela tem as orelhas pequenas.	She has small ears.	(f) The outer ear.				body noun
+x@?IC..;Wb	A2_custom	o ouvido	ear (inner / hearing)	Dói-me o ouvido esquerdo.	My left ear hurts.	(m) The inner ear / sense of hearing. Distinct from <strong>orelha</strong> (outer ear).				body noun
+n8l?}Am8Pd	A2_custom	o pescoço	neck	O pescoço dói-me quando durmo mal.	My neck hurts when I sleep badly.	(m)				body noun
+fas[[D]f99	A2_custom	as costas	back	Tenho dores nas costas de tanto estar sentado.	I have back pain from sitting so much.	"(f) Always plural: <strong>as costas</strong>. False friend: ≠ ""coast"" (that's <em>costa</em> singular)."				body noun
+j|G+cyz>r9	A2_custom	o coração	heart	O coração dele bate muito rápido.	His heart beats very fast.	(m) Plural: <strong>corações</strong>.				body noun
+r~&38);$4v	A2_custom	o dedo	finger / toe	Cortei o dedo com a faca.	I cut my finger with the knife.	(m) Covers both finger and toe; <em>dedo do pé</em> for toe when needed.				body noun
+q<rZo?|>;7	A2_custom	o joelho	knee	Caí e magoei o joelho.	I fell and hurt my knee.	(m)				body noun
+O<JNXK0}_h	A2_custom	o ombro	shoulder	Ele partiu o ombro num acidente.	He broke his shoulder in an accident.	(m)				body noun
+g{:s{<V*Um	A2_custom	a barriga	belly / stomach	Tenho a barriga cheia depois do almoço.	My stomach is full after lunch.	(f) Informal; medical: <em>estômago</em>.				body noun
+l*D)J&z[qB	A2_custom	a fome	hunger	Tenho muita fome, vamos jantar.	I'm very hungry, let's have dinner.	(f) <em>Ter fome</em> = to be hungry.				feeling noun
+Cs,8*RSJSM	A2_custom	a sede	thirst	Com este calor, tenho sempre sede.	With this heat, I'm always thirsty.	(f) <em>Ter sede</em> = to be thirsty.			[sound:1000_sede.mp3]	feeling noun
+jY~T=o@Wx*	A2_custom	o sono	sleep / sleepiness	Estou com muito sono, vou para a cama.	I'm very sleepy, I'm going to bed.	(m) <em>Ter sono</em> = to be sleepy.				feeling noun
+i5^4=2txZ^	A2_custom	a pressa	hurry	Estou com pressa, falamos depois.	I'm in a hurry, we'll talk later.	(f) <em>Ter pressa</em> = to be in a hurry.				feeling glue noun
+BdXTO831=&	A2_custom	a comida	food	A comida portuguesa é deliciosa.	Portuguese food is delicious.	(f)				Food noun
+mv~wDQ.1HG	A2_custom	a água	water	Queria uma garrafa de água, por favor.	I'd like a bottle of water, please.	(f), despite beginning with <em>á-</em>.			[sound:1000_água.mp3]	Drink noun
+"D!#;L4yKZR"	A2_custom	o café	coffee / café	Vou tomar um café depois do almoço.	I'll have a coffee after lunch.	"(m) Also means ""café"" (the place)."				Drink noun
+J*@tpkZ>Dj	A2_custom	o chá	tea	Queres chá preto ou chá verde?	Do you want black tea or green tea?	(m)				Drink noun
+iP$0=T!=hw	A2_custom	o pão	bread	De manhã, como pão com manteiga.	In the morning, I eat bread with butter.	"(m). Irregular plural: <strong style=""color: red;"">os pães</strong> — uses the <strong>-ão → -ães</strong> pattern (not the usual <em>-ões</em>). Same family: <em>cão → cães, alemão → alemães, capitão → capitães</em>."				Food noun
+Ih:/Hpp$uH	A2_custom	o leite	milk	Bebo um copo de leite ao pequeno-almoço.	I drink a glass of milk with breakfast.	(m)				Drink noun
+gL7)H6am*F	A2_custom	a fruta	fruit	Como fruta todos os dias.	I eat fruit every day.	(f) Collective singular; a piece of fruit is <em>uma peça de fruta</em> or <em>um fruto</em>.				Food noun
+t|_J|K/I<u	A2_custom	os legumes	vegetables	Os legumes da horta são os melhores.	The vegetables from the garden are the best.	(m) Usually plural.				Food noun
+p6fH},$u[l	A2_custom	a carne	meat	Não como carne há cinco anos.	I haven't eaten meat for five years.	(f)				Food noun
+h@jT4wjWAa	A2_custom	o peixe	fish	Em Lisboa, come-se muito peixe fresco.	In Lisbon, people eat a lot of fresh fish.	(m)				Food noun
+h!f:KDT&S`	A2_custom	o arroz	rice	O arroz malandrinho é um prato típico.	"""Arroz malandrinho"" is a typical dish."	(m)				Food noun
+wgO{N{zjH>	A2_custom	a batata	potato	Batatas fritas com peixe grelhado, por favor.	Fries with grilled fish, please.	(f) <em>Batatas fritas</em> = fries / chips.				Food noun
+"pJR(,H)|[#"	A2_custom	o ovo	egg	Como ovos mexidos quase todas as manhãs.	I eat scrambled eggs almost every morning.	(m)				Food noun
+z!Zz8jpK${	A2_custom	o queijo	cheese	Este queijo da Serra é fantástico.	This Serra cheese is fantastic.	(m)				Food noun
+e6^(`iqt7W	A2_custom	a sopa	soup	A sopa de legumes está quente.	The vegetable soup is hot.	(f) Very common in EP meals.				Food noun
+Hn{:r@z(mv	A2_custom	o bolo	cake	A minha avó faz o melhor bolo de chocolate.	My grandmother makes the best chocolate cake.	(m)				Food noun
+j<C}k4haDv	A2_custom	o açúcar	sugar	Tomo o café sem açúcar.	I take my coffee without sugar.	(m)				Food noun
+oRq3D3;aMC	A2_custom	o sal	salt	Esta sopa precisa de mais sal.	This soup needs more salt.	(m)				Food noun
+G8`hG1<Op(	A2_custom	o vinho	wine	Um copo de vinho tinto, se faz favor.	A glass of red wine, please.	(m) <em>Vinho tinto</em> = red wine; <em>vinho branco</em> = white.				Drink noun
+ge0S{TFV+>	A2_custom	a cerveja	beer	Uma cerveja bem fresca era ótima agora.	A nice cold beer would be great right now.	(f)				Drink noun
+MuN:}8G$bg	A2_custom	o sumo	juice	Queres sumo de laranja natural?	Would you like fresh orange juice?	(m) EP; BR: <strong>suco</strong>.				Drink noun
+O`D:_aP{KX	A2_custom	a manteiga	butter	Passo manteiga no pão todas as manhãs.	I spread butter on bread every morning.	(f)				Food noun
+wY4.TJSy%5	A2_custom	a sandes	sandwich	Almoço sempre uma sandes no escritório.	I always have a sandwich at the office for lunch.	(f, invariable) Standard EP form: <em>uma sandes, duas sandes</em>. Also acceptable: <strong>sanduíche</strong> (f).				Food noun
+O;!_pIDVMo	A2_custom	a salada	salad	Uma salada mista com atum, por favor.	A mixed salad with tuna, please.	(f)				Food noun
+f~jE}RlIS;	A2_custom	a massa	pasta	Faço massa com molho de tomate.	I make pasta with tomato sauce.	"(f) Also means ""dough""."				Food noun
+wqA:HV?te(	A2_custom	o chocolate	chocolate	Adoro chocolate preto amargo.	I love dark bitter chocolate.	(m)				Food noun
+J;K/:}nxr1	A2_custom	o pequeno-almoço	breakfast	Toma um bom pequeno-almoço todos os dias.	Have a good breakfast every day.	(m) EP; BR: <em>café da manhã</em>.				Food noun
+H5P3(W[&&x	A2_custom	o almoço	lunch	O almoço é o momento mais importante do dia.	Lunch is the most important moment of the day.	(m) Verb: <strong>almoçar</strong>.				Food noun
+C(P[9nay[/	A2_custom	o jantar	dinner	O jantar costuma ser às oito.	Dinner is usually at eight.	(m) Also the verb <strong>jantar</strong> (to have dinner).				Food noun
+j7M[9x(0w!	A2_custom	o restaurante	restaurant	Há um restaurante novo ali na esquina.	There's a new restaurant on the corner there.	(m)				Food noun
+c8FFsX|L+:	A2_custom	a ementa	menu	Podemos ver a ementa, por favor?	Can we see the menu, please?	(f) EP; BR: <strong>cardápio</strong>.				Food noun
+g7~Hb{I-=Q	A2_custom	o prato	plate / dish	Este é o prato do dia.	This is today's special.	"(m) Also ""dish"" as in a menu item."				Food noun
+g^e)T/NS[U	A2_custom	o copo	glass / cup	Dá-me um copo de água, por favor.	Give me a glass of water, please.	(m)				Food noun
+"hR]V;U83#1"	A2_custom	a garrafa	bottle	Uma garrafa de vinho para quatro pessoas.	One bottle of wine for four people.	(f)				Food noun
+n*?>WL^uAv	A2_custom	a conta	bill / account	A conta, se faz favor.	The bill, please.	"(f) Also ""bank account""."			[sound:1000_conta.mp3]	Food noun
+i@wY@&X>bn	A2_custom	a saúde	health	A saúde é o mais importante.	Health is the most important thing.	(f) Also a toast: <em>Saúde!</em>			[sound:1000_saúde.mp3]	Health noun
+q!v01|eD~p	A2_custom	o médico	doctor	Vou ao médico na próxima terça-feira.	I'm going to the doctor next Tuesday.	Feminine: <strong>médica</strong>.			[sound:1000_médico.mp3]	Health noun
+soNt{v`|H`	A2_custom	o enfermeiro	nurse	O enfermeiro foi muito simpático comigo.	The nurse was very kind to me.	Feminine: <strong>enfermeira</strong>.				Health noun
+qx4FhLQ:Uj	A2_custom	a dor	pain	Tenho uma dor nas costas há dois dias.	I've had back pain for two days.	(f) Plural: <strong>dores</strong>.				Health noun
+GH4Zekxs!@	A2_custom	o remédio	medicine	Tomo este remédio duas vezes por dia.	I take this medicine twice a day.	(m)				Health noun
+cp*b=sg;t1	A2_custom	a febre	fever	Acho que estou com febre.	I think I have a fever.	(f) <em>Ter febre</em> = to have a fever.				glue Health noun
+A[wTtRj2,_	A2_custom	a tosse	cough	A tosse não me deixa dormir.	The cough won't let me sleep.	(f)				Health noun
+"dYD#|@y4?X"	A2_custom	a gripe	flu	Tenho uma gripe há uma semana.	I've had the flu for a week.	(f)				Health noun
+rz_zJ0AOJv	A2_custom	a constipação	cold	Estou com uma constipação forte.	I have a bad cold.	"(f) EP; BR: <strong>resfriado</strong>. False friend with English ""constipation""."				Health noun
+xhM{jH=OlC	A2_custom	a doença	illness / disease	É uma doença pouco comum.	It's a rare illness.	(f)			[sound:1000_doença.mp3]	Health noun
+pR9<bz)^ri	A2_custom	o dinheiro	money	Não tenho dinheiro suficiente para o táxi.	I don't have enough money for the taxi.	(m)			[sound:1000_dinheiro.mp3]	noun Shopping
+"d?N6BEp[O#"	A2_custom	o preço	price	O preço deste telemóvel é muito alto.	The price of this mobile is very high.	(m)			[sound:1000_preço.mp3]	noun Shopping
+e}cu/^2U4K	A2_custom	o troco	change (money)	Guarde o troco, por favor.	Keep the change, please.	(m) The money returned.				noun Shopping
+rkARM>3I/)	A2_custom	a loja	shop / store	Vou à loja de roupa esta tarde.	I'm going to the clothes shop this afternoon.	(f)			[sound:1000_loja.mp3]	noun Shopping
+G6_BS,zrb_	A2_custom	o supermercado	supermarket	Faço as compras no supermercado ao sábado.	I do the shopping at the supermarket on Saturday.	(m)				noun Shopping
+yXOT,qF0j4	A2_custom	o mercado	market	Ao domingo há feira no mercado.	There's a fair at the market on Sundays.	(m)			[sound:1000_mercado.mp3]	noun Shopping
+oBL>^ieW@Q	A2_custom	o banco	bank	O banco está fechado ao fim de semana.	The bank is closed on weekends.	"(m) Also ""bench""."			[sound:1000_banco.mp3]	noun place
+pC7r3q]*sd	A2_custom	os correios	post office	Vou aos correios enviar uma carta.	I'm going to the post office to send a letter.	(m, plural) Always plural.				noun place
+Qn<9^@&eFr	A2_custom	a farmácia	pharmacy	A farmácia fica aberta até às dez.	The pharmacy is open until ten.	(f)				noun place
+e`l!XMv{tN	A2_custom	o hospital	hospital	Levaram-no ao hospital de ambulância.	They took him to the hospital by ambulance.	(m)			[sound:1000_hospital.mp3]	noun place
+Gq+pCDB5y{	A2_custom	a igreja	church	A igreja no centro é muito antiga.	The church in the center is very old.	(f)				noun place
+F5VQ}6udQ<	A2_custom	o museu	museum	O museu fecha à segunda-feira.	The museum is closed on Mondays.	(m)				noun place
+q4XqJ,H%o~	A2_custom	o cinema	cinema	Vamos ao cinema logo à noite?	Shall we go to the cinema tonight?	(m), despite ending in <em>-a</em>.				noun place
+Oat)hH2[_J	A2_custom	o teatro	theater	Gosto mais de teatro do que de cinema.	I like theater more than cinema.	(m)				noun place
+b,`1VFeu8q	A2_custom	a biblioteca	library	Estudo na biblioteca quando tenho exames.	I study at the library when I have exams.	(f)				noun place
+o/h|A]?9DR	A2_custom	o dia	day	Hoje é um dia lindo de primavera.	Today is a beautiful spring day.	(m)			[sound:1000_dia.mp3]	noun Time
+~=_g@1,^]	A2_custom	o ano	year	Passei um ano a viver em Paris.	I spent a year living in Paris.	(m)			[sound:1000_ano.mp3]	noun Time
+N?+3OabGv!	A2_custom	a hora	hour / time (clock)	Que horas são?	What time is it?	(f) Plural for time of day: <em>Que horas são?</em>			[sound:1000_hora.mp3]	noun Time
+n)@;OHk3?n	A2_custom	a semana	week	Vou ter umas férias na próxima semana.	I'm having a vacation next week.	(f)			[sound:1000_semana.mp3]	noun Time
+"b/z6A.QTj#"	A2_custom	o mês	month	Passei um mês sem falar com ele.	I went a month without talking to him.	(m) Plural: <strong>meses</strong>.			[sound:1000_mês.mp3]	noun Time
+ve7:D~BV_u	A2_custom	a manhã	morning	De manhã, corro no parque.	In the morning, I run in the park.	(f)			[sound:1000_manhã.mp3]	noun Time
+p`EogJ9}`0	A2_custom	a noite	night / evening	À noite, leio antes de dormir.	At night, I read before sleeping.	(f)			[sound:1000_noite.mp3]	noun Time
+C;jjZDau0y	A2_custom	o minuto	minute	Chego em cinco minutos.	I'll be there in five minutes.	(m)			[sound:1000_minuto.mp3]	noun Time
+n8)UYbAWw:	A2_custom	o tempo	time / weather	O tempo está ótimo hoje.	The weather is great today.	"(m) Means both ""time"" (<em>não tenho tempo</em>) and ""weather"" (<em>está bom tempo</em>)."			[sound:1000_tempo.mp3]	noun Time
+/o<oI*,7Q	A2_custom	o aniversário	birthday / anniversary	Os meus amigos fizeram-me uma festa de aniversário.	My friends threw me a birthday party.	(m)				noun Time
+Qpxc0>2zbN	A2_custom	o sol	sun	Hoje está muito sol.	It's very sunny today.	(m) <em>Estar sol</em> = to be sunny.				noun Weather
+"CFh9!{!N~#"	A2_custom	a chuva	rain	A chuva não para desde ontem.	The rain hasn't stopped since yesterday.	(f) Verb: <strong>chover</strong>.				noun Weather
+mBJVPc~!Tp	A2_custom	o calor	heat	Está muito calor hoje.	It's very hot today.	(m) <em>Ter calor</em> = to feel hot.				noun Weather
+O0ILtsfb?}	A2_custom	o vento	wind	Há muito vento hoje.	There's a lot of wind today.	(m)				noun Weather
+gIl,aR|)fV	A2_custom	a neve	snow	A neve cobriu as montanhas.	The snow covered the mountains.	(f)				noun Weather
+FZQ817B+@:	A2_custom	o céu	sky	O céu está azul sem uma nuvem.	The sky is blue without a cloud.	(m)				noun Weather
+hR;xIbYINA	A2_custom	a nuvem	cloud	Uma nuvem escura tapou o sol.	A dark cloud covered the sun.	(f), despite ending in <em>-m</em>. Plural: <strong>nuvens</strong>.				noun Weather
+o3?a}BoLTv	A2_custom	a estação do ano	season	A minha estação do ano preferida é o outono.	My favorite season is autumn.	"(f) Also just <strong>estação</strong>. <em>Estação</em> alone can also mean ""(train) station""."				noun season
+"uS+#F=-5C7"	A2_custom	o verão	summer	No verão, vou sempre à praia.	In the summer, I always go to the beach.	(m)				noun season
+Mrmc]1QR;S	A2_custom	o inverno	winter	O inverno em Portugal é suave.	Winter in Portugal is mild.	(m)				noun season
+BSAKMJJ:.q	A2_custom	a primavera	spring	A primavera traz flores e cores.	Spring brings flowers and colors.	(f)				noun season
+"irX$GHu_C#"	A2_custom	o outono	autumn / fall	O outono é uma estação bonita.	Autumn is a beautiful season.	(m)				noun season
+"nwLu?^7#nu"	A2_custom	o carro	car	Tenho um carro pequeno mas confortável.	I have a small but comfortable car.	(m)			[sound:1000_carro.mp3]	noun Transport
+L3Fo]mox!H	A2_custom	o autocarro	bus	Apanho o autocarro para o trabalho.	I take the bus to work.	(m) EP; BR: <strong>ônibus</strong>.				noun Transport
+A8EPCya)Ws	A2_custom	o comboio	train	O comboio para o Porto sai às nove.	The train to Porto leaves at nine.	(m) EP; BR: <strong>trem</strong>.				noun Transport
+I0ZWO.a`LQ	A2_custom	o avião	plane	O avião aterra dentro de meia hora.	The plane lands in half an hour.	(m) Plural: <strong>aviões</strong>.				noun Transport
+t+6ZB~SK!<	A2_custom	o metro	metro / subway	Vou de metro todos os dias.	I take the metro every day.	"(m) Also the measurement ""meter""."				noun Transport
+xy$eip_8>/	A2_custom	a bicicleta	bicycle	Ando de bicicleta no fim de semana.	I ride a bike on weekends.	(f) Short form: <strong>bici</strong>.				noun Transport
+x=V<`L3;|f	A2_custom	o táxi	taxi	Chamei um táxi porque estava a chover.	I called a taxi because it was raining.	(m)				noun Transport
+d;r%Kj2dFY	A2_custom	o bilhete	ticket	Comprei o bilhete de comboio online.	I bought the train ticket online.	(m)				noun Transport
+LLK<.cRgas	A2_custom	a paragem	(bus) stop	A paragem do autocarro fica ali.	The bus stop is over there.	(f) EP; BR: <strong>ponto</strong>.				noun Transport
+NHqGWw5;,8	A2_custom	a estação	station	Encontramo-nos na estação de comboios.	Let's meet at the train station.	(f)				noun Transport
+PEJ@9Z@6`O	A2_custom	o aeroporto	airport	O aeroporto de Lisboa fica perto do centro.	Lisbon airport is close to the center.	(m)				noun Transport
+y^sR{_+2iF	A2_custom	a viagem	trip / journey	A viagem durou seis horas.	The trip lasted six hours.	(f) Verb: <strong>viajar</strong>.			[sound:1000_viagem.mp3]	noun Transport
+P-n_2y(Su[	A2_custom	as férias	vacation / vacation	Vou de férias em agosto.	I'm going on vacation in August.	(f, plural) Always plural.				noun Time
+g%6SRM{Jp*	A2_custom	o hotel	hotel	O hotel fica mesmo em frente da praia.	The hotel is right in front of the beach.	(m)				noun place
+eitJsA-[%+	A2_custom	a cidade	city	Lisboa é a cidade mais antiga da Europa ocidental.	Lisbon is the oldest city in Western Europe.	(f)			[sound:1000_cidade.mp3]	noun place
+fos(*(p;bL	A2_custom	o país	country	Portugal é um país pequeno mas bonito.	Portugal is a small but beautiful country.	(m) Plural: <strong>países</strong>.			[sound:1000_país.mp3]	noun place
+i)3|u4NuXB	A2_custom	a rua	street	A minha rua é muito calma à noite.	My street is very quiet at night.	(f)			[sound:1000_rua.mp3]	noun place
+j+Xk{Bx;|c	A2_custom	a avenida	avenue	A avenida principal está cheia de lojas.	The main avenue is full of shops.	(f)				noun place
+B{UF`U{<uG	A2_custom	a praça	town square	A praça no centro é sempre movimentada.	The square in the center is always busy.	(f)				noun place
+nbfZNHP[pX	A2_custom	a ponte	bridge	A ponte sobre o Tejo é impressionante.	The bridge over the Tagus is impressive.	(f)				noun place
+"D#x+L=|qXJ"	A2_custom	o parque	park	Vou ao parque correr todas as manhãs.	I go to the park to run every morning.	(m)				noun place
+x*5BcbZKGd	A2_custom	o jardim	garden	O jardim de casa está cheio de flores.	The garden at home is full of flowers.	(m)				noun place
+L*KCe~`?*.	A2_custom	a praia	beach	Adoro ir à praia ao fim de semana.	I love going to the beach on weekends.	(f)				noun place
+mjw}y$W:)8	A2_custom	o mar	sea	O mar está muito frio em abril.	The sea is very cold in April.	(m)			[sound:1000_mar.mp3]	noun place
+"Lvx#qZ8o5y"	A2_custom	o rio	river	O rio Tejo atravessa Lisboa.	The Tagus river crosses Lisbon.	(m)			[sound:1000_rio.mp3]	noun place
+pF&3I)!r!m	A2_custom	a montanha	mountain	As montanhas da Serra estão cobertas de neve.	The Serra mountains are covered in snow.	(f)				noun place
+JKU3t1r(|A	A2_custom	o campo	countryside / field	Prefiro viver no campo a viver na cidade.	I prefer living in the countryside to living in the city.	(m)			[sound:1000_campo.mp3]	noun place
+Qne[tN7A)Z	A2_custom	o animal	animal	Gosto muito de animais, especialmente de cães.	I love animals, especially dogs.	(m) Plural: <strong>animais</strong>.			[sound:1000_animal.mp3]	animal noun
+QC-lwQ]@rg	A2_custom	o cão	dog	O meu cão adora correr no parque.	My dog loves running in the park.	"(m). Feminine: <strong>cadela</strong>. Irregular plural: <strong style=""color: red;"">os cães</strong> (<strong>-ão → -ães</strong>)."				animal noun
+CdvP?P!)g|	A2_custom	o gato	cat	O gato dorme em cima da cama.	The cat sleeps on top of the bed.	(m) Feminine: <strong>gata</strong>.				animal noun
+C,!:beM:Qc	A2_custom	a flor	flower	Comprei uma flor para a minha mãe.	I bought a flower for my mother.	(f), despite ending in <em>-r</em>. Plural: <strong>flores</strong>.				noun
+un,^UfbGxK	A2_custom	a árvore	tree	Há uma árvore muito grande no jardim.	There's a very big tree in the garden.	(f), despite ending in <em>-e</em>. Plural: <strong>árvores</strong>.				noun
+"P=e)X#I+`D"	A2_custom	a roupa	clothes / clothing	Vou lavar a roupa esta tarde.	I'm going to do the laundry this afternoon.	(f) Singular collective in EP.				clothing noun
+wh|Q4(?Ro[	A2_custom	a camisa	shirt	Esta camisa branca fica-te bem.	This white shirt suits you.	(f)				clothing noun
+"O6hJ#K`OQX"	A2_custom	a camisola	sweater / T-shirt	Põe uma camisola, está frio lá fora.	Put on a sweater, it's cold outside.	(f) EP. Can mean sweater or T-shirt depending on context.				clothing noun
+v]Y3{nrR0,	A2_custom	as calças	trousers / pants	Estas calças são demasiado apertadas.	These trousers are too tight.	(f, plural) Always plural.				clothing noun
+ppBnMZKoKJ	A2_custom	a saia	skirt	Compro uma saia nova para a festa.	I'll buy a new skirt for the party.	(f)				clothing noun
+HP;O?&kIK*	A2_custom	o vestido	dress	O vestido preto é elegante.	The black dress is elegant.	(m)				clothing noun
+M+<O}[=M_2	A2_custom	o casaco	coat / jacket	Leva o casaco, vai chover.	Take a coat, it's going to rain.	(m)				clothing noun
+m]>,bZ4Ma(	A2_custom	o sapato	shoe	Estes sapatos são muito confortáveis.	These shoes are very comfortable.	(m)				clothing noun
+mUHb>5F>h7	A2_custom	o chapéu	hat	Usa chapéu no verão por causa do sol.	Wear a hat in the summer because of the sun.	(m)				clothing noun
+v`>h.Sw@CV	A2_custom	as meias	socks	Onde pus as meias pretas?	Where did I put the black socks?	(f, plural) Singular <em>meia</em> exists but plural is standard for socks.				clothing noun
+J5e8+F<Y2z	A2_custom	o cinto	belt	O cinto é de couro castanho.	The belt is brown leather.	(m)				clothing noun
+qm&}m$e:JG	A2_custom	o ténis	sneakers / sneakers	Calcei os ténis para ir correr.	I put on my sneakers to go running.	"(m) Same word used for the sport ""tennis""."				clothing noun
+wJe9SfMU_n	A2_custom	as botas	boots	No inverno, uso botas quentes.	In winter, I wear warm boots.	(f, plural) Singular <em>bota</em> exists.				clothing noun
+z6S(vij?j*	A2_custom	a cor	color	Qual é a tua cor preferida?	What's your favorite color?	(f), despite ending in <em>-r</em>. Plural: <strong>cores</strong>.			[sound:1000_cor.mp3]	color noun
+PFB?tmF_.K	A2_custom	o tamanho	size	Que tamanho veste?	What size do you wear?	(m)				clothing noun
+Ov|!;Ap.F^	A2_custom	a mala	bag / suitcase	A minha mala está cheia de livros.	My bag is full of books.	"(f) Also ""suitcase""."				clothing noun
+MK824]`w>o	A2_custom	a carteira	wallet	Perdi a carteira no metro.	I lost my wallet on the metro.	(f)				clothing noun
+gVxa[Sg@mS	A2_custom	os óculos	glasses	Não vejo nada sem os óculos.	I can't see anything without my glasses.	(m, plural) Always plural.				clothing noun
+n$ImOYf<4%	A2_custom	o relógio	watch / clock	O meu relógio está atrasado cinco minutos.	My watch is five minutes slow.	(m)				clothing noun
+iluUHKP&bG	A2_custom	a chave	key	Perdi as chaves de casa.	I lost my house keys.	(f) Plural: <strong>chaves</strong>.				noun
+zQAu8@HKWm	A2_custom	o telemóvel	mobile phone	O meu telemóvel está sem bateria.	My mobile phone is out of battery.	(m) EP; BR: <strong>celular</strong>.				noun
+B/(r,v<GD3	A2_custom	o telefone	telephone	Atende o telefone, por favor.	Answer the phone, please.	(m)				noun
+r,0~]S>9em	A2_custom	o computador	computer	Trabalho ao computador oito horas por dia.	I work at the computer eight hours a day.	(m)				noun
+"s)#)3AXm.:"	A2_custom	a internet	internet	A internet está muito lenta hoje.	The internet is very slow today.	(f)				noun
+E_S-F.YrI}	A2_custom	o email	email	Vou enviar-te um email mais tarde.	I'll send you an email later.	(m) Pronounced Portuguese-style.				noun
+cyWH$(Fq-p	A2_custom	a mensagem	message	Recebi a tua mensagem agora mesmo.	I just received your message.	(f)			[sound:1000_mensagem.mp3]	noun
+y@8a~:-T{P	A2_custom	o livro	book	Estou a ler um livro em português.	I'm reading a book in Portuguese.	(m)			[sound:1000_livro.mp3]	noun
+Dk/c$,xjQA	A2_custom	o jornal	newspaper	Leio o jornal todos os dias de manhã.	I read the newspaper every morning.	(m)			[sound:1000_jornal.mp3]	noun
+wg-_m7Jkln	A2_custom	a revista	magazine	Comprei uma revista para ler no comboio.	I bought a magazine to read on the train.	(f)			[sound:1000_revista.mp3]	noun
+r6Mpjte9S:	A2_custom	a carta	letter	Escrevi uma carta à minha avó.	I wrote a letter to my grandmother.	(f)				noun
+q2*o!(sva&	A2_custom	o papel	paper	Dá-me uma folha de papel, por favor.	Give me a sheet of paper, please.	(m)			[sound:1000_papel.mp3]	noun
+m0I+-i+kOK	A2_custom	a caneta	pen	Esta caneta já não escreve.	This pen doesn't write anymore.	(f)				noun
+"L#/OAjNor*"	A2_custom	o lápis	pencil	Preciso de um lápis para desenhar.	I need a pencil to draw.	(m) Invariable in plural: <strong>os lápis</strong>.				noun
+w@,>CB:^<@	A2_custom	a palavra	word	Aprendi uma palavra nova hoje.	I learned a new word today.	(f)			[sound:1000_palavra.mp3]	noun
+w?jM5?NigY	A2_custom	a pergunta	question	Tenho uma pergunta para ti.	I have a question for you.	(f)				noun
+J}7k{77r62	A2_custom	a resposta	answer	A resposta correta é a terceira.	The correct answer is the third one.	(f)			[sound:1000_resposta.mp3]	noun
+f>9U?TQ]Cv	A2_custom	a história	story / history	Conta-me a história toda.	Tell me the whole story.	(f)			[sound:1000_história.mp3]	noun
+w,kEPH_L>|	A2_custom	a notícia	news	Ouviste a notícia desta manhã?	Did you hear the news this morning?	(f) Singular form; also used uncountably.			[sound:1000_notícia.mp3]	noun
+pttIz/O/MV	A2_custom	a música	music	Gosto de ouvir música clássica.	I like listening to classical music.	(f)			[sound:1000_música.mp3]	noun
+eneLxB$Xd:	A2_custom	o filme	film / movie	O filme começa às nove da noite.	The film starts at nine in the evening.	(m)			[sound:1000_filme.mp3]	noun
+"I#;xl-qC_P"	A2_custom	a festa	party	A festa de aniversário foi ótima.	The birthday party was great.	(f)			[sound:1000_festa.mp3]	noun
+De`B1F$6Om	A2_custom	o desporto	sport	Pratico desporto três vezes por semana.	I do sports three times a week.					noun
+y;1JJzVp`G	A2_custom	o jogo	game	O jogo do Benfica é amanhã à noite.	The Benfica game is tomorrow night.	(m)			[sound:1000_jogo.mp3]	noun
+yr.J1GZAa}	A2_custom	o futebol	football / soccer	O futebol é o desporto mais popular em Portugal.	Football is the most popular sport in Portugal.	(m)			[sound:1000_futebol.mp3]	noun
+zBVc,IyWC_	A2_custom	o passatempo	hobby	Qual é o teu passatempo preferido?	What's your favorite hobby?	(m)				noun
+s9R+:|e1mB	A2_custom	o tempo livre	free time	Nos tempos livres, leio e cozinho.	In my free time, I read and cook.	(m)				noun
+NnliDz_*=L	A2_custom	a televisão	television	Não vejo muita televisão.	I don't watch much television.	(f) Short: <strong>TV</strong>.				noun
+P:6DIE>!!T	A2_custom	o rádio	radio	Ouço rádio no carro.	I listen to the radio in the car.	(m) Masculine for the device; <em>a rádio</em> (f) for the station/industry.				noun
+K3jt^?!gjw	A2_custom	a coisa	thing	Tenho muitas coisas para fazer hoje.	I have many things to do today.	(f)			[sound:1000_coisa.mp3]	noun
+t}:(<hH,pt	A2_custom	a vida	life	A vida é curta, aproveita-a.	Life is short, enjoy it.	(f)			[sound:1000_vida.mp3]	noun
+J55l`guuLU	A2_custom	a ideia	idea	Tenho uma boa ideia para o fim de semana.	I have a good idea for the weekend.	(f)			[sound:1000_ideia.mp3]	noun
+PfKI~],Q]f	A2_custom	o problema	problem	Este problema não tem solução fácil.	This problem doesn't have an easy solution.	(m), despite ending in <em>-a</em>.			[sound:1000_problema.mp3]	noun
+NgNp_rFGbg	A2_custom	o presente	gift / present	Comprei um presente para a minha mãe.	I bought a present for my mother.	"(m) Also means ""present"" (tense, time)."			[sound:1000_presente.mp3]	noun
+qkG;W^l9Z)	A2_custom	a dúvida	doubt	Se tiveres alguma dúvida, pergunta.	If you have any doubt, ask.	"(f) Often used instead of ""question"": <em>tens alguma dúvida?</em>"			[sound:1000_dúvida.mp3]	noun
+d$M1$6=Imu	A2_custom	a vez	time (instance)	Desta vez vou conseguir.	This time I'll make it.	(f) Plural: <strong>vezes</strong>. Distinct from <em>tempo</em> (time in general).			[sound:1000_vez.mp3]	noun
+rd(KAyBo3q	A2_custom	gostar de	to like	Gosto muito de viajar.	I really like traveling.	Always takes <strong>de</strong>: <em>gosto de café</em>.<br><br>Regular.				verb
+H:)AQJ6=*Q	A2_custom	chamar-se	to be called	Como te chamas?	What's your name?	Regular.<br><br><strong>Transitive <em>chamar</em></strong> (without -se) = to call someone over / to summon: <em>Chama o Pedro, por favor.</em> (Call Pedro, please.) Different from <em>chamar-se</em> (to be named).				verb
+MQ(z)@-Aiv	A2_custom	morar	to live (reside)	Moro em Lisboa há cinco anos.	I've lived in Lisbon for five years.	Usually used for residence location; <strong>viver</strong> is broader.<br><br>Regular.				verb
+DqkjoN:,2p	A2_custom	comer	to eat	Como peixe duas vezes por semana.	I eat fish twice a week.	Regular.				Food verb
+Ewa[l,4uu-	A2_custom	beber	to drink	Bebo muita água durante o dia.	I drink a lot of water during the day.	Regular.				Food verb
+pBP?m>V/?u	A2_custom	dormir	to sleep	Durmo oito horas por noite.	I sleep eight hours a night.	"present  : <span style=""color: blue;""><b>durmo</b></span>, dormes, dorme, dormimos, dormem<br>simp past: dormi, dormiste, dormiu, dormimos, dormiram<br>imperfect: dormia, dormias, dormia, dormíamos, dormiam<br>imperativ: _, dorme, <b>durma</b>, <b>durmamos</b>, <b>durmam</b>"				verb
+vCC:bN~h?a	A2_custom	acordar	to wake up	Acordo às seis todos os dias.	I wake up at six every day.	Regular.				verb
+xxg*:W5yhq	A2_custom	levantar-se	to get up	Levanto-me logo depois de acordar.	I get up right after waking up.	Reflexive. Contrast: <strong>acordar</strong> = to wake up (eyes open).<br><br>Regular.				verb
+FHY7`*_]an	A2_custom	deitar-se	to go to bed / to lie down	Deito-me por volta das onze.	I go to bed around eleven.	Reflexive.<br><br>Regular.				verb
+c0TQ+GFr~E	A2_custom	precisar de	to need	Preciso de descansar.	I need to rest.	Always takes <strong>de</strong>.<br><br>Regular.				verb
+GzE(:K9>E8	A2_custom	perguntar	to ask (a question)	Perguntei-lhe onde morava.	I asked him where he lived.	Distinct from <strong>pedir</strong> (to request).<br><br>Regular.				verb
+zFB_q*xG9g	A2_custom	custar	to cost	Quanto custa este livro?	How much does this book cost?	Regular.				Shopping verb
+dUel4AT%Sq	A2_custom	gastar	to spend	Gastei muito dinheiro nas férias.	I spent a lot of money on the vacation.	Regular.				Shopping verb
+Aqf;I!iWka	A2_custom	viajar	to travel	Adoro viajar pela Europa.	I love traveling around Europe.	Regular.				Transport verb
+z36Uz$FCp7	A2_custom	reservar	to reserve / to book	Reservei uma mesa para duas pessoas.	I booked a table for two.	Regular.				verb
+e{1qK)&6&N	A2_custom	ensinar	to teach	A minha mãe ensina matemática.	My mother teaches maths.	Regular.				school verb
+jZUum,>;QD	A2_custom	parar	to stop	Para o carro, por favor.	Stop the car, please.	Regular.				motion verb
+JHTY~T{c;.	A2_custom	cozinhar	to cook	Cozinho peixe ao jantar.	I'm cooking fish for dinner.	Regular.				Food verb
+wLeO|/HgI/	A2_custom	lavar	to wash	Lavo o carro uma vez por mês.	I wash the car once a month.	Reflexive: <em>lavar-se</em> = to wash oneself.<br><br>Regular.				verb
+L^s_{&}A)s	A2_custom	limpar	to clean	Limpo a casa ao sábado de manhã.	I clean the house on Saturday mornings.	Regular.				home verb
+cTcD0uae|$	A2_custom	almoçar	to have lunch	Almoçamos juntos todos os domingos.	We have lunch together every Sunday.	Regular.				Food verb
+"NJ~z_E##1u"	A2_custom	telefonar	to call (by phone)	Telefona-me quando chegares.	Call me when you arrive.	Takes <strong>a</strong>: <em>telefonar a alguém</em>.<br><br>Regular.				verb
+Fy~RPpN>*c	A2_custom	convidar	to invite	Convidei-os para jantar em minha casa.	I invited them for dinner at my place.	Regular.				verb
+BZf%CLBgdC	A2_custom	mandar	to send / to order	Mandei-te um email esta manhã.	I sent you an email this morning.	"Also ""to order someone"": <em>mandou-me ficar</em>.<br><br>Regular."				verb
+wp?gR9pU6<	A2_custom	sentir-se	to feel	Sinto-me cansado hoje.	I feel tired today.	"Reflexive. <em>sinto-me, sentes-te, sente-se, sentimo-nos, sentem-se</em>.<br><br>present  : <span style=""color: blue;""><b>sinto</b></span>, sentes, sente, sentimos, sentem<br>simp past: senti, sentiste, sentiu, sentimos, sentiram<br>imperfect: sentia, sentias, sentia, sentíamos, sentiam<br>imperativ: _, sente, <b>sinta</b>, <b>sintamos</b>, <b>sintam</b><br><br><strong>Transitive <em>sentir</em></strong> (without -se) = to feel (something): <em>Sinto frio.</em> (I feel cold.) <em>Sinto dor.</em> (I feel pain.) Use <em>sentir-se</em> for internal states (<em>sinto-me bem</em> = I feel well)."				feeling verb
+s}U3Pp3Y83	A2_custom	doer	to hurt	Dói-me a cabeça.	My head hurts.	"Used impersonally with IO pronoun: <em>dói-me, dói-te, dói-lhe</em>.<br><br>present  : —, —, <span style=""color: blue;""><b>dói</b></span>, —, <span style=""color: blue;""><b>doem</b></span><br>simp past: —, —, doeu, —, doeram<br>imperfect: —, —, doía, —, doíam<br>imperativ: _, —, —, —, —"				Health verb
+iJ]0ayF~CA	A2_custom	costumar	to usually (do)	Costumo jantar em casa.	I usually have dinner at home.	<strong>Costumar + inf.</strong> = to usually do.<br><br>Regular.				glue verb
+v+<%QDC/?M	A2_custom	demorar	to take (time)	A viagem demora duas horas.	The trip takes two hours.	Regular.				verb
+CQ~(+^i9PC	A2_custom	chover	to rain	Está a chover muito.	It's raining hard.	Impersonal (only 3rd person): <em>chove, choveu, vai chover</em>.<br><br>present  : —, —, chove, —, —<br>simp past: —, —, choveu, —, —<br>imperfect: —, —, chovia, —, —<br>imperativ: _, —, —, —, —				verb Weather
+j$plb>9r3X	A2_custom	descansar	to rest	Preciso de descansar ao fim de semana.	I need to rest on weekends.	Regular.				verb
+k}lh.XaA2y	A2_custom	descer	to go down	Desce as escadas devagar, por favor.	Go down the stairs slowly, please.	"present  : <span style=""color: blue;""><b>desço</b></span>, desces, desce, descemos, descem<br>simp past: desci, desceste, desceu, descemos, desceram<br>imperfect: descia, descias, descia, descíamos, desciam<br>imperativ: _, desce, <b>desça</b>, <b>desçamos</b>, <b>desçam</b>"				motion verb
+wsU<:axQ~L	A2_custom	apanhar	to catch / to pick up	Apanho o autocarro todos os dias.	I catch the bus every day.	"Also ""to pick up"": <em>apanhar o telefone</em>.<br><br>Regular."				verb
+b7y6+C$f^J	A2_custom	lembrar-se	to remember	Lembro-me bem do primeiro dia de escola.	I remember my first day of school well.	Reflexive, takes <strong>de</strong>: <em>lembrar-se de X</em>.<br><br>Regular.				verb
+DQ=IfO^g?t	A2_custom	pôr	to put	Pus o livro na mesa.	I put the book on the table.	"Highly irregular: <strong>ponho, pões, põe, pomos, põem</strong>.<br><br>present  : <span style=""color: blue;""><b>ponho</b></span>, <span style=""color: blue;""><b>pões</b></span>, <span style=""color: blue;""><b>põe</b></span>, pomos, <span style=""color: blue;""><b>põem</b></span><br>simp past: <b>pus</b>, <b>puseste</b>, <span style=""color: blue;""><b>pôs</b></span>, <b>pusemos</b>, <b>puseram</b><br>imperfect: <b>punha</b>, <b>punhas</b>, <b>punha</b>, <b>púnhamos</b>, <b>punham</b><br>imperativ: _, <span style=""color: blue;""><b>põe</b></span>, <b>ponha</b>, <b>ponhamos</b>, <b>ponham</b>"				verb
+fE]]razA0=	A2_custom	vestir	to wear / to put on	Visto sempre uma camisola no inverno.	I always wear a sweater in winter.	"Reflexive <em>vestir-se</em> = to get dressed.<br><br>present  : <span style=""color: blue;""><b>visto</b></span>, vestes, veste, vestimos, vestem<br>simp past: vesti, vestiste, vestiu, vestimos, vestiram<br>imperfect: vestia, vestias, vestia, vestíamos, vestiam<br>imperativ: _, veste, <b>vista</b>, <b>vistamos</b>, <b>vistam</b>"				verb
+jl7~sintnH	A2_custom	cantar	to sing	Ela canta muito bem.	She sings very well.	Regular.				verb
+LMJEnDi!gb	A2_custom	dançar	to dance	Adoro dançar salsa ao fim de semana.	I love dancing salsa on weekends.	Regular.				verb
+y;9}S)l=1?	A2_custom	rir	to laugh	Rimos muito com a história.	We laughed a lot at the story.	"present  : <span style=""color: blue;""><b>rio</b></span>, <span style=""color: blue;""><b>ris</b></span>, <span style=""color: blue;""><b>ri</b></span>, rimos, riem<br>simp past: ri, riste, riu, rimos, riram<br>imperfect: ria, rias, ria, ríamos, riam<br>imperativ: _, <span style=""color: blue;""><b>ri</b></span>, <b>ria</b>, <b>riamos</b>, <b>riam</b>"				verb
+f{E~?vu9NC	A2_custom	sorrir	to smile	Ela sorri sempre quando me vê.	She always smiles when she sees me.	"Irregular like <strong>rir</strong>: <strong>sorrio, sorris, sorri, sorrimos, sorriem</strong>.<br><br>present  : <span style=""color: blue;""><b>sorrio</b></span>, <span style=""color: blue;""><b>sorris</b></span>, <span style=""color: blue;""><b>sorri</b></span>, sorrimos, sorriem<br>simp past: sorri, sorriste, sorriu, sorrimos, sorriram<br>imperfect: sorria, sorrias, sorria, sorríamos, sorriam<br>imperativ: _, <span style=""color: blue;""><b>sorri</b></span>, <b>sorria</b>, <b>sorriamos</b>, <b>sorriam</b>"				verb
+N%Zu3b-!b-	A2_custom	chorar	to cry	O bebé chora quando tem fome.	The baby cries when he's hungry.	Regular.				verb
+qoDKgv^BA0	A2_custom	amar	to love	Amo-te muito.	I love you very much.	Stronger than <strong>gostar de</strong>.<br><br>Regular.				feeling verb
+K9I`rG9)=z	A2_custom	odiar	to hate	Odeio acordar cedo ao sábado.	I hate waking up early on Saturday.	"present  : <span style=""color: blue;""><b>odeio</b></span>, <span style=""color: blue;""><b>odeias</b></span>, <span style=""color: blue;""><b>odeia</b></span>, odiamos, <span style=""color: blue;""><b>odeiam</b></span><br>simp past: odiei, odiaste, odiou, odiamos, odiaram<br>imperfect: odiava, odiavas, odiava, odiávamos, odiavam<br>imperativ: _, <span style=""color: blue;""><b>odeia</b></span>, <span style=""color: blue;""><b>odeie</b></span>, odiemos, <span style=""color: blue;""><b>odeiem</b></span>"				feeling verb
+I7XXBv0Rxz	A2_custom	beijar	to kiss	Ela beijou-o na face.	She kissed him on the cheek.	Reflexive <em>beijar-se</em> = to kiss each other.<br><br>Regular.				verb
+eH{Qs(&b,v	A2_custom	preferir	to prefer	Prefiro chá a café.	I prefer tea to coffee.	"Use <strong>a</strong> between options.<br><br>present  : <span style=""color: blue;""><b>prefiro</b></span>, preferes, prefere, preferimos, preferem<br>simp past: preferi, preferiste, preferiu, preferimos, preferiram<br>imperfect: preferia, preferias, preferia, preferíamos, preferiam<br>imperativ: _, prefere, <b>prefira</b>, <b>prefiramos</b>, <b>prefiram</b>"				verb
+GCAX2J<g@%	A2_custom	esquecer-se	to forget	Esqueci-me das chaves em casa.	I forgot my keys at home.	"Usually reflexive: <strong>esquecer-se de</strong>. Pair with <strong>lembrar-se de</strong>.<div><br></div><div>When non-reflexive you don’t use de.&nbsp;<br><br>present  : <span style=""color: blue;""><b>esqueço</b></span>, esqueces, esquece, esquecemos, esquecem<br>simp past: esqueci, esqueceste, esqueceu, esquecemos, esqueceram<br>imperfect: esquecia, esquecias, esquecia, esquecíamos, esqueciam<br>imperativ: _, esquece, <b>esqueça</b>, <b>esqueçamos</b>, <b>esqueçam</b></div>"				verb
+A.2qr+.L%`	A2_custom	tocar	to touch / to play (instrument)	Toco piano desde criança.	I've played the piano since I was a child.	Touch; play an instrument; ring (a bell/phone): <em>o telefone tocou</em>.<br><br>Regular.				verb
+"Jnz#X=8H:i"	A2_custom	nadar	to swim	Nado duas vezes por semana na piscina.	I swim twice a week at the pool.	Regular.				motion verb
+NB<>q<e[n`	A2_custom	emprestar	to lend	Podes emprestar-me o teu livro?	Can you lend me your book?	Also used for borrowing with a switched subject: <em>pedir emprestado</em>.<br><br>Regular.				verb
+eehTK^_P(k	A2_custom	gostar mais de	to prefer	Gosto mais de chá do que de café.	I prefer tea to coffee.	Alt.: <strong>preferir</strong>.<br><br>Regular.				verb
+N?c.4pXfSY	A2_custom	comprido	long	Ela tem o cabelo comprido.	She has long hair.	Feminine: <strong>comprida</strong>. For dimension; for duration use <em>longo</em>.				adjective
+"w,Zw#ppV~:"	A2_custom	curto	short (length)	Este vestido é demasiado curto.	This dress is too short.	Feminine: <strong>curta</strong>.				adjective
+DN+9!A)I`l	A2_custom	largo	wide	A avenida é muito larga.	The avenue is very wide.	Feminine: <strong>larga</strong>.				adjective
+zhA&OIVRi|	A2_custom	estreito	narrow	A rua é estreita demais para carros.	The street is too narrow for cars.	Feminine: <strong>estreita</strong>.				adjective
+u^q-I-n6wF	A2_custom	cheio	full	O restaurante estava cheio ontem.	The restaurant was full yesterday.	Feminine: <strong>cheia</strong>.				adjective
+O^nz!_y_^k	A2_custom	vazio	empty	O copo está vazio, queres mais?	The glass is empty, do you want more?	Feminine: <strong>vazia</strong>.				adjective
+k{kaAw]tM;	A2_custom	bonito	pretty / nice-looking	Que vestido bonito!	What a pretty dress!	Feminine: <strong>bonita</strong>.				adjective
+e8qsaG;{?R	A2_custom	feio	ugly	Aquele prédio é muito feio.	That building is very ugly.	Feminine: <strong>feia</strong>.				adjective
+yO_33k;-/=	A2_custom	velho	old	O meu avô é velho mas cheio de energia.	My grandfather is old but full of energy.	Feminine: <strong>velha</strong>. For people, <strong>idoso</strong> is politer.				adjective
+qGS;Zy/>x,	A2_custom	interessante	interesting	Este documentário é muito interessante.	This documentary is very interesting.	Same for m/f.				adjective
+v;`q7A5dU0	A2_custom	aborrecido	boring / bored	Este filme é aborrecido.	This film is boring.	"Feminine: <strong>aborrecida</strong>. Means both ""boring"" (cause) and ""bored"" (state)."				adjective feeling
+w}E1q6!YX<	A2_custom	giro	cute / cool	Que casaco giro!	What a cute jacket!	Feminine: <strong>gira</strong>. Colloquial EP.				adjective
+B?Ug3nrdNg	A2_custom	agradável	pleasant	A viagem foi muito agradável.	The trip was very pleasant.	Same for m/f. Plural: <strong>agradáveis</strong>.				adjective
+qhBFoS7E9@	A2_custom	desagradável	unpleasant	Foi uma conversa desagradável.	It was an unpleasant conversation.	Same for m/f.				adjective
+BeF2CV.@~}	A2_custom	confortável	comfortable	Este sofá é muito confortável.	This sofa is very comfortable.	Same for m/f.				adjective
+EkddD?GqFN	A2_custom	incrível	incredible / amazing	A vista é incrível!	The view is incredible!	Same for m/f. Plural: <strong>incríveis</strong>.				adjective
+u{(a=D]ZLL	A2_custom	terrível	terrible	Foi uma experiência terrível.	It was a terrible experience.	Same for m/f.				adjective
+LemVvig`D<	A2_custom	simpático	nice / friendly	O empregado foi muito simpático.	The waiter was very friendly.	"Feminine: <strong>simpática</strong>. False friend: ≠ ""sympathetic""."				adjective feeling
+KEVr1$09&f	A2_custom	antipático	unfriendly / unpleasant	Ele é antipático com toda a gente.	He's unfriendly with everyone.	Feminine: <strong>antipática</strong>.				adjective feeling
+qSeva6dF~Q	A2_custom	alegre	cheerful	Ela é sempre alegre de manhã.	She's always cheerful in the morning.	Same for m/f.				adjective feeling
+KVfiGb<<le	A2_custom	calmo	calm	Ele é uma pessoa muito calma.	He's a very calm person.	Feminine: <strong>calma</strong>.				adjective feeling
+EINs|?N3{7	A2_custom	nervoso	nervous / anxious	Fico nervoso antes das provas.	I get nervous before tests.	Feminine: <strong>nervosa</strong>.				adjective feeling
+f?9Xc&qF2T	A2_custom	tímido	shy	O meu filho é muito tímido na escola.	My son is very shy at school.	Feminine: <strong>tímida</strong>.				adjective feeling
+H%0a|lT]Vc	A2_custom	engraçado	funny	Ele conta histórias muito engraçadas.	He tells very funny stories.	Feminine: <strong>engraçada</strong>.				adjective feeling
+tm4r/=ep_=	A2_custom	inteligente	intelligent	Ela é uma pessoa muito inteligente.	She's a very intelligent person.	Same for m/f.				adjective feeling
+QXsks<4hQ=	A2_custom	preguiçoso	lazy	Ao domingo, sou um pouco preguiçoso.	On Sundays, I'm a bit lazy.	Feminine: <strong>preguiçosa</strong>.				adjective feeling
+yFR5CZudu(	A2_custom	honesto	honest	Acho que ele é uma pessoa honesta.	I think he's an honest person.	Feminine: <strong>honesta</strong>.				adjective feeling
+JuN%cUodW8	A2_custom	educado	polite / well-mannered	Os teus filhos são muito educados.	Your children are very polite.	"Feminine: <strong>educada</strong>. False friend: ≠ only ""educated""."				adjective feeling
+n~8IF3U$He	A2_custom	feliz	happy	Estou muito feliz com o resultado.	I'm very happy with the result.	Same for m/f. Plural: <strong>felizes</strong>.				adjective feeling
+nWVx7gy]Uy	A2_custom	triste	sad	Ela ficou triste com a notícia.	She was sad with the news.	Same for m/f.				adjective feeling
+"B#=SAyKgN!"	A2_custom	contente	glad / pleased	Estou contente por te ver.	I'm glad to see you.	Same for m/f.				adjective feeling
+FulOJG:W0s	A2_custom	cansado	tired	Estou cansado depois do trabalho.	I'm tired after work.	Feminine: <strong>cansada</strong>.				adjective feeling
+QyDRGYTbjr	A2_custom	saudável	healthy	Ela leva uma vida saudável.	She leads a healthy life.	Same for m/f.				adjective Health
+iK,<6CaD1U	A2_custom	zangado	angry	Ficou zangado com o chefe.	He got angry at the boss.	Feminine: <strong>zangada</strong>.				adjective feeling
+w62xh]deS9	A2_custom	preocupado	worried	Estou preocupado com o exame.	I'm worried about the exam.	Feminine: <strong>preocupada</strong>.				adjective feeling
+"wC+.sPO}C#"	A2_custom	ocupado	busy	Estou ocupado esta semana.	I'm busy this week.	Feminine: <strong>ocupada</strong>.				adjective feeling
+yR%5@H$V8C	A2_custom	apaixonado	in love	Está apaixonado pela colega.	He's in love with his colleague.	Feminine: <strong>apaixonada</strong>. Takes <strong>por</strong>.				adjective feeling
+y@J,/e=N65	A2_custom	magro	thin / slim	Ele é alto e magro.	He is tall and thin.	Feminine: <strong>magra</strong>.				adjective
+ws3?m=ngrj	A2_custom	gordo	fat	O gato é gordo e preguiçoso.	The cat is fat and lazy.	Feminine: <strong>gorda</strong>. Can be offensive for people — use with care.				adjective
+Feo$72/{Ls	A2_custom	fraco	weak	Estou fraco depois da gripe.	I feel weak after the flu.	Feminine: <strong>fraca</strong>.				adjective
+qMO].Gw)(U	A2_custom	careca	bald	O meu pai está careca há anos.	My dad has been bald for years.	Same for m/f.				adjective
+hE3neY3u1D	A2_custom	barbudo	bearded	Aquele homem barbudo é meu tio.	That bearded man is my uncle.	Feminine: <strong>barbuda</strong>.				adjective
+I6UEtuh!nn	A2_custom	preto	black	O meu gato é preto.	My cat is black.	Feminine: <strong>preta</strong>.				adjective color
+w*~OA3@rhu	A2_custom	vermelho	red	Gosto de vinho vermelho... quer dizer, tinto.	"I like red wine... well, ""tinto"" in Portuguese."	Feminine: <strong>vermelha</strong>. For wine, use <strong>tinto</strong>.				adjective color
+G~VO[w<nK.	A2_custom	azul	blue	O céu está azul hoje.	The sky is blue today.	Same for m/f. Plural: <strong>azuis</strong>.				adjective color
+"t}|&1x#*1&"	A2_custom	verde	green	A relva está verde na primavera.	The grass is green in spring.	Same for m/f.				adjective color
+N-mUTdRr0y	A2_custom	amarelo	yellow	O limão é amarelo.	The lemon is yellow.	Feminine: <strong>amarela</strong>.				adjective color
+c25rWx:[Z,	A2_custom	cor-de-rosa	pink	A blusa cor-de-rosa é linda.	The pink blouse is lovely.	Invariable — no gender change.				adjective color
+P8%/[-Q8&!	A2_custom	cor-de-laranja	orange	As folhas ficam cor-de-laranja no outono.	The leaves turn orange in autumn.	Invariable.<div>Trying to disambiguate from the fruit.&nbsp;</div>				adjective color
+"uI9P#_?0r{"	A2_custom	castanho	brown	Tenho os olhos castanhos.	I have brown eyes.	Feminine: <strong>castanha</strong>. BR: <strong>marrom</strong>.				adjective color
+gg_%1eX5m_	A2_custom	cinzento	gray	O céu está cinzento hoje.	The sky is gray today.	Feminine: <strong>cinzenta</strong>. BR: <strong>cinza</strong> (invariable).				adjective color
+t^qNypee!M	A2_custom	roxo	purple	As uvas roxas são doces.	Purple grapes are sweet.	Feminine: <strong>roxa</strong>.				adjective color
+"y-5$f2#]@1"	A2_custom	quente	hot	Esta sopa está muito quente.	This soup is very hot.	Same for m/f.				adjective Weather
+vF8tG0/i}x	A2_custom	frio	cold	A água do mar está fria hoje.	The sea water is cold today.	Feminine: <strong>fria</strong>. (The masculine noun <strong>o frio</strong> = cold weather/sensation has its own card.)				adjective Weather
+G9i0E|<Ea7	A2_custom	fresco	cool / fresh	Uma brisa fresca vinha do mar.	A cool breeze came from the sea.	"Feminine: <strong>fresca</strong>. Both ""cool (temp)"" and ""fresh (not stale)""."				adjective Weather
+vmy{OT+_<)	A2_custom	seco	dry	A roupa já está seca.	The clothes are already dry.	Feminine: <strong>seca</strong>.				adjective Weather
+u3%G<6$DH(	A2_custom	húmido	humid / damp	O tempo está húmido hoje.	The weather is humid today.	Feminine: <strong>húmida</strong>. EP; BR: <strong>úmido</strong>.				adjective Weather
+j-aPJWA+!x	A2_custom	ensolarado	sunny	Hoje é um dia ensolarado.	Today is a sunny day.	Feminine: <strong>ensolarada</strong>.				adjective Weather
+e>4P$Y>@-_	A2_custom	nublado	cloudy	O céu está nublado desde ontem.	The sky has been cloudy since yesterday.	Feminine: <strong>nublada</strong>.				adjective Weather
+O4JOQefUE%	A2_custom	chuvoso	rainy	Novembro é um mês chuvoso.	November is a rainy month.	Feminine: <strong>chuvosa</strong>.				adjective Weather
+"qWe.&5kzf#"	A2_custom	doce	sweet	Este bolo está muito doce.	This cake is very sweet.	Same for m/f. Also noun: <strong>um doce</strong> (a sweet).				adjective Food
+PXVSjz_$Op	A2_custom	salgado	salty	A sopa está salgada demais.	The soup is too salty.	Feminine: <strong>salgada</strong>.				adjective Food
+h6:d(]GoSn	A2_custom	amargo	bitter	O café está amargo sem açúcar.	Coffee is bitter without sugar.	Feminine: <strong>amarga</strong>.				adjective Food
+DMOt[J1yyZ	A2_custom	picante	spicy	A comida indiana costuma ser picante.	Indian food tends to be spicy.	Same for m/f.				adjective Food
+KGeAf3Q8yD	A2_custom	gelado	frozen / very cold	Quero água gelada, por favor.	I'd like ice-cold water, please.	Feminine: <strong>gelada</strong>. Also noun <strong>um gelado</strong> (ice cream).				adjective Food
+"h}?|<#vNfu"	A2_custom	delicioso	delicious	O jantar estava delicioso.	Dinner was delicious.	Feminine: <strong>deliciosa</strong>.				adjective Food
+Ey>dvjN&${	A2_custom	saboroso	tasty	Esta sopa é muito saborosa.	This soup is very tasty.	Feminine: <strong>saborosa</strong>.				adjective Food
+HCTkA_}TuY	A2_custom	caro	expensive	Este restaurante é caro demais.	This restaurant is too expensive.	Feminine: <strong>cara</strong>. Don't confuse with noun <em>cara</em> (face).				adjective Shopping
+r%jwihjhuJ	A2_custom	barato	cheap / inexpensive	Encontrei um hotel barato perto do centro.	I found a cheap hotel near the center.	Feminine: <strong>barata</strong>.				adjective Shopping
+"Hz:#wegQ:;"	A2_custom	grátis	free (no cost)	A entrada no museu é grátis ao domingo.	Entry to the museum is free on Sundays.	Invariable — same for m/f/pl.				adjective Shopping
+H,KSv&@?~4	A2_custom	lento	slow	A internet está lenta hoje.	The internet is slow today.	Feminine: <strong>lenta</strong>.				adjective
+snfEWn26W]	A2_custom	limpo	clean	A cozinha está limpa.	The kitchen is clean.	Feminine: <strong>limpa</strong>.				adjective
+l,iWE7sqry	A2_custom	sujo	dirty	Os sapatos estão sujos de lama.	The shoes are dirty with mud.	Feminine: <strong>suja</strong>.				adjective
+Hex]`4xU9G	A2_custom	escuro	dark	Está escuro lá fora.	It's dark outside.	Feminine: <strong>escura</strong>.				adjective color
+cv9R{CdQ5q	A2_custom	errado	wrong	A informação está errada.	The information is wrong.	Feminine: <strong>errada</strong>.				adjective
+e5pzW^3n1i	A2_custom	falso	false	Isso é uma afirmação falsa.	That's a false statement.	Feminine: <strong>falsa</strong>.				adjective
+fh[2:jT$|J	A2_custom	impossível	impossible	É impossível chegar a tempo.	It's impossible to arrive on time.	Same for m/f.				adjective
+uiKmU@-E9t	A2_custom	espanhol	Spanish	A minha vizinha é espanhola.	My neighbor is Spanish.	Feminine: <strong>espanhola</strong>.				adjective nationality
+Nu$Tp~8{oM	A2_custom	francês	French	Ele fala francês fluentemente.	He speaks French fluently.	Feminine: <strong>francesa</strong>. Plural: <strong>franceses/francesas</strong>.				adjective nationality
+IKUXpWdrrT	A2_custom	inglês	English	O meu professor é inglês.	My teacher is English.	Feminine: <strong>inglesa</strong>. Plural: <strong>ingleses/inglesas</strong>.				adjective nationality
+s|fB3OuxU%	A2_custom	alemão	German	Ela aprende alemão há dois anos.	She has been learning German for two years.	"Feminine: <strong>alemã</strong>. Irregular plural: <strong style=""color: red;"">alemães</strong> (m) / <strong>alemãs</strong> (f) — the masculine uses the rare <strong>-ão → -ães</strong> pattern; the feminine is regular <em>-ã → -ãs</em>."				adjective nationality
+xtIpU1AvrE	A2_custom	italiano	Italian	A comida italiana é a minha preferida.	Italian food is my favorite.	Feminine: <strong>italiana</strong>.				adjective nationality
+x[<.5|u7/w	A2_custom	americano	American	Os turistas americanos gostam de Lisboa.	American tourists like Lisbon.	Feminine: <strong>americana</strong>.				adjective nationality
+"yGio#iN10"	A2_custom	chinês	Chinese	Há um restaurante chinês perto de casa.	There's a Chinese restaurant near home.	Feminine: <strong>chinesa</strong>. Plural: <strong>chineses/chinesas</strong>.				adjective nationality
+C+[M*D;HJO	A2_custom	africano	African	Visitei vários países africanos.	I visited several African countries.	Feminine: <strong>africana</strong>.				adjective nationality
+jmn/C1Qu|w	A2_custom	a (preposition)	to / at	Vou a Lisboa amanhã de comboio.	I'm going to Lisbon tomorrow by train.	Contracts with articles: <strong>a + o/a/os/as = ao, à, aos, às</strong>. Also the feminine article <strong>a</strong>.			[sound:1000_a.mp3]	glue preposition
+"nMwY}I5#u!"	A2_custom	quarto (not room)	fourth	Abril é o quarto mês do ano.	April is the fourth month of the year.	Feminine: <strong>quarta</strong>. Also the masculine noun <strong>o quarto</strong> (bedroom / room).			[sound:1000_quarto.mp3]	numeral ordinal
+EF-?gwa46m	A2_custom	claro (adjective)	light / clear	Prefiro a camisa azul clara.	I prefer the light blue shirt.	"Feminine: <strong>clara</strong>. Also the interjection <strong>claro</strong> (""of course"")."			[sound:1000_claro.mp3]	adjective color
+bd*6}cyUNN	A2_custom	o frio	cold (noun)	No inverno, o frio é intenso no norte.	In winter, the cold is intense in the north.	(m). Also the adjective <strong>frio/a</strong> (cold): <em>água fria</em>. Common idiom: <em>tenho frio</em> = I feel cold.				noun Weather
+M^FAT90ssw	A2_custom	que (conjunction)	that	Acho que vai chover esta tarde.	I think (that) it's going to rain this afternoon.	Subordinating conjunction introducing clauses. Often untranslated in English. Also the question word <strong>que</strong> (what) and the relative pronoun (<em>o livro que li</em>).			[sound:1000_que.mp3]	conjunction glue
+IYm~D/HB>1	A2_custom	se (reflexive)	himself / herself / yourself (formal) / themselves	Ela chama-se Ana e levanta-se cedo.	Her name is Ana and she gets up early.	3rd-person reflexive pronoun (sg. and pl.) and formal-you reflexive. Attached to the verb with a hyphen in affirmative: <em>lava-se, senta-se</em>. Proclitic after <strong>não, que, quando, porque</strong>: <em>não se lava</em>. Also the conjunction <strong>se</strong> (if).			[sound:1000_se.mp3]	glue grammar pronoun
+A%/|1BT^V.	A2_custom	boa	good (f)	Esta sopa é boa e quente.	This soup is good and hot.	Feminine of <strong>bom</strong>. Adverb: <strong>bem</strong>. Common in greetings: <em>boa tarde, boa noite</em>.				adjective
+e*NqucQlvy	A2_custom	má	bad (f)	Ela está de má disposição hoje.	She's in a bad mood today.	Feminine of <strong>mau</strong>. Adverb: <strong>mal</strong>.				adjective
+pVAHRD*Omp	A2_custom	duas	two (f)	Tenho duas irmãs mais novas.	I have two younger sisters.	Feminine of <strong>dois</strong>. Used with feminine nouns: <em>duas mesas</em>, <em>duas horas</em>.				number numeral
+cANL=@55rx	A2_custom	a avó	grandmother	A minha avó cozinha muito bem.	My grandmother cooks very well.	(f). Masculine: <strong>o avô</strong>. Note the accent difference — <em>avô</em> has circumflex (closed /o/), <em>avó</em> has acute (open /ɔ/). Plural <strong>avós</strong> = grandparents.				family noun
+J4!U=bbWnt	A2_custom	cerca de	about / around (approx.)	Cerca de cinquenta pessoas vieram à festa.	About fifty people came to the party.	Used before quantities, times, or approximations.			[sound:1000_cerca.mp3]	phrase
+O|:9`[UY;$	A2_custom	junto a	next to / together with	Sentou-se junto à janela.	He sat next to the window.	Also adjective <strong>junto/a</strong> (together). With <strong>a</strong>: next to. With <strong>com</strong>: together with.			[sound:1000_junto.mp3]	direction phrase
+NY.X0`s&Zl	A2_custom	acima de	above	O avião voa acima das nuvens.	The plane flies above the clouds.	Opposite: <strong>abaixo de</strong>.			[sound:1000_acima.mp3]	direction phrase
+y{ip7Hpn:F	A2_custom	a gente	we (colloquial) / people	A gente vai ao cinema esta noite?	Shall we go to the cinema tonight?	"(f, singular). Very common EP informal ""we"" — takes 3rd-person singular verb: <em>a gente vai</em>, not <em>a gente vamos</em>. Also literally means ""the people"".<br><br><strong>Register note:</strong> avoid in formal exam writing (e.g. CIPLE) — prefer <strong>nós</strong>."			[sound:1000_gente.mp3]	glue grammar pronoun
+I~eVme{v~B	A2_custom	o lado	side	Do outro lado da rua há uma farmácia.	There's a pharmacy on the other side of the street.	(m). Common phrases: <em>ao lado de</em> (next to), <em>do lado</em> (aside), <em>por um lado / por outro lado</em> (on one hand / on the other hand).			[sound:1000_lado.mp3]	noun
+OIwqnCiW7^	A2_custom	a razão	reason	Não sei a razão de ele estar zangado.	I don't know the reason he's angry.	(f). Key idiom: <strong>ter razão</strong> = to be right (<em>tens razão</em> = you're right). Plural: <strong>razões</strong>.			[sound:1000_razão.mp3]	noun
+e*g8?M;^ju	A2_custom	a verdade	truth	Diz a verdade, por favor.	Tell the truth, please.	(f). Key idiom: <strong>é verdade</strong> = it's true. Also <em>na verdade</em> = actually.			[sound:1000_verdade.mp3]	noun
+dpUM[sW`*J	A2_custom	a luz	light	Liga a luz, por favor.	Turn on the light, please.	(f), despite ending in <em>-z</em>. Plural: <strong>luzes</strong>. Also electricity bill context.			[sound:1000_luz.mp3]	home noun
+lJ,Fh,g9k2	A2_custom	o ar	air	Preciso de ar fresco.	I need fresh air.	(m). Common phrases: <em>ao ar livre</em> (outdoors), <em>ter ar de</em> (to look like).			[sound:1000_ar.mp3]	noun
+"r#jjcZ|7m}"	A2_custom	a terra	earth / ground / land	O livro caiu no chão e ficou sujo de terra.	The book fell on the floor and got dirty with soil.	"(f). Also means ""hometown"" (<em>a minha terra</em> = my homeland) and Earth (with capital T: <em>a Terra</em>)."			[sound:1000_terra.mp3]	noun
+b2.HfygpL{	A2_custom	a lei	law	A lei é igual para todos.	The law is the same for everyone.	(f). Plural: <strong>leis</strong>.			[sound:1000_lei.mp3]	noun
+B?:8/eg}y2	A2_custom	a ordem	order	Põe os livros por ordem alfabética.	Put the books in alphabetical order.	"(f), despite ending in <em>-m</em>. Plural: <strong>ordens</strong>. Also means ""command""."			[sound:1000_ordem.mp3]	noun
+zVvqp&Ew_:	A2_custom	a data	date	Qual é a data de hoje?	What's today's date?	(f). <em>Data de nascimento</em> = date of birth.			[sound:1000_data.mp3]	noun Time
+Bm:vtzaldb	A2_custom	a maneira	way / manner	Não gosto da maneira como ele fala.	I don't like the way he speaks.	(f). Synonym: <strong>modo</strong>. Phrase: <em>de qualquer maneira</em> = anyway.			[sound:1000_maneira.mp3]	noun
+fcok))3r`;	A2_custom	o lugar	place	Este é o meu lugar preferido na cidade.	This is my favorite place in the city.	(m). Synonym: <strong>sítio</strong>. Phrase: <em>em lugar de</em> = instead of.			[sound:1000_lugar.mp3]	noun place
+ju}90UYA.A	A2_custom	a parte	part	Esta parte do livro é a mais interessante.	This part of the book is the most interesting.	(f). Phrase: <em>a maior parte</em> = the majority. <em>por toda a parte</em> = everywhere.			[sound:1000_parte.mp3]	noun
+qGYsQarqc^	A2_custom	a frente	front	Vou sentar-me na frente da sala.	I'll sit at the front of the room.	(f). Related to <strong>em frente</strong> (ahead) and <strong>à frente de</strong> (in front of).			[sound:1000_frente.mp3]	direction noun
+nig?}E;:oe	A2_custom	a volta	turn / lap / walk	Vamos dar uma volta pela cidade.	Let's take a walk around the city.	(f). Phrases: <em>dar uma volta</em> = to take a walk, <em>à volta de</em> = around, <em>de volta</em> = back.			[sound:1000_volta.mp3]	noun
+f,ofRW~{&<	A2_custom	o fim	end	Chegámos ao fim da estrada.	We reached the end of the road.	(m). Phrase: <em>no fim</em> = in the end. <em>fim de semana</em> = weekend.			[sound:1000_fim.mp3]	noun Time
+o3Zs9;-sn$	A2_custom	o início	beginning	No início da aula, a professora fez uma pergunta.	At the beginning of class, the teacher asked a question.	(m). Synonym: <strong>começo</strong>.			[sound:1000_início.mp3]	noun Time
+Qa5ficG%:N	A2_custom	o momento	moment	Neste momento, estou muito ocupado.	At this moment, I'm very busy.	(m). Phrase: <em>a qualquer momento</em> = at any moment.			[sound:1000_momento.mp3]	noun Time
+c0?W_ddi^0	A2_custom	o caminho	path / way	Não sei o caminho para a estação.	I don't know the way to the station.	(m). Phrase: <em>a caminho de</em> = on the way to.			[sound:1000_caminho.mp3]	direction noun
+ok6aym_,`=	A2_custom	o ponto	point / dot	Não percebi esse ponto da explicação.	I didn't understand that point of the explanation.	(m). Also the punctuation mark (full stop). <em>em ponto</em> = exactly (time).			[sound:1000_ponto.mp3]	noun
+q~;rC_Q+eA	A2_custom	a opinião	opinion	Na minha opinião, o filme foi ótimo.	In my opinion, the film was great.	(f). Plural: <strong>opiniões</strong>.			[sound:1000_opinião.mp3]	noun
+G47zIg~gr	A2_custom	a saída	exit	A saída fica ao fundo à direita.	The exit is at the back on the right.	(f). From the verb <strong>sair</strong>.			[sound:1000_saída.mp3]	noun place
+p(x/Pg)D1|	A2_custom	a entrada	entrance	A entrada do museu é gratuita aos domingos.	Entrance to the museum is free on Sundays.	(f). From the verb <strong>entrar</strong>.			[sound:1000_entrada.mp3]	noun place
+tO>tQ$yr/~	A2_custom	a visita	visit	A visita aos meus avós foi muito agradável.	The visit to my grandparents was very pleasant.	(f). Verb: <strong>visitar</strong>.			[sound:1000_visita.mp3]	noun
+Ec!N$rk1Ws	A2_custom	a página	page	Abre o livro na página vinte.	Open the book to page twenty.	"(f). Also ""web page""."			[sound:1000_página.mp3]	noun
+v;OMgkq(YS	A2_custom	a lista	list	Fiz uma lista de compras antes de sair.	I made a shopping list before leaving.	(f).			[sound:1000_lista.mp3]	noun
+x3oqGDP^!x	A2_custom	a nota	grade / note	Tive uma boa nota no teste de português.	I got a good grade on the Portuguese test.	"(f). Means ""grade"" (school), ""note"" (music or message), and ""banknote""."			[sound:1000_nota.mp3]	noun school
+dJvkkxLL5S	A2_custom	a ajuda	help	Preciso da tua ajuda com isto.	I need your help with this.	(f). Verb: <strong>ajudar</strong>.			[sound:1000_ajuda.mp3]	noun
+"L[&qLuAH#s"	A2_custom	o cuidado	care / caution	Conduz com cuidado.	Drive with care.	(m). See also the interjection <strong>cuidado!</strong> = watch out!			[sound:1000_cuidado.mp3]	noun
+AqlajT=&.~	A2_custom	o favor	favor	Podes fazer-me um favor?	Can you do me a favor?	(m). Phrase: <em>por favor</em> = please. <em>a favor de</em> = in favor of.			[sound:1000_favor.mp3]	noun
+G~9VU228lQ	A2_custom	a pena	pity / shame	Que pena não poderes vir!	What a pity you can't come!	"(f). Most A2 use: <em>que pena!</em> = what a pity! Also means ""feather"" and ""penalty""."			[sound:1000_pena.mp3]	feeling noun
+cmj|wE:5du	A2_custom	a altura	height / point in time	Naquela altura, ainda morava em Coimbra.	At that time, I still lived in Coimbra.	(f). Means both physical height and a point in time.			[sound:1000_altura.mp3]	noun
+bZriT_5NR-	A2_custom	a universidade	university	Estudo na Universidade de Lisboa.	I study at the University of Lisbon.	(f). Short form: <strong>a uni</strong>.			[sound:1000_universidade.mp3]	noun school
+I@@w~&GPv-	A2_custom	o erro	mistake / error	Cometi um erro no exame.	I made a mistake on the exam.	(m).			[sound:1000_erro.mp3]	noun
+kcYSYHFo[Z	A2_custom	a escolha	choice	A escolha do restaurante foi difícil.	The choice of restaurant was difficult.	(f). Verb: <strong>escolher</strong>.			[sound:1000_escolha.mp3]	noun
+rjNnis<s]`	A2_custom	a oportunidade	opportunity	Tive a oportunidade de viajar para o Japão.	I had the opportunity to travel to Japan.	(f).			[sound:1000_oportunidade.mp3]	noun
+D}Ev)rA8d?	A2_custom	a zona	area / zone	Moro numa zona calma da cidade.	I live in a quiet area of the city.	(f).			[sound:1000_zona.mp3]	noun place
+gqX.oh/}0l	A2_custom	o espaço	space	Não há espaço suficiente para todos.	There isn't enough space for everyone.	(m). Also outer space.			[sound:1000_espaço.mp3]	noun
+dwxAj.wYxQ	A2_custom	o ambiente	environment / atmosphere	O ambiente no café é muito agradável.	The atmosphere in the café is very pleasant.	"(m). Also ""environment"" (natural world): <em>o meio ambiente</em>."			[sound:1000_ambiente.mp3]	noun
+zoI|zYi6DI	A2_custom	a época	era / season / time	Esta é a época das laranjas.	This is orange season.	"(f). Used for historical eras and for ""the time when something happens""."			[sound:1000_época.mp3]	noun Time
+cFBl3]E4$7	A2_custom	a força	strength / force	Não tenho força para abrir este frasco.	I don't have the strength to open this jar.	(f). Phrase: <em>com força</em> = strongly / hard. As encouragement: <em>Força!</em> = You can do it!			[sound:1000_força.mp3]	noun
+"q_+#6=~<QQ"	A2_custom	a memória	memory	Tenho boa memória para nomes.	I have a good memory for names.	(f). Also computer memory.			[sound:1000_memória.mp3]	noun
+h]V<:@y_*5	A2_custom	o século	century	Vivemos no século vinte e um.	We live in the twenty-first century.	(m). Used for historical dates: <em>o século XVIII</em>.			[sound:1000_século.mp3]	noun Time
+j;Wpr1:d3C	A2_custom	o amor	love	O amor entre eles é muito forte.	The love between them is very strong.	(m). Verb: <strong>amar</strong>. Plural: <strong>amores</strong>.			[sound:1000_amor.mp3]	feeling noun
+KCe>|NY:PW	A2_custom	principal (PT)	main	A rua principal da cidade tem muitas lojas.	The main street of the city has many shops.	Same form for m/f. Plural: <strong>principais</strong>.			[sound:1000_principal.mp3]	adjective
+b:7A)NV.Bj	A2_custom	cuidado (interjection)	watch out! / careful!	Cuidado! O chão está molhado.	Watch out! The floor is wet.	Used to warn someone of imminent danger. The noun <strong>o cuidado</strong> (care / caution) has its own card.			[sound:1000_cuidado.mp3]	glue interjection
+p@d2locw;g	A2_custom	e	and	Tenho um irmão e uma irmã mais nova.	I have a brother and a younger sister.				[sound:1000_e.mp3]	conjunction glue
+gYIz@98V<B	A2_custom	ou	or	Queres café ou chá depois do jantar?	Do you want coffee or tea after dinner?				[sound:1000_ou.mp3]	conjunction glue
+"qc4q$tz#Px"	A2_custom	mas	but	Gosto de viajar, mas não tenho dinheiro.	I like to travel, but I don't have money.				[sound:1000_mas.mp3]	conjunction glue
+mqPtQAioTk	A2_custom	porque	because	Fico em casa porque está a chover muito.	I'm staying home because it's raining a lot.	Conjunction (attached: <strong>porque</strong>). Question word is <strong>porquê</strong>.			[sound:1000_porque.mp3]	conjunction glue
+fxi>E:E$5B	A2_custom	então	so / then	Estou cansado. Então vou para casa.	I'm tired. So I'm going home.				[sound:1000_então.mp3]	conjunction glue
+gU])|%d6eo	A2_custom	quando	when	Quando chego a casa, jantamos juntos.	When I get home, we have dinner together.	Also a question word: <strong>Quando chegas?</strong>			[sound:1000_quando.mp3]	conjunction glue Time
+I{5:bU@hfP	A2_custom	se (not pronoun)	if	Se chover amanhã, ficamos em casa.	If it rains tomorrow, we stay home.	Subordinating conjunction. Triggers the subjunctive in future contexts: <em>se chover amanhã</em>. (The reflexive pronoun <strong>se</strong> has its own card.)			[sound:1000_se.mp3]	conjunction glue
+"hwqR+izo#*"	A2_custom	durante	during	Durmo mal durante o verão por causa do calor.	I sleep badly during the summer because of the heat.				[sound:1000_durante.mp3]	glue preposition Time
+GcBTj?@fyh	A2_custom	enquanto	while	Ouço música enquanto trabalho.	I listen to music while I work.				[sound:1000_enquanto.mp3]	conjunction glue
+slb8$7[^_6	A2_custom	por isso	for this reason / so	Está frio, por isso levo um casaco.	It's cold, so I'm taking a coat.					conjunction glue
+uLztY;`&LN	A2_custom	do que	than	O meu irmão é mais alto do que eu.	My brother is taller than I am.	Used after comparatives (<strong>mais</strong>, <strong>menos</strong>).				conjunction glue
+nuQPy9h.U?	A2_custom	nem	nor / not even	Não como carne nem peixe.	I eat neither meat nor fish.				[sound:1000_nem.mp3]	conjunction glue
+fh%RG,`M?>	A2_custom	de	of / from	Sou de Lisboa, mas moro no Porto há cinco anos.	I'm from Lisbon but I've lived in Porto for five years.	Contracts with articles: <strong>do, da, dos, das</strong>.			[sound:1000_de.mp3]	glue preposition
+D>:.[,6q6%	A2_custom	em	in / on / at	Trabalho em casa às segundas e às quartas.	I work from home on Mondays and Wednesdays.	Contracts: <strong>no, na, nos, nas</strong>.			[sound:1000_em.mp3]	glue preposition
+jlU./f<<Ys	A2_custom	para	for / to	Comprei este presente para a minha mãe.	I bought this gift for my mother.	Destination / recipient / purpose. Contrast with <strong>por</strong> (cause, means).			[sound:1000_para.mp3]	glue preposition
+K)$D+L=Hq^	A2_custom	por	by / through / for	Passo por tua casa todos os dias.	I pass by your house every day.	Contracts: <strong>pelo, pela, pelos, pelas</strong>. Cause or means — contrast with <strong>para</strong>.			[sound:1000_por.mp3]	glue preposition
+L<BZ%*R]HO	A2_custom	com	with	Vou ao cinema com os meus amigos.	I'm going to the cinema with my friends.	Fuses with pronouns: <strong>comigo, contigo, consigo, connosco, convosco</strong>.			[sound:1000_com.mp3]	glue preposition
+qT.EtjK;Q,	A2_custom	sem	without	Não saio de casa sem as chaves.	I don't leave home without my keys.				[sound:1000_sem.mp3]	glue preposition
+pTn<[[N;ZY	A2_custom	sobre	on / about	O livro está sobre a mesa.	The book is on the table.	"Also means ""about"" a topic: <strong>um livro sobre Portugal</strong>."			[sound:1000_sobre.mp3]	glue preposition
+Ap](JX9E(^	A2_custom	entre	between / among	A farmácia fica entre o banco e o café.	The pharmacy is between the bank and the café.				[sound:1000_entre.mp3]	glue preposition
+HR{4<9263@	A2_custom	até	until / up to / even	Fico aqui até às cinco da tarde.	I'm staying here until five in the afternoon.	"Also means ""even"": <strong>até eu sei fazer isso</strong>."			[sound:1000_até.mp3]	glue preposition
+vArXJ%Pme-	A2_custom	o	the (m)	O café está quente demais para mim.	The coffee is too hot for me.	Masculine definite article. Plural: <strong>os</strong>. Feminine: <strong>a</strong>. Contracts with prepositions (ao, do, no, pelo).			[sound:1000_o.mp3]	article glue
+b$z-!P77j%	A2_custom	a	the (f)	A casa nova dos meus pais é grande.	My parents' new house is big.	Feminine definite article. Plural: <strong>as</strong>. Masculine: <strong>o</strong>. (The preposition <strong>a</strong> = to/at has its own card.)			[sound:1000_a.mp3]	article glue
+u?28}<RHmQ	A2_custom	um	a / one (m)	Quero um café, por favor.	I'd like a coffee, please.	"Feminine: <strong>uma</strong>. Plural: <strong>uns</strong>. Also used as the numeral ""one""."			[sound:1000_um.mp3]	article glue numeral
+l^=UEcIaM@	A2_custom	uma	a / one (f)	Tenho uma irmã mais nova e dois irmãos.	I have a younger sister and two brothers.	Masculine: <strong>um</strong>. Plural: <strong>umas</strong>.			[sound:1000_uma.mp3]	article glue numeral
+EQgo^RUbr:	A2_custom	que (not that)	what	Que queres fazer hoje à noite?	What do you want to do tonight?	Question word. Also serves as relative pronoun: <em>o livro que li</em> (the book that I read). (The subordinating conjunction <strong>que</strong> = that has its own card.)			[sound:1000_que.mp3]	glue pronoun question
+N:QSrApKWC	A2_custom	o que	what (emphatic)	O que é que fazes ao fim de semana?	What do you do on weekends?	Slightly stronger than <strong>que</strong> alone. Often paired with <strong>é que</strong>.				glue pronoun question
+EbVJjYb[|e	A2_custom	quem	who / whom	Quem é aquela pessoa ao pé da porta?	Who is that person by the door?	Invariable — no gender/number.			[sound:1000_quem.mp3]	glue pronoun question
+"d[!;i#-{o}"	A2_custom	de quem	whose	De quem é este casaco?	Whose coat is this?	"Literally ""of whom""."				glue phrase question
+vI]~7=4/r	A2_custom	onde	where	Onde mora o teu irmão mais velho?	Where does your older brother live?	With direction: <strong>aonde</strong> (to where, colloquial).			[sound:1000_onde.mp3]	adverb glue question
+J(7]%,c7Zi	A2_custom	porquê	why	Porquê essa cara triste?	Why that sad face?	Question word (stressed on final syllable). Don't confuse with conjunction <strong>porque</strong> (because).				adverb glue question
+bUiv7rnv?%	A2_custom	qual	which	Qual é a tua cor preferida?	What is your favorite color?	Plural: <strong>quais</strong>. Picks one out of a known set.			[sound:1000_qual.mp3]	glue pronoun question
+cB}UysDg2m	A2_custom	quais	which (pl.)	Quais são os teus livros preferidos?	Which are your favorite books?	Plural of <strong>qual</strong>.				glue pronoun question
+z5$VQV`}$H	A2_custom	quanto	how much	Quanto custa este livro?	How much does this book cost?	Agrees with noun: <strong>quanto/a/os/as</strong>.			[sound:1000_quanto.mp3]	adverb glue question
+l`MdRd/0Gv	A2_custom	quantos	how many	Quantos anos tens?	How old are you?	Feminine: <strong>quantas</strong>.				adverb glue question
+EjQde6|}V7	A2_custom	é que	(question emphasis)	Onde é que vais esta noite?	Where are you going tonight?	Optional particle after a question word to emphasize. Untranslated.				glue phrase question
+s.n2f~*]Z|	A2_custom	este	this (m, near me)	Este livro é muito interessante.	This book is very interesting.	Feminine: <strong>esta</strong>. Neuter: <strong>isto</strong>. Plural: <strong>estes/estas</strong>. Refers to something near the speaker.			[sound:1000_este.mp3]	glue grammar pronoun
+"OAY#bY)eA4"	A2_custom	esse	that (m, near you)	Esse café que tens aí é bom?	Is that coffee you have there good?	Feminine: <strong>essa</strong>. Neuter: <strong>isso</strong>. Plural: <strong>esses/essas</strong>. Near the listener.			[sound:1000_esse.mp3]	glue grammar pronoun
+xcq(C@&N07	A2_custom	aquele	that (m, far from both)	Aquele prédio ali é muito antigo.	That building over there is very old.	Feminine: <strong>aquela</strong>. Neuter: <strong>aquilo</strong>. Plural: <strong>aqueles/aquelas</strong>. Far from both speakers.			[sound:1000_aquele.mp3]	glue grammar pronoun
+zI&ky-Pz}!	A2_custom	meu	my	O meu carro novo é azul.	My new car is blue.	Masculine possessive. Plural: <strong>meus</strong>. Usually with article: <em>o meu carro</em>. Feminine form <strong>minha</strong> has its own card.			[sound:1000_meu.mp3]	glue grammar pronoun
+eMD4;j.W,8	A2_custom	teu	your (informal)	O teu irmão é muito simpático.	Your brother is very nice.	Masculine possessive, informal singular. Plural: <strong>teus</strong>. Formal: <strong>seu</strong>. Feminine form <strong>tua</strong> has its own card.				glue grammar pronoun
+GQr)HXE[@R	A2_custom	seu	his / her / your (formal)	Qual é o seu nome completo?	What is your full name?	Ambiguous — can mean his/her/your. To disambiguate: <strong>o carro dele</strong> (his car), <strong>dela</strong> (hers). Feminine form <strong>sua</strong> has its own card.			[sound:1000_seu.mp3]	glue grammar pronoun
+geEGW3s77O	A2_custom	nosso	our	A nossa casa fica perto do parque.	Our house is near the park.	Feminine: <strong>nossa</strong>. Plural: <strong>nossos/nossas</strong>.			[sound:1000_nosso.mp3]	glue grammar pronoun
+kI:{vl[B,J	A2_custom	do	of/from the (m)	Venho do trabalho agora mesmo.	I'm coming from work right now.	<strong>de + o</strong>. Full paradigm: <strong>de + o/a/os/as = do/da/dos/das</strong>. Also: <strong>dum/duma</strong> (<strong>de + um/uma</strong>, colloquial).				contraction glue preposition
+F%T:m8n:6q	A2_custom	no	in/on the (m)	O livro está no sofá da sala.	The book is on the sofa in the living room.	<strong>em + o</strong>. Full paradigm: <strong>em + o/a/os/as = no/na/nos/nas</strong>. Also: <strong>num/numa</strong>.				contraction glue preposition
+F+u$H[V(V-	A2_custom	ao	to the (m)	Vou ao supermercado agora.	I'm going to the supermarket now.	<strong>a + o</strong>. Full paradigm: <strong>a + o/a/os/as = ao/à/aos/às</strong>. Note the grave accent on <strong>à</strong>.			[sound:1000_ao.mp3]	contraction glue preposition
+D1+(]RVdZT	A2_custom	pelo	by/through/for the (m)	Passei pelo parque esta manhã.	I went through the park this morning.	<strong>por + o</strong>. Full paradigm: <strong>por + o/a/os/as = pelo/pela/pelos/pelas</strong>.				contraction glue preposition
+"ieRX#.`QE@"	A2_custom	te	you (informal, object)	Vou dar-te o meu número.	I'm going to give you my number.	Informal singular. Formal: <strong>lhe</strong> (IO) or <strong>si</strong>. DO/IO/reflexive.				glue grammar pronoun
+kg$MN_`?+v	A2_custom	lhe	to him / her / you (formal)	Dei-lhe as flores ontem à tarde.	I gave him/her the flowers yesterday afternoon.	Indirect object only. Ambiguous between him/her/you-formal. Plural: <strong>lhes</strong>.				glue grammar pronoun
+fK:~6F*Gq~	A2_custom	comigo	with me	Vens ao cinema comigo esta noite?	Are you coming to the cinema with me tonight?	<strong>com + mim</strong>.				glue grammar pronoun
+MUOD7hC$cP	A2_custom	contigo	with you (inf.)	Gosto muito de estar contigo.	I really like being with you.	<strong>com + ti</strong>. Informal.				glue grammar pronoun
+tSxI-0?t_2	A2_custom	eu	I	Eu moro em Lisboa há dez anos.	I've lived in Lisbon for ten years.	Often dropped because the verb ending shows the person.			[sound:1000_eu.mp3]	glue grammar pronoun
+Ezfj,j4Dvw	A2_custom	tu	you (inf. sing.)	Tu és o meu melhor amigo.	You are my best friend.	Informal singular in EP. Formal: <strong>você</strong>. In most of Brazil, <strong>você</strong> replaces <strong>tu</strong>.				glue grammar pronoun
+"eCSqnKHV#U"	A2_custom	ele	he	Ele é o meu irmão mais velho.	He is my older brother.	Feminine: <strong>ela</strong>. Plural: <strong>eles</strong>.			[sound:1000_ele.mp3]	glue grammar pronoun
+wg7U@JRNGD	A2_custom	ela	she	Ela fala três línguas fluentemente.	She speaks three languages fluently.	Masculine: <strong>ele</strong>. Plural: <strong>elas</strong>.			[sound:1000_ela.mp3]	glue grammar pronoun
+"jbQx:M:T#l"	A2_custom	você	you (formal)	Quer mais café? (O senhor / A senhora quer mais café?)	Would you like more coffee? (polite forms in brackets)	"In <strong>EP</strong>, <strong>você</strong> is NOT simply polite — it can sound distant, blunt, or socially marked. For real politeness, use 3rd-person verb alone or <strong>o senhor / a senhora</strong>: <em>Quer mais café?</em> / <em>O senhor quer mais café?</em>. In <strong>BR</strong>, <strong>você</strong> is the standard informal ""you"", replacing <strong>tu</strong>. Plural: <strong>vocês</strong>."			[sound:1000_você.mp3]	glue grammar pronoun
+j1fEeC1~Ws	A2_custom	nós	we	Nós vamos à praia este fim de semana.	We're going to the beach this weekend.	Colloquial alternative: <strong>a gente</strong> (+ 3rd sing. verb).			[sound:1000_nós.mp3]	glue grammar pronoun
+Ct_1Ur/Vpn	A2_custom	eles	they (m or mixed)	Eles chegam hoje à noite de comboio.	They arrive tonight by train.	Feminine-only group: <strong>elas</strong>.			[sound:1000_eles.mp3]	glue grammar pronoun
+hOGW5nTc+L	A2_custom	elas	they (f)	Elas são as minhas irmãs gémeas.	They are my twin sisters.	Masculine / mixed group: <strong>eles</strong>.			[sound:1000_elas.mp3]	glue grammar pronoun
+e1(up9WWBj	A2_custom	vocês	you all	Vocês conhecem-se há muito tempo?	Have you all known each other long?	"Plural ""you"" in both EP and BR."				glue grammar pronoun
+gKXi+0Y%5H	A2_custom	algo	something	Queres comer algo antes de sair?	Do you want to eat something before leaving?				[sound:1000_algo.mp3]	glue grammar pronoun
+E^2yL*09lb	A2_custom	nada	nothing	Não disse nada a ninguém sobre isso.	I didn't say anything to anyone about it.	Double negative is standard in Portuguese: <strong>não... nada</strong>.			[sound:1000_nada.mp3]	glue grammar pronoun
+BMF{9{Ae_u	A2_custom	alguém	someone	Alguém bateu à porta agora mesmo.	Someone just knocked on the door.				[sound:1000_alguém.mp3]	glue grammar pronoun
+cj^d8efSDZ	A2_custom	ninguém	nobody	Ninguém sabe a resposta a esta pergunta.	Nobody knows the answer to this question.				[sound:1000_ninguém.mp3]	glue grammar pronoun
+ODgqSjy*T*	A2_custom	tudo	everything	Tudo correu bem na viagem ao Porto.	Everything went well on the trip to Porto.	Distinct from <strong>todo/a</strong> (every, used with a noun: <strong>todo o dia</strong>).			[sound:1000_tudo.mp3]	glue grammar pronoun
+v{V?zsN<S|	A2_custom	outro	other / another	Quero outro café, este já está frio.	I want another coffee, this one is already cold.	Feminine: <strong>outra</strong>. Plural: <strong>outros/outras</strong>.			[sound:1000_outro.mp3]	glue grammar pronoun
+C4Gl4EmaX:	A2_custom	qualquer	any / whichever	Podes escolher qualquer livro que quiseres.	You can choose any book you want.	Plural: <strong>quaisquer</strong>. Same form for masculine and feminine.			[sound:1000_qualquer.mp3]	glue grammar pronoun
+E/4RU)$?{3	A2_custom	cada	each	Cada aluno tem o seu próprio livro.	Each student has their own book.	Invariable — same for m/f and always singular.			[sound:1000_cada.mp3]	glue grammar pronoun
+o06E?c{3)/	A2_custom	vários	several	Tenho vários amigos brasileiros em Lisboa.	I have several Brazilian friends in Lisbon.	Feminine: <strong>várias</strong>. Only used in the plural.			[sound:1000_vários.mp3]	glue grammar pronoun
+"QY[r#-b3d;"	A2_custom	algum	some	Tens algum dinheiro para o táxi?	Do you have some money for the taxi?	Feminine: <strong>alguma</strong>. Plural: <strong>alguns/algumas</strong>.			[sound:1000_algum.mp3]	glue grammar pronoun
+kSx&.4aJ*b	A2_custom	sim	yes	Sim, conheço bem o Porto.	Yes, I know Porto well.				[sound:1000_sim.mp3]	glue interjection
+Ny1iVv1BjC	A2_custom	não	no / not	Não quero ir agora, prefiro mais tarde.	I don't want to go now, I prefer later.	"Placed before the verb to negate. Also used alone as ""no""."			[sound:1000_não.mp3]	adverb glue
+qeqnraG|^*	A2_custom	talvez	maybe / perhaps	Talvez chova amanhã de manhã.	Maybe it will rain tomorrow morning.	Often triggers the subjunctive (<em>talvez chova, talvez seja…</em>).			[sound:1000_talvez.mp3]	adverb glue
+iL}]OCjBwy	A2_custom	claro (interjection)	of course	Claro que sim! Podemos ir juntos.	Of course! We can go together.	Interjection expressing agreement/affirmation. (The adjective <strong>claro</strong> = clear/light has its own card.)			[sound:1000_claro.mp3]	glue interjection
+B<$Pu7t<S7	A2_custom	pois	right / indeed	Pois é, tens toda a razão.	Right, you're absolutely correct.	Very common EP filler expressing agreement or acknowledgement.			[sound:1000_pois.mp3]	glue interjection
+ER?]hw*o~H	A2_custom	dois	two	Tenho dois gatos em casa.	I have two cats at home.	Masculine numeral. Used with masculine nouns: <em>dois livros</em>, <em>dois anos</em>. Feminine <strong>duas</strong> has its own card.			[sound:1000_dois.mp3]	number numeral
+N)l7aTQY7*	A2_custom	três	three	Trabalho três dias por semana.	I work three days a week.				[sound:1000_três.mp3]	number numeral
+HJ{X-Heve[	A2_custom	quatro	four	A minha filha tem quatro anos.	My daughter is four years old.				[sound:1000_quatro.mp3]	number numeral
+"d&kj.3#hHv"	A2_custom	cinco	five	O comboio chega às cinco em ponto.	The train arrives at five sharp.				[sound:1000_cinco.mp3]	number numeral
+G]uq:@5*Bp	A2_custom	seis	six	Acordo às seis todos os dias.	I wake up at six every day.				[sound:1000_seis.mp3]	number numeral
+HmjSlHL=|.	A2_custom	sete	seven	Estudo português há sete meses.	I've been studying Portuguese for seven months.				[sound:1000_sete.mp3]	number numeral
+wrY7+%^yUo	A2_custom	oito	eight	O jantar é às oito da noite.	Dinner is at eight in the evening.				[sound:1000_oito.mp3]	number numeral
+uS:Y<tGET+	A2_custom	dez	ten	Dez minutos chegam para tomar um café.	Ten minutes is enough for a coffee.				[sound:1000_dez.mp3]	number numeral
+"p;S.7#{0W;"	A2_custom	mil	thousand	Este carro custa vinte mil euros.	This car costs twenty thousand euros.	Invariable. Plural: <strong>mil</strong> or <strong>milhares</strong>.			[sound:1000_mil.mp3]	number numeral
+K<N0<UEV8u	A2_custom	primeiro	first	Ele foi o primeiro a chegar à festa.	He was the first to arrive at the party.	Feminine: <strong>primeira</strong>.			[sound:1000_primeiro.mp3]	numeral ordinal
+M_@d{-N).J	A2_custom	segundo	second	Cheguei em segundo lugar na corrida.	I came in second place in the race.	"Feminine: <strong>segunda</strong>. Also means ""according to"": <strong>segundo ele</strong>."			[sound:1000_segundo.mp3]	numeral ordinal
+"faW#1T0|:["	A2_custom	terceiro	third	Moro no terceiro andar.	I live on the third floor.	Feminine: <strong>terceira</strong>.			[sound:1000_terceiro.mp3]	numeral ordinal
+GJ=m=!r(;]	A2_custom	janeiro	January	Em janeiro faz muito frio em Lisboa.	In January it's very cold in Lisbon.	Months are lowercase in PT.			[sound:1000_janeiro.mp3]	month noun
+C`y^SUdb-u	A2_custom	fevereiro	February	Fevereiro tem vinte e oito ou vinte e nove dias.	February has twenty-eight or twenty-nine days.				[sound:1000_fevereiro.mp3]	month noun
+nc|n}=OYXF	A2_custom	março	March	A primavera começa em março.	Spring begins in March.				[sound:1000_março.mp3]	month noun
+HFeiF)YNLy	A2_custom	abril	April	Em abril, águas mil — diz o ditado.	"""April showers"" — so goes the saying."	Idiom: <em>Em abril, águas mil</em>.			[sound:1000_abril.mp3]	month noun
+g}bK+&H:4}	A2_custom	maio	May	Maio é um mês de flores e festas.	May is a month of flowers and festivals.				[sound:1000_maio.mp3]	month noun
+zKMo3^wvFd	A2_custom	junho	June	Em junho celebramos o Santo António.	In June we celebrate Saint Anthony.	Popular saint festivals in EP.			[sound:1000_junho.mp3]	month noun
+d]@9?^*wN,	A2_custom	julho	July	Em julho vou de férias para o Algarve.	In July I'm going on vacation to the Algarve.				[sound:1000_julho.mp3]	month noun
+n)$5@!`?1o	A2_custom	agosto	August	Agosto é o mês mais quente do ano.	August is the hottest month of the year.	Many Portuguese take vacation in August.			[sound:1000_agosto.mp3]	month noun
+j(5*,<k4mp	A2_custom	setembro	September	As aulas começam em setembro.	Classes start in September.				[sound:1000_setembro.mp3]	month noun
+G`K.H$u*Y0	A2_custom	outubro	October	Em outubro, as folhas ficam amarelas.	In October, the leaves turn yellow.				[sound:1000_outubro.mp3]	month noun
+DESE%ntOg@	A2_custom	novembro	November	Novembro é um mês chuvoso.	November is a rainy month.				[sound:1000_novembro.mp3]	month noun
+J4)<WCeti8	A2_custom	dezembro	December	Em dezembro, passo o Natal com a família.	In December, I spend Christmas with my family.				[sound:1000_dezembro.mp3]	month noun
+"lA^#n+/V%8"	A2_custom	seguir	to follow / keep going	Siga por esta rua até ao fim.	Keep going along this street until the end.	"present  : <span style=""color: blue;""><b>sigo</b></span>, segues, segue, seguimos, seguem<br>simp past: segui, seguiste, seguiu, seguimos, seguiram<br>imperfect: seguia, seguias, seguia, seguíamos, seguiam<br>imperativ: _, segue, <b>siga</b>, <b>sigamos</b>, <b>sigam</b>"			[sound:1000_seguir.mp3]	direction verb
+w:=-!XJ{[C	A2_custom	ao lado de	next to	A padaria fica ao lado do banco.	The bakery is next to the bank.					direction glue phrase
+p-m8GA:L)5	A2_custom	perto de	near (to)	Moro perto da universidade.	I live near the university.	Always takes <strong>de</strong> before the object.				direction glue phrase
+I&SVSk&=-S	A2_custom	longe de	far from	O aeroporto fica longe do centro.	The airport is far from the center.	Always takes <strong>de</strong>.				direction glue phrase
+nZrY!dXYFH	A2_custom	hoje	today	Hoje está um dia lindo.	Today is a beautiful day.				[sound:1000_hoje.mp3]	adverb glue Time
+G|d=.XbmUJ	A2_custom	ontem	yesterday	Ontem fui ao cinema com amigos.	Yesterday I went to the cinema with friends.	Day before: <strong>anteontem</strong>.			[sound:1000_ontem.mp3]	adverb glue Time
+Bv;a*wC>t(	A2_custom	agora	now	Tenho que sair agora, estou atrasado.	I have to leave now, I'm late.				[sound:1000_agora.mp3]	adverb glue Time
+"elE#_qc7>"	A2_custom	depois	after / later	Passo por tua casa depois do trabalho.	I'll drop by your place after work.	Also preposition: <strong>depois de</strong>.			[sound:1000_depois.mp3]	adverb glue Time
+EW;~0Uv1Q8	A2_custom	antes	before	Antes das oito, já estou no escritório.	Before eight, I'm already at the office.	Also preposition: <strong>antes de</strong>.			[sound:1000_antes.mp3]	adverb glue Time
+t_tN>O18Qs	A2_custom	sempre	always	Bebo sempre café de manhã.	I always have coffee in the morning.				[sound:1000_sempre.mp3]	adverb glue Time
+z&4}HVR&Qe	A2_custom	nunca	never	Nunca fui ao Brasil.	I've never been to Brazil.	Double negative: <strong>não... nunca</strong> is also common.			[sound:1000_nunca.mp3]	adverb glue Time
+y>)9r`fUEP	A2_custom	já	already / right away	Já terminei o trabalho.	I've already finished the work.	"Can also mean ""right now"": <em>Vou já.<br></em>When <em>já</em>&nbsp;combines with <em>não</em>, the meaning shifts to <strong>""not anymore / no longer""</strong>"			[sound:1000_já.mp3]	adverb glue Time
+P]d%d?zC~>	A2_custom	ainda	still / yet	Ainda estou a aprender português.	I'm still learning Portuguese.	<strong>Ainda não</strong> = not yet.			[sound:1000_ainda.mp3]	adverb glue Time
+D>n<MAh8sz	A2_custom	tarde	late	Cheguei tarde à reunião.	I arrived late to the meeting.	Also noun: <strong>a tarde</strong> (afternoon).			[sound:1000_tarde.mp3]	adverb glue Time
+KLD}P9S7@K	A2_custom	muito	a lot / very	Gosto muito de Portugal.	I like Portugal a lot.	Also adjective agreeing with noun: <em>muito café, muita água, muitos livros</em>.			[sound:1000_muito.mp3]	adverb glue
+Ea19dRDjY<	A2_custom	pouco	a little / few	Dormi pouco esta noite.	I slept a little last night.	Also adjective: <em>pouco tempo, pouca água</em>.			[sound:1000_pouco.mp3]	adverb glue
+zMxjMnd1@A	A2_custom	mais	more	Quero mais água, por favor.	I'd like more water, please.	Comparative: <em>mais alto do que…</em>			[sound:1000_mais.mp3]	adverb glue
+kKu8DYTxS5	A2_custom	menos	less / fewer	Este mês gastei menos dinheiro.	This month I spent less money.	Comparative: <em>menos caro do que…</em>			[sound:1000_menos.mp3]	adverb glue
+J^`U>wSCDr	A2_custom	tão	so	Estou tão cansado esta noite.	I'm so tired tonight.	With comparisons: <em>tão alto como…</em>			[sound:1000_tão.mp3]	adverb glue
+QyUo<40-?u	A2_custom	bastante	quite / enough	O filme foi bastante interessante.	The film was quite interesting.	Can be quantifier: <em>bastante tempo</em> (enough time).			[sound:1000_bastante.mp3]	adverb glue
+M`[@z]Hz~f	A2_custom	todo	all / every	Estudo todo o dia.	I study all day.	Feminine: <strong>toda</strong>. Plural: <strong>todos/todas</strong>. <em>Todos os dias</em> = every day.			[sound:1000_todo.mp3]	determiner glue
+x4f?*?h2Qn	A2_custom	meio	half	Quero meio quilo de queijo.	I'd like half a kilo of cheese.	Feminine: <strong>meia</strong>. <em>Meia hora</em> = half an hour.			[sound:1000_meio.mp3]	adjective
+s&}9l.Z>%c	A2_custom	aqui	here	Aqui faz mais calor do que lá.	It's warmer here than there.	Near the speaker.<div>Cá is similar.&nbsp;</div>			[sound:1000_aqui.mp3]	adverb direction glue
+l8te^}RhBU	A2_custom	aí	there (near you)	O livro está aí na tua mesa.	The book is there on your table.	Near the listener.			[sound:1000_aí.mp3]	adverb direction glue
+Mh-`VUdZlw	A2_custom	ali	there (visible)	O café fica ali, ao lado do banco.	The café is there, next to the bank.	A bit away, but visible.				adverb direction glue
+"O2/!Y@#c$m"	A2_custom	lá	there (far / out of sight)	Estive lá o mês passado.	I was there last month.	Far from both.			[sound:1000_lá.mp3]	adverb direction glue
+o<.W@$}g)6	A2_custom	logo	soon / later on	Vou logo para casa.	I am going home soon.	"In EP, <strong>logo</strong> leans ""soon / later on"" more than ""right away"". For ""right away"" use <strong>já</strong>. Also: <em>até logo</em> (see you later)."			[sound:1000_logo.mp3]	adverb glue Time
+J32K%ZOVeG	A2_custom	perto	near / nearby	Moro perto, posso ir a pé.	I live nearby, I can walk.	With object: <strong>perto de</strong>.			[sound:1000_perto.mp3]	adverb direction glue
+O4M8nP3|CF	A2_custom	dentro	inside	Espera-me lá dentro, por favor.	Wait for me inside, please.	With object: <strong>dentro de</strong>.			[sound:1000_dentro.mp3]	adverb direction glue
+w]pHRXlH4v	A2_custom	fora	outside	As crianças estão a brincar lá fora.	The children are playing outside.	With object: <strong>fora de</strong>.			[sound:1000_fora.mp3]	adverb direction glue
+cZ*xgyk([w	A2_custom	bem	well	Falas muito bem português.	You speak Portuguese very well.	Opposite of <strong>mal</strong>.			[sound:1000_bem.mp3]	adverb glue
+Ij$rHX3lF$	A2_custom	mal	badly	Dormi mal por causa do barulho.	I slept badly because of the noise.	"Also conjunction meaning ""as soon as"": <em>mal cheguei, liguei-te</em>."			[sound:1000_mal.mp3]	adverb glue
+Qcrn|8aSqM	A2_custom	assim	like this / so	Faz assim, é mais fácil.	Do it like this, it's easier.				[sound:1000_assim.mp3]	adverb glue
+vm?ciie&_R	A2_custom	quase	almost	Quase caí no gelo.	I almost slipped on the ice.				[sound:1000_quase.mp3]	adverb glue
+x+4s!6&X2f	A2_custom	só	only	Só quero um copo de água.	I just want a glass of water.	"Also adjective ""alone"": <em>estou só</em>."			[sound:1000_só.mp3]	adverb glue
+"Bht<#vVW;Z"	A2_custom	apenas	only / just	Estudo apenas duas horas por dia.	I only study two hours a day.	Synonym of <strong>só</strong>, slightly more formal.			[sound:1000_apenas.mp3]	adverb glue
+t=XFR>GP3F	A2_custom	ser	to be (permanent)	Eu sou português.	I am Portuguese.	"Contrast with <strong>estar</strong> (temporary).<br><br>present  : <span style=""color: blue;""><b>sou</b></span>, <span style=""color: blue;""><b>és</b></span>, <span style=""color: blue;""><b>é</b></span>, <span style=""color: blue;""><b>somos</b></span>, <span style=""color: blue;""><b>são</b></span><br>simp past: <span style=""color: blue;""><b>fui</b></span>, <b>foste</b>, <b>foi</b>, <b>fomos</b>, <b>foram</b><br>imperfect: <b>era</b>, <b>eras</b>, <b>era</b>, <b>éramos</b>, <b>eram</b><br>imperativ: _, <span style=""color: blue;""><b>sê</b></span>, <b>seja</b>, <b>sejamos</b>, <b>sejam</b>"			[sound:1000_ser.mp3]	verb
+r|rYyr9>KC	A2_custom	estar	to be (temporary / location)	Estou cansado hoje.	I'm tired today.	"Contrast with <strong>ser</strong>.<br><br>present  : <span style=""color: blue;""><b>estou</b></span>, <span style=""color: blue;""><b>estás</b></span>, <span style=""color: blue;""><b>está</b></span>, estamos, <span style=""color: blue;""><b>estão</b></span><br>simp past: <b>estive</b>, <b>estiveste</b>, <span style=""color: blue;""><b>esteve</b></span>, <b>estivemos</b>, <b>estiveram</b><br>imperfect: estava, estavas, estava, estávamos, estavam<br>imperativ: _, <span style=""color: blue;""><b>está</b></span>, <b>esteja</b>, <b>estejamos</b>, <b>estejam</b>"			[sound:1000_estar.mp3]	verb
+f0`if0`7FG	A2_custom	ter	to have	Tenho dois irmãos.	I have two brothers.	"Contrast with <strong>haver</strong> (impersonal ""there is"").<br><br>present  : <span style=""color: blue;""><b>tenho</b></span>, <b>tens</b>, <b>tem</b>, temos, <b>têm</b><br>simp past: <b>tive</b>, <b>tiveste</b>, <span style=""color: blue;""><b>teve</b></span>, <b>tivemos</b>, <b>tiveram</b><br>imperfect: <b>tinha</b>, <b>tinhas</b>, <b>tinha</b>, <b>tínhamos</b>, <b>tinham</b><br>imperativ: _, <span style=""color: blue;""><b>tem</b></span>, <b>tenha</b>, <b>tenhamos</b>, <b>tenham</b>"			[sound:1000_ter.mp3]	verb
+"PqPuD*|#aC"	A2_custom	ir	to go	Vou ao supermercado agora.	I'm going to the supermarket now.	"<em>Ir + infinitive</em> = near future.<br><br>present  : <span style=""color: blue;""><b>vou</b></span>, <b>vais</b>, <b>vai</b>, <b>vamos</b>, <b>vão</b><br>simp past: <span style=""color: blue;""><b>fui</b></span>, <b>foste</b>, <b>foi</b>, <b>fomos</b>, <b>foram</b><br>imperfect: <b>ia</b>, <b>ias</b>, <b>ia</b>, <b>íamos</b>, <b>iam</b><br>imperativ: _, <b>vai</b>, <span style=""color: blue;""><b>vá</b></span>, <b>vamos</b>, <b>vão</b>"			[sound:1000_ir.mp3]	motion verb
+c6zxq^.bq{	A2_custom	fazer	to do / to make	Que fazes ao fim de semana?	What do you do on weekends?	"present  : <span style=""color: blue;""><b>faço</b></span>, fazes, <span style=""color: blue;""><b>faz</b></span>, fazemos, fazem<br>simp past: <b>fiz</b>, <b>fizeste</b>, <span style=""color: blue;""><b>fez</b></span>, <b>fizemos</b>, <b>fizeram</b><br>imperfect: fazia, fazias, fazia, fazíamos, faziam<br>imperativ: _, <span style=""color: blue;""><b>faz</b></span>, <b>faça</b>, <b>façamos</b>, <b>façam</b>"			[sound:1000_fazer.mp3]	verb
+ss[m(Ude>n	A2_custom	haver	there is / there are (verb)	Há muitas pessoas na praia.	There are many people at the beach.	"Impersonal <strong>há</strong> for ""there is/are"". Also <em>há dois anos</em> = two years ago.<br><br>present  : _, _, <span style=""color: blue;""><b>há</b></span>, _, _<br>simp past: _, _, <span style=""color: blue;""><b>houve</b></span>, _, _<br>imperfect: _, _, havia, _, _<br>imperativ: _, _, _, _, _"			[sound:1000_haver.mp3]	verb
+q^)~?1dVIX	A2_custom	poder	to be able / can	Podes abrir a janela?	Can you open the window?	"present  : <span style=""color: blue;""><b>posso</b></span>, podes, pode, podemos, podem<br>simp past: <b>pude</b>, <b>pudeste</b>, <span style=""color: blue;""><b>pôde</b></span>, <b>pudemos</b>, <b>puderam</b><br>imperfect: podia, podias, podia, podíamos, podiam<br>imperativ: _, pode, <b>possa</b>, <b>possamos</b>, <b>possam</b>"			[sound:1000_poder.mp3]	verb
+P;azC>wOKE	A2_custom	querer	to want	Quero um café, por favor.	I want a coffee, please.	"present  : quero, queres, <span style=""color: blue;""><b>quer</b></span>, queremos, querem<br>simp past: <span style=""color: purple;""><b>quis</b></span>, <b>quiseste</b>, <span style=""color: purple;""><b>quis</b></span>, <b>quisemos</b>, <b>quiseram</b><br>imperfect: queria, querias, queria, queríamos, queriam<br>imperativ: _, <span style=""color: blue;""><b>quer</b></span>, <b>queira</b>, <b>queiramos</b>, <b>queiram</b>"			[sound:1000_querer.mp3]	verb
+Cy2^:|K~jq	A2_custom	saber	to know (facts) / to know how to	Sei falar três línguas.	I can speak three languages.	"Contrast with <strong>conhecer</strong> (know people/places).<br><br>present  : <span style=""color: blue;""><b>sei</b></span>, sabes, sabe, sabemos, sabem<br>simp past: <span style=""color: purple;""><b>soube</b></span>, <b>soubeste</b>, <span style=""color: purple;""><b>soube</b></span>, <b>soubemos</b>, <b>souberam</b><br>imperfect: sabia, sabias, sabia, sabíamos, sabiam<br>imperativ: _, sabe, <b>saiba</b>, <b>saibamos</b>, <b>saibam</b>"			[sound:1000_saber.mp3]	verb
+j})yW|g=y(	A2_custom	conhecer	to know (people / places)	Conheço bem o Porto.	I know Porto well.	"Note the <strong>ç</strong> in <em>conheço</em> — orthographic shift to keep the /s/ sound before <em>o/a</em>. Contrast with <strong>saber</strong> (know facts / know how to).<br><br>present  : <span style=""color: blue;""><b>conheço</b></span>, conheces, conhece, conhecemos, conhecem<br>simp past: conheci, conheceste, conheceu, conhecemos, conheceram<br>imperfect: conhecia, conhecias, conhecia, conhecíamos, conheciam<br>imperativ: _, conhece, <b>conheça</b>, <b>conheçamos</b>, <b>conheçam</b>"			[sound:1000_conhecer.mp3]	verb
+c<si%l+BS	A2_custom	dizer	to say / to tell	O que é que disseste?	What did you say?	"present  : <span style=""color: blue;""><b>digo</b></span>, dizes, <span style=""color: blue;""><b>diz</b></span>, dizemos, dizem<br>simp past: <span style=""color: purple;""><b>disse</b></span>, <b>disseste</b>, <span style=""color: purple;""><b>disse</b></span>, <b>dissemos</b>, <b>disseram</b><br>imperfect: dizia, dizias, dizia, dizíamos, diziam<br>imperativ: _, <span style=""color: blue;""><b>diz</b></span>, <b>diga</b>, <b>digamos</b>, <b>digam</b>"			[sound:1000_dizer.mp3]	verb
+rp.uooj!it	A2_custom	falar	to speak	Falas inglês?	Do you speak English?	Regular.			[sound:1000_falar.mp3]	verb
+h2/8tsq(X@	A2_custom	ver	to see / to watch	Nunca vi esse filme.	I've never seen that film.	"present  : <span style=""color: blue;""><b>vejo</b></span>, <span style=""color: blue;""><b>vês</b></span>, <span style=""color: blue;""><b>vê</b></span>, vemos, <span style=""color: blue;""><b>veem</b></span><br>simp past: <b>vi</b>, <b>viste</b>, <b>viu</b>, <b>vimos</b>, <b>viram</b><br>imperfect: <b>via</b>, <b>vias</b>, <b>via</b>, <b>víamos</b>, <b>viam</b><br>imperativ: _, <span style=""color: blue;""><b>vê</b></span>, <b>veja</b>, <b>vejamos</b>, <b>vejam</b>"			[sound:1000_ver.mp3]	verb
+hNI$UaAioq	A2_custom	dar	to give	Vou dar-te o livro amanhã.	I'll give you the book tomorrow.	"present  : <span style=""color: blue;""><b>dou</b></span>, <span style=""color: blue;""><b>dás</b></span>, <span style=""color: blue;""><b>dá</b></span>, damos, <span style=""color: blue;""><b>dão</b></span><br>simp past: dei, <span style=""color: blue;""><b>deste</b></span>, <span style=""color: blue;""><b>deu</b></span>, <span style=""color: blue;""><b>demos</b></span>, <span style=""color: blue;""><b>deram</b></span><br>imperfect: dava, davas, dava, dávamos, davam<br>imperativ: _, <span style=""color: blue;""><b>dá</b></span>, <span style=""color: blue;""><b>dê</b></span>, demos, <span style=""color: blue;""><b>deem</b></span>"			[sound:1000_dar.mp3]	verb
+l67,o{.E@|	A2_custom	vir	to come	Vens ao cinema connosco?	Are you coming to the cinema with us?	"Contrast with <strong>ir</strong>.<br><br>present  : <span style=""color: blue;""><b>venho</b></span>, <b>vens</b>, <b>vem</b>, vimos, <b>vêm</b><br>simp past: <b>vim</b>, <b>vieste</b>, <b>veio</b>, <b>viemos</b>, <b>vieram</b><br>imperfect: <b>vinha</b>, <b>vinhas</b>, <b>vinha</b>, <b>vínhamos</b>, <b>vinham</b><br>imperativ: _, <span style=""color: blue;""><b>vem</b></span>, <b>venha</b>, <b>venhamos</b>, <b>venham</b>"			[sound:1000_vir.mp3]	motion verb
+B^K.WBYe=.	A2_custom	ficar	to stay / to become / to be located	A farmácia fica ao lado do banco.	The pharmacy is next to the bank.	Versatile verb: stay, become, be located. <em>Ficar bem</em> = to suit.<br><br>Regular.			[sound:1000_ficar.mp3]	verb
+"j05#|@9olA"	A2_custom	viver	to live	Ela vive com os pais.	She lives with her parents.	Broader than <strong>morar</strong> — includes way of life, not just location.<br><br>Regular.			[sound:1000_viver.mp3]	verb
+eD}F&R@ckh	A2_custom	trabalhar	to work	Trabalho numa empresa pequena.	I work at a small company.	Regular.			[sound:1000_trabalhar.mp3]	verb work
+uG&YHP.sKv	A2_custom	estudar	to study	Estudo português há seis meses.	I've been studying Portuguese for six months.	Regular.			[sound:1000_estudar.mp3]	school verb
+uA/Xgo+0Of	A2_custom	tomar	to take / to have (drink)	Tomo um café depois do almoço.	I have a coffee after lunch.	Common for drinks, medicine, shower: <em>tomar banho</em>.<br><br>Regular.			[sound:1000_tomar.mp3]	verb
+dQ8WRL-8yo	A2_custom	ler	to read	Leio um livro por mês.	I read a book a month.	"present  : <span style=""color: blue;""><b>leio</b></span>, <span style=""color: blue;""><b>lês</b></span>, <span style=""color: blue;""><b>lê</b></span>, lemos, leem<br>simp past: <b>li</b>, <b>leste</b>, <b>leu</b>, <b>lemos</b>, <b>leram</b><br>imperfect: lia, lias, lia, líamos, liam<br>imperativ: _, <span style=""color: blue;""><b>lê</b></span>, <b>leia</b>, <b>leiamos</b>, <b>leiam</b>"			[sound:1000_ler.mp3]	verb
+Ov/:Jr4%Hi	A2_custom	escrever	to write	Escrevo no diário todas as noites.	I write in my diary every night.	Regular.			[sound:1000_escrever.mp3]	verb
+mRb!Jn(yu)	A2_custom	ouvir	to hear / to listen	Ouço rádio quando conduzo.	I listen to the radio when I drive.	"present  : <span style=""color: blue;""><b>ouço</b></span>, ouves, ouve, ouvimos, ouvem<br>simp past: ouvi, ouviste, ouviu, ouvimos, ouviram<br>imperfect: ouvia, ouvias, ouvia, ouvíamos, ouviam<br>imperativ: _, ouve, <b>ouça</b>, <b>ouçamos</b>, <b>ouçam</b>"			[sound:1000_ouvir.mp3]	verb
+N9GctVN6J>	A2_custom	pensar	to think	Penso que sim.	I think so.	With <em>em</em>: <em>penso em ti</em> (I think of you).<br><br>Regular.			[sound:1000_pensar.mp3]	verb
+hH).V)38Lf	A2_custom	perceber	to understand	Não percebi o que disseste.	I didn't understand what you said.	EP; BR: <strong>entender</strong>.<br><br>Regular.<br><br>Synonym: <strong>entender</strong> (more common in BR but understood in EP).			[sound:1000_perceber.mp3]	verb
+Ehv/(Wm,j1	A2_custom	achar	to think (opinion) / to find	Acho que ele tem razão.	I think he's right.	"For opinions. Also ""to find"": <em>achei este livro fantástico</em>.<br><br>Regular."			[sound:1000_achar.mp3]	verb
+u4Vz!21aHh	A2_custom	pedir	to ask for / to order	Pedi um cafezinho.	I ordered a little coffee.	"present  : <span style=""color: blue;""><b>peço</b></span>, pedes, pede, pedimos, pedem<br>simp past: pedi, pediste, pediu, pedimos, pediram<br>imperfect: pedia, pedias, pedia, pedíamos, pediam<br>imperativ: _, pede, <b>peça</b>, <b>peçamos</b>, <b>peçam</b>"			[sound:1000_pedir.mp3]	verb
+pZUD{lt2ig	A2_custom	responder	to answer / to reply	Ainda não respondi ao email.	I haven't answered the email yet.	Regular.			[sound:1000_responder.mp3]	verb
+Q53M;LUXXH	A2_custom	ajudar	to help	Posso ajudar-te com isso?	Can I help you with that?	Regular.			[sound:1000_ajudar.mp3]	verb
+"c#A$5};|bl"	A2_custom	comprar	to buy	Comprei um vestido novo ontem.	I bought a new dress yesterday.	Regular.			[sound:1000_comprar.mp3]	Shopping verb
+xjsWeIwO<w	A2_custom	pagar	to pay	Pago com cartão, por favor.	I'll pay by card, please.	Regular.			[sound:1000_pagar.mp3]	Shopping verb
+"l#AI$JI[vU"	A2_custom	dever	must / should / to owe	Devo estudar mais.	I should study more.	"Modal meaning ""should"" or ""probably"". Also ""to owe"": <em>devo-te cinco euros</em>.<br><br>Regular."			[sound:1000_dever.mp3]	verb
+E7JFkiu$e|	A2_custom	vender	to sell	Vendi o carro velho a semana passada.	I sold the old car last week.	Regular.			[sound:1000_vender.mp3]	Shopping verb
+tD;?>czbj@	A2_custom	trazer	to bring	Trouxeste o livro que te pedi?	Did you bring the book I asked for?	"Preterite: <em>trouxe</em>.<br><br>present  : <span style=""color: blue;""><b>trago</b></span>, trazes, <span style=""color: blue;""><b>traz</b></span>, trazemos, trazem<br>simp past: <span style=""color: purple;""><b>trouxe</b></span>, <b>trouxeste</b>, <span style=""color: purple;""><b>trouxe</b></span>, <b>trouxemos</b>, <b>trouxeram</b><br>imperfect: trazia, trazias, trazia, trazíamos, traziam<br>imperativ: _, <span style=""color: blue;""><b>traz</b></span>, <b>traga</b>, <b>tragamos</b>, <b>tragam</b>"			[sound:1000_trazer.mp3]	verb
+DpQzW7DE%n	A2_custom	levar	to take / to carry	Levo o meu filho à escola todos os dias.	I take my son to school every day.	Contrast with <strong>trazer</strong>: bring toward speaker vs take away.<br><br>Regular.			[sound:1000_levar.mp3]	verb
+g6<T(!h?u}	A2_custom	andar	to walk / to go (by)	Ando a pé sempre que posso.	I walk whenever I can.	"Also ""to attend"": <em>ando na universidade</em>. <em>Andar de X</em> = travel by X.<br><br>Regular."			[sound:1000_andar.mp3]	motion verb
+Cb,J5.^q~i	A2_custom	correr	to run	Corro no parque todas as manhãs.	I run in the park every morning.	Also figurative: <em>correu tudo bem</em> (everything went well).<br><br>Regular.			[sound:1000_correr.mp3]	motion verb
+"Ft~|#}]8>o"	A2_custom	sair	to go out / to leave	Saio de casa às oito.	I leave home at eight.	"present  : <span style=""color: blue;""><b>saio</b></span>, sais, sai, saímos, saem<br>simp past: saí, saíste, saiu, saímos, saíram<br>imperfect: saía, saías, saía, saíamos, saíam<br>imperativ: _, sai, <b>saia</b>, <b>saiamos</b>, <b>saiam</b>"			[sound:1000_sair.mp3]	motion verb
+JfI;IC?M@*	A2_custom	chegar	to arrive	O comboio chega às seis.	The train arrives at six.	Regular.			[sound:1000_chegar.mp3]	motion verb
+bDiZ~>YeUL	A2_custom	entrar	to enter / to go in	Entra, por favor.	Come in, please.	<strong>Entrar em</strong> / <strong>entrar para</strong>.<br><br>Regular.			[sound:1000_entrar.mp3]	motion verb
+n.+gg&p|0	A2_custom	voltar	to return	Volto daqui a uma hora.	I'll be back in an hour.	Regular.			[sound:1000_voltar.mp3]	motion verb
+Cj<$0^qUh%	A2_custom	passar	to pass / to spend (time)	Passei o fim de semana no Porto.	I spent the weekend in Porto.	Many uses: pass by, spend time, iron clothes.<br><br>Regular.			[sound:1000_passar.mp3]	verb
+b6lJ!*nErs	A2_custom	visitar	to visit	Visitei os meus avós no domingo.	I visited my grandparents on Sunday.	Regular.			[sound:1000_visitar.mp3]	verb
+mXl!g=opB	A2_custom	usar	to use / to wear	Uso óculos para ler.	I use glasses to read.	"Both ""use"" and ""wear"" (for clothing).<br><br>Regular."			[sound:1000_usar.mp3]	verb
+GJMDnP@Hg[	A2_custom	aprender	to learn	Estou a aprender a tocar guitarra.	I'm learning to play the guitar.	Regular.			[sound:1000_aprender.mp3]	school verb
+QFVLb?P4J!	A2_custom	explicar	to explain	Podes explicar-me isto outra vez?	Can you explain this to me again?	Regular.			[sound:1000_explicar.mp3]	verb
+n/a<}XiQ=X	A2_custom	mostrar	to show	Mostra-me as fotografias da viagem.	Show me the photos from the trip.	Regular.			[sound:1000_mostrar.mp3]	verb
+bEy~/m<%gC	A2_custom	começar	to start / to begin	As aulas começam em setembro.	Classes start in September.	<strong>Começar a + inf.</strong> = to start to.<br><br>Regular.			[sound:1000_começar.mp3]	verb
+"e#i`jP&=7`"	A2_custom	acabar	to finish / to end	Acabei o trabalho há cinco minutos.	I finished the work five minutes ago.	<strong>Acabar de + inf.</strong> = to have just done.<br><br>Regular.			[sound:1000_acabar.mp3]	verb
+"j3#=f6.[@b"	A2_custom	continuar	to continue	Continuo a estudar português.	I keep studying Portuguese.	<strong>Continuar a + inf.</strong> = to keep -ing.<br><br>Regular.			[sound:1000_continuar.mp3]	verb
+"w=Rk#LFs|n"	A2_custom	esperar	to wait / to hope	Espero por ti na paragem.	I'll wait for you at the bus stop.	"Means both ""wait"" and ""hope"": <em>espero que sim</em>.<br><br>Regular."			[sound:1000_esperar.mp3]	verb
+l0GJMZaFMU	A2_custom	encontrar	to find / to meet	Encontrei as chaves no sofá.	I found the keys on the sofa.	Reflexive: <em>encontrar-se com alguém</em> = to meet up with someone.<br><br>Regular.			[sound:1000_encontrar.mp3]	verb
+O.Ho8hpDC1	A2_custom	procurar	to look for	Estou a procurar as minhas chaves.	I'm looking for my keys.	Regular.			[sound:1000_procurar.mp3]	verb
+"H-H#0&.8#t"	A2_custom	perder	to lose / to miss	Perdi o comboio das sete.	I missed the seven o'clock train.	"present  : <span style=""color: blue;""><b>perco</b></span>, perdes, perde, perdemos, perdem<br>simp past: perdi, perdeste, perdeu, perdemos, perderam<br>imperfect: perdia, perdias, perdia, perdíamos, perdiam<br>imperativ: _, perde, <b>perca</b>, <b>percamos</b>, <b>percam</b>"			[sound:1000_perder.mp3]	verb
+u4:}/h;tRP	A2_custom	ganhar	to win / to earn	Ganho bem no emprego novo.	I earn well at the new job.	"Both ""win"" (a game) and ""earn"" (money).<br><br>Regular."			[sound:1000_ganhar.mp3]	verb
+E/h!Ah2W1]	A2_custom	abrir	to open	A loja abre às nove.	The shop opens at nine.	Regular.			[sound:1000_abrir.mp3]	verb
+m&;05bLpuY	A2_custom	fechar	to close	Fecha a porta, faz frio.	Close the door, it's cold.	Regular.			[sound:1000_fechar.mp3]	verb
+edVMx*&VzY	A2_custom	escolher	to choose	Escolhe o que quiseres.	Choose whatever you want.	Regular.			[sound:1000_escolher.mp3]	verb
+o_{I4<9a,q	A2_custom	decidir	to decide	Ainda não decidi se vou.	I haven't decided yet whether to go.	Regular.			[sound:1000_decidir.mp3]	verb
+"N;ytm}#,i8"	A2_custom	mudar	to change / to move	Mudei de casa o mês passado.	I moved house last month.	<strong>Mudar de</strong> = to change X (casa, emprego, ideia).<br><br>Regular.			[sound:1000_mudar.mp3]	verb
+CF9dp@$C9i	A2_custom	receber	to receive	Recebi um presente inesperado.	I received an unexpected gift.	Regular.			[sound:1000_receber.mp3]	verb
+s;9COK^aTZ	A2_custom	tentar	to try	Tentei telefonar várias vezes.	I tried to call several times.	Regular.			[sound:1000_tentar.mp3]	verb
+rBzt,U;7?.	A2_custom	conseguir	to manage / to be able	Consegui acabar o trabalho a tempo.	I managed to finish the work on time.	"present  : <span style=""color: blue;""><b>consigo</b></span>, consegues, consegue, conseguimos, conseguem<br>simp past: consegui, conseguiste, conseguiu, conseguimos, conseguiram<br>imperfect: conseguia, conseguias, conseguia, conseguíamos, conseguiam<br>imperativ: _, consegue, <b>consiga</b>, <b>consigamos</b>, <b>consigam</b>"			[sound:1000_conseguir.mp3]	verb
+M1YFAHjZwi	A2_custom	apresentar	to introduce / to present	Posso apresentar-te o meu irmão?	May I introduce you to my brother?	Regular.			[sound:1000_apresentar.mp3]	verb
+M9fpW_Q]up	A2_custom	subir	to go up / to climb	Subi as escadas a correr.	I ran up the stairs.	"present  : subo, <span style=""color: blue;""><b>sobes</b></span>, <span style=""color: blue;""><b>sobe</b></span>, subimos, <span style=""color: blue;""><b>sobem</b></span><br>simp past: subi, subiste, subiu, subimos, subiram<br>imperfect: subia, subias, subia, subíamos, subiam<br>imperativ: _, <span style=""color: blue;""><b>sobe</b></span>, <b>suba</b>, <b>subamos</b>, <b>subam</b>"			[sound:1000_subir.mp3]	motion verb
+c%FE}@FO/D	A2_custom	deixar	to leave / to let	Deixa o livro em cima da mesa.	Leave the book on top of the table.	"Also ""to let someone do"": <em>deixa-me ajudar</em>.<br><br>Regular."			[sound:1000_deixar.mp3]	verb
+o5b26GKfU9	A2_custom	parecer	to seem	Ela parece cansada.	She seems tired.	"present  : <span style=""color: blue;""><b>pareço</b></span>, pareces, parece, parecemos, parecem<br>simp past: pareci, pareceste, pareceu, parecemos, pareceram<br>imperfect: parecia, parecias, parecia, parecíamos, pareciam<br>imperativ: _, parece, <b>pareça</b>, <b>pareçamos</b>, <b>pareçam</b>"			[sound:1000_parecer.mp3]	verb
+wl3~J,_r(3	A2_custom	nascer	to be born	Nasci em Lisboa.	I was born in Lisbon.	"Pair with <strong>morrer</strong> (to die).<br><br>present  : <span style=""color: blue;""><b>nasço</b></span>, nasces, nasce, nascemos, nascem<br>simp past: nasci, nasceste, nasceu, nascemos, nasceram<br>imperfect: nascia, nascias, nascia, nascíamos, nasciam<br>imperativ: _, nasce, <b>nasça</b>, <b>nasçamos</b>, <b>nasçam</b>"			[sound:1000_nascer.mp3]	verb
+f=RUP:s%i}	A2_custom	jogar	to play (game / sport)	Jogo futebol aos sábados.	I play football on Saturdays.	Game/sport. Contrast with <strong>tocar</strong> (play instrument) and <strong>brincar</strong> (child's play).<br><br>Regular.			[sound:1000_jogar.mp3]	verb
+b3Va$QmP>3	A2_custom	olhar	to look	Olha para o céu, que belo.	Look at the sky, how beautiful.	Takes <strong>para</strong>. Distinct from <strong>ver</strong> (to see).<br><br>Regular.			[sound:1000_olhar.mp3]	verb
+nP.!{h!dQ`	A2_custom	oferecer	to offer / to give (a gift)	Ofereci-lhe um livro de poesia.	I gave him a book of poetry.	"In PT, often means ""to give as a gift"", not just ""to offer"".<br><br>Regular."			[sound:1000_oferecer.mp3]	verb
+AA{+>nKLhW	A2_custom	morrer	to die	O meu avô morreu há dez anos.	My grandfather died ten years ago.	Pair with <strong>nascer</strong> (to be born).<br><br>Regular.			[sound:1000_morrer.mp3]	verb
+IRXv%^W8?F	A2_custom	buscar	to get / to fetch	Vou buscar pão à padaria.	I'm going to get bread from the bakery.	Usually <strong>ir buscar</strong> (go fetch) or <strong>vir buscar</strong> (come fetch).<br><br>Regular.			[sound:1000_buscar.mp3]	verb
+f+tR0gK0mU	A2_custom	grande	big / large	Lisboa é uma cidade grande e bonita.	Lisbon is a big and beautiful city.	Same for m/f.			[sound:1000_grande.mp3]	adjective
+fe{1AZ&3?b	A2_custom	pequeno	small	A minha casa é pequena mas confortável.	My house is small but comfortable.	Feminine: <strong>pequena</strong>.			[sound:1000_pequeno.mp3]	adjective
+k3(VlhriFZ	A2_custom	alto	tall / high	O meu irmão é muito alto.	My brother is very tall.	Feminine: <strong>alta</strong>.			[sound:1000_alto.mp3]	adjective
+p>A/-@8^!L	A2_custom	baixo	short / low	O tecto é muito baixo neste quarto.	The ceiling is very low in this room.	Feminine: <strong>baixa</strong>. Of a person: short.			[sound:1000_baixo.mp3]	adjective
+J{|x]YF>TE	A2_custom	bom	good	Este livro é muito bom.	This book is very good.	Masculine. Adverb: <strong>bem</strong>. Also appears in greetings: <em>bom dia</em>. Feminine <strong>boa</strong> has its own card.			[sound:1000_bom.mp3]	adjective
+GX./nyE}LO	A2_custom	mau	bad (m)	Foi um dia mau no trabalho.	It was a bad day at work.	Masculine. Adverb: <strong>mal</strong>. Feminine <strong>má</strong> has its own card.			[sound:1000_mau.mp3]	adjective
+k7J$+R,fnE	A2_custom	novo	new / young	Tenho um carro novo.	I have a new car.	"Feminine: <strong>nova</strong>. Both ""new"" and ""young""."			[sound:1000_novo.mp3]	adjective
+qg[TX`@e(a	A2_custom	fácil	easy	O exame foi mais fácil do que esperava.	The exam was easier than I expected.	Same for m/f. Plural: <strong>fáceis</strong>.			[sound:1000_fácil.mp3]	adjective
+HgAW!fq-bE	A2_custom	difícil	difficult / hard	O português é difícil de pronunciar.	Portuguese is hard to pronounce.	Same for m/f. Plural: <strong>difíceis</strong>.			[sound:1000_difícil.mp3]	adjective
+DzXMJU%!ie	A2_custom	importante	important	É importante aprender uma língua nova.	It's important to learn a new language.	Same for m/f.			[sound:1000_importante.mp3]	adjective
+z+nV<CnyL5	A2_custom	trabalhador	hard-working	Ele é um funcionário muito trabalhador.	He's a very hard-working employee.	Feminine: <strong>trabalhadora</strong>.			[sound:1000_trabalhador.mp3]	adjective feeling
+"w[g#?j*m~Q"	A2_custom	responsável	responsible	A minha irmã é muito responsável.	My sister is very responsible.	Same for m/f.			[sound:1000_responsável.mp3]	adjective feeling
+qL%LycP!i4	A2_custom	doente	sick / ill	Não fui ao trabalho porque estava doente.	I didn't go to work because I was sick.	Same for m/f.			[sound:1000_doente.mp3]	adjective Health
+"jb.@!7B*}#"	A2_custom	livre	free	Estou livre amanhã à tarde.	I'm free tomorrow afternoon.	"Same for m/f. Means ""available"" or ""not imprisoned""."			[sound:1000_livre.mp3]	adjective
+"fL9#&}0;CQ"	A2_custom	forte	strong	Ele tem braços fortes de tanto treinar.	He has strong arms from training so much.	Same for m/f.			[sound:1000_forte.mp3]	adjective
+Fc8ynQK2if	A2_custom	jovem	young	Ela é jovem e cheia de energia.	She's young and full of energy.	Same for m/f. Plural: <strong>jovens</strong>.			[sound:1000_jovem.mp3]	adjective
+GA9ocsjZ6I	A2_custom	idoso	elderly	Os idosos merecem o nosso respeito.	The elderly deserve our respect.	Feminine: <strong>idosa</strong>. More polite than <strong>velho</strong> for people.			[sound:1000_idoso.mp3]	adjective
+(6+A]T-WC	A2_custom	branco	white	Ela usa uma camisa branca.	She wears a white shirt.	Feminine: <strong>branca</strong>.			[sound:1000_branco.mp3]	adjective color
+"w3])E,R~#Z"	A2_custom	rápido	fast / quick	O comboio é rápido e confortável.	The train is fast and comfortable.	Feminine: <strong>rápida</strong>.			[sound:1000_rápido.mp3]	adjective
+Kq&M0iih}S	A2_custom	passado	last / past	O mês passado fui ao Porto.	Last month I went to Porto.	Feminine: <strong>passada</strong>. <em>A semana passada</em> = last week.			[sound:1000_passado.mp3]	adjective Time
+k+q448/`$>	A2_custom	próximo	next / close	Apanhamos o próximo autocarro.	We'll catch the next bus.	"Feminine: <strong>próxima</strong>. Also ""close (by)""."			[sound:1000_próximo.mp3]	adjective Time
+"c7>75/`M#A"	A2_custom	último	last / final	É o último dia de férias.	It's the last day of the vacation.	Feminine: <strong>última</strong>.			[sound:1000_último.mp3]	adjective Time
+N(@cXlD8;Y	A2_custom	certo	right / correct	A resposta certa é a segunda.	The right answer is the second one.	Feminine: <strong>certa</strong>.			[sound:1000_certo.mp3]	adjective
+m0{,lR2u[H	A2_custom	verdadeiro	true (adj)	É uma história verdadeira.	It's a true story.	Feminine: <strong>verdadeira</strong>.			[sound:1000_verdadeiro.mp3]	adjective
+Q:^*2kfAWV	A2_custom	igual	equal / same	Os dois livros são iguais.	The two books are the same.	Same for m/f. Plural: <strong>iguais</strong>.			[sound:1000_igual.mp3]	adjective
+IiCa<D]Yh>	A2_custom	diferente	different	Este café é diferente do outro.	This coffee is different from the other.	Same for m/f. Takes <strong>de</strong>.			[sound:1000_diferente.mp3]	adjective
+w%jDU~a=vO	A2_custom	mesmo	same	É o mesmo livro.	It's the same book.	Feminine: <strong>mesma</strong>. Also adverb: <em>eu mesmo</em> (myself).			[sound:1000_mesmo.mp3]	adjective
+Q_Z~qYK43f	A2_custom	próprio	own	Cada um tem o seu próprio quarto.	Each one has their own room.	Feminine: <strong>própria</strong>.			[sound:1000_próprio.mp3]	adjective
+nmONQlR;0h	A2_custom	possível	possible	É possível reservar online?	Is it possible to book online?	Same for m/f. Plural: <strong>possíveis</strong>.			[sound:1000_possível.mp3]	adjective
+LC:*>Ii>Y2	A2_custom	português	Portuguese	O meu marido é português.	My husband is Portuguese.	Feminine: <strong>portuguesa</strong>. Plural: <strong>portugueses/portuguesas</strong>.			[sound:1000_português.mp3]	adjective nationality
+fld[N<!>>u	A2_custom	brasileiro	Brazilian	Tenho um amigo brasileiro em Lisboa.	I have a Brazilian friend in Lisbon.	Feminine: <strong>brasileira</strong>.			[sound:1000_brasileiro.mp3]	adjective nationality
+E?gEI7F-wj	A2_custom	como (not in question)	as / like	Falo como um português.	I speak like a Portuguese person.	Used for comparisons. Also the question word <strong>como</strong> (how).			[sound:1000_como.mp3]	adverb glue
+LD:Z@~a)j=	A2_custom	minha	my (f)	A minha casa fica perto da praia.	My house is near the beach.	Feminine possessive. Masc: <strong>meu</strong>. Plural: <strong>minhas</strong>. Usually with the article: <em>a minha casa</em>.				glue grammar pronoun
+DvsAYZdJxU	A2_custom	tua	your (f, informal)	A tua ideia é ótima.	Your idea is great.	Feminine possessive. Masc: <strong>teu</strong>. Plural: <strong>tuas</strong>. Informal singular; formal uses <strong>sua</strong>.				glue grammar pronoun
+Gjk3b9_,0H	A2_custom	sua	his / her / your (formal, f)	Qual é a sua morada?	What is your address?	Feminine possessive. Masc: <strong>seu</strong>. Plural: <strong>suas</strong>. Ambiguous between his/her/your — to disambiguate: <em>a casa dele/dela</em>.				glue grammar pronoun
+JKPGP)]9b+	A2_custom	porque é que	why (conversational)	Porque é que chegaste tão tarde?	Why did you arrive so late?	"Standard EP conversational form of ""why?"" — literally ""why is it that"". More natural in speech than bare <strong>porque?</strong>. The <em>é que</em> is optional but very common after any question word."				glue phrase question
+"t/NE17#IOQ"	A2_custom	tal	such	Nunca vi tal coisa na minha vida.	I've never seen such a thing in my life.	Same form for m/f. Plural: <strong>tais</strong>. Also in fixed expressions: <em>tal como</em> (just as / like), <em>e tal</em> (and so on).			[sound:1000_tal.mp3]	adjective glue
+fSsQB$ch(%	A2_custom	também não	not either / neither	Eu não fumo e a minha irmã também não.	I don't smoke and my sister doesn't either.	Negative counterpart of <strong>também</strong> (also). Often ends the clause.				glue phrase
+jKfCP+9}4n	A2_custom	ainda não	not yet	O autocarro ainda não chegou à paragem.	The bus hasn't arrived at the stop yet.	Opposite of <strong>já</strong> (already). Goes before the verb.				glue phrase Time
+d4F/Fc+~kp	A2_custom	por exemplo	for example	Gosto de fruta, por exemplo maçãs e peras.	I like fruit, for example apples and pears.	Abbreviated: <strong>p. ex.</strong>				glue phrase
+"uU+#0I*,6I"	A2_custom	antes de	before (preposition)	Lavo os dentes antes de dormir.	I brush my teeth before going to sleep.	Followed by infinitive or noun: <em>antes de sair</em>, <em>antes do almoço</em>. Without <strong>de</strong>, <strong>antes</strong> is an adverb.				glue preposition Time
+MO<&f*Rz|3	A2_custom	depois de	after (preposition)	Depois de jantar, vejo um pouco de televisão.	After dinner, I watch a bit of television.	Followed by infinitive or noun: <em>depois de comer</em>, <em>depois do trabalho</em>. Without <strong>de</strong>, <strong>depois</strong> is an adverb.				glue preposition Time
+sjFxx]7NE0	A2_custom	por causa de	because of	Cheguei tarde por causa do trânsito.	I arrived late because of the traffic.	Takes a noun, contracts: <em>por causa do/da/dos/das</em>. Contrast with <strong>porque</strong> (conjunction, takes a full clause).				glue phrase
+cOOtS?L@=B	A2_custom	isto	this (neuter)	O que é isto em cima da mesa?	What is this on top of the table?	Neuter demonstrative — used when the thing has no identified noun (unknown, abstract, or just pointed at). Pair with <strong>este/esta</strong> (used with a noun). Near the speaker.			[sound:1000_isto.mp3]	glue grammar pronoun
+HDWer?wkk*	A2_custom	isso	that (near you, neuter)	Isso que disseste não é verdade.	That (thing) you said isn't true.	Neuter demonstrative — for what the listener said or what's near them. Pair with <strong>esse/essa</strong>.			[sound:1000_isso.mp3]	glue grammar pronoun
+K+5A}hd>yN	A2_custom	aquilo	that (over there, neuter)	O que é aquilo lá ao fundo?	What is that over there at the back?	"Neuter demonstrative — distant or abstract ""that"". Pair with <strong>aquele/aquela</strong>."			[sound:1000_aquilo.mp3]	glue grammar pronoun
+AZI$Oe[.h1	A2_custom	dele	his / of him	O carro dele é azul, o dela é vermelho.	His car is blue, hers is red.	<em>de + ele</em>. Used to disambiguate the possessive <strong>seu</strong> (which is ambiguous between his/her/your). Invariable — doesn't agree with the thing possessed. Plural: <strong>deles</strong>.				glue grammar pronoun
+o^ql-dj.&U	A2_custom	dela	hers / of her	A casa dela fica perto daqui.	Her house is near here.	<em>de + ela</em>. Used to disambiguate the possessive <strong>sua</strong>. Invariable. Plural: <strong>delas</strong>.				glue grammar pronoun
+OD2Kqs+kcU	A2_custom	também	also / too	O meu irmão também fala inglês.	My brother also speaks English.	Placed after the subject and before the verb, or right after the verb. Negative counterpart: <strong>também não</strong> (not either).			[sound:1000_também.mp3]	adverb glue
+dIbk7Qm.W-	A2_custom	desde	since / from	Moro em Lisboa desde 2015.	I've lived in Lisbon since 2015.	Used for time or place starting points. With time often paired with verbs in the present: <em>desde + time = since</em>.			[sound:1000_desde.mp3]	glue preposition
+O1sJC2Q(yB	A2_custom	contra	against	O carro bateu contra a parede.	The car crashed against the wall.				[sound:1000_contra.mp3]	glue preposition
+"l`||3J+#Gh"	A2_custom	portanto	therefore / so (bit formal)	Estudei muito, portanto sei a resposta.	I studied a lot, therefore I know the answer.	More formal than <strong>por isso</strong>.			[sound:1000_portanto.mp3]	conjunction glue
+"u}o#G`WwTV"	A2_custom	tanto	so much / so many	Não sabia que tinhas tanto trabalho.	I didn't know you had so much work.	Feminine: <strong>tanta</strong>. Plural: <strong>tantos/tantas</strong>. Agrees with the noun.			[sound:1000_tanto.mp3]	adverb glue
+tU$3J@zUfu	A2_custom	ambos	both	Ambos os meus irmãos moram no Porto.	Both my brothers live in Porto.	Feminine: <strong>ambas</strong>. Usually followed by <em>os/as + noun</em>.			[sound:1000_ambos.mp3]	glue grammar pronoun
+D7ZJm}QTH	A2_custom	sobretudo	especially / above all	Gosto de fruta, sobretudo maçãs.	I like fruit, especially apples.				[sound:1000_sobretudo.mp3]	adverb glue
+F,7ME?z%G/	A2_custom	apesar de	despite / in spite of	Saí apesar do frio intenso.	I went out despite the intense cold.	Takes noun or <em>apesar de + infinitive</em>. Contracts: <em>apesar do/da/dos/das</em>.			[sound:1000_apesar.mp3]	phrase
+gTS![(y=az	A2_custom	embora	although / away	Vou-me embora — está a ficar tarde.	I'm leaving — it's getting late.	"Two main senses. <strong>(1) ""Away / leaving""</strong> — very A2: <em>vou-me embora</em> (I'm leaving), <em>fui-me embora</em> (I left). Pairs with a reflexive pronoun. <br><br><strong>(2) ""Although""</strong> — late-A2/B1. Triggers the subjunctive: <em>embora esteja cansado, vou</em> (although I'm tired, I'll go). At A2 level, prefer the workarounds <strong>mas</strong> (<em>estou cansado, mas vou</em>) or <strong>apesar de + infinitive</strong> (<em>apesar de estar cansado, vou</em>)."			[sound:1000_embora.mp3]	conjunction glue
+cgRGs7Fa@k	A2_custom	demais	too / too much / excessively	Este café está quente demais.	This coffee is too hot.	Placed after the adjective or verb. Invariable.			[sound:1000_demais.mp3]	adverb glue
+Mu-dkcqE[a	A2_custom	contar	to count / to tell	Contei-te essa história ontem.	I told you that story yesterday.	Both senses: count numbers, tell a story. Idiom: <em>contar com</em> = to count on (someone).<br><br>Regular.			[sound:1000_contar.mp3]	verb
+vPUe/~Y.xo	A2_custom	acontecer	to happen	O que aconteceu ontem à noite?	What happened last night?	"Mostly impersonal in 3rd person. Orthographic <strong>c → ç</strong> before <em>o/a</em>.<br><br>present  : <span style=""color: blue;""><b>aconteço</b></span>, aconteces, acontece, acontecemos, acontecem<br>simp past: aconteci, aconteceste, aconteceu, acontecemos, aconteceram<br>imperfect: acontecia, acontecias, acontecia, acontecíamos, aconteciam<br>imperativ: _, acontece, <b>aconteça</b>, <b>aconteçamos</b>, <b>aconteçam</b>"			[sound:1000_acontecer.mp3]	verb
+eC9n9n*Unu	A2_custom	existir	to exist	Existem muitas línguas no mundo.	Many languages exist in the world.	Often used impersonally: <em>existe/existem</em> similar to <em>há</em>.<br><br>Regular.			[sound:1000_existir.mp3]	verb
+O!%Sf7g_u-	A2_custom	cair	to fall	Tive cuidado para não cair no gelo.	I was careful not to fall on the ice.	"Irregular eu form: <strong>caio</strong>. Other forms have accents: <em>caí, caíste, caímos</em>.<br><br>present  : <span style=""color: blue;""><b>caio</b></span>, cais, cai, caímos, caem<br>simp past: caí, caíste, caiu, caímos, caíram<br>imperfect: caía, caías, caía, caíamos, caíam<br>imperativ: _, cai, <b>caia</b>, <b>caiamos</b>, <b>caiam</b>"			[sound:1000_cair.mp3]	motion verb
+Qk;_%shO}W	A2_custom	ligar	to call (phone) / to connect / to turn on	Liguei-te ontem mas não atendeste.	I called you yesterday but you didn't answer.	Multiple senses: phone call (<em>ligar a alguém</em>), turn on a device, connect. Subjunctive: <em>ligue</em> (g → gu before e).<br><br>Regular.			[sound:1000_ligar.mp3]	verb
+B)~7~CR24w	A2_custom	aparecer	to appear / to show up	Ele apareceu na festa sem avisar.	He showed up at the party without warning.	"Orthographic <strong>c → ç</strong> before <em>o/a</em>. Same family as <strong>parecer</strong>.<br><br>present  : <span style=""color: blue;""><b>apareço</b></span>, apareces, aparece, aparecemos, aparecem<br>simp past: apareci, apareceste, apareceu, aparecemos, apareceram<br>imperfect: aparecia, aparecias, aparecia, aparecíamos, apareciam<br>imperativ: _, aparece, <b>apareça</b>, <b>apareçamos</b>, <b>apareçam</b>"			[sound:1000_aparecer.mp3]	verb
+v$B~iv1gNM	A2_custom	descobrir	to discover / to find out	Descobri um café novo no centro.	I discovered a new café in the center.	"Stem change: <em>o → u</em> in the eu form (<strong>descubro</strong>).<br><br>present  : <span style=""color: blue;""><b>descubro</b></span>, descobres, descobre, descobrimos, descobrem<br>simp past: descobri, descobriste, descobriu, descobrimos, descobriram<br>imperfect: descobria, descobrias, descobria, descobríamos, descobriam<br>imperativ: _, descobre, <b>descubra</b>, <b>descubramos</b>, <b>descubram</b>"			[sound:1000_descobrir.mp3]	verb
+Dl^0L[;7^c	A2_custom	tirar	to take off / take out / take away	Tira os sapatos antes de entrar em casa.	Take off your shoes before entering the house.	Very versatile: remove clothing, take out of something, take a photo (<em>tirar uma foto</em>), get a degree (<em>tirar um curso</em>).<br><br>Regular.			[sound:1000_tirar.mp3]	verb
+cp?~z5?*{M	A2_custom	tratar	to treat / to deal with	O médico tratou-o muito bem.	The doctor treated him very well.	With <strong>de</strong>: to take care of (<em>tratar de alguém</em>). With <strong>se</strong>: to be about (<em>trata-se de…</em> = it's about…).<br><br>Regular.			[sound:1000_tratar.mp3]	verb
+qJ4Moz^x-N	A2_custom	aceitar	to accept	Aceitei o convite para jantar.	I accepted the dinner invitation.	Regular.			[sound:1000_aceitar.mp3]	verb
+cmUd[SE5lF	A2_custom	acreditar	to believe	Acredito em ti.	I believe in you.	Usually with <strong>em</strong>: <em>acreditar em alguém/algo</em>.<br><br>Regular.			[sound:1000_acreditar.mp3]	verb
+Q]1Z)@k4h	A2_custom	evitar	to avoid	Evito beber café à noite.	I avoid drinking coffee at night.	Regular.			[sound:1000_evitar.mp3]	verb
+v8t`*Y{]Ke	A2_custom	terminar	to finish / to end / to complete (more formal)	Terminei o trabalho à meia-noite.	I finished the work at midnight.	Synonym: <strong>acabar</strong>. Terminar is more formal.&nbsp;<br><br>Regular.			[sound:1000_terminar.mp3]	verb
+s`rhhZ~3V-	A2_custom	preparar	to prepare	A minha mãe está a preparar o jantar.	My mother is preparing dinner.	Reflexive <em>preparar-se</em> = to get ready.<br><br>Regular.			[sound:1000_preparar.mp3]	verb
+ln@.e07G+v	A2_custom	enviar	to send	Enviei-te um email esta manhã.	I sent you an email this morning.	Synonym: <strong>mandar</strong>.<br><br>Regular.			[sound:1000_enviar.mp3]	verb
+wDV<Cc*tNR	A2_custom	resolver	to solve / to decide	Resolvi o problema em cinco minutos.	I solved the problem in five minutes.	"Also ""to decide to do"": <em>resolvi ficar em casa</em> = I decided to stay home.<br><br>Regular."			[sound:1000_resolver.mp3]	verb
+"f~;*AD:x#Q"	A2_custom	acompanhar	to accompany / to go with	Posso acompanhar-te à estação?	Can I go with you to the station?	Regular.			[sound:1000_acompanhar.mp3]	verb
+v_/oEKIGkW	A2_custom	participar	to participate	Vou participar na reunião amanhã.	I'm going to participate in tomorrow's meeting.	Usually with <strong>em/no/na</strong>.<br><br>Regular.			[sound:1000_participar.mp3]	verb
+B[HBfKy]E4	A2_custom	servir	to serve / to be used for	Este vestido não me serve.	This dress doesn't fit me.	"Stem change <em>e → i</em> in eu. Also ""to fit"" clothing and ""to be good for something"".<br><br>present  : <span style=""color: blue;""><b>sirvo</b></span>, serves, serve, servimos, servem<br>simp past: servi, serviste, serviu, servimos, serviram<br>imperfect: servia, servias, servia, servíamos, serviam<br>imperativ: _, serve, <b>sirva</b>, <b>sirvamos</b>, <b>sirvam</b>"			[sound:1000_servir.mp3]	verb
+PM9DIxX[Z.	A2_custom	funcionar	to work (of machines)	O meu telemóvel não funciona.	My phone doesn't work.	"For machines, systems, plans — not ""to work at a job"" (that's <strong>trabalhar</strong>).<br><br>Regular."			[sound:1000_funcionar.mp3]	verb
+l=S0lN/$*8	A2_custom	melhorar	to improve / to get better	O tempo vai melhorar amanhã.	The weather is going to get better tomorrow.	Regular.			[sound:1000_melhorar.mp3]	verb
+"yBu#_s`n+("	A2_custom	construir	to build	Estão a construir um prédio novo na minha rua.	They're building a new apartment block on my street.	"Irregular stem change in stressed tu/ele/eles: <em>ui → ói</em> (<strong>constróis, constrói, constroem</strong>).<br><br>present  : construo, <span style=""color: blue;""><b>constróis</b></span>, <span style=""color: blue;""><b>constrói</b></span>, construímos, <span style=""color: blue;""><b>constroem</b></span><br>simp past: construí, construíste, construiu, construímos, construíram<br>imperfect: construía, construías, construía, construíamos, construíam<br>imperativ: _, <span style=""color: blue;""><b>constrói</b></span>, <b>construa</b>, <b>construamos</b>, <b>construam</b>"			[sound:1000_construir.mp3]	verb
+g50B!00:)}	A2_custom	manter	to keep / to maintain	É importante manter a calma.	It's important to keep calm.	"Conjugates like <strong>ter</strong> with the <em>man-</em> prefix.<br><br>present  : <span style=""color: blue;""><b>mantenho</b></span>, <b>manténs</b>, <b>mantém</b>, mantemos, <b>mantêm</b><br>simp past: <b>mantive</b>, <b>mantiveste</b>, <span style=""color: blue;""><b>manteve</b></span>, <b>mantivemos</b>, <b>mantiveram</b><br>imperfect: <b>mantinha</b>, <b>mantinhas</b>, <b>mantinha</b>, <b>mantínhamos</b>, <b>mantinham</b><br>imperativ: _, <span style=""color: blue;""><b>mantém</b></span>, <b>mantenha</b>, <b>mantenhamos</b>, <b>mantenham</b>"			[sound:1000_manter.mp3]	verb
+kDj]rW9t9$	A2_custom	lembrar	to remind (transitive)	Lembra-me de comprar pão.	Remind me to buy bread.	Transitive <em>lembrar alguém de</em> = to remind someone of. Different from <strong>lembrar-se de</strong> (to remember), which has its own card.<br><br>Regular.			[sound:1000_lembrar.mp3]	verb
+EB:G%Os/g]	A2_custom	antigo	old / former / ancient	Vivo num prédio antigo do século XIX.	I live in an old 19th-century building.	"Feminine: <strong>antiga</strong>. For people, <strong>velho</strong> is more common; for objects/buildings, <strong>antigo</strong>. Can also mean ""former"": <em>o meu antigo chefe</em> = my former boss."			[sound:1000_antigo.mp3]	adjective
+H~={vbsfH)	A2_custom	comum	common	É uma doença comum no inverno.	It's a common illness in winter.	Same form for m/f. Plural: <strong>comuns</strong>.			[sound:1000_comum.mp3]	adjective
+DG4W@lj^n9	A2_custom	especial	special	Hoje é um dia especial para mim.	Today is a special day for me.	Same form for m/f. Plural: <strong>especiais</strong>.			[sound:1000_especial.mp3]	adjective
+)`69<<Mva	A2_custom	geral	general	Em geral, prefiro chá a café.	In general, I prefer tea to coffee.	Same form for m/f. Plural: <strong>gerais</strong>. Phrase: <em>em geral</em> = generally.			[sound:1000_geral.mp3]	adjective
+bBP@E/,z=f	A2_custom	final	final	A prova final é na próxima semana.	The final test is next week.	Same form for m/f. Also a masculine noun: <em>o final do filme</em> = the end of the film.			[sound:1000_final.mp3]	adjective
+l[%]Bs,}sm	A2_custom	natural	natural	Prefiro sumos naturais aos industriais.	I prefer natural juices to industrial ones.	Same form for m/f. Plural: <strong>naturais</strong>.			[sound:1000_natural.mp3]	adjective
+Gbma5tx^:M	A2_custom	seguinte	following / next (from other reference)	No dia seguinte, acordei muito cedo.	The next day, I woke up very early.	Same form for m/f. Used after the noun.<div>Próximo is in reference to current moment.&nbsp;</div>			[sound:1000_seguinte.mp3]	adjective Time
+NCs<zuw@NB	A2_custom	seguro	safe / sure	Este bairro é muito seguro à noite.	This neighborhood is very safe at night.	Feminine: <strong>segura</strong>. Also a masculine noun: <em>o seguro</em> = insurance.			[sound:1000_seguro.mp3]	adjective
+JSG(J:UJNM	A2_custom	completo	complete / full	O hotel está completo este fim de semana.	The hotel is fully booked this weekend.	Feminine: <strong>completa</strong>.			[sound:1000_completo.mp3]	adjective
+DvNONR?(e,	A2_custom	normal	normal	É normal estar cansado depois de correr.	It's normal to be tired after running.	Same form for m/f. Plural: <strong>normais</strong>.			[sound:1000_normal.mp3]	adjective
+Oj!F!1rT.s	A2_custom	grave	serious / grave	O acidente foi grave, mas todos estão bem.	The accident was serious, but everyone is okay.	Same form for m/f.			[sound:1000_grave.mp3]	adjective
+g^hu|D*wPD	A2_custom	capaz	capable	Ela é capaz de resolver qualquer problema.	She's capable of solving any problem.	Same form for m/f. Plural: <strong>capazes</strong>. Takes <strong>de</strong> + infinitive.			[sound:1000_capaz.mp3]	adjective
+bWWO!l`QwW	A2_custom	tradicional	traditional	O bacalhau é um prato tradicional português.	Cod is a traditional Portuguese dish.	Same form for m/f. Plural: <strong>tradicionais</strong>.			[sound:1000_tradicional.mp3]	adjective
+H}&-_o*}6*	A2_custom	nacional	national	O feriado nacional é no dia dez de junho.	The national holiday is on June 10th.	Same form for m/f. Plural: <strong>nacionais</strong>.			[sound:1000_nacional.mp3]	adjective
+e_:Ju+;95f	A2_custom	internacional	international	O aeroporto internacional fica longe do centro.	The international airport is far from the center.	Same form for m/f. Plural: <strong>internacionais</strong>.			[sound:1000_internacional.mp3]	adjective
+bx$}<Q{;UK	A2_custom	social	social	As redes sociais mudaram a comunicação.	Social media has changed communication.	Same form for m/f. Plural: <strong>sociais</strong>.			[sound:1000_social.mp3]	adjective
+M>Pu6}3mgz	A2_custom	total	total	O custo total da viagem foi duzentos euros.	The total cost of the trip was two hundred euros.	Same form for m/f. Plural: <strong>totais</strong>.			[sound:1000_total.mp3]	adjective
+p(GsixLJ*G	A2_custom	único	unique / only	Este é o único supermercado aberto ao domingo.	This is the only supermarket open on Sundays.	Feminine: <strong>única</strong>.			[sound:1000_único.mp3]	adjective
+MC7$PKlkH^	A2_custom	público	public	O transporte público é bom em Lisboa.	Public transport is good in Lisbon.	Feminine: <strong>pública</strong>.			[sound:1000_público.mp3]	adjective
+Ci%;wcVI_w	A2_custom	privado	private	Isto é um assunto privado.	This is a private matter.	Feminine: <strong>privada</strong>.			[sound:1000_privado.mp3]	adjective
+4(j5`2h>&	A2_custom	real (PT)	real (EN)	Esta história parece real.	This story seems real.	Same form for m/f. Plural: <strong>reais</strong>.			[sound:1000_real.mp3]	adjective
+:s932g)&!	A2_custom	simples	simple	A receita é muito simples.	The recipe is very simple.	Same form for m/f and same for singular/plural (invariable).			[sound:1000_simples.mp3]	adjective
+I5k[Ww@jGp	A2_custom	o fundo	bottom / back / end	A cozinha fica ao fundo do corredor.	The kitchen is at the end of the hallway.	(m) — bottom, far end, or back of a space.<br><br><strong>Key phrases:</strong><div>• <strong>ao fundo (de)</strong> = at the end of / at the back of: <em>ao fundo da rua</em> (at the end of the street).</div><div>• <strong>no fundo</strong> = deep down / actually: <em>no fundo, ele é simpático</em> (deep down, he's nice).</div><div>• <strong>a fundo</strong> = thoroughly: <em>estudar a fundo</em> (to study thoroughly).</div><div>• <strong>de fundo</strong> = underlying / basic: <em>um problema de fundo</em> (an underlying problem).</div><br><strong>As adjective — <em>fundo / funda</em></strong> = deep: <em>um rio fundo</em> (a deep river), <em>uma gaveta funda</em> (a deep drawer).<br><br><strong>Financial sense</strong> (B1+): <em>um fundo (de investimento)</em> = an (investment) fund. <em>Fundos públicos</em> = public funds.			[sound:1000_fundo.mp3]	noun
+hCMVadwGaM	A2_custom	outra vez	again	Vou ver esse filme outra vez.	I'm going to watch that film again.	Much more common than <em>novamente</em> or <em>de novo</em> in conversation.				glue
