@@ -936,5 +936,5 @@ K8p2QnL5vR	A2_custom	a secretária	desk / female secretary	A secretária está a
 L4v9MxQ2pT	A2_custom	parabéns	congratulations / happy birthday	Parabéns pelo teu aniversário!	Happy birthday!	Fixed plural expression. Also: parabéns pelo exame = congratulations on the exam.				greeting interjection phrase
 M7q3LpV8nS	A2_custom	a piada	joke	Ele contou uma piada muito engraçada.	He told a very funny joke.	(f). Contar uma piada = to tell a joke.				noun
 N2x8QvL4pM	A2_custom	o bairro	neighborhood / district	Moro num bairro calmo perto do centro.	I live in a quiet neighborhood near the center.	(m). A part of a town or city.				place noun
-P9m5LqR2vX	A2_custom	é o contrário de	is the opposite of	Quente é o contrário de frio.	Hot is the opposite of cold.	Useful for explaining vocabulary in simple Portuguese.				glue phrase
-Q3v7NpL9mT	A2_custom	parecido com	similar to / like	Este casaco é parecido com o meu.	This coat is similar to mine.	Adjective phrase; agrees with the noun: parecido/parecida/parecidos/parecidas com.				adjective phrase glue
+P9m5LqR2vX	A2_custom	é o contrário de	is the opposite of	Procuro uma palavra que é o contrário de quente.	I'm looking for a word that is the opposite of hot.	Useful for explaining vocabulary in simple Portuguese.				glue phrase
+Q3v7NpL9mT	A2_custom	parecido com	similar to / like	Procuro uma palavra parecida com feliz.	I'm looking for a word similar to happy.	Adjective phrase; agrees with the noun: parecido/parecida/parecidos/parecidas com.				adjective phrase glue
