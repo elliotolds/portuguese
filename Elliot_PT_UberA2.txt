@@ -932,3 +932,9 @@ S5q9LxV2mA	A2_custom	não é?	isn't it? / right?	Está frio hoje, não é?	It's 
 X5n2VqR8pM	A2_custom	cortar	to cut	Corta o pão com cuidado.	Cut the bread carefully.	Regular.				verb
 Y6p4LqT9mN	A2_custom	confiar em	to trust	Confio na minha irmã.	I trust my sister.	Always takes em: confiar em alguém/algo.<br><br>Regular.				verb
 Z3m8QvL5pR	A2_custom	criar	to create / to raise	Quero criar um projeto simples.	I want to create a simple project.	Also means to raise a child or animal: criar uma criança.<br><br>Regular.				verb
+K8p2QnL5vR	A2_custom	a secretária	desk / female secretary	A secretária está ao lado da janela.	The desk is next to the window.	(f). Usually "desk". For a female secretary, also a secretária; masculine: o secretário.				home noun work
+L4v9MxQ2pT	A2_custom	parabéns	congratulations / happy birthday	Parabéns pelo teu aniversário!	Happy birthday!	Fixed plural expression. Also: parabéns pelo exame = congratulations on the exam.				greeting interjection phrase
+M7q3LpV8nS	A2_custom	a piada	joke	Ele contou uma piada muito engraçada.	He told a very funny joke.	(f). Contar uma piada = to tell a joke.				noun
+N2x8QvL4pM	A2_custom	o bairro	neighborhood / district	Moro num bairro calmo perto do centro.	I live in a quiet neighborhood near the center.	(m). A part of a town or city.				place noun
+P9m5LqR2vX	A2_custom	é o contrário de	is the opposite of	Quente é o contrário de frio.	Hot is the opposite of cold.	Useful for explaining vocabulary in simple Portuguese.				glue phrase
+Q3v7NpL9mT	A2_custom	parecido com	similar to / like	Este casaco é parecido com o meu.	This coat is similar to mine.	Adjective phrase; agrees with the noun: parecido/parecida/parecidos/parecidas com.				adjective phrase glue
