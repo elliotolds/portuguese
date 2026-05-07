@@ -1176,7 +1176,63 @@ These overlap with earlier place/preposition tables, especially `# place words` 
 
 # Adverbs
 
-Time/frequency, place/direction, degree/comparison, and response/certainty adverbs are covered in the earlier source-of-truth tables.
+Some adverbs below also appear in the earlier grammar/reference tables; they are repeated here so this later vocabulary section is complete.
+
+## Time
+
+Some entries here also appear in `# Time words` above.
+
+| PT        | EN                             | Notes                                                          |
+| --------- | ------------------------------ | -------------------------------------------------------------- |
+| hoje      | today                          |                                                                |
+| ontem     | yesterday                      |                                                                |
+| amanhã    | tomorrow                       |                                                                |
+| agora     | now                            |                                                                |
+| já agora  | by the way / while we're at it | Discourse phrase; useful when adding a related point           |
+| depois    | later / after                  |                                                                |
+| antes     | before                         |                                                                |
+| já        | already / now                  | Completed or imminent action; contrast with _ainda_: _Já comi_ |
+| ainda     | still / yet                    | Continuing or not-yet action; _Ainda não_ = not yet            |
+| cedo      | early                          |                                                                |
+| tarde     | late                           |                                                                |
+| logo      | soon / right away              |                                                                |
+| daqui     | from here / from now           | Without _a_ = from here; with _a_ = from now                   |
+| outra vez | again                          |                                                                |
+
+## Frequency
+
+Some entries here also appear in `# Time words` above.
+
+| PT           | EN                 | Notes                    |
+| ------------ | ------------------ | ------------------------ |
+| sempre       | always             |                          |
+| nunca        | never              |                          |
+| às vezes     | sometimes          |                          |
+| muitas vezes | often              |                          |
+| poucas vezes | rarely / not often |                          |
+| normalmente  | normally / usually |                          |
+| geralmente   | generally          | Similar to _normalmente_ |
+| raramente    | rarely             |                          |
+
+## Place & Direction
+
+Some entries here also appear in `# place words` above.
+
+| PT       | EN                  | Notes                                                   |
+| -------- | ------------------- | ------------------------------------------------------- |
+| aqui     | here                | Near me, precise                                        |
+| aí       | there (near you)    | Matches _esse / isso_ distance                          |
+| ali      | there (visible)     | Visible, a bit away; matches _aquele / aquilo_ distance |
+| lá       | there (far)         | Far, out of sight, or abstract                          |
+| cá       | here (general area) | Near me; motion toward / informal "around here"         |
+| perto    | near                |                                                         |
+| longe    | far                 |                                                         |
+| dentro   | inside              |                                                         |
+| fora     | outside             |                                                         |
+| em cima  | on top / above      |                                                         |
+| em baixo | below / underneath  |                                                         |
+| à frente | in front            |                                                         |
+| atrás    | behind              |                                                         |
 
 ## Manner
 
@@ -1190,3 +1246,35 @@ Time/frequency, place/direction, degree/comparison, and response/certainty adver
 | rapidamente | quickly        | More formal than _depressa_                                |
 | juntos      | together       | Agrees in gender/number when adjectival: _juntos / juntas_ |
 | sozinho/a   | alone          | Agrees with the person described                           |
+
+## Degree & Comparison
+
+Some entries here also appear in `# Quantity & Degree Words` and `# Comparatives and Superlatives` above.
+
+| PT        | EN             | Notes                                           |
+| --------- | -------------- | ----------------------------------------------- |
+| muito     | a lot / very   | Invariable as adverb; agrees as quantifier      |
+| pouco     | a little       | Invariable as adverb; agrees as quantifier      |
+| mais      | more           |                                                 |
+| menos     | less           |                                                 |
+| bastante  | quite / enough | Often means quite/fairly                        |
+| demasiado | too much       | Invariable as adverb; agrees as quantifier      |
+| quase     | almost         |                                                 |
+| só        | only           | Neutral; also "alone" when used as an adjective |
+| apenas    | only / just    | Slightly more formal than _só_                  |
+| também    | also / too     | Usually before the verb: _eu também gosto_      |
+| tão       | so             | Used with adjectives/adverbs: _tão bonito_      |
+| melhor    | better         | Adverb or comparative adjective                 |
+| pior      | worse          | Adverb or comparative adjective                 |
+
+## Responses & Certainty
+
+These also appear in `# question response words` above.
+
+| PT            | EN        | Notes |
+| ------------- | --------- | ----- |
+| sim           | yes       |       |
+| não           | no / not  |       |
+| talvez        | maybe     |       |
+| claro         | of course |       |
+| provavelmente | probably  |       |
