@@ -408,77 +408,39 @@
 
 # Getting Around
 
-## Direction Words
-
-| PT               | EN                                   | Notes       |
-| ---------------- | ------------------------------------ | ----------- |
-| à esquerda       | to the left                          | _à_ = a + a |
-| à direita        | to the right                         | _à_ = a + a |
-| em frente        | straight ahead                       |             |
-| sempre em frente | straight ahead / keep going straight |             |
-| norte            | north                                |             |
-| sul              | south                                |             |
-| leste            | east                                 |             |
-| oeste            | west                                 |             |
-
-## Movement Commands
-
-| PT               | EN                     | Notes                             |
-| ---------------- | ---------------------- | --------------------------------- |
-| virar à esquerda | turn left              |                                   |
-| virar à direita  | turn right             |                                   |
-| seguir           | keep going / continue  | Also "to follow"                  |
-| atravessar       | to cross               |                                   |
-| atravessar a rua | to cross the street    |                                   |
-| subir            | to go up               | Streets, floors, hills            |
-| descer           | to go down             | Streets, floors, hills            |
-| voltar para trás | to turn back / go back |                                   |
-| passar por       | to pass by             | _passar_ also means to spend time |
-
-## Position
-
-| PT             | EN                | Notes |
-| -------------- | ----------------- | ----- |
-| ao lado de     | next to           |       |
-| perto de       | near              |       |
-| longe de       | far from          |       |
-| em frente de   | opposite / facing |       |
-| entre          | between           |       |
-| na esquina     | on the corner     |       |
-| a primeira rua | the first street  |       |
-| a segunda rua  | the second street |       |
-
-## Landmarks
-
-| PT                     | EN                            | Notes |
-| ---------------------- | ----------------------------- | ----- |
-| o cruzamento           | the crossroads / intersection |       |
-| o semáforo             | the traffic light             |       |
-| a paragem de autocarro | the bus stop                  |       |
-| a estação              | the station                   |       |
-| o mapa                 | the map                       |       |
-
-## Questions
-
-| PT                              | EN                          | Notes                    |
-| ------------------------------- | --------------------------- | ------------------------ |
-| onde fica ...?                  | where is ...?               | For location             |
-| sabe onde fica ...?             | do you know where ... is?   | Polite / useful          |
-| como vou para ...?              | how do I get to ...?        | For directions / routing |
-| pode ajudar-me?                 | can you help me?            | Polite                   |
-| pode repetir, por favor?        | could you repeat, please?   | Polite                   |
-| é longe? / é perto?             | is it far? / is it near?    |                          |
-| quanto tempo demora?            | how long does it take?      |                          |
-| é a pé?                         | is it on foot?              |                          |
-| é de carro / autocarro / metro? | is it by car / bus / metro? |                          |
-
-## Transport Modes
-
-| PT           | EN       | Notes |
-| ------------ | -------- | ----- |
-| a pé         | on foot  |       |
-| de carro     | by car   |       |
-| de autocarro | by bus   |       |
-| de comboio   | by train |       |
-| de metro     | by metro |       |
-| de táxi      | by taxi  |       |
+| PT                     | EN                                   | Notes                             |
+| ---------------------- | ------------------------------------ | --------------------------------- |
+| à esquerda             | to the left                          | _à_ = a + a                       |
+| à direita              | to the right                         | _à_ = a + a                       |
+| em frente              | straight ahead                       |                                   |
+| sempre em frente       | straight ahead / keep going straight |                                   |
+| norte                  | north                                |                                   |
+| sul                    | south                                |                                   |
+| leste                  | east                                 |                                   |
+| oeste                  | west                                 |                                   |
+| virar à esquerda       | turn left                            |                                   |
+| virar à direita        | turn right                           |                                   |
+| seguir                 | keep going / continue                | Also "to follow"                  |
+| atravessar             | to cross                             |                                   |
+| atravessar a rua       | to cross the street                  |                                   |
+| subir                  | to go up                             | Streets, floors, hills            |
+| descer                 | to go down                           | Streets, floors, hills            |
+| voltar para trás       | to turn back / go back               |                                   |
+| passar por             | to pass by                           | _passar_ also means to spend time |
+| ao lado de             | next to                              |                                   |
+| perto de               | near                                 |                                   |
+| longe de               | far from                             |                                   |
+| em frente de           | opposite / facing                    |                                   |
+| entre                  | between                              |                                   |
+| na esquina             | on the corner                        |                                   |
+| a primeira rua         | the first street                     |                                   |
+| a segunda rua          | the second street                    |                                   |
+| o cruzamento           | the crossroads / intersection        |                                   |
+| o semáforo             | the traffic light                    |                                   |
+| a paragem de autocarro | the bus stop                         |                                   |
+| a estação              | the station                          |                                   |
+| o mapa                 | the map                              |                                   |
+| como vou para ...?     | how do I get to ...?                 | For directions / routing          |
+| quanto tempo demora?   | how long does it take?               |                                   |
+| é a pé?                | is it on foot?                       |                                   |
+| a pé                   | on foot                              |                                   |
