@@ -839,135 +839,135 @@ Related direction words also appear in `# place words`, `# Complex prepositions`
 - Some verbs take fixed prepositions before an infinitive: _gostar de_, _precisar de_, _esquecer-se de_, _acabar de_, _começar a_, _ajudar a_.
 - Movement and direction verbs also appear in `# Getting Around` when they are useful as travel phrases.
 
-| PT             | EN                              | Notes                                      |
-| -------------- | ------------------------------- | ------------------------------------------ |
-| ser            | to be (permanent)               | irregular                                  |
-| estar          | to be (temporary / location)    | irregular; _estar a_ + infinitive          |
-| ter            | to have                         | irregular                                  |
-| haver          | there is / there are (há)       |                                            |
-| ir             | to go                           | irregular; _ir_ + infinitive = near future |
-| fazer          | to do / to make                 | irregular                                  |
-| dar            | to give                         | irregular                                  |
-| poder          | can / to be able                | irregular                                  |
-| querer         | to want                         | irregular                                  |
-| dever          | must / should / to owe          |                                            |
-| saber          | to know (facts / how to)        | irregular                                  |
-| conhecer       | to know (people / places)       |                                            |
-| dizer          | to say / to tell                | irregular                                  |
-| falar          | to speak                        |                                            |
-| ver            | to see / to watch               | irregular                                  |
-| ouvir          | to hear / to listen             |                                            |
-| perceber       | to understand / get it          |                                            |
-| pensar         | to think                        |                                            |
-| achar          | to think / to find (opinion)    |                                            |
-| chamar-se      | to be called                    | reflexive                                  |
-| gostar de      | to like                         | takes _de_ + noun/infinitive               |
-| precisar de    | to need                         | takes _de_ + infinitive                    |
-| pedir          | to ask for / to order           |                                            |
-| perguntar      | to ask (a question)             |                                            |
-| responder      | to answer                       |                                            |
-| ajudar         | to help                         | takes _a_ + infinitive                     |
-| morar          | to live (reside)                |                                            |
-| viver          | to live                         |                                            |
-| trabalhar      | to work                         |                                            |
-| estudar        | to study                        |                                            |
-| aprender       | to learn                        |                                            |
-| ensinar        | to teach                        |                                            |
-| comer          | to eat                          |                                            |
-| beber          | to drink                        |                                            |
-| tomar          | to take / to have               |                                            |
-| dormir         | to sleep                        |                                            |
-| acordar        | to wake up                      |                                            |
-| levantar-se    | to get up                       | reflexive                                  |
-| deitar-se      | to go to bed                    | reflexive                                  |
-| sentar-se      | to sit down                     | reflexive                                  |
-| almoçar        | to have lunch                   |                                            |
-| jantar         | to have dinner                  |                                            |
-| cozinhar       | to cook                         |                                            |
-| lavar          | to wash                         |                                            |
-| limpar         | to clean                        |                                            |
-| vestir         | to wear / put on                |                                            |
-| vir            | to come                         | irregular                                  |
-| ficar          | to stay / to be located         |                                            |
-| sair           | to go out / to leave            |                                            |
-| chegar         | to arrive                       |                                            |
-| entrar         | to enter                        |                                            |
-| voltar         | to return                       |                                            |
-| andar          | to walk                         |                                            |
-| levar          | to take / to carry              |                                            |
-| trazer         | to bring                        | irregular                                  |
-| apanhar        | to catch / to pick up           |                                            |
-| passar         | to pass / to spend (time)       |                                            |
-| virar          | to turn                         |                                            |
-| subir          | to go up                        |                                            |
-| descer         | to go down                      |                                            |
-| viajar         | to travel                       |                                            |
-| visitar        | to visit                        |                                            |
-| correr         | to run                          | figurative                                 |
-| buscar         | to get                          | (used with ir)                             |
-| comprar        | to buy                          |                                            |
-| pagar          | to pay                          |                                            |
-| custar         | to cost                         |                                            |
-| gastar         | to spend                        |                                            |
-| vender         | to sell                         |                                            |
-| emprestar      | to lend                         | on CIPLE                                   |
-| reservar       | to reserve / to book            |                                            |
-| telefonar      | to call (by phone)              |                                            |
-| enviar         | to send                         | default in writing                         |
-| mandar         | to send                         | colloquial, inf                            |
-| receber        | to receive                      |                                            |
-| partilhar      | to share                        |                                            |
-| convidar       | to invite                       |                                            |
-| abrir          | to open                         |                                            |
-| fechar         | to close                        |                                            |
-| usar           | to use / to wear                |                                            |
-| encontrar      | to find / to meet               |                                            |
-| procurar       | to look for                     |                                            |
-| perder         | to lose / to miss               |                                            |
-| ganhar         | to win / to earn                |                                            |
-| escolher       | to choose                       |                                            |
-| decidir        | to decide                       |                                            |
-| começar        | to start                        | takes _a_ + infinitive                     |
-| acabar         | to finish                       | _acabar de_ + infinitive = just did        |
-| continuar      | to continue                     |                                            |
-| parar          | to stop                         |                                            |
-| esperar        | to wait / to hope               |                                            |
-| tentar         | to try                          |                                            |
-| conseguir      | to manage / to be able          |                                            |
-| costumar       | to usually (do)                 |                                            |
-| demorar        | to take (time)                  |                                            |
-| explicar       | to explain                      |                                            |
-| mostrar        | to show                         |                                            |
-| apresentar     | to introduce                    |                                            |
-| olhar          | to look                         |                                            |
-| ler            | to read                         | irregular                                  |
-| escrever       | to write                        |                                            |
-| jogar          | to play                         | (sport / game)                             |
-| mudar (de)     | to change / to move             |                                            |
-| deixar         | to leave / to let               |                                            |
-| parecer        | to seem                         |                                            |
-| nascer         | to be born                      |                                            |
-| pôr            | to put                          | irregular, essential                       |
-| oferecer       | to offer                        |                                            |
-| tocar          | to touch / to play (instrument) |                                            |
-| sentir-se      | to feel                         | reflexive                                  |
-| doer           | to hurt                         |                                            |
-| lembrar-se     | to remember                     | reflexive                                  |
-| esquecer-se de | to forget                       | reflexive; takes _de_ + infinitive         |
-| descansar      | to rest                         |                                            |
-| gostar mais de | to prefer                       |                                            |
-| preferir       | to prefer                       | standard alt. to gostar mais de            |
-| amar           | to love                         |                                            |
-| odiar          | to hate                         |                                            |
-| beijar         | to kiss                         |                                            |
-| cantar         | to sing                         |                                            |
-| dançar         | to dance                        |                                            |
-| rir            | to laugh                        |                                            |
-| sorrir         | to smile                        |                                            |
-| chorar         | to cry                          |                                            |
-| nadar          | to swim                         |                                            |
-| morrer         | to die                          |                                            |
-| chover         | to rain                         |                                            |
+| PT             | EN                              | Notes                                                                         |
+| -------------- | ------------------------------- | ----------------------------------------------------------------------------- |
+| ser            | to be (permanent)               | irregular; identity/essential trait, origin, time/date; contrast with _estar_ |
+| estar          | to be (temporary / location)    | irregular; temporary state/location; _estar a_ + infinitive                   |
+| ter            | to have                         | irregular; age and obligations: _tenho 30 anos_, _tenho de estudar_           |
+| haver          | there is / there are (há)       | impersonal _há_; also elapsed time: _há dois anos_                            |
+| ir             | to go                           | irregular; + infinitive = near future                                         |
+| fazer          | to do / to make                 | irregular; weather/time expressions: _faz frio_, _faz anos_                   |
+| dar            | to give                         | irregular; also for "is on/showing": _dá na televisão_                        |
+| poder          | can / to be able                | irregular; permission/possibility; contrast with _conseguir_                  |
+| querer         | to want                         | irregular; _queria_ is useful for polite requests                             |
+| dever          | must / should / to owe          | obligation often alternates with _ter de_                                     |
+| saber          | to know (facts / how to)        | irregular; facts/skills/know how; contrast with _conhecer_                    |
+| conhecer       | to know (people / places)       | people/places/familiarity; contrast with _saber_                              |
+| dizer          | to say / to tell                | irregular; words/information; contrast with _falar_                           |
+| falar          | to speak                        | languages/conversation; contrast with _dizer_                                 |
+| ver            | to see / to watch               | irregular; contrast with _olhar_ = direct your eyes                           |
+| ouvir          | to hear / to listen             | also covers active listening at A2                                            |
+| perceber       | to understand / get it          |                                                                               |
+| pensar         | to think                        | _pensar em/sobre_ = think about                                               |
+| achar          | to think / to find (opinion)    | Opinion verb: _acho que..._; softer than _pensar_                             |
+| chamar-se      | to be called                    | reflexive; names: _chamo-me..._                                               |
+| gostar de      | to like                         | takes _de_ + noun/infinitive                                                  |
+| precisar de    | to need                         | takes _de_ + noun/infinitive                                                  |
+| pedir          | to ask for / to order           | contrast with _perguntar_                                                     |
+| perguntar      | to ask (a question)             | contrast with _pedir_ for requests/orders                                     |
+| responder      | to answer                       | often _responder a_ alguém/a uma pergunta                                     |
+| ajudar         | to help                         | takes _a_ + infinitive; _ajudar alguém_                                       |
+| morar          | to live (reside)                | address/residence; narrower than _viver_                                      |
+| viver          | to live                         | broader life/existence sense; not just address                                |
+| trabalhar      | to work                         | Noun for job/work is _trabalho_ or _emprego_                                  |
+| estudar        | to study                        | activity/process; contrast with _aprender_                                    |
+| aprender       | to learn                        | result/acquiring knowledge; contrast with _estudar_                           |
+| ensinar        | to teach                        | person taught often introduced with _a_                                       |
+| comer          | to eat                          | Meals can also be _almoçar_ / _jantar_                                        |
+| beber          | to drink                        | _tomar_ is common for coffee/medicine/meals                                   |
+| tomar          | to take / to have               | coffee, medicine, shower, transport; broader than _beber_                     |
+| dormir         | to sleep                        |                                                                               |
+| acordar        | to wake up                      | contrast with _levantar-se_ = get out of bed                                  |
+| levantar-se    | to get up                       | reflexive; not just waking up                                                 |
+| deitar-se      | to go to bed                    | reflexive; contrast with _dormir_                                             |
+| sentar-se      | to sit down                     | reflexive; _estar sentado_ = be seated                                        |
+| almoçar        | to have lunch                   |                                                                               |
+| jantar         | to have dinner                  | also noun: _o jantar_                                                         |
+| cozinhar       | to cook                         | food preparation; contrast with generic _fazer_                               |
+| lavar          | to wash                         | with water/soap; contrast with _limpar_                                       |
+| limpar         | to clean                        | remove dirt/tidy; contrast with _lavar_                                       |
+| vestir         | to wear / put on                | clothes; contrast with _usar_ for use/wear generally                          |
+| vir            | to come                         | irregular; toward speaker/place; contrast with _ir_                           |
+| ficar          | to stay / to be located         | place location: _fica perto_; result: _fica bom_                              |
+| sair           | to go out / to leave            | contrast with _deixar_ = leave something/let                                  |
+| chegar         | to arrive                       | _chegar a_ a place                                                            |
+| entrar         | to enter                        | often _entrar em_ for places                                                  |
+| voltar         | to return                       | _voltar a_ + infinitive = do again                                            |
+| andar          | to walk                         | also transport habit: _ando de metro_                                         |
+| levar          | to take / to carry              | away from here; contrast with _trazer_                                        |
+| trazer         | to bring                        | irregular; toward here; contrast with _levar_                                 |
+| apanhar        | to catch / to pick up           | transport, colds, pick-ups; useful for travel                                 |
+| passar         | to pass / to spend (time)       | time passing/spending; contrast with _gastar_ money                           |
+| virar          | to turn                         | directions: _vira à direita_                                                  |
+| subir          | to go up                        | streets, floors, stairs                                                       |
+| descer         | to go down                      | streets, floors, stairs; opposite of _subir_                                  |
+| viajar         | to travel                       | verb form; noun is _viagem_                                                   |
+| visitar        | to visit                        |                                                                               |
+| correr         | to run                          | figurative: _correu bem_                                                      |
+| buscar         | to get                          | common with _ir_: _vou buscar_                                                |
+| comprar        | to buy                          | contrast with _pagar_                                                         |
+| pagar          | to pay                          | _pagar a conta_; contrast with _comprar_                                      |
+| custar         | to cost                         | thing is subject: _custa dez euros_                                           |
+| gastar         | to spend                        | money/time; contrast with _passar_ time                                       |
+| vender         | to sell                         | opposite of _comprar_                                                         |
+| emprestar      | to lend                         | for borrow, use _pedir emprestado_                                            |
+| reservar       | to reserve / to book            |                                                                               |
+| telefonar      | to call (by phone)              | often _telefonar a_ alguém                                                    |
+| enviar         | to send                         | neutral/default, especially messages/documents                                |
+| mandar         | to send                         | colloquial for sending; also command/tell someone to do                       |
+| receber        | to receive                      | also receive guests                                                           |
+| partilhar      | to share                        |                                                                               |
+| convidar       | to invite                       | _convidar para_ an event/place                                                |
+| abrir          | to open                         | opposite of _fechar_                                                          |
+| fechar         | to close                        | opposite of _abrir_                                                           |
+| usar           | to use / to wear                | also wear accessories/clothes; contrast with _vestir_                         |
+| encontrar      | to find / to meet               | found/met; contrast with _procurar_                                           |
+| procurar       | to look for                     | looking, not yet found; contrast with _encontrar_                             |
+| perder         | to lose / to miss               | also miss transport/event: _perdi o autocarro_                                |
+| ganhar         | to win / to earn                | money or competitions                                                         |
+| escolher       | to choose                       | select an option; contrast with _decidir_                                     |
+| decidir        | to decide                       | make a decision; contrast with _escolher_                                     |
+| começar        | to start                        | takes _a_ + infinitive                                                        |
+| acabar         | to finish                       | _acabar de_ + infinitive = just did                                           |
+| continuar      | to continue                     | often _continuar a_ + infinitive                                              |
+| parar          | to stop                         | _parar de_ = stop doing; _parar para_ = stop in order to                      |
+| esperar        | to wait / to hope               | context decides wait vs hope: _esperar pelo autocarro_, _espero que..._       |
+| tentar         | to try                          | attempt; contrast with _conseguir_                                            |
+| conseguir      | to manage / to be able          | manage/succeed in practice; contrast with _poder_                             |
+| costumar       | to usually (do)                 | _costumo ir_ = I usually go                                                   |
+| demorar        | to take (time)                  | thing/action is subject: _demora dez minutos_                                 |
+| explicar       | to explain                      | reasons/instructions; contrast with _mostrar_                                 |
+| mostrar        | to show                         | show/display; contrast with _explicar_                                        |
+| apresentar     | to introduce                    | people introductions or formal presentation                                   |
+| olhar          | to look                         | direct your eyes; contrast with _ver_                                         |
+| ler            | to read                         | irregular                                                                     |
+| escrever       | to write                        |                                                                               |
+| jogar          | to play                         | sports/games; contrast with _tocar_ for instruments                           |
+| mudar (de)     | to change / to move             | _mudar de casa_ = move house                                                  |
+| deixar         | to leave / to let               | _deixar de_ = stop doing; also let/allow                                      |
+| parecer        | to seem                         | useful for opinions: _parece bom_                                             |
+| nascer         | to be born                      |                                                                               |
+| pôr            | to put                          | irregular, essential; _pôr a mesa_                                            |
+| oferecer       | to offer                        | gift/offer; not just propose                                                  |
+| tocar          | to touch / to play (instrument) | instrument; also phone/doorbell rings                                         |
+| sentir-se      | to feel                         | reflexive; state: _sinto-me bem_                                              |
+| doer           | to hurt                         | body part is subject: _dói-me a cabeça_                                       |
+| lembrar-se     | to remember                     | reflexive; often _lembrar-se de_                                              |
+| esquecer-se de | to forget                       | reflexive; takes _de_ + noun/infinitive                                       |
+| descansar      | to rest                         | contrast with _dormir_                                                        |
+| gostar mais de | to prefer                       | transparent A2 preference form                                                |
+| preferir       | to prefer                       | concise standard preference verb                                              |
+| amar           | to love                         | stronger than _gostar de_                                                     |
+| odiar          | to hate                         |                                                                               |
+| beijar         | to kiss                         |                                                                               |
+| cantar         | to sing                         |                                                                               |
+| dançar         | to dance                        |                                                                               |
+| rir            | to laugh                        | _rir-se_ can mean laugh at someone/something                                  |
+| sorrir         | to smile                        | softer/nonverbal than _rir_                                                   |
+| chorar         | to cry                          |                                                                               |
+| nadar          | to swim                         |                                                                               |
+| morrer         | to die                          | opposite of _nascer_ in life events                                           |
+| chover         | to rain                         | impersonal weather verb: _chove_, _está a chover_                             |
 
 # Adjectives
 
