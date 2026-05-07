@@ -261,3 +261,149 @@
 - EP rarely answers with _sim_ alone. Native EP speakers more often **echo the verb** of the question:
   - _Vais ao café?_ — _Vou._ (instead of _sim_)
   - _Tens fome?_ — _Tenho._ (instead of _sim_)
+
+# Numbers
+
+| PT           | Value     |
+| ------------ | --------- |
+| zero         | 0         |
+| um / uma     | 1         |
+| dois / duas  | 2         |
+| três         | 3         |
+| quatro       | 4         |
+| cinco        | 5         |
+| seis         | 6         |
+| sete         | 7         |
+| oito         | 8         |
+| nove         | 9         |
+| dez          | 10        |
+| onze         | 11        |
+| doze         | 12        |
+| treze        | 13        |
+| catorze      | 14        |
+| quinze       | 15        |
+| dezasseis    | 16        |
+| dezassete    | 17        |
+| dezoito      | 18        |
+| dezanove     | 19        |
+| vinte        | 20        |
+| trinta       | 30        |
+| quarenta     | 40        |
+| cinquenta    | 50        |
+| sessenta     | 60        |
+| setenta      | 70        |
+| oitenta      | 80        |
+| noventa      | 90        |
+| cem / cento  | 100       |
+| duzentos     | 200       |
+| trezentos    | 300       |
+| quatrocentos | 400       |
+| quinhentos   | 500       |
+| seiscentos   | 600       |
+| setecentos   | 700       |
+| oitocentos   | 800       |
+| novecentos   | 900       |
+| mil          | 1,000     |
+| milhão       | 1,000,000 |
+
+| PT       | Meaning |
+| -------- | ------- |
+| primeiro | 1st     |
+| segundo  | 2nd     |
+| terceiro | 3rd     |
+| quarto   | 4th     |
+| quinto   | 5th     |
+| sexto    | 6th     |
+| sétimo   | 7th     |
+| oitavo   | 8th     |
+| nono     | 9th     |
+| décimo   | 10th    |
+
+# Weekdays
+
+| PT            | EN        |
+| ------------- | --------- |
+| segunda-feira | Monday    |
+| terça-feira   | Tuesday   |
+| quarta-feira  | Wednesday |
+| quinta-feira  | Thursday  |
+| sexta-feira   | Friday    |
+| sábado        | Saturday  |
+| domingo       | Sunday    |
+| fim de semana | weekend   |
+
+# Months
+
+| PT        | EN        |
+| --------- | --------- |
+| janeiro   | January   |
+| fevereiro | February  |
+| março     | March     |
+| abril     | April     |
+| maio      | May       |
+| junho     | June      |
+| julho     | July      |
+| agosto    | August    |
+| setembro  | September |
+| outubro   | October   |
+| novembro  | November  |
+| dezembro  | December  |
+| mês       | month     |
+| ano       | year      |
+
+# Greetings
+
+| PT                       | EN                         |
+| ------------------------ | -------------------------- |
+| olá                      | hi / hello                 |
+| bom dia                  | good morning               |
+| boa tarde                | good afternoon             |
+| boa noite                | good evening / night       |
+| adeus                    | goodbye                    |
+| tchau                    | bye                        |
+| até logo                 | see you later              |
+| até já                   | see you soon               |
+| até amanhã               | see you tomorrow           |
+| obrigado/a               | thank you (m/f)            |
+| por favor                | please                     |
+| desculpa / desculpe      | sorry (inf / form)         |
+| com licença              | excuse me                  |
+| de nada                  | you're welcome             |
+| como estás? / como está? | how are you? (inf / form)  |
+| tudo bem?                | all good?                  |
+| prazer em conhecer-te    | pleased to meet you (inf)  |
+| prazer em conhecê-lo/la  | pleased to meet you (form) |
+| bem-vindo/a/os/as        | welcome                    |
+
+# Getting Around
+
+| PT                     | EN                                   |
+| ---------------------- | ------------------------------------ |
+| à esquerda             | to the left                          |
+| à direita              | to the right                         |
+| em frente              | straight ahead                       |
+| sempre em frente       | straight ahead / keep going straight |
+| virar à esquerda       | turn left                            |
+| virar à direita        | turn right                           |
+| seguir                 | keep going / continue                |
+| atravessar             | to cross                             |
+| atravessar a rua       | to cross the street                  |
+| ao lado de             | next to                              |
+| perto de               | near                                 |
+| longe de               | far from                             |
+| em frente de           | opposite / facing                    |
+| entre                  | between                              |
+| na esquina             | on the corner                        |
+| a primeira rua         | the first street                     |
+| a segunda rua          | the second street                    |
+| o cruzamento           | the crossroads / intersection        |
+| o semáforo             | the traffic light                    |
+| a paragem de autocarro | the bus stop                         |
+| a estação              | the station                          |
+| o mapa                 | the map                              |
+| onde fica ...?         | where is ...?                        |
+| como vou para ...?     | how do I get to ...?                 |
+| norte                  | north                                |
+| sul                    | south                                |
+| leste                  | east                                 |
+| oeste                  | west                                 |
