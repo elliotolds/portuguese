@@ -264,6 +264,8 @@
 
 # Numbers
 
+## Cardinals
+
 | PT           | Value     | Notes                                       |
 | ------------ | --------- | ------------------------------------------- |
 | zero         | 0         |                                             |
@@ -306,18 +308,29 @@
 | mil          | 1,000     | Invariable                                  |
 | um milhão    | 1,000,000 | Plural: _milhões_                           |
 
-| PT       | Meaning | Notes                         |
-| -------- | ------- | ----------------------------- |
-| primeiro | 1st     | Agrees: _primeiro/primeira_   |
-| segundo  | 2nd     | Agrees: _segundo/segunda_     |
-| terceiro | 3rd     | Agrees: _terceiro/terceira_   |
-| quarto   | 4th     | Agrees: _quarto/quarta_       |
-| quinto   | 5th     | Agrees: _quinto/quinta_       |
-| sexto    | 6th     | Agrees: _sexto/sexta_         |
-| sétimo   | 7th     | Agrees: _sétimo/sétima_       |
-| oitavo   | 8th     | Agrees: _oitavo/oitava_       |
-| nono     | 9th     | Agrees: _nono/nona_           |
-| décimo   | 10th    | Agrees: _décimo/décima_       |
+| Pattern              | Example            | Notes                                         |
+| -------------------- | ------------------ | --------------------------------------------- |
+| tens + units         | _vinte e um_       | Use _e_ between parts                         |
+| tens + units         | _trinta e cinco_   |                                               |
+| hundreds + units     | _cento e um_       | _cento_, not _cem_, in compounds              |
+| thousands + hundreds | _mil e quinhentos_ | _e_ is common when joining large number parts |
+
+## Ordinals
+
+| PT       | Meaning | Notes                                                  |
+| -------- | ------- | ------------------------------------------------------ |
+| primeiro | 1st     | Agrees: _primeiro/primeira_; abbreviation: _1.º / 1.ª_ |
+| segundo  | 2nd     | Agrees: _segundo/segunda_; abbreviation: _2.º / 2.ª_   |
+| terceiro | 3rd     | Agrees: _terceiro/terceira_                            |
+| quarto   | 4th     | Agrees: _quarto/quarta_                                |
+| quinto   | 5th     | Agrees: _quinto/quinta_                                |
+| sexto    | 6th     | Agrees: _sexto/sexta_                                  |
+| sétimo   | 7th     | Agrees: _sétimo/sétima_                                |
+| oitavo   | 8th     | Agrees: _oitavo/oitava_                                |
+| nono     | 9th     | Agrees: _nono/nona_                                    |
+| décimo   | 10th    | Agrees: _décimo/décima_                                |
+
+- After 10th, cardinals are often more practical: _andar 11_, _página 23_.
 
 # Weekdays
 
@@ -331,107 +344,141 @@
 | sábado        | Saturday  | On Saturday = _no sábado_                                    |
 | domingo       | Sunday    | On Sunday = _no domingo_                                     |
 | fim de semana | weekend   | At/on the weekend = _no fim de semana_                       |
+| feriado       | holiday   | Public holiday / day off                                     |
+| dia útil      | workday   | Usually Monday-Friday, excluding holidays                    |
 
 - Weekdays are lowercase.
 - Recurring weekdays use the plural: _às segundas-feiras_ = on Mondays.
+- _A próxima segunda-feira_ = next Monday; _a segunda-feira passada_ = last Monday.
+- _Esta segunda-feira_ can mean this coming Monday or the Monday of the current week, depending on context.
 
 # Months
 
-| PT        | EN        | Notes                         |
-| --------- | --------- | ----------------------------- |
-| janeiro   | January   | In January = _em janeiro_     |
-| fevereiro | February  |                               |
-| março     | March     |                               |
-| abril     | April     |                               |
-| maio      | May       |                               |
-| junho     | June      |                               |
-| julho     | July      |                               |
-| agosto    | August    |                               |
-| setembro  | September |                               |
-| outubro   | October   |                               |
-| novembro  | November  |                               |
-| dezembro  | December  |                               |
-| mês       | month     | Plural: _meses_               |
-| ano       | year      |                               |
+| PT        | EN        | Notes                     |
+| --------- | --------- | ------------------------- |
+| janeiro   | January   | In January = _em janeiro_ |
+| fevereiro | February  |                           |
+| março     | March     |                           |
+| abril     | April     |                           |
+| maio      | May       |                           |
+| junho     | June      |                           |
+| julho     | July      |                           |
+| agosto    | August    |                           |
+| setembro  | September |                           |
+| outubro   | October   |                           |
+| novembro  | November  |                           |
+| dezembro  | December  |                           |
+| mês       | month     | Plural: _meses_           |
+| ano       | year      |                           |
 
 - Months are lowercase.
-- Dates use _de_: _5 de maio_, _em maio_.
+- Dates use _de_: _5 de maio_, _5 de maio de 2026_.
+- Numeric dates are day-first: _5/5/2026_.
+- _Em 2026_ = in 2026.
+- _O mês passado_ = last month; _o próximo mês_ = next month.
 
 # Greetings
 
-| PT                       | EN                         | Notes                                |
-| ------------------------ | -------------------------- | ------------------------------------ |
-| olá                      | hi / hello                 | Neutral                              |
-| bom dia                  | good morning               | Morning / before lunch               |
-| boa tarde                | good afternoon             | After lunch / afternoon              |
-| boa noite                | good evening / night       | Greeting or goodbye                  |
-| adeus                    | goodbye                    | More final than _até logo_           |
-| tchau                    | bye                        | Informal                             |
-| até logo                 | see you later              | Same day or later                    |
-| até já                   | see you soon               | Very soon                            |
-| até amanhã               | see you tomorrow           |                                      |
-| obrigado/a               | thank you                  | Agrees with the speaker              |
-| por favor                | please                     |                                      |
-| desculpa / desculpe      | sorry                      | Informal / formal                    |
-| com licença              | excuse me                  | To get attention or pass by          |
-| de nada                  | you're welcome             |                                      |
-| como estás? / como está? | how are you?               | Informal / formal                    |
-| tudo bem?                | all good?                  | Common casual check-in               |
-| prazer em conhecer-te    | pleased to meet you        | Informal                             |
-| prazer em conhecê-lo/la  | pleased to meet you        | Formal: male/female addressee        |
-| bem-vindo/a/os/as        | welcome                    | Agrees with the person/people welcomed |
+| PT                       | EN                               | Notes                                  |
+| ------------------------ | -------------------------------- | -------------------------------------- |
+| olá                      | hi / hello                       | Neutral                                |
+| bom dia                  | good morning                     | Morning / before lunch                 |
+| boa tarde                | good afternoon                   | After lunch / afternoon                |
+| boa noite                | good evening / night             | From evening/dusk; greeting or goodbye |
+| adeus                    | goodbye                          | More final than _até logo_             |
+| tchau                    | bye                              | Informal                               |
+| até logo                 | see you later                    | Same day or later                      |
+| até já                   | see you soon                     | Very soon                              |
+| até amanhã               | see you tomorrow                 |                                        |
+| bom fim de semana        | have a good weekend              |                                        |
+| boa sorte                | good luck                        |                                        |
+| parabéns                 | congratulations / happy birthday |                                        |
+| obrigado/a               | thank you                        | Agrees with the speaker                |
+| por favor                | please                           |                                        |
+| desculpa / desculpe      | sorry                            | Informal / formal                      |
+| com licença              | excuse me                        | To get attention or pass by            |
+| de nada                  | you're welcome                   |                                        |
+| não há de quê            | you're welcome                   | Alternative to _de nada_               |
+| como estás? / como está? | how are you?                     | Informal / formal                      |
+| tudo bem?                | all good?                        | Common casual check-in                 |
+| prazer em conhecer-te    | pleased to meet you              | Informal                               |
+| prazer em conhecê-lo/la  | pleased to meet you              | Formal: male/female addressee          |
+| igualmente               | likewise                         | Reply to _prazer_ or wishes            |
+| bem-vindo/a/os/as        | welcome                          | Agrees with who is welcomed            |
 
 # Getting Around
 
 ## Direction Words
 
-| PT               | EN                                   | Notes                         |
-| ---------------- | ------------------------------------ | ----------------------------- |
-| à esquerda       | to the left                          | _à_ = a + a                   |
-| à direita        | to the right                         | _à_ = a + a                   |
-| em frente        | straight ahead                       |                               |
-| sempre em frente | straight ahead / keep going straight |                               |
-| norte            | north                                |                               |
-| sul              | south                                |                               |
-| leste            | east                                 |                               |
-| oeste            | west                                 |                               |
+| PT               | EN                                   | Notes       |
+| ---------------- | ------------------------------------ | ----------- |
+| à esquerda       | to the left                          | _à_ = a + a |
+| à direita        | to the right                         | _à_ = a + a |
+| em frente        | straight ahead                       |             |
+| sempre em frente | straight ahead / keep going straight |             |
+| norte            | north                                |             |
+| sul              | south                                |             |
+| leste            | east                                 |             |
+| oeste            | west                                 |             |
 
 ## Movement Commands
 
-| PT                 | EN                     | Notes                  |
-| ------------------ | ---------------------- | ---------------------- |
-| virar à esquerda   | turn left              |                        |
-| virar à direita    | turn right             |                        |
-| seguir             | keep going / continue  | Also "to follow"       |
-| atravessar         | to cross               |                        |
-| atravessar a rua   | to cross the street    |                        |
+| PT               | EN                     | Notes                             |
+| ---------------- | ---------------------- | --------------------------------- |
+| virar à esquerda | turn left              |                                   |
+| virar à direita  | turn right             |                                   |
+| seguir           | keep going / continue  | Also "to follow"                  |
+| atravessar       | to cross               |                                   |
+| atravessar a rua | to cross the street    |                                   |
+| subir            | to go up               | Streets, floors, hills            |
+| descer           | to go down             | Streets, floors, hills            |
+| voltar para trás | to turn back / go back |                                   |
+| passar por       | to pass by             | _passar_ also means to spend time |
 
 ## Position
 
-| PT             | EN                 | Notes |
-| -------------- | ------------------ | ----- |
-| ao lado de     | next to            |       |
-| perto de       | near               |       |
-| longe de       | far from           |       |
-| em frente de   | opposite / facing  |       |
-| entre          | between            |       |
-| na esquina     | on the corner      |       |
-| a primeira rua | the first street   |       |
-| a segunda rua  | the second street  |       |
+| PT             | EN                | Notes |
+| -------------- | ----------------- | ----- |
+| ao lado de     | next to           |       |
+| perto de       | near              |       |
+| longe de       | far from          |       |
+| em frente de   | opposite / facing |       |
+| entre          | between           |       |
+| na esquina     | on the corner     |       |
+| a primeira rua | the first street  |       |
+| a segunda rua  | the second street |       |
 
 ## Landmarks
 
-| PT                     | EN                             | Notes |
-| ---------------------- | ------------------------------ | ----- |
-| o cruzamento           | the crossroads / intersection  |       |
-| o semáforo             | the traffic light              |       |
-| a paragem de autocarro | the bus stop                   |       |
-| a estação              | the station                    |       |
-| o mapa                 | the map                        |       |
+| PT                     | EN                            | Notes |
+| ---------------------- | ----------------------------- | ----- |
+| o cruzamento           | the crossroads / intersection |       |
+| o semáforo             | the traffic light             |       |
+| a paragem de autocarro | the bus stop                  |       |
+| a estação              | the station                   |       |
+| o mapa                 | the map                       |       |
 
 ## Questions
 
-| PT                 | EN                   | Notes                    |
-| ------------------ | -------------------- | ------------------------ |
-| onde fica ...?     | where is ...?        | For location             |
-| como vou para ...? | how do I get to ...? | For directions / routing |
+| PT                              | EN                          | Notes                    |
+| ------------------------------- | --------------------------- | ------------------------ |
+| onde fica ...?                  | where is ...?               | For location             |
+| sabe onde fica ...?             | do you know where ... is?   | Polite / useful          |
+| como vou para ...?              | how do I get to ...?        | For directions / routing |
+| pode ajudar-me?                 | can you help me?            | Polite                   |
+| pode repetir, por favor?        | could you repeat, please?   | Polite                   |
+| é longe? / é perto?             | is it far? / is it near?    |                          |
+| quanto tempo demora?            | how long does it take?      |                          |
+| é a pé?                         | is it on foot?              |                          |
+| é de carro / autocarro / metro? | is it by car / bus / metro? |                          |
+
+## Transport Modes
+
+| PT           | EN       | Notes |
+| ------------ | -------- | ----- |
+| a pé         | on foot  |       |
+| de carro     | by car   |       |
+| de autocarro | by bus   |       |
+| de comboio   | by train |       |
+| de metro     | by metro |       |
+| de táxi      | by taxi  |       |
