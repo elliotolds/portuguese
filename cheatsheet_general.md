@@ -97,13 +97,22 @@
 
 # place words
 
-| Word | Translation | Distance / Use                       | Matches demonstrative |
-| ---- | ----------- | ------------------------------------ | --------------------- |
-| aqui | here        | near me (precise)                    | este / isto           |
-| cá   | here        | near me (general / motion toward me) | este / isto           |
-| aí   | there       | near you                             | esse / isso           |
-| ali  | there       | visible, a bit away                  | aquele / aquilo       |
-| lá   | there       | far / out of sight / abstract        | aquele / aquilo       |
+| Word     | Translation        | Distance / Use                                            | Matches demonstrative |
+| -------- | ------------------ | --------------------------------------------------------- | --------------------- |
+| aqui     | here               | near me (precise)                                         | este / isto           |
+| cá       | here               | near me; motion toward / informal "around here"           | este / isto           |
+| daqui    | from here          | From this place without _a_; with _a_ it means "from now" | n/a                   |
+| aí       | there              | near you                                                  | esse / isso           |
+| ali      | there              | visible, a bit away                                       | aquele / aquilo       |
+| lá       | there              | far / out of sight / abstract                             | aquele / aquilo       |
+| perto    | near               | close distance                                            | n/a                   |
+| longe    | far                | far distance                                              | n/a                   |
+| dentro   | inside             | interior position                                         | n/a                   |
+| fora     | outside            | exterior position                                         | n/a                   |
+| em cima  | on top / above     | higher position                                           | n/a                   |
+| em baixo | below / underneath | lower position                                            | n/a                   |
+| à frente | in front           | forward / front position                                  | n/a                   |
+| atrás    | behind             | back position                                             | n/a                   |
 
 # contractions (except demonstratives)
 
@@ -127,6 +136,11 @@
 | tão         | so                  | Invariable; used with adjectives/adverbs (_tão bonito_)                                                   |
 | bastante    | quite / a lot       | Mostly means "quite/fairly," not "enough." Agrees in plural: _bastantes livros_                           |
 | demasiado   | too / too much      | Invariable as adverb (_demasiado caro_); agrees as quantifier (_demasiada comida_)                        |
+| quase       | almost              | Invariable                                                                                                |
+| só          | only                | Neutral; also "alone" when used as an adjective                                                           |
+| apenas      | only / just         | Slightly more formal than _só_                                                                            |
+| melhor      | better              | Adverb or comparative adjective                                                                           |
+| pior        | worse               | Adverb or comparative adjective                                                                           |
 | todo / toda | all / whole / every | _todo o dia_ = the whole day; _todos os dias_ = every day. Always agrees                                  |
 | meio / meia | half                | Agrees: _meio quilo_, _meia hora_                                                                         |
 | metade      | half (of)           | Feminine noun: _a metade_. Used with _de_: _metade do bolo_                                               |
@@ -158,29 +172,33 @@
 
 # Time words
 
-| Word             | Meaning                  | Notes                                             |
-| ---------------- | ------------------------ | ------------------------------------------------- |
-| hoje             | today                    |                                                   |
-| ontem            | yesterday                |                                                   |
-| anteontem        | the day before yesterday |                                                   |
-| amanhã           | tomorrow                 |                                                   |
-| depois de amanhã | the day after tomorrow   |                                                   |
-| agora            | now                      |                                                   |
-| já               | already / right now      | Imminent or completed action: _Já vou_, _Já comi_ |
-| ainda            | still / yet              | _Ainda não_ = not yet                             |
-| logo             | soon / shortly / later   |                                                   |
-| depois           | after / later            |                                                   |
-| antes            | before                   |                                                   |
-| cedo             | early                    |                                                   |
-| tarde            | late                     |                                                   |
-| durante          | during                   |                                                   |
-| sempre           | always                   |                                                   |
-| nunca            | never                    |                                                   |
-| às vezes         | sometimes                |                                                   |
-| muitas vezes     | often                    |                                                   |
-| raramente        | rarely                   |                                                   |
-| normalmente      | usually                  | Also _geralmente_                                 |
-| daqui a [X]      | in [X] / [X] from now    | _Daqui a uma hora_ — in an hour                   |
+| Word             | Meaning                        | Notes                                                          |
+| ---------------- | ------------------------------ | -------------------------------------------------------------- |
+| hoje             | today                          |                                                                |
+| ontem            | yesterday                      |                                                                |
+| anteontem        | the day before yesterday       |                                                                |
+| amanhã           | tomorrow                       |                                                                |
+| depois de amanhã | the day after tomorrow         |                                                                |
+| agora            | now                            |                                                                |
+| já agora         | by the way / while we're at it | Discourse phrase; useful when adding a related point           |
+| já               | already / right now            | Completed or imminent action; contrast with _ainda_: _Já comi_ |
+| ainda            | still / yet                    | Continuing or not-yet action; _Ainda não_ = not yet            |
+| logo             | soon / shortly / later         |                                                                |
+| depois           | after / later                  |                                                                |
+| antes            | before                         |                                                                |
+| cedo             | early                          |                                                                |
+| tarde            | late                           |                                                                |
+| outra vez        | again                          |                                                                |
+| durante          | during                         |                                                                |
+| sempre           | always                         |                                                                |
+| nunca            | never                          |                                                                |
+| às vezes         | sometimes                      |                                                                |
+| muitas vezes     | often                          |                                                                |
+| poucas vezes     | rarely / not often             |                                                                |
+| raramente        | rarely                         |                                                                |
+| normalmente      | usually / normally             |                                                                |
+| geralmente       | generally                      | Similar to _normalmente_                                       |
+| daqui a [X]      | in [X] / [X] from now          | With _a_ it is time: _Daqui a uma hora_ — in an hour           |
 
 # Simple prepositions
 
@@ -444,3 +462,731 @@
 | quanto tempo demora?   | how long does it take?               |                                   |
 | é a pé?                | is it on foot?                       |                                   |
 | a pé                   | on foot                              |                                   |
+
+# Nouns
+
+## Time & Calendar
+
+Some entries here also appear in the earlier `# Time words`, `# Weekdays`, and `# Months` sections.
+
+| PT             | EN                  | Notes |
+| -------------- | ------------------- | ----- |
+| dia            | day                 |       |
+| ano            | year                |       |
+| hora           | hour / time (clock) |       |
+| semana         | week                |       |
+| mês            | month               |       |
+| manhã          | morning             |       |
+| tarde          | afternoon           |       |
+| noite          | night / evening     |       |
+| minuto         | minute              |       |
+| vez            | time (instance)     |       |
+| tempo          | time / weather      |       |
+| aniversário    | birthday            |       |
+| estação do ano | season              |       |
+| verão          | summer              |       |
+| inverno        | winter              |       |
+| primavera      | spring              |       |
+| outono         | autumn              |       |
+
+## Weather
+
+| PT    | EN    | Notes |
+| ----- | ----- | ----- |
+| sol   | sun   |       |
+| chuva | rain  |       |
+| frio  | cold  |       |
+| calor | heat  |       |
+| vento | wind  |       |
+| neve  | snow  |       |
+| céu   | sky   |       |
+| nuvem | cloud |       |
+
+## People & Family
+
+| PT         | EN                      | Notes |
+| ---------- | ----------------------- | ----- |
+| pessoa     | person                  |       |
+| família    | family                  |       |
+| pai        | father                  |       |
+| mãe        | mother                  |       |
+| filho/a    | son / daughter          |       |
+| irmão/irmã | brother / sister        |       |
+| avô/avó    | grandfather/grandmother |       |
+| tio/a      | uncle/aunt              |       |
+| primo/a    | cousin (m/f)            |       |
+| neto/a     | grandson/daughter       |       |
+| marido     | husband                 |       |
+| esposa     | wife                    |       |
+| namorado/a | boyfriend/girlfriend    |       |
+| bebé       | baby                    |       |
+| criança    | child                   |       |
+| homem      | man                     |       |
+| mulher     | woman / wife            |       |
+| senhor(a)  | sir / madam             |       |
+| amigo/a    | friend                  |       |
+| colega     | colleague / classmate   |       |
+
+## Personal Details
+
+| PT            | EN          | Notes |
+| ------------- | ----------- | ----- |
+| nome          | name        |       |
+| idade         | age         |       |
+| morada        | address     |       |
+| número        | number      |       |
+| profissão     | profession  |       |
+| nacionalidade | nationality |       |
+| língua        | language    |       |
+
+## Work & School
+
+| PT            | EN             | Notes |
+| ------------- | -------------- | ----- |
+| trabalho      | work / job     |       |
+| emprego       | job            |       |
+| empresa       | company        |       |
+| reunião       | meeting        |       |
+| escola        | school         |       |
+| aula          | class / lesson |       |
+| professor(a)  | teacher        |       |
+| aluno/a       | student        |       |
+| funcionário/a | employee       |       |
+| projeto       | project        |       |
+
+## Home & Furniture
+
+| PT            | EN                      | Notes |
+| ------------- | ----------------------- | ----- |
+| casa          | house / home            |       |
+| apartamento   | apartment               |       |
+| divisão       | room / section of house |       |
+| quarto        | bedroom                 |       |
+| sala          | living room             |       |
+| cozinha       | kitchen                 |       |
+| casa de banho | bathroom                |       |
+| porta         | door                    |       |
+| janela        | window                  |       |
+| mesa          | table                   |       |
+| cadeira       | chair                   |       |
+| cama          | bed                     |       |
+| chão          | floor                   |       |
+
+## Food & Drink
+
+| PT             | EN         | Notes |
+| -------------- | ---------- | ----- |
+| comida         | food       |       |
+| água           | water      |       |
+| café           | coffee     |       |
+| chá            | tea        |       |
+| pão            | bread      |       |
+| leite          | milk       |       |
+| fruta          | fruit      |       |
+| legumes        | vegetables |       |
+| carne          | meat       |       |
+| peixe          | fish       |       |
+| arroz          | rice       |       |
+| batata         | potato     |       |
+| ovo            | egg        |       |
+| queijo         | cheese     |       |
+| sopa           | soup       |       |
+| bolo           | cake       |       |
+| açúcar         | sugar      |       |
+| sal            | salt       |       |
+| vinho          | wine       |       |
+| cerveja        | beer       |       |
+| sumo           | juice      |       |
+| manteiga       | butter     |       |
+| sandes         | sandwich   |       |
+| salada         | salad      |       |
+| massa          | pasta      |       |
+| chocolate      | chocolate  |       |
+| pequeno-almoço | breakfast  |       |
+| almoço         | lunch      |       |
+| jantar         | dinner     |       |
+
+## Restaurant & Money
+
+| PT          | EN             | Notes |
+| ----------- | -------------- | ----- |
+| restaurante | restaurant     |       |
+| ementa      | menu           |       |
+| prato       | plate / dish   |       |
+| copo        | glass          |       |
+| garrafa     | bottle         |       |
+| conta       | bill / account |       |
+| dinheiro    | money          |       |
+| preço       | price          |       |
+| troco       | change (money) |       |
+
+## Services & Public Places
+
+| PT           | EN          | Notes |
+| ------------ | ----------- | ----- |
+| loja         | shop        |       |
+| supermercado | supermarket |       |
+| mercado      | market      |       |
+| banco        | bank        |       |
+| correios     | post office |       |
+| farmácia     | pharmacy    |       |
+| hospital     | hospital    |       |
+| igreja       | church      |       |
+| museu        | museum      |       |
+| cinema       | cinema      |       |
+| teatro       | theatre     |       |
+| biblioteca   | library     |       |
+
+## Health & Needs
+
+| PT           | EN                 | Notes |
+| ------------ | ------------------ | ----- |
+| saúde        | health             |       |
+| médico/a     | doctor             |       |
+| enfermeiro/a | nurse              |       |
+| dor          | pain               |       |
+| remédio      | medicine           |       |
+| febre        | fever              |       |
+| tosse        | cough              |       |
+| gripe        | flu                |       |
+| constipação  | cold               |       |
+| doença       | illness / disease  |       |
+| fome         | hunger             |       |
+| sede         | thirst             |       |
+| sono         | sleep / sleepiness |       |
+| pressa       | hurry              |       |
+
+## Body
+
+| PT      | EN          | Notes |
+| ------- | ----------- | ----- |
+| corpo   | body        |       |
+| cabeça  | head        |       |
+| mão     | hand        |       |
+| pé      | foot        |       |
+| braço   | arm         |       |
+| perna   | leg         |       |
+| olho    | eye         |       |
+| boca    | mouth       |       |
+| dente   | tooth       |       |
+| cabelo  | hair        |       |
+| cara    | face        |       |
+| nariz   | nose        |       |
+| orelha  | ear (outer) |       |
+| ouvido  | ear (inner) |       |
+| pescoço | neck        |       |
+| costas  | back        |       |
+| coração | heart       |       |
+| dedo    | finger      |       |
+| joelho  | knee        |       |
+| ombro   | shoulder    |       |
+| barriga | belly       |       |
+
+## Transport & Travel
+
+Some route and transport words also appear in `# Getting Around`.
+
+| PT        | EN             | Notes |
+| --------- | -------------- | ----- |
+| carro     | car            |       |
+| autocarro | bus            |       |
+| comboio   | train          |       |
+| avião     | plane          |       |
+| metro     | metro / subway |       |
+| bicicleta | bicycle        |       |
+| táxi      | taxi           |       |
+| bilhete   | ticket         |       |
+| paragem   | (bus) stop     |       |
+| estação   | station        |       |
+| aeroporto | airport        |       |
+| viagem    | trip / journey |       |
+| férias    | holidays       |       |
+| hotel     | hotel          |       |
+
+## Places
+
+Some street/place words also appear in `# Getting Around`.
+
+| PT      | EN          | Notes |
+| ------- | ----------- | ----- |
+| cidade  | city        |       |
+| zona    | zone / area |       |
+| aldeia  | village     |       |
+| país    | country     |       |
+| rua     | street      |       |
+| avenida | avenue      |       |
+| praça   | square      |       |
+| ponte   | bridge      |       |
+| parque  | park        |       |
+| jardim  | garden      |       |
+
+## Nature
+
+| PT       | EN                  | Notes |
+| -------- | ------------------- | ----- |
+| praia    | beach               |       |
+| mar      | sea                 |       |
+| rio      | river               |       |
+| montanha | mountain            |       |
+| campo    | countryside / field |       |
+| monte    | hill                |       |
+| vista    | view                |       |
+| animal   | animal              |       |
+| cão      | dog                 |       |
+| gato     | cat                 |       |
+| flor     | flower              |       |
+| árvore   | tree                |       |
+
+## Clothes & Accessories
+
+| PT       | EN                | Notes |
+| -------- | ----------------- | ----- |
+| roupa    | clothes           |       |
+| camisa   | shirt             |       |
+| camisola | sweater / T-shirt |       |
+| calças   | trousers          |       |
+| saia     | skirt             |       |
+| vestido  | dress             |       |
+| casaco   | coat / jacket     |       |
+| sapato   | shoe              |       |
+| chapéu   | hat               |       |
+| meias    | socks             |       |
+| cinto    | belt              |       |
+| ténis    | sneakers          |       |
+| botas    | boots             |       |
+| cor      | colour            |       |
+| tamanho  | size              |       |
+| mala     | bag / handbag     |       |
+| mochila  | backpack          |       |
+| carteira | wallet            |       |
+| óculos   | glasses           |       |
+| relógio  | watch / clock     |       |
+| chave    | key               |       |
+
+## Technology & Communication
+
+| PT         | EN           | Notes |
+| ---------- | ------------ | ----- |
+| telemóvel  | mobile phone |       |
+| telefone   | phone        |       |
+| computador | computer     |       |
+| internet   | internet     |       |
+| email      | email        |       |
+| mensagem   | message      |       |
+
+## Reading & Writing
+
+| PT       | EN              | Notes |
+| -------- | --------------- | ----- |
+| livro    | book            |       |
+| jornal   | newspaper       |       |
+| revista  | magazine        |       |
+| carta    | letter          |       |
+| papel    | paper           |       |
+| caneta   | pen             |       |
+| lápis    | pencil          |       |
+| palavra  | word            |       |
+| pergunta | question        |       |
+| resposta | answer          |       |
+| história | story / history |       |
+| notícia  | news            |       |
+
+## Leisure
+
+| PT          | EN         | Notes |
+| ----------- | ---------- | ----- |
+| música      | music      |       |
+| filme       | film       |       |
+| festa       | party      |       |
+| desporto    | sport      |       |
+| jogo        | game       |       |
+| futebol     | football   |       |
+| passatempo  | hobby      |       |
+| tempo livre | free time  |       |
+| televisão   | television |       |
+| rádio       | radio      |       |
+
+## General & Abstract
+
+| PT       | EN                | Notes                                                           |
+| -------- | ----------------- | --------------------------------------------------------------- |
+| coisa    | thing             | coisas can be "stuff"                                           |
+| vida     | life              |                                                                 |
+| ideia    | idea              |                                                                 |
+| problema | problem           |                                                                 |
+| estado   | state / condition |                                                                 |
+| presente | gift / present    | also prenda                                                     |
+| dúvida   | doubt             | Used like English "question": _tens alguma dúvida?_ = do you have any questions? |
+
+## Position & Direction
+
+Related direction words also appear in `# place words`, `# Complex prepositions`, and `# Getting Around`.
+
+| PT      | EN                  | Notes |
+| ------- | ------------------- | ----- |
+| frente  | front               |       |
+| trás    | back                |       |
+| lado    | side                |       |
+| direção | direction           |       |
+| topo    | top                 |       |
+| fundo   | bottom / background |       |
+
+# Verbs
+
+- _ir_ + infinitive = near future: _vou estudar_ — I am going to study.
+- _estar a_ + infinitive = present continuous in EU Portuguese: _estou a estudar_ — I am studying.
+- Verbs ending in _-se_ are reflexive/pronominal; keep the pronoun with the verb.
+- Some verbs take fixed prepositions before an infinitive: _gostar de_, _precisar de_, _esquecer-se de_, _acabar de_, _começar a_, _ajudar a_.
+- Movement and direction verbs also appear in `# Getting Around` when they are useful as travel phrases.
+
+| PT             | EN                              | Notes                                      |
+| -------------- | ------------------------------- | ------------------------------------------ |
+| ser            | to be (permanent)               | irregular                                  |
+| estar          | to be (temporary / location)    | irregular; _estar a_ + infinitive          |
+| ter            | to have                         | irregular                                  |
+| haver          | there is / there are (há)       |                                            |
+| ir             | to go                           | irregular; _ir_ + infinitive = near future |
+| fazer          | to do / to make                 | irregular                                  |
+| dar            | to give                         | irregular                                  |
+| poder          | can / to be able                | irregular                                  |
+| querer         | to want                         | irregular                                  |
+| dever          | must / should / to owe          |                                            |
+| saber          | to know (facts / how to)        | irregular                                  |
+| conhecer       | to know (people / places)       |                                            |
+| dizer          | to say / to tell                | irregular                                  |
+| falar          | to speak                        |                                            |
+| ver            | to see / to watch               | irregular                                  |
+| ouvir          | to hear / to listen             |                                            |
+| perceber       | to understand / get it          |                                            |
+| pensar         | to think                        |                                            |
+| achar          | to think / to find (opinion)    |                                            |
+| chamar-se      | to be called                    | reflexive                                  |
+| gostar de      | to like                         | takes _de_ + noun/infinitive               |
+| precisar de    | to need                         | takes _de_ + infinitive                    |
+| pedir          | to ask for / to order           |                                            |
+| perguntar      | to ask (a question)             |                                            |
+| responder      | to answer                       |                                            |
+| ajudar         | to help                         | takes _a_ + infinitive                     |
+| morar          | to live (reside)                |                                            |
+| viver          | to live                         |                                            |
+| trabalhar      | to work                         |                                            |
+| estudar        | to study                        |                                            |
+| aprender       | to learn                        |                                            |
+| ensinar        | to teach                        |                                            |
+| comer          | to eat                          |                                            |
+| beber          | to drink                        |                                            |
+| tomar          | to take / to have               |                                            |
+| dormir         | to sleep                        |                                            |
+| acordar        | to wake up                      |                                            |
+| levantar-se    | to get up                       | reflexive                                  |
+| deitar-se      | to go to bed                    | reflexive                                  |
+| sentar-se      | to sit down                     | reflexive                                  |
+| almoçar        | to have lunch                   |                                            |
+| jantar         | to have dinner                  |                                            |
+| cozinhar       | to cook                         |                                            |
+| lavar          | to wash                         |                                            |
+| limpar         | to clean                        |                                            |
+| vestir         | to wear / put on                |                                            |
+| vir            | to come                         | irregular                                  |
+| ficar          | to stay / to be located         |                                            |
+| sair           | to go out / to leave            |                                            |
+| chegar         | to arrive                       |                                            |
+| entrar         | to enter                        |                                            |
+| voltar         | to return                       |                                            |
+| andar          | to walk                         |                                            |
+| levar          | to take / to carry              |                                            |
+| trazer         | to bring                        | irregular                                  |
+| apanhar        | to catch / to pick up           |                                            |
+| passar         | to pass / to spend (time)       |                                            |
+| virar          | to turn                         |                                            |
+| subir          | to go up                        |                                            |
+| descer         | to go down                      |                                            |
+| viajar         | to travel                       |                                            |
+| visitar        | to visit                        |                                            |
+| correr         | to run                          | figurative                                 |
+| buscar         | to get                          | (used with ir)                             |
+| comprar        | to buy                          |                                            |
+| pagar          | to pay                          |                                            |
+| custar         | to cost                         |                                            |
+| gastar         | to spend                        |                                            |
+| vender         | to sell                         |                                            |
+| emprestar      | to lend                         | on CIPLE                                   |
+| reservar       | to reserve / to book            |                                            |
+| telefonar      | to call (by phone)              |                                            |
+| enviar         | to send                         | default in writing                         |
+| mandar         | to send                         | colloquial, inf                            |
+| receber        | to receive                      |                                            |
+| partilhar      | to share                        |                                            |
+| convidar       | to invite                       |                                            |
+| abrir          | to open                         |                                            |
+| fechar         | to close                        |                                            |
+| usar           | to use / to wear                |                                            |
+| encontrar      | to find / to meet               |                                            |
+| procurar       | to look for                     |                                            |
+| perder         | to lose / to miss               |                                            |
+| ganhar         | to win / to earn                |                                            |
+| escolher       | to choose                       |                                            |
+| decidir        | to decide                       |                                            |
+| começar        | to start                        | takes _a_ + infinitive                     |
+| acabar         | to finish                       | _acabar de_ + infinitive = just did        |
+| continuar      | to continue                     |                                            |
+| parar          | to stop                         |                                            |
+| esperar        | to wait / to hope               |                                            |
+| tentar         | to try                          |                                            |
+| conseguir      | to manage / to be able          |                                            |
+| costumar       | to usually (do)                 |                                            |
+| demorar        | to take (time)                  |                                            |
+| explicar       | to explain                      |                                            |
+| mostrar        | to show                         |                                            |
+| apresentar     | to introduce                    |                                            |
+| olhar          | to look                         |                                            |
+| ler            | to read                         | irregular                                  |
+| escrever       | to write                        |                                            |
+| jogar          | to play                         | (sport / game)                             |
+| mudar (de)     | to change / to move             |                                            |
+| deixar         | to leave / to let               |                                            |
+| parecer        | to seem                         |                                            |
+| nascer         | to be born                      |                                            |
+| pôr            | to put                          | irregular, essential                       |
+| oferecer       | to offer                        |                                            |
+| tocar          | to touch / to play (instrument) |                                            |
+| sentir-se      | to feel                         | reflexive                                  |
+| doer           | to hurt                         |                                            |
+| lembrar-se     | to remember                     | reflexive                                  |
+| esquecer-se de | to forget                       | reflexive; takes _de_ + infinitive         |
+| descansar      | to rest                         |                                            |
+| gostar mais de | to prefer                       |                                            |
+| preferir       | to prefer                       | standard alt. to gostar mais de            |
+| amar           | to love                         |                                            |
+| odiar          | to hate                         |                                            |
+| beijar         | to kiss                         |                                            |
+| cantar         | to sing                         |                                            |
+| dançar         | to dance                        |                                            |
+| rir            | to laugh                        |                                            |
+| sorrir         | to smile                        |                                            |
+| chorar         | to cry                          |                                            |
+| nadar          | to swim                         |                                            |
+| morrer         | to die                          |                                            |
+| chover         | to rain                         |                                            |
+
+# Adjectives
+
+## Size & Shape
+
+| PT         | EN             | Notes |
+| ---------- | -------------- | ----- |
+| grande     | big            |       |
+| pequeno/a  | small          |       |
+| alto/a     | tall / high    |       |
+| baixo/a    | short / low    |       |
+| comprido/a | long           |       |
+| curto/a    | short (length) |       |
+| largo/a    | wide           |       |
+| estreito/a | narrow         |       |
+| cheio/a    | full           |       |
+| vazio/a    | empty          |       |
+
+## Basic Qualities
+
+| PT           | EN                    | Notes |
+| ------------ | --------------------- | ----- |
+| bom / boa    | good                  |       |
+| mau / má     | bad                   |       |
+| bonito/a     | pretty / nice-looking |       |
+| feio/a       | ugly                  |       |
+| novo/a       | new / young           |       |
+| velho/a      | old                   |       |
+| interessante | interesting           |       |
+| aborrecido/a | boring / bored        |       |
+| importante   | important             |       |
+| giro/a       | cute / cool           |       |
+
+## Difficulty & Intensity
+
+| PT           | EN                   | Notes                         |
+| ------------ | -------------------- | ----------------------------- |
+| fácil        | easy                 |                               |
+| difícil      | difficult            |                               |
+| agradável    | pleasant / nice      | Also "agreeable" in some uses |
+| desagradável | unpleasant           |                               |
+| confortável  | comfortable          |                               |
+| incrível     | incredible / amazing |                               |
+| terrível     | terrible             |                               |
+
+## Personality
+
+| PT             | EN                | Notes |
+| -------------- | ----------------- | ----- |
+| simpático/a    | nice / friendly   |       |
+| antipático/a   | unfriendly        |       |
+| alegre         | cheerful          |       |
+| calmo/a        | calm              |       |
+| nervoso/a      | nervous / anxious |       |
+| tímido/a       | shy               |       |
+| engraçado/a    | funny             |       |
+| inteligente    | intelligent       |       |
+| preguiçoso/a   | lazy              |       |
+| trabalhador(a) | hard-working      |       |
+| honesto/a      | honest            |       |
+| educado/a      | polite            |       |
+| responsável    | responsible       |       |
+
+## States & Feelings
+
+| PT           | EN             | Notes |
+| ------------ | -------------- | ----- |
+| feliz        | happy          |       |
+| triste       | sad            |       |
+| contente     | glad / pleased |       |
+| satisfeito/a | satisfied      |       |
+| cansado/a    | tired          |       |
+| doente       | sick           |       |
+| saudável     | healthy        |       |
+| zangado/a    | angry          |       |
+| preocupado/a | worried        |       |
+| ocupado/a    | busy           |       |
+| livre        | free           |       |
+| pronto/a     | ready          |       |
+| apaixonado/a | in love        |       |
+
+## Appearance & Age
+
+| PT        | EN      | Notes |
+| --------- | ------- | ----- |
+| magro/a   | thin    |       |
+| gordo/a   | fat     |       |
+| forte     | strong  |       |
+| fraco/a   | weak    |       |
+| jovem     | young   |       |
+| idoso/a   | elderly |       |
+| careca    | bald    |       |
+| barbudo/a | bearded |       |
+
+## Colours
+
+| PT             | EN     | Notes |
+| -------------- | ------ | ----- |
+| branco/a       | white  |       |
+| preto/a        | black  |       |
+| vermelho/a     | red    |       |
+| azul           | blue   |       |
+| verde          | green  |       |
+| amarelo/a      | yellow |       |
+| cor-de-rosa    | pink   |       |
+| cor-de-laranja | orange |       |
+| castanho/a     | brown  |       |
+| cinzento/a     | grey   |       |
+| roxo/a         | purple |       |
+
+## Weather & Temperature
+
+| PT           | EN           | Notes |
+| ------------ | ------------ | ----- |
+| quente       | hot          |       |
+| frio/a       | cold         |       |
+| fresco/a     | cool / fresh |       |
+| seco/a       | dry          |       |
+| húmido/a     | humid / damp |       |
+| molhado/a    | wet          |       |
+| ensolarado/a | sunny        |       |
+| nublado/a    | cloudy       |       |
+| chuvoso/a    | rainy        |       |
+
+## Taste & Food
+
+| PT          | EN                 | Notes |
+| ----------- | ------------------ | ----- |
+| doce        | sweet              |       |
+| salgado/a   | salty              |       |
+| amargo/a    | bitter             |       |
+| picante     | spicy              |       |
+| fresco/a    | fresh              |       |
+| gelado/a    | frozen / very cold |       |
+| delicioso/a | delicious          |       |
+| saboroso/a  | tasty              |       |
+
+## Cost & Speed
+
+| PT       | EN             | Notes |
+| -------- | -------------- | ----- |
+| caro/a   | expensive      |       |
+| barato/a | cheap          |       |
+| grátis   | free (no cost) |       |
+| rápido/a | fast           |       |
+| lento/a  | slow           |       |
+
+## Condition & Clarity
+
+| PT       | EN            | Notes |
+| -------- | ------------- | ----- |
+| limpo/a  | clean         |       |
+| sujo/a   | dirty         |       |
+| claro/a  | light / clear |       |
+| escuro/a | dark          |       |
+
+## Time & Order
+
+Related time/order words also appear in `# Time words` and `# Numbers`.
+
+| PT         | EN           | Notes |
+| ---------- | ------------ | ----- |
+| passado/a  | last / past  |       |
+| próximo/a  | next         |       |
+| último/a   | last / final |       |
+| primeiro/a | first        |       |
+
+## Place
+
+These overlap with earlier place/preposition tables, especially `# place words` and `# Complex prepositions`.
+
+| PT       | EN       | Notes |
+| -------- | -------- | ----- |
+| perto de | near to  |       |
+| longe de | far from |       |
+
+## Truth & Difference
+
+| PT           | EN              | Notes |
+| ------------ | --------------- | ----- |
+| certo/a      | right / correct |       |
+| errado/a     | wrong           |       |
+| verdadeiro/a | true            |       |
+| falso/a      | false           |       |
+| igual        | equal / same    |       |
+| diferente    | different       |       |
+| mesmo/a      | same            |       |
+| próprio/a    | own             |       |
+| possível     | possible        |       |
+| impossível   | impossible      |       |
+
+## Nationalities & Origins
+
+| PT                   | EN         | Notes |
+| -------------------- | ---------- | ----- |
+| português/portuguesa | Portuguese |       |
+| brasileiro/a         | Brazilian  |       |
+| espanhol(a)          | Spanish    |       |
+| francês/francesa     | French     |       |
+| inglês/inglesa       | English    |       |
+| alemão/alemã         | German     |       |
+| italiano/a           | Italian    |       |
+| americano/a          | American   |       |
+| chinês/chinesa       | Chinese    |       |
+| africano/a           | African    |       |
+
+# Adverbs
+
+Time/frequency, place/direction, degree/comparison, and response/certainty adverbs are covered in the earlier source-of-truth tables.
+
+## Manner
+
+| PT          | EN             | Notes                                                      |
+| ----------- | -------------- | ---------------------------------------------------------- |
+| bem         | well           | Invariable as an adverb                                    |
+| mal         | badly          | Invariable as an adverb                                    |
+| assim       | like this / so | For manner or "this way"                                   |
+| devagar     | slowly         | Common everyday word                                       |
+| depressa    | quickly        | Common everyday word                                       |
+| rapidamente | quickly        | More formal than _depressa_                                |
+| juntos      | together       | Agrees in gender/number when adjectival: _juntos / juntas_ |
+| sozinho/a   | alone          | Agrees with the person described                           |
