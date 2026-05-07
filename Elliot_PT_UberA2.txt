@@ -824,7 +824,6 @@ O1sJC2Q(yB	A2_custom	contra	against	O carro bateu contra a parede.	The car crash
 "l`||3J+#Gh"	A2_custom	portanto	therefore / so (bit formal)	Estudei muito, portanto sei a resposta.	I studied a lot, therefore I know the answer.	More formal than por isso.			[sound:1000_portanto.mp3]	conjunction glue
 "u}o#G`WwTV"	A2_custom	tanto	so much / so many	Não sabia que tinhas tanto trabalho.	I didn't know you had so much work.	Feminine: tanta. Plural: tantos/tantas. Agrees with the noun.			[sound:1000_tanto.mp3]	adverb glue
 tU$3J@zUfu	A2_custom	ambos	both	Ambos os meus irmãos moram no Porto.	Both my brothers live in Porto.	Feminine: ambas. Usually followed by os/as + noun.			[sound:1000_ambos.mp3]	glue grammar pronoun
-D7ZJm}QTH	A2_custom	sobretudo	especially / above all	Gosto de fruta, sobretudo maçãs.	I like fruit, especially apples.				[sound:1000_sobretudo.mp3]	adverb glue
 F,7ME?z%G/	A2_custom	apesar de	despite / in spite of	Saí apesar do frio intenso.	I went out despite the intense cold.	Takes noun or apesar de + infinitive. Contracts: apesar do/da/dos/das.			[sound:1000_apesar.mp3]	phrase
 gTS![(y=az	A2_custom	embora	although / away	Vou-me embora — está a ficar tarde.	I'm leaving — it's getting late.	"Two main senses. (1) ""Away / leaving"" — very A2: vou-me embora (I'm leaving), fui-me embora (I left). Pairs with a reflexive pronoun.<br><br>(2) ""Although"" — late-A2/B1. Triggers the subjunctive: embora esteja cansado, vou (although I'm tired, I'll go). At A2 level, prefer the workarounds mas (estou cansado, mas vou) or apesar de + infinitive (apesar de estar cansado, vou)."			[sound:1000_embora.mp3]	adverb conjunction glue
 cgRGs7Fa@k	A2_custom	demais	too / too much / excessively	Este café está quente demais.	This coffee is too hot.	Placed after the adjective or verb. Invariable.			[sound:1000_demais.mp3]	adverb glue
@@ -942,3 +941,22 @@ M7q3LpV8nS	A2_custom	a piada	joke	Ele contou uma piada muito engraçada.	He told
 N2x8QvL4pM	A2_custom	o bairro	neighborhood / district	Moro num bairro calmo perto do centro.	I live in a quiet neighborhood near the center.	(m). A part of a town or city.				noun place
 P9m5LqR2vX	A2_custom	é o contrário de	is the opposite of	Procuro uma palavra que é o contrário de quente.	I'm looking for a word that is the opposite of hot.	Useful for explaining vocabulary in simple Portuguese.				glue phrase
 Q3v7NpL9mT	A2_custom	parecido com	similar to / like	Procuro uma palavra parecida com feliz.	I'm looking for a word similar to happy.	Adjective phrase; agrees with the noun: parecido/parecida/parecidos/parecidas com.				adjective glue phrase
+R8p2LqM5vA	A2_custom	a parede	wall	O quadro está na parede da sala.	The picture is on the living room wall.	(f). Interior or exterior wall.				home noun
+S4v9QmL2pB	A2_custom	perdido	lost	Estou perdido; onde fica a estação?	I'm lost; where is the station?	Feminine: perdida. Can describe a lost person or a lost object.				adjective direction
+T7m3LpQ8vC	A2_custom	atrasado	late / delayed	Desculpa, estou atrasado para a aula.	Sorry, I'm late for class.	Feminine: atrasada. Also used for delayed transport: o comboio está atrasado.				adjective time
+U2q8LnV5mD	A2_custom	o frango	chicken	Hoje comemos frango assado com salada.	Today we're eating roast chicken with salad.	(m). Usually food; can also refer to the animal.				animal food noun
+V5p3QxL9rE	A2_custom	o porco	pork / pig	Não como carne de porco.	I don't eat pork.	(m). Animal or meat. For pork as food, carne de porco is very common.				animal food noun
+W9n4LpT2vF	A2_custom	o iogurte	yogurt	Como um iogurte ao pequeno-almoço.	I eat a yogurt for breakfast.	(m).				food noun
+X3m7QvL8pG	A2_custom	a lata	can / tin	Abri uma lata de atum para o almoço.	I opened a tin of tuna for lunch.	(f). Container for food or drink.				food noun
+Y6p2LnQ4vH	A2_custom	os talheres	cutlery	Podes pôr os talheres na mesa?	Can you put the cutlery on the table?	(m, plural). Forks, knives, and spoons. Usually used in the plural.				food home noun
+Z8q5LpM3vJ	A2_custom	ótimo	great / excellent	O jantar estava ótimo.	The dinner was excellent.	Feminine: ótima. Common positive adjective.				adjective
+A4v8QmL2pK	A2_custom	o barulho	noise	Há muito barulho na rua esta noite.	There is a lot of noise in the street tonight.	(m).				noun
+B7p3LnQ9vL	A2_custom	o grama	gram	Preciso de cem gramas de queijo.	I need one hundred grams of cheese.	(m). Unit of weight. Plural: gramas.				noun quantity
+C2m9QvL5pM	A2_custom	escovar os dentes	to brush one's teeth	Escovo os dentes depois do pequeno-almoço.	I brush my teeth after breakfast.	Useful fixed phrase. Verb: escovar.				health phrase verb
+D5q8LpN2vR	A2_custom	o/a dentista	dentist	Tenho consulta no dentista amanhã.	I have a dentist appointment tomorrow.	Can be masculine or feminine: o dentista, a dentista.				health noun work
+E9p4QmL7vS	A2_custom	o escritório	office	O meu escritório fica perto da estação.	My office is near the station.	(m). Place where someone works; also a home office/study.				place work noun
+F3v7LnQ8pT	A2_custom	aproveitar	to make the most of / use	Aproveitámos o sol para passear.	We made the most of the sun to go for a walk.	Also means to take advantage of an opportunity.<br><br>Regular.			[sound:1000_aproveitar.mp3]	verb
+G6m2LpQ5vU	A2_custom	azedo	sour	O leite está azedo; não bebas isso.	The milk is sour; don't drink that.	Feminine: azeda. Used for taste or spoiled food.				adjective food
+H8q4LvN9pV	A2_custom	a vaca	cow	A vaca está no campo com outros animais.	The cow is in the field with other animals.	(f). Animal.				animal noun
+J2p9QmL6vW	A2_custom	o quarteirão	block / city block	O café fica no próximo quarteirão.	The café is on the next block.	(m). A block of streets in a town or city.				noun place
+K5v3LnQ8pX	A2_custom	igualmente	likewise / equally	— Muito prazer. — Igualmente.	— Pleased to meet you. — Likewise.	Common polite reply. Also means equally.			[sound:1000_igualmente.mp3]	adverb glue greeting
