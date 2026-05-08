@@ -1,0 +1,7 @@
+#separator:tab
+#html:true
+#guid column:1
+#notetype column:2
+#tags column:6
+wi^+S;zF1&	Basic_with_notes	Onde mora?&nbsp;	<div>Moro em Portugal, perto de Lisboa.</div>	<div>Moro numa aldeia perto de Lisboa.<br><br>Moro em Silveira, uma aldeia perto de Sobral de Monte Agraço, a quarenta minutos a norte de Lisboa.<br></div>	
+zEqFm8v>OU	Basic_with_notes	You don't understand what they said.&nbsp;	<div>Desculpe, pode repetir mais devagar, por favor?</div>	<div>Desculpe, não percebi.<br><br><div>O que significa {word}?<br><br><div>Desculpe, não percebi.</div></div></div>	
