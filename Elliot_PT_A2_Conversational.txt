@@ -3,5 +3,134 @@
 #guid column:1
 #notetype column:2
 #tags column:6
-wi^+S;zF1&	Basic_with_notes	Onde mora?&nbsp;	<div>Moro em Portugal, perto de Lisboa.</div>	<div>Moro numa aldeia perto de Lisboa.<br><br>Moro em Silveira, uma aldeia perto de Sobral de Monte Agraço, a quarenta minutos a norte de Lisboa.<br></div>	
-zEqFm8v>OU	Basic_with_notes	You don't understand what they said.&nbsp;	<div>Desculpe, pode repetir mais devagar, por favor?</div>	<div>Desculpe, não percebi.<br><br><div>O que significa {word}?<br><br><div>Desculpe, não percebi.</div></div></div>	
+wi^+S;zF1&	Basic_with_notes	Onde mora?&nbsp;	<div>Moro em Portugal, perto de Lisboa.</div>	<div>Moro numa aldeia perto de Lisboa.<br><br>Moro em Silveira, uma aldeia perto de Sobral de Monte Agraço, a quarenta minutos a norte de Lisboa.<br></div>	speaking home
+zEqFm8v>OU	Basic_with_notes	You don't understand what they said.&nbsp;	<div>Desculpe, pode repetir mais devagar, por favor?</div>	<div>Alternative: Desculpe, não percebi.<br><br>If the problem is one word: O que significa {word}?</div>	speaking repair
+M4vN8qL2pS	Basic_with_notes	You cannot think of a word.	<div>Não me lembro da palavra.</div>	<div>Also useful: Não sei a palavra. Then describe it with uma coisa que...</div>	speaking repair
+T9mP3vQ7lA	Basic_with_notes	You want to ask how to say an English word in Portuguese.	<div>Como se diz {word} em português?</div>	<div>Use this if you know the English word but not the Portuguese one.</div>	speaking repair
+R2qL8vM5pN	Basic_with_notes	You want to ask for the Portuguese word for something.	<div>Qual é a palavra para isto?</div>	<div>If pointing is not possible: Qual é a palavra para esta coisa?</div>	speaking repair
+H6pV2mQ9lT	Basic_with_notes	You need to describe an object when you do not know the word.	<div>É uma coisa que serve para...</div>	<div>Pattern from your notes: uma coisa que serve para + infinitive.</div>	speaking repair
+K8qT4vL1pM	Basic_with_notes	You need to describe a person when you do not know the exact word.	<div>É uma pessoa que...</div>	<div>Pattern from your notes. Add a simple verb phrase after que.</div>	speaking repair
+B5mL9qV3pR	Basic_with_notes	You want to say something is similar while searching for a word.	<div>É tipo uma fruta, mas amarela e comprida.</div>	<div>É tipo... is conversational. Use it to keep speaking when a word is missing.</div>	speaking repair
+N3vQ6pL8mC	Basic_with_notes	You want a very short way to say Sorry? / What?	<div>Como?</div>	<div>Short and useful when you miss one thing. More polite than O quê?</div>	speaking repair
+L7pM2qV8nD	Basic_with_notes	The examiner is speaking too fast.	<div>Desculpe, pode falar mais devagar, por favor?</div>	<div>Use this for slower speech in general. For one sentence: pode repetir mais devagar?</div>	speaking repair
+V4nQ9mL2pE	Basic_with_notes	You do not know a word the examiner used.	<div>Desculpe, não conheço essa palavra. Pode explicar, por favor?</div>	<div>This is better than pretending to understand. Keep the tone polite.</div>	speaking repair
+P8mL5vQ3nF	Basic_with_notes	You need to ask what a word means.	<div>Desculpe, o que significa esta palavra?</div>	<div>Use when the instructor says or shows a word you do not know.</div>	speaking repair
+S2qV7mL9pG	Basic_with_notes	Como está?	<div>Estou bem, obrigado. E o senhor?</div>	<div>Use E o senhor? for a man, E a senhora? for a woman. It is polite to bounce the question back.</div>	speaking greeting
+D9pL4qM2vH	Basic_with_notes	Tudo bem?	<div>Tudo bem, obrigado. E consigo?</div>	<div>Consigo is a polite way to say with you. You can also say E o senhor? / E a senhora?</div>	speaking greeting
+F6mQ8vL1pJ	Basic_with_notes	Está cansado hoje?	<div>Estou um bocado cansado, mas estou bem.</div>	<div>For yes/no questions, answering with the same verb sounds natural: Estou.</div>	speaking greeting
+G3vL7pQ9mK	Basic_with_notes	Como se chama?	<div>Chamo-me Elliot. E o senhor?</div>	<div>Alternative: O meu nome é Elliot. Use E a senhora? for a woman.</div>	speaking personal
+J8qM2vL5pL	Basic_with_notes	Quantos anos tem?	<div>Tenho quarenta e cinco anos.</div>	<div>Fuller: Tenho quarenta e cinco anos de idade. Short answer is enough.</div>	speaking personal
+A2mV9qL4pM	Basic_with_notes	Quando faz anos?	<div>Faço anos no dia dezassete de setembro.</div>	<div>If you forget the exact date, say: Faço anos em setembro.</div>	speaking personal
+C7pQ3mL8vN	Basic_with_notes	De que país é?	<div>Sou dos Estados Unidos. E o senhor?</div>	<div>Simple and clear. Sou americano is possible, but Sou dos Estados Unidos is more exact.</div>	speaking personal
+E5vL2qM9pP	Basic_with_notes	De que cidade é?	<div>Sou de Minneapolis, nos Estados Unidos.</div>	<div>Alternative: Sou dos Estados Unidos, de Minneapolis.</div>	speaking personal
+W9pM6vQ2lR	Basic_with_notes	Onde nasceu?	<div>Nasci nos Estados Unidos.</div>	<div>Short A2 answer. You can add the city: Nasci em Minneapolis.</div>	speaking personal
+Y4qL8mV3pS	Basic_with_notes	Que línguas fala?	<div>Falo inglês e um pouco de português.</div>	<div>You can bounce back: E o senhor, que línguas fala?</div>	speaking personal
+U7mP2qV5lT	Basic_with_notes	É casado?	<div>Não, sou solteiro.</div>	<div>Use sou solteiro if you are male. For a woman: sou solteira.</div>	speaking personal
+I3vQ9pL6mU	Basic_with_notes	Tem filhos?	<div>Não, não tenho filhos.</div>	<div>Answer with the same verb: Tenho / Não tenho.</div>	speaking family
+O8mL4vQ2pV	Basic_with_notes	Tem irmãos ou irmãs?	<div>Não, sou filho único.</div>	<div>Irmãos can mean brothers or siblings. Filho único = only child.</div>	speaking family
+X2pQ7mL9vW	Basic_with_notes	Tem família?	<div>Sim, tenho família nos Estados Unidos.</div>	<div>Simple answer. You can add one sentence about your mother or father.</div>	speaking family
+Z5mV3qL8pX	Basic_with_notes	Como se chama o seu pai?	<div>O meu pai chama-se Glen.</div>	<div>Pattern: O meu pai chama-se... / A minha mãe chama-se...</div>	speaking family
+AA7qL2mV9p	Basic_with_notes	Como se chama a sua mãe?	<div>A minha mãe chama-se LaRayne.</div>	<div>Alternative: O nome da minha mãe é LaRayne.</div>	speaking family
+AB4pM8vQ3l	Basic_with_notes	Mora numa cidade ou numa aldeia?	<div>Moro numa aldeia pequena perto de Lisboa.</div>	<div>Good simple answer. If you want more detail: a norte de Lisboa.</div>	speaking home
+AC9mL5qV2p	Basic_with_notes	Há quanto tempo está em Portugal?	<div>Estou em Portugal há alguns anos.</div>	<div>If you want a precise answer, replace alguns anos with the real number.</div>	speaking home
+AD3vQ8pL6m	Basic_with_notes	A sua aldeia é grande ou pequena?	<div>A minha aldeia é pequena. Tem menos de dez mil habitantes.</div>	<div>Habitantes = inhabitants/people living there. This is useful for describing places.</div>	speaking home
+AE6pL2mV9q	Basic_with_notes	Gosta do seu bairro?	<div>Sim, gosto. O meu bairro é calmo e seguro.</div>	<div>Answer yes/no with the verb: gosto. Add one reason.</div>	speaking home
+AF8qM4vL1p	Basic_with_notes	Há lojas perto da sua casa?	<div>Sim, há um supermercado perto da minha casa.</div>	<div>Há = there is / there are. Very useful for describing your area.</div>	speaking home
+AG2mV7pQ5l	Basic_with_notes	Onde fica a sua casa?	<div>A minha casa fica numa zona alta. A vista é muito bonita.</div>	<div>Keep it concrete: location plus one detail.</div>	speaking home
+AH5pL9qM3v	Basic_with_notes	Mora sozinho?	<div>Não, partilho casa com quatro amigos.</div>	<div>Partilhar casa com... = to share a house with...</div>	speaking home
+AI7mQ2vL8p	Basic_with_notes	Quantas divisões tem a sua casa?	<div>A minha casa tem mais ou menos dez divisões. Metade são quartos.</div>	<div>Divisões means rooms/areas of a house. Metade = half.</div>	speaking home
+AJ9vL4pQ2m	Basic_with_notes	A sua casa tem jardim ou varanda?	<div>A minha casa não tem varanda, mas tem uma vista bonita.</div>	<div>If unsure, keep the answer simple and mention one useful feature.</div>	speaking home
+AK3qM8pL5v	Basic_with_notes	O que faz nos tempos livres?	<div>Nos meus tempos livres, gosto de ler e de ver filmes.</div>	<div>Pattern: gosto de + infinitive. Add one or two hobbies, not a long list.</div>	speaking hobbies
+AL6pV2mQ9l	Basic_with_notes	O que faz para descansar?	<div>Para descansar, leio um pouco ou vejo filmes com amigos.</div>	<div>Para + infinitive = in order to. This is a strong A2 structure.</div>	speaking hobbies
+AM8mL3qV7p	Basic_with_notes	Gosta de jogos?	<div>Sim, gosto de jogar jogos de tabuleiro.</div>	<div>Jogos de tabuleiro = board games. Use jogar for games and sports.</div>	speaking hobbies
+AN2vQ6pL9m	Basic_with_notes	Costuma encontrar-se com amigos?	<div>Sim, os meus amigos e eu costumamos jogar jogos de tabuleiro.</div>	<div>Costumar + infinitive = to usually do something.</div>	speaking hobbies
+AO5mP8vL2q	Basic_with_notes	Tem algum passatempo especial?	<div>Às vezes escrevo programas de computador por diversão.</div>	<div>Por diversão = for fun. This is personal but still A2-level.</div>	speaking hobbies
+AP7qL3mV9p	Basic_with_notes	Gosta de desporto?	<div>Gosto de jogar ténis e também gosto de jogar xadrez.</div>	<div>Xadrez is not a sport for everyone, but it fits a simple hobbies answer.</div>	speaking hobbies
+AQ4pM9vL2q	Basic_with_notes	O que faz ao fim de semana?	<div>Ao fim de semana, às vezes convido amigos para jantar em casa.</div>	<div>Convidar amigos para jantar is a useful social-life phrase.</div>	speaking hobbies
+AR8mL2qV5p	Basic_with_notes	Qual é a sua profissão?	<div>Sou programador.</div>	<div>Short and clear. Alternative: Trabalho como programador.</div>	speaking work
+AS3vQ7pL9m	Basic_with_notes	Onde trabalha?	<div>Trabalho em casa e trabalho por conta própria.</div>	<div>Por conta própria = self-employed / on your own account.</div>	speaking work
+AT6pM2vQ8l	Basic_with_notes	Gosta do seu trabalho?	<div>Sim, gosto muito do meu trabalho.</div>	<div>Add one reason if needed: é interessante / é útil / é criativo.</div>	speaking work
+AU9qL4mV2p	Basic_with_notes	O que faz no seu trabalho?	<div>Construo sites que ajudam as pessoas.</div>	<div>Simple version of a complex job. Better for speaking than translating a detailed English explanation.</div>	speaking work
+AV5mQ8pL3v	Basic_with_notes	Há quanto tempo trabalha nessa área?	<div>Trabalho nesta área há muitos anos.</div>	<div>Há + time period = for. Good A2 structure.</div>	speaking work
+AW2pL7qM9v	Basic_with_notes	Trabalhou noutra empresa antes?	<div>Sim, trabalhei na Microsoft há muitos anos.</div>	<div>Past tense answer. Keep it short unless they ask for more.</div>	speaking work
+AX8vM3pQ5l	Basic_with_notes	A que horas acorda normalmente?	<div>Normalmente acordo às dez horas.</div>	<div>Normally the subject pronoun is not needed: acordo, not eu acordo.</div>	speaking routine
+AY4qL9mV2p	Basic_with_notes	O que faz de manhã?	<div>Tomo um duche e depois tomo o pequeno-almoço.</div>	<div>Tomar um duche = take a shower. Tomar o pequeno-almoço = have breakfast.</div>	speaking routine
+AZ7mP2vL8q	Basic_with_notes	O que come ao pequeno-almoço?	<div>Ao pequeno-almoço, costumo comer ovos, queijo e pão.</div>	<div>Costumo comer = I usually eat. Add one extra item if needed.</div>	speaking food routine
+BA3pQ8mL5v	Basic_with_notes	Trabalha muito durante o dia?	<div>Sim, normalmente começo a trabalhar de manhã e trabalho até às seis.</div>	<div>Até às seis = until six. This is enough detail for A2.</div>	speaking routine work
+BB9mV4qL2p	Basic_with_notes	O que faz depois do trabalho?	<div>Depois do trabalho, normalmente vejo os meus amigos.</div>	<div>Depois de + noun/infinitive. Here: depois do trabalho.</div>	speaking routine
+BC5qL8pM3v	Basic_with_notes	O que faz antes de dormir?	<div>Antes de dormir, escovo os dentes e leio um pouco.</div>	<div>Good routine answer with two simple actions.</div>	speaking routine
+BD2vM7qL9p	Basic_with_notes	A que horas se deita?	<div>Deito-me por volta da meia-noite.</div>	<div>Por volta de = around. Reflexive verb: deitar-se.</div>	speaking routine
+BE8pL3mQ6v	Basic_with_notes	O que costuma comer ao jantar?	<div>Ao jantar, muitas vezes vou ao restaurante com os meus amigos.</div>	<div>Alternative: faço o jantar em casa. Use many/muitas vezes for often.</div>	speaking food
+BF4mQ9vL2p	Basic_with_notes	Almoça todos os dias?	<div>Normalmente, não almoço. Como muito ao pequeno-almoço.</div>	<div>This explains the habit simply. If needed: não tenho fome durante a tarde.</div>	speaking food
+BG7qL2pV8m	Basic_with_notes	O que bebe normalmente?	<div>Normalmente só bebo água. Às vezes bebo café.</div>	<div>Só = only. Às vezes = sometimes.</div>	speaking food
+BH3pM8qL5v	Basic_with_notes	Onde compra comida?	<div>Quase sempre compro comida no Continente.</div>	<div>Quase sempre = almost always. Use no Continente for at Continente.</div>	speaking shopping
+BI9mL4vQ2p	Basic_with_notes	Como vai ao supermercado?	<div>Vou de carro, porque o supermercado não fica perto da minha casa.</div>	<div>Useful structure: vou de carro / a pé / de autocarro.</div>	speaking shopping transport
+BJ5vQ8pL3m	Basic_with_notes	Costuma comprar coisas online?	<div>Sim, costumo. Quase sempre compro outras coisas online.</div>	<div>Answer first with the same verb, then add detail. Outras coisas = other things.</div>	speaking shopping
+BK2mP7qL9v	Basic_with_notes	Como se desloca normalmente?	<div>Normalmente vou a pé e fico perto de casa.</div>	<div>Se deslocar = get around. A pé = on foot.</div>	speaking transport
+BL8qL3mV5p	Basic_with_notes	Sai muitas vezes da aldeia?	<div>Não, raramente saio da aldeia.</div>	<div>Raramente = rarely. Good frequency adverb for A2.</div>	speaking transport
+BM4pV9qL2m	Basic_with_notes	Quando precisa de comprar coisas, como vai?	<div>Quando preciso de comprar coisas, vou de carro.</div>	<div>Quando + present is useful for habits: when I need...</div>	speaking transport shopping
+BN7mQ2pL8v	Basic_with_notes	Como está a sua saúde?	<div>Tenho boa saúde, mas às vezes estou cansado.</div>	<div>Simple health answer. Avoid too many medical details unless asked.</div>	speaking health
+BO3qL8mV5p	Basic_with_notes	Faz exercício?	<div>Sim, faço exercício dois dias por semana.</div>	<div>Fazer exercício = to exercise. Dois dias por semana = two days a week.</div>	speaking health
+BP9pM4vL2q	Basic_with_notes	Como está o tempo hoje?	<div>Hoje está bom tempo, mas está um pouco frio.</div>	<div>Use está calor/frio, está a chover, está sol, or faz bom tempo.</div>	speaking weather
+BQ5mL8qV3p	Basic_with_notes	Gosta da praia?	<div>Sim, gosto da praia, mas não moro perto da praia.</div>	<div>Simple contrast with mas. Useful for weather/Portugal topics.</div>	speaking weather leisure
+BR2vQ7pL9m	Basic_with_notes	O tempo é importante para si?	<div>O tempo não é muito importante para mim.</div>	<div>Para mim = for me. Keep abstract opinions simple.</div>	speaking weather
+BS8mP3vQ5l	Basic_with_notes	O que vai fazer este verão?	<div>Este verão, vou visitar os meus amigos em Berlim.</div>	<div>Future with ir + infinitive: vou visitar.</div>	speaking future
+BT4qL9mV2p	Basic_with_notes	O que vai fazer nas férias?	<div>Vou viajar com amigos e vamos dormir em tendas.</div>	<div>Vamos dormir = we are going to sleep. Tendas = tents.</div>	speaking future travel
+BU7pM2vL8q	Basic_with_notes	O que fez na semana passada?	<div>Na semana passada, estive na Chéquia com os meus amigos.</div>	<div>Past tense: estive. Good for past-experience questions.</div>	speaking past travel
+BV3mQ8qL5p	Basic_with_notes	Gosta de Portugal?	<div>Sim, acho que Portugal é um país muito bonito.</div>	<div>Acho que... = I think that... Very useful for simple opinions.</div>	speaking portugal
+BW9vL4pQ2m	Basic_with_notes	Porque está a aprender português?	<div>Estou a aprender português porque moro em Portugal.</div>	<div>Keep the reason simple. You can add: e quero falar melhor com as pessoas.</div>	speaking portugal
+BX5mP8qL3v	Basic_with_notes	O que gosta em Portugal?	<div>Gosto da comida e também conheço muitas pessoas que moram aqui.</div>	<div>Simple answer with two reasons. Também = also.</div>	speaking portugal
+BY2qV7mL9p	Basic_with_notes	O que é difícil no português?	<div>Para mim, é difícil perceber quando as pessoas falam depressa.</div>	<div>Useful if asked about learning Portuguese. Keep it honest and simple.</div>	speaking portugal
+BZ8pL3qM5v	Basic_with_notes	You realize your answer is too complicated.	<div>Vou dizer de uma forma mais simples.</div>	<div>This is a useful self-correction phrase. Then give a shorter A2 answer.</div>	speaking repair strategy
+CA6mL2qV9p	Basic_with_notes	You want to say your Portuguese is limited.	<div>Desculpe, só falo um pouco de português.</div>	<div>Useful if you need to set expectations, but still try to continue in Portuguese.</div>	speaking repair
+CB9pQ4mL2v	Basic_with_notes	You do not know the word.	<div>Não sei a palavra.</div>	<div>Alternative on the same idea: Não me lembro da palavra.</div>	speaking repair
+CC3vM8qL5p	Basic_with_notes	You need to say “that thing which...” while searching for a word.	<div>Aquilo que...</div>	<div>Use this to start a description when the noun is missing.</div>	speaking repair
+CD7qL2mV8p	Basic_with_notes	You need to say “that thing that...” while searching for a word.	<div>Aquela coisa que...</div>	<div>Another simple way to keep speaking when you do not know the noun.</div>	speaking repair
+CE4mP9vL2q	Basic_with_notes	You need to say “the name of...” while searching for a word.	<div>O nome de...</div>	<div>Useful with people, places, objects, or concepts.</div>	speaking repair
+CF8pL3qM5v	Basic_with_notes	You are asked a yes/no question and want to avoid sounding abrupt.	<div>Sim, estou. / Não, não estou.</div>	<div>Use the same verb from the question when possible, not just sim or não.</div>	speaking strategy
+CG2mV7qL9p	Basic_with_notes	After answering, you want to ask the examiner the same thing politely.	<div>E o senhor? / E a senhora?</div>	<div>Use o senhor for a man and a senhora for a woman.</div>	speaking strategy
+CH5qM8pL3v	Basic_with_notes	You want to ask “and with you?” politely.	<div>E consigo?</div>	<div>Useful after answers like Tudo bem, obrigado.</div>	speaking strategy
+CI9vL2pQ6m	Basic_with_notes	Pode apresentar-se?	<div>Chamo-me Elliot. Tenho quarenta e cinco anos e sou dos Estados Unidos.</div>	<div>Simple self-introduction: name, age, country. Keep it short.</div>	speaking personal
+CJ4pM9qL2v	Basic_with_notes	De onde é?	<div>Sou dos Estados Unidos, de Minneapolis.</div>	<div>General version of country/city questions. Alternative: Sou de Minneapolis, nos Estados Unidos.</div>	speaking personal
+CK7mQ3vL8p	Basic_with_notes	É americano?	<div>Sim, sou dos Estados Unidos.</div>	<div>This is more exact than only saying sou americano.</div>	speaking personal
+CL2pV8qM5l	Basic_with_notes	Mora em Portugal?	<div>Sim, moro em Portugal, perto de Lisboa.</div>	<div>Yes/no question: answer with moro.</div>	speaking home
+CM8qL4mV2p	Basic_with_notes	Como é a sua aldeia?	<div>A minha aldeia é muito pequena. Tem menos de dez mil habitantes.</div>	<div>Good place-description answer: size plus population.</div>	speaking home
+CN3mP7vL9q	Basic_with_notes	Quantas pessoas vivem na sua aldeia?	<div>A população é de menos de dez mil.</div>	<div>Alternative: Tem menos de dez mil habitantes.</div>	speaking home
+CO6pL2qV8m	Basic_with_notes	O seu bairro é agradável?	<div>Sim, é calmo e agradável.</div>	<div>Short answer with adjectives. You can add: Gosto do meu bairro.</div>	speaking home
+CP9mV4qL2p	Basic_with_notes	O seu bairro é seguro?	<div>Sim, o meu bairro é seguro e calmo.</div>	<div>Answer directly, then add one simple adjective.</div>	speaking home
+CQ5qL8pM3v	Basic_with_notes	A sua casa é grande ou pequena?	<div>A minha casa é grande.</div>	<div>You can add: Partilho casa com os meus amigos.</div>	speaking home
+CR2vM7qL9p	Basic_with_notes	Com quem mora?	<div>Partilho casa com quatro amigos.</div>	<div>Alternative: Partilho casa com os meus amigos.</div>	speaking home
+CS8pL3mQ5v	Basic_with_notes	A sua casa tem quantos quartos?	<div>A minha casa tem mais ou menos dez divisões. Metade são quartos.</div>	<div>If the question asks quartos, this answer still works because it explains the rooms.</div>	speaking home
+CT4qM9vL2p	Basic_with_notes	Há encontros na sua casa?	<div>Sim, na minha casa há encontros de dança portuguesa.</div>	<div>Alternative: A minha casa também é um ponto de encontro para uma comunidade de dança portuguesa.</div>	speaking home
+CU7mL2qV8p	Basic_with_notes	Descreva a sua casa.	<div>A minha casa é grande e fica numa zona alta. A vista é muito bonita.</div>	<div>Use two or three simple facts: size, location, view.</div>	speaking home
+CV3pQ8mL5v	Basic_with_notes	De que é que gosta?	<div>Gosto de ler. Também gosto de ténis.</div>	<div>Simple hobbies answer. You can add one more hobby if asked.</div>	speaking hobbies
+CW9mV4qL2p	Basic_with_notes	Gosta de ler?	<div>Sim, gosto de ler.</div>	<div>Answer with gosto, not just sim.</div>	speaking hobbies
+CX5qL8pM3v	Basic_with_notes	Gosta de ténis?	<div>Sim, também gosto de ténis.</div>	<div>Também = also. Useful if you already named another hobby.</div>	speaking hobbies
+CY2vM7qL9p	Basic_with_notes	Com quem joga xadrez?	<div>Muitas vezes jogo com o meu primo.</div>	<div>Use com for “with.” Muitas vezes = often.</div>	speaking hobbies family
+CZ8pL3mQ5v	Basic_with_notes	Costuma ver filmes?	<div>Sim, às vezes vejo filmes com os meus amigos.</div>	<div>Às vezes = sometimes. Good simple social answer.</div>	speaking hobbies
+DA4qM9vL2p	Basic_with_notes	Gosta de convidar amigos para a sua casa?	<div>Sim, gosto de convidar os meus amigos para jantar em casa.</div>	<div>Directly useful for hobbies/social-life discussion.</div>	speaking hobbies
+DB7mL2qV8p	Basic_with_notes	Fale sobre a sua família.	<div>Sou filho único. Só tenho a minha mãe. Não tenho filhos.</div>	<div>Use short factual sentences. If needed: O meu pai já morreu.</div>	speaking family
+DC3pQ8mL5v	Basic_with_notes	Tem mãe?	<div>Sim, só tenho a minha mãe.</div>	<div>Só = only. This is simple and personal.</div>	speaking family
+DD9mV4qL2p	Basic_with_notes	O seu pai ainda vive?	<div>Não, o meu pai já morreu.</div>	<div>Sensitive but directly from your notes. Use only if the topic comes up.</div>	speaking family
+DE5qL8pM3v	Basic_with_notes	É trabalhador independente?	<div>Sim, sou trabalhador independente.</div>	<div>Alternative: Trabalho por conta própria.</div>	speaking work
+DF2vM7qL9p	Basic_with_notes	É programador ou desenvolvedor de software?	<div>Sou programador. Trabalho como programador.</div>	<div>Desenvolvedor de software is possible, but programador is simpler.</div>	speaking work
+DG8pL3mQ5v	Basic_with_notes	Trabalha em casa?	<div>Sim, trabalho em casa.</div>	<div>Short yes/no answer with the same verb.</div>	speaking work
+DH4qM9vL2p	Basic_with_notes	O seu trabalho ajuda outras pessoas?	<div>Sim, os meus sites ajudam as pessoas a dar dinheiro de forma mais eficiente.</div>	<div>De forma mais eficiente = in a more efficient way.</div>	speaking work
+DI7mL2qV8p	Basic_with_notes	O que constrói no seu trabalho?	<div>Construo sites que fazem bem ao mundo.</div>	<div>This is a simplified version of a complex real idea.</div>	speaking work
+DJ3pQ8mL5v	Basic_with_notes	O que faz logo depois de acordar?	<div>Tomo um duche todas as manhãs. Depois, tomo o pequeno-almoço.</div>	<div>Good routine sequence: first shower, then breakfast.</div>	speaking routine
+DK9mV4qL2p	Basic_with_notes	O que gosta de comer ao pequeno-almoço?	<div>Costumo comer ovos, queijo e pão. Às vezes como uma banana.</div>	<div>Combines the breakfast foods from your notes on one card.</div>	speaking food routine
+DL5qL8pM3v	Basic_with_notes	Tem fome durante a tarde?	<div>Não, como muito ao pequeno-almoço, então não tenho fome durante a tarde.</div>	<div>Então = so. Good way to explain the habit.</div>	speaking food
+DM2vM7qL9p	Basic_with_notes	Costuma fazer o jantar em casa?	<div>Às vezes faço o jantar em casa.</div>	<div>Alternative from your notes: Às vezes vou ao restaurante com os meus amigos.</div>	speaking food
+DN8pL3mQ5v	Basic_with_notes	Costuma ir ao restaurante?	<div>Sim, ao jantar, muitas vezes vou ao restaurante com os meus amigos.</div>	<div>Muitas vezes = often. Ao jantar = at dinner / for dinner.</div>	speaking food
+DO4qM9vL2p	Basic_with_notes	O que faz à noite?	<div>Normalmente vejo os meus amigos depois de jantar.</div>	<div>Depois de jantar = after dinner.</div>	speaking routine
+DP7mL2qV8p	Basic_with_notes	A que horas começa a preparar-se para dormir?	<div>Às doze da noite começo a preparar-me para dormir.</div>	<div>Começar a + infinitive = to start to do something.</div>	speaking routine
+DQ3pQ8mL5v	Basic_with_notes	O que faz depois de escovar os dentes?	<div>Escovo os dentes e depois deito-me.</div>	<div>Deitar-se is reflexive: deito-me.</div>	speaking routine
+DR9mV4qL2p	Basic_with_notes	O que compra no Continente?	<div>Quase sempre compro comida no Continente.</div>	<div>Direct answer for shopping habits.</div>	speaking shopping
+DS5qL8pM3v	Basic_with_notes	Partilha carro com alguém?	<div>Sim, os meus colegas de casa e eu partilhamos dois carros.</div>	<div>Colegas de casa = housemates.</div>	speaking shopping transport
+DT2vM7qL9p	Basic_with_notes	Normalmente vai a pé ou de carro?	<div>Normalmente vou a pé. Fico perto de casa.</div>	<div>Use a pé for on foot and de carro for by car.</div>	speaking transport
+DU8pL3mQ5v	Basic_with_notes	Quando vai de carro?	<div>Quando preciso de comprar coisas, vou de carro.</div>	<div>This keeps the transport answer connected to shopping.</div>	speaking transport shopping
+DV4qM9vL2p	Basic_with_notes	Os seus passatempos dependem do tempo?	<div>Não muito. Muitos dos meus passatempos são em espaços fechados.</div>	<div>Espaços fechados = indoor spaces. This explains why weather is less important.</div>	speaking weather hobbies
+DW7mL2qV8p	Basic_with_notes	Mora perto da praia?	<div>Não, não moro perto da praia.</div>	<div>You can add: Claro, eu também gosto da praia.</div>	speaking weather home
+DX3pQ8mL5v	Basic_with_notes	Onde vai este verão?	<div>Este verão, vou visitar os meus amigos em Berlim.</div>	<div>Future with ir + infinitive. Same content as future-plans topic, but focused on where.</div>	speaking future travel
+DY9mV4qL2p	Basic_with_notes	Onde vão dormir nas férias?	<div>Vamos dormir em tendas.</div>	<div>Short answer for travel/future plans.</div>	speaking future travel
+DZ5qL8pM3v	Basic_with_notes	Porque gosta de Portugal?	<div>Acho que Portugal é um país muito bonito. Gosto da comida de Portugal.</div>	<div>Two simple reasons from your notes.</div>	speaking portugal
