@@ -959,3 +959,13 @@ G6m2LpQ5vU	A2_custom	azedo	sour	O leite está azedo; não bebas isso.	The milk i
 H8q4LvN9pV	A2_custom	a vaca	cow	A vaca está no campo com outros animais.	The cow is in the field with other animals.	(f). Animal.				animal noun
 J2p9QmL6vW	A2_custom	o quarteirão	block / city block	O café fica no próximo quarteirão.	The café is on the next block.	(m). A block of streets in a town or city.				noun place
 K5v3LnQ8pX	A2_custom	igualmente	likewise / equally	— Muito prazer. — Igualmente.	— Pleased to meet you. — Likewise.	Common polite reply. Also means equally.			[sound:1000_igualmente.mp3]	adverb glue greeting
+L7p2QmV9aA	A2_custom	o prazo	deadline / time limit	O prazo termina amanhã às cinco.	The deadline ends tomorrow at five.	(m). Useful for work, school, forms, and official tasks.			[sound:1000_prazo.mp3]	time work noun
+M4v8LnQ2pB	A2_custom	importar	to matter / to be important	Isso não importa agora.	That doesn't matter now.	Also means to import goods. Importar-se de...? = Would you mind...?<br><br>Regular.				verb
+N9q3LpM5vC	A2_custom	a pausa	pause / break	Vamos fazer uma pausa de dez minutos.	We're going to take a ten-minute break.	(f). Fazer uma pausa = to take a break.				time noun
+O2p7QvL8mD	A2_custom	o tipo	type / kind	Que tipo de música gostas?	What type of music do you like?	(m). tipo de = kind/type of. Also informal for a person: um tipo.			[sound:1000_tipo.mp3]	noun
+P5m9LnQ3vE	A2_custom	o prédio	building / apartment building	Moro num prédio antigo perto do rio.	I live in an old apartment building near the river.	(m). Often a multi-storey residential building.				home place noun
+Q8v2LpN6mF	A2_custom	casado	married	O meu irmão é casado e tem dois filhos.	My brother is married and has two children.	Feminine: casada.				family adjective
+R3q7LmV9pG	A2_custom	aberto	open	O museu está aberto até às seis.	The museum is open until six.	Feminine: aberta. Opposite of fechado.				adjective
+S6p4QnL2vH	A2_custom	fechado	closed	A loja está fechada ao domingo.	The shop is closed on Sundays.	Feminine: fechada. Opposite of aberto.				adjective
+T9m5LpQ8vJ	A2_custom	sentado	seated / sitting	O rapaz está sentado à janela.	The boy is sitting by the window.	Feminine: sentada. From sentar-se.				adjective
+U2v8LnQ4pK	A2_custom	reservado	reserved	Esta mesa está reservada para as oito.	This table is reserved for eight o'clock.	Feminine: reservada. Also can describe a quiet/private person.				adjective
