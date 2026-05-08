@@ -456,8 +456,6 @@ yR%5@H$V8C	A2_custom	apaixonado	in love	Está apaixonado pela colega.	He's in lo
 y@J,/e=N65	A2_custom	magro	thin / slim	Ele é alto e magro.	He is tall and thin.	Feminine: magra.<br><br>Opposite: gordo.				adjective
 ws3?m=ngrj	A2_custom	gordo	fat	O gato é gordo e preguiçoso.	The cat is fat and lazy.	Feminine: gorda. Can be offensive for people — use with care.<br><br>Opposite: magro.				adjective
 Feo$72/{Ls	A2_custom	fraco	weak	Estou fraco depois da gripe.	I feel weak after the flu.	Feminine: fraca.<br><br>Opposite: forte.				adjective
-qMO].Gw)(U	A2_custom	careca	bald	O meu pai está careca há anos.	My dad has been bald for years.	Same for m/f.<br><br>Opposite: cabeludo.				adjective
-hE3neY3u1D	A2_custom	barbudo	bearded	Aquele homem barbudo é meu tio.	That bearded man is my uncle.	Feminine: barbuda.				adjective
 I6UEtuh!nn	A2_custom	preto	black	O meu gato é preto.	My cat is black.	Feminine: preta.<br><br>Opposite: branco.				adjective color
 w*~OA3@rhu	A2_custom	vermelho	red	Gosto de vinho vermelho... quer dizer, tinto.	"I like red wine... well, ""tinto"" in Portuguese."	Feminine: vermelha. For wine, use tinto.				adjective color
 G~VO[w<nK.	A2_custom	azul	blue	O céu está azul hoje.	The sky is blue today.	Same for m/f. Plural: azuis.				adjective color
@@ -556,7 +554,6 @@ dwxAj.wYxQ	A2_custom	o ambiente	environment / atmosphere	O ambiente no café é 
 zoI|zYi6DI	A2_custom	a época	era / season / time	Esta é a época das laranjas.	This is orange season.	"(f). Used for historical eras and for ""the time when something happens""."			[sound:1000_época.mp3]	noun time season
 cFBl3]E4$7	A2_custom	a força	strength / force	Não tenho força para abrir este frasco.	I don't have the strength to open this jar.	(f). Phrase: com força = strongly / hard. As encouragement: Força! = You can do it!			[sound:1000_força.mp3]	noun
 "q_+#6=~<QQ"	A2_custom	a memória	memory	Tenho boa memória para nomes.	I have a good memory for names.	(f). Also computer memory.			[sound:1000_memória.mp3]	noun
-h]V<:@y_*5	A2_custom	o século	century	Vivemos no século vinte e um.	We live in the twenty-first century.	(m). Used for historical dates: o século XVIII.			[sound:1000_século.mp3]	noun time
 j;Wpr1:d3C	A2_custom	o amor	love	O amor entre eles é muito forte.	The love between them is very strong.	(m). Verb: amar. Plural: amores.			[sound:1000_amor.mp3]	feeling noun
 KCe>|NY:PW	A2_custom	principal (PT)	main	A rua principal da cidade tem muitas lojas.	The main street of the city has many shops.	Same form for m/f. Plural: principais.<br><br>Opposite: secundário.			[sound:1000_principal.mp3]	adjective
 b:7A)NV.Bj	A2_custom	cuidado (interjection)	watch out! / careful!	Cuidado! O chão está molhado.	Watch out! The floor is wet.	Used to warn someone of imminent danger. The noun o cuidado (care / caution) has its own card.			[sound:1000_cuidado.mp3]	glue interjection
@@ -919,7 +916,6 @@ Y2n8QxL5rP	A2_custom	o estilo	style	Gosto do estilo deste restaurante.	I like th
 V8q4LnT2mP	A2_custom	pesar	to weigh	Este saco pesa cinco quilos.	This bag weighs five kilos.	Regular.<br><br>Past participle: pesado (regular).				verb
 R2x7QmL5pV	A2_custom	amável	kind / gracious	A senhora da loja foi muito amável comigo.	The woman at the shop was very kind to me.	Same for m/f. More about courteous, kind behavior than personality in general.<br><br>Opposite: desagradável.				adjective feeling
 S8p4VnQ1lM	A2_custom	calado	quiet / silent	Ele é calado, mas muito simpático.	He is quiet, but very nice.	Feminine: calada. Can describe a quiet person or someone who is silent.<br><br>Opposite: falador.				adjective feeling
-T5m9LqR2vN	A2_custom	loiro	blond / fair-haired	O rapaz loiro é meu primo.	The blond boy is my cousin.	Feminine: loira. Also spelled louro/loura.				adjective
 P3w8LnQ5vR	A2_custom	o que se passa	what's going on / what's wrong	O que se passa contigo hoje?	What's going on with you today?	Common spoken question. Also o que se passou? = what happened?				glue phrase question
 Q4z7LpN2wM	A2_custom	o quilo	kilo / kilogram	Queria um quilo de batatas, por favor.	I'd like a kilo of potatoes, please.	(m). Short for quilograma.				noun quantity
 R6v1MxQ9zD	A2_custom	de repente	suddenly	De repente, começou a chover.	Suddenly, it started raining.	Adverbial phrase.<br><br>Opposite idea: gradualmente / pouco a pouco.				adverb phrase
