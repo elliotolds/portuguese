@@ -110,6 +110,7 @@ o<FL=:XM)Q	A2_custom	muitas vezes	often	Muitas vezes janto fora ao fim de semana
 u:7)EWWY/Y	A2_custom	poucas vezes	rarely (compound)	Poucas vezes chego tarde ao trabalho.	I rarely arrive late to work.	raramente is another option.&nbsp;				glue phrase time
 ygyRB=Ob0L	A2_custom	normalmente	normally	Normalmente durmo sete horas por noite.	I normally sleep seven hours a night.	Opposite idea: raramente (rarely).				adverb glue time
 QBsWO@?`Uq	A2_custom	geralmente	generally	Geralmente chego a casa às seis.	I generally get home at six.	Opposite idea: raramente (rarely).				adverb glue time
+H7vQ2mLp9N	A2_custom	atualmente	currently / nowadays	Atualmente trabalho em casa.	Currently, I work from home.	Used for the present period, not necessarily this exact moment.			[sound:1000_atualmente.mp3]	adverb glue time
 fZfL;4|t!x	A2_custom	raramente	rarely (one word)	Raramente bebo refrigerantes.	I rarely drink soft drinks.	Opposite idea: frequentemente (frequently) / muitas vezes (often).<div><br></div><div>Poucas vezes is another option.&nbsp;</div>				adverb glue time
 GJoa@S+A(=	A2_custom	longe	far	A minha família mora longe.	My family lives far away.	With object: longe de.<br><br>Opposite adverb: perto (near).				adverb direction glue
 B_rG,z:pd6	A2_custom	em cima	on top / above	Pus o livro em cima da mesa.	I put the book on top of the table.	With object: em cima de.				direction glue phrase
@@ -815,6 +816,7 @@ OD2Kqs+kcU	A2_custom	também	also / too	O meu irmão também fala inglês.	My br
 dIbk7Qm.W-	A2_custom	desde	since / from	Moro em Lisboa desde 2015.	I've lived in Lisbon since 2015.	Used for time or place starting points. With time often paired with verbs in the present: desde + time = since.			[sound:1000_desde.mp3]	glue preposition
 O1sJC2Q(yB	A2_custom	contra	against	O carro bateu contra a parede.	The car crashed against the wall.				[sound:1000_contra.mp3]	glue preposition
 "l`||3J+#Gh"	A2_custom	portanto	therefore / so (bit formal)	Estudei muito, portanto sei a resposta.	I studied a lot, therefore I know the answer.	More formal than por isso.			[sound:1000_portanto.mp3]	conjunction glue
+N4qL8vMx2P	A2_custom	além disso	besides / furthermore	Além disso, gosto de cozinhar para os meus amigos.	Besides, I like cooking for my friends.	Useful for adding another point in speaking or writing.				glue phrase
 "u}o#G`WwTV"	A2_custom	tanto	so much / so many	Não sabia que tinhas tanto trabalho.	I didn't know you had so much work.	Feminine: tanta. Plural: tantos/tantas. Agrees with the noun.<br><br>Opposite adverb/quantity word: pouco (little).			[sound:1000_tanto.mp3]	adjective adverb determiner glue quantity
 tU$3J@zUfu	A2_custom	ambos	both	Ambos os meus irmãos moram no Porto.	Both my brothers live in Porto.	Feminine: ambas. Usually followed by os/as + noun.			[sound:1000_ambos.mp3]	glue grammar pronoun
 F,7ME?z%G/	A2_custom	apesar de	despite / in spite of	Saí apesar do frio intenso.	I went out despite the intense cold.	Takes noun or apesar de + infinitive. Contracts: apesar do/da/dos/das.			[sound:1000_apesar.mp3]	phrase
@@ -986,3 +988,121 @@ F<(,(xjn8v	A2_custom	se calhar	maybe (safe -- no triggering)	Se calhar ele chega
 A?,!o:A@([	A2_custom	colocar	to put (regular alt)	Coloco as chaves em cima da mesa.	I put the keys on top of the table.	Pôr is irregular, so this is a good replacement at A2			[sound:1000_colocar.mp3]	verb
 "jy|tv?HH#9"	A2_custom	trocar	exchange / change / switch / swap	Posso trocar este casaco pelo tamanho maior?	Can I exchange this coat for the larger size?	Spelling shift to keep the same sound: c → qu before e. Forms: troquei, troque, troquemos, troquem.<br><br>Regular.<br><br>Trocar is for exchanging or swapping; mudar is the general verb for changing.				verb
 u{;vQ@7?5;	A2_custom	a pele	skin	Tenho a pele seca no inverno.	I have dry skin in winter.					body noun
+P8vL3qM6rT	A2_custom	a assinatura	signature	A assinatura deve estar no fim do documento.	The signature should be at the end of the document.	(f). Also means subscription in some contexts.				admin noun
+Q5mR9vL2pN	A2_custom	o registo	registration / record	Já fiz o registo para o curso.	I already registered for the course.	(m). Used for registration or an official record.			[sound:1000_registo.mp3]	admin noun
+R7qN4mL8vP	A2_custom	o comprovativo	proof document / receipt	Preciso do comprovativo do pagamento.	I need the proof of payment.	(m). A document that proves something, often a payment or address.				admin noun
+S2vP8qM5lR	A2_custom	o prazo de validade	validity period / expiry date	O prazo de validade do cartão termina este mês.	The card's validity period ends this month.	(m). Data de validade is more directly expiry date.				admin noun time
+T9mL3vQ7pS	A2_custom	o atendimento	service / assistance	O atendimento na loja foi muito simpático.	The service in the shop was very friendly.	(m). Balcão de atendimento = service counter.			[sound:1000_atendimento.mp3]	admin noun service
+U4qR8mN2vL	A2_custom	o caso	case	Este caso é simples.	This case is simple.	(m). A broad word for a situation, example, or case.			[sound:1000_caso.mp3]	noun
+V6pL2qR9mN	A2_custom	o ordenado	salary / wages	O meu ordenado chega no fim do mês.	My salary arrives at the end of the month.	(m). Common word for monthly pay from work.				noun work
+W3mQ8vL5pT	A2_custom	a doação	donation	A doação ajudou muitas pessoas.	The donation helped many people.	(f). Verb: doar.				noun
+Y5vR8mL3qS	A2_custom	o desconto	discount	Este casaco tem um desconto de vinte por cento.	This coat has a twenty percent discount.	(m). Useful in shops and online purchases.				noun shopping
+Z2pM7qL9vR	A2_custom	a fatura	invoice / bill	Preciso da fatura, por favor.	I need the invoice, please.	(f). A formal bill or invoice, often for purchases or services.				admin noun shopping
+A8vL4qN6mP	A2_custom	o recibo	receipt	Guardei o recibo da compra.	I kept the receipt from the purchase.	(m). A proof of payment.				admin noun shopping
+B5qR2mV9lN	A2_custom	as despesas	expenses	As despesas da casa são altas este mês.	The house expenses are high this month.	(f pl.). Usually plural for regular costs or expenses.				noun shopping
+C7mP3vL8qT	A2_custom	a candidatura	application	Enviei a candidatura para o trabalho.	I sent the application for the job.	(f). Used for jobs, courses, and programs.			[sound:1000_candidatura.mp3]	noun school work
+D4vQ9mN2pL	A2_custom	a entrevista de emprego	job interview	Tenho uma entrevista de emprego na segunda-feira.	I have a job interview on Monday.	(f). Entrevista = interview; de emprego = for a job.				noun phrase work
+E9qL5vR3mP	A2_custom	o turno	work shift	O meu turno começa às oito da manhã.	My shift starts at eight in the morning.	(m). A period of work, especially with fixed hours.				noun time work
+F2mV8qP6lR	A2_custom	o patrão	boss / employer	O patrão falou comigo sobre o horário.	The boss spoke with me about the schedule.	(m). Feminine: patroa.				noun work
+G6vN3mL9qP	A2_custom	a baixa médica	sick leave / medical leave	Estou de baixa médica esta semana.	I am on sick leave this week.	(f). Used when someone cannot work for health reasons.				health noun work
+H8qL3vM6pR	A2_custom	o quintal	backyard / yard	No verão, jantamos no quintal.	In summer, we have dinner in the backyard.	(m). Outdoor area next to a house.				home noun
+J5mR9qL2vT	A2_custom	a varanda	balcony	Tenho uma planta na varanda.	I have a plant on the balcony.	(f). Outdoor space attached to an apartment or house.				home noun
+K7vP4mN8qL	A2_custom	o corredor	corridor / hallway	A casa de banho fica ao fundo do corredor.	The bathroom is at the end of the hallway.	(m). A passage inside a house or building.				home noun
+L2qM8vR5pN	A2_custom	o sofá	sofa	O sofá da sala é muito confortável.	The living room sofa is very comfortable.	(m).				home noun
+M9vL3qP7mS	A2_custom	a renda	rent	Pago a renda no início do mês.	I pay the rent at the beginning of the month.	(f). Money paid regularly for a house or apartment.				home noun shopping
+N4mQ8vL2pR	A2_custom	o aquecimento	heating	No inverno, usamos o aquecimento todos os dias.	In winter, we use the heating every day.	(m). For heating a house or room.				home noun
+P6qR3mV9lT	A2_custom	o rés-do-chão	ground floor	Eu moro no rés-do-chão.	I live on the ground floor.	(m). The floor at street level.				home noun place
+Q2vL8qM5pN	A2_custom	o vizinho	neighbor	O meu vizinho é muito simpático.	My neighbor is very nice.	(m). Feminine: vizinha.				noun person
+R9mP4vL7qS	A2_custom	a mudança	move / moving house	A mudança para Lisboa foi difícil.	The move to Lisbon was difficult.	(f). Can mean a move, a change, or moving house.			[sound:1000_mudança.mp3]	home noun
+S5qN2mV8lP	A2_custom	a avaria	breakdown / fault	Há uma avaria no elevador.	There is a fault in the lift.	(f). A problem with a machine, service, or system.				noun
+T7mL4qP9vR	A2_custom	a receita médica	prescription	Preciso de uma receita médica para este medicamento.	I need a prescription for this medicine.	(f). Receita can also mean recipe; receita médica is a medical prescription.				health noun
+U3qN8vM2lP	A2_custom	o medicamento	medicine / medication	Comprei o medicamento na farmácia.	I bought the medicine at the pharmacy.	(m). More formal than remédio.				health noun
+V9vR5mL3qS	A2_custom	o sintoma	symptom	A febre é um sintoma comum.	Fever is a common symptom.	(m), despite ending in -a.				health noun
+W2mP7qL8vN	A2_custom	o comprimido	pill / tablet	Tomo um comprimido depois do almoço.	I take a pill after lunch.	(m). A solid medicine taken by mouth.				health noun
+X4qL9mV2pR	A2_custom	o passe mensal	monthly travel pass	Comprei o passe mensal na estação.	I bought the monthly travel pass at the station.	(m). Passe = travel pass; mensal = monthly.				noun transport
+Y8mP3vL6qT	A2_custom	o estacionamento	parking	O estacionamento é caro no centro.	Parking is expensive in the center.	(m). Can mean parking as an activity or a parking area.				noun transport
+Z5vR2qM9lN	A2_custom	a portagem	toll	Pagámos a portagem na autoestrada.	We paid the toll on the motorway.	(f). Money paid to use some roads or bridges.				noun transport
+A3qN7vL8mP	A2_custom	o trânsito	traffic	Há muito trânsito de manhã.	There is a lot of traffic in the morning.	(m). Road traffic.				noun transport
+B9vM4qP2lR	A2_custom	a encomenda	parcel / order	A encomenda chegou esta manhã.	The parcel arrived this morning.	(f). Can mean a parcel or an order.				noun shopping
+C6mL8vQ3pT	A2_custom	o atraso	delay / lateness	O comboio teve um atraso de dez minutos.	The train had a ten-minute delay.	(m). Also used for being late: desculpa pelo atraso.				noun time transport
+E7vL3qM8pN	A2_custom	a mercearia	small grocery store	Compro fruta na mercearia do bairro.	I buy fruit at the neighborhood grocery store.	(f). A small local food shop.				food noun place shopping
+F4mP8vQ2lS	A2_custom	o cavalo	horse	O cavalo está no campo.	The horse is in the field.	(m). Feminine: égua.				animal noun
+G9qL5vR3mT	A2_custom	a bochecha	cheek	A criança tem as bochechas vermelhas.	The child has red cheeks.	(f). Usually used in the plural: as bochechas.				body noun
+H3vN8qM2pL	A2_custom	o material	material / supplies	Preciso de material para a aula.	I need supplies for the class.	(m). Material escolar = school supplies.			[sound:1000_material.mp3]	noun school
+J8mQ4vL7pR	A2_custom	a madeira	wood	A mesa é de madeira.	The table is made of wood.	(f). Material from trees.				noun
+K2qP9mV5lN	A2_custom	o vidro	glass	O copo é de vidro.	The cup is made of glass.	(m). Material, not the object o copo.				noun
+L6vR3qM8pT	A2_custom	o plástico	plastic	Este saco é de plástico.	This bag is made of plastic.	(m).				noun
+M4mL9vQ2pS	A2_custom	o metal	metal	A chave é de metal.	The key is made of metal.	(m).				noun
+N7qV3mP8lR	A2_custom	o tecido	fabric	Gosto do tecido desta camisa.	I like the fabric of this shirt.	(m). Material used for clothes or other objects.				clothing noun
+P2vM8qL5pT	A2_custom	o carregador	charger	Esqueci-me do carregador do telemóvel.	I forgot my phone charger.	(m).				noun
+Q6mR3vN9lP	A2_custom	o pacote	pack / packet / carton	Comprei um pacote de arroz.	I bought a packet of rice.	(m). Used for packaged food or goods.				food noun shopping
+R4qL8mV2pN	A2_custom	o tabuleiro	tray / board	Põe os copos no tabuleiro, por favor.	Put the cups on the tray, please.	(m). Also used in jogos de tabuleiro = board games.				home noun
+S9vP5qM3lT	A2_custom	os jogos de tabuleiro	board games	Gosto de jogar jogos de tabuleiro com amigos.	I like playing board games with friends.	(m pl.). Literally games of board.				noun phrase
+T3mN8vL6qR	A2_custom	a pilha	battery	Esta pilha já não funciona.	This battery no longer works.	(f). For many small batteries.				noun
+U8qL2vM9pS	A2_custom	a canção	song	Esta canção é muito bonita.	This song is very beautiful.	(f). Similar to música, but specifically a song.				noun
+V5mP9qR3lN	A2_custom	o bocadinho	a little bit / tiny bit	Quero só um bocadinho de bolo.	I only want a little bit of cake.	(m). Common phrase: um bocadinho = a little bit.				noun quantity
+W9vL4qM2pR	A2_custom	a peça	piece / part	Preciso de uma peça nova para a máquina.	I need a new part for the machine.	(f). Can mean a piece, part, or play.				noun
+X2qN7mV8lP	A2_custom	a receita	recipe	Esta receita é muito simples.	This recipe is very simple.	(f). Receita médica is a medical prescription.			[sound:1000_receita.mp3]	food noun
+Y6mR3vL9qT	A2_custom	a estrela	star	Vi muitas estrelas no céu.	I saw many stars in the sky.	(f).				noun
+Z8qP4mV2lN	A2_custom	a roda	wheel	A roda da bicicleta está vazia.	The bicycle wheel is flat.	(f).				noun transport
+A5vL9qM3pR	A2_custom	o teste	test	Tenho um teste de português amanhã.	I have a Portuguese test tomorrow.	(m).			[sound:1000_teste.mp3]	noun school
+B2mQ8vR6lP	A2_custom	o exame	exam	O exame começa às nove horas.	The exam starts at nine o'clock.	(m).			[sound:1000_exame.mp3]	noun school
+C9qL4mV7pT	A2_custom	a ação	action	A ação foi rápida.	The action was quick.	(f). Plural: ações.			[sound:1000_ação.mp3]	noun
+D3vP8qM2lR	A2_custom	a máquina	machine	A máquina de lavar não funciona.	The washing machine doesn't work.	(f).				home noun
+E8mL5vQ9pN	A2_custom	o empregado	employee / waiter	O empregado trouxe a conta.	The waiter brought the bill.	(m). Feminine: empregada. Can mean employee or waiter depending on context.				noun person work
+F6qR2mV8lT	A2_custom	o barco	boat	Fomos de barco para a ilha.	We went by boat to the island.	(m).				noun transport
+G4vN9qL3pS	A2_custom	a sobremesa	dessert	Queria a sobremesa da casa, por favor.	I'd like the house dessert, please.	(f).				food noun
+H9mP2vL6qR	A2_custom	o programador	programmer	O programador trabalha em casa.	The programmer works from home.	(m). Feminine: programadora.				noun person work
+J3qM8vR5lP	A2_custom	o/a gerente	manager	O gerente falou com os clientes.	The manager spoke with the customers.	Manager of a shop, restaurant, office, or team.				noun person work
+K8vL4qN9pT	A2_custom	o engenheiro	engineer	O engenheiro explicou o problema.	The engineer explained the problem.	(m). Feminine: engenheira.				noun person work
+L5mR9vP2qN	A2_custom	o peito	chest	Dói-me o peito quando corro.	My chest hurts when I run.	(m). Body part.				body health noun
+M2qL8mV6pR	A2_custom	a roupa interior	underwear	Preciso de comprar roupa interior nova.	I need to buy new underwear.	(f). Collective clothing noun.				clothing noun
+N9vQ3mL7pS	A2_custom	a toalha	towel	A toalha está na casa de banho.	The towel is in the bathroom.	(f).				home noun
+P4mV8qR2lT	A2_custom	a garganta	throat	Estou com dor de garganta.	I have a sore throat.	(f). Phrase: dor de garganta = sore throat.				body health noun
+Q7qL3vM9pN	A2_custom	o nível	level	O meu nível de português é A2.	My Portuguese level is A2.	(m). Useful for language and exams.			[sound:1000_nível.mp3]	noun school
+R2vP9qL5mS	A2_custom	a natureza	nature	Gosto de caminhar na natureza.	I like walking in nature.	(f).				noun place
+Vb7qL2mP9R	A2_custom	avariar	to break down / go wrong	A máquina de lavar avariou ontem.	The washing machine broke down yesterday.	Regular.<br><br>Past participle/adjective: avariado (broken / out of order).				verb
+Wc3mN8vL5Q	A2_custom	queimar	to burn	Queimei a mão enquanto cozinhava.	I burned my hand while I was cooking.	Regular.<br><br>Past participle/adjective: queimado (burned).				verb
+Xd9qP4mV2L	A2_custom	desistir	to give up / quit	Não quero desistir do curso.	I don't want to give up the course.	Takes de: desistir de alguma coisa.<br><br>Regular.				verb
+Yf5vR8qM3N	A2_custom	discutir	to discuss / argue	Discuti o problema com o meu colega.	I discussed the problem with my colleague.	Can mean neutral discussion or an argument, depending on context.<br><br>Regular.				verb
+Zg2mL7vQ9P	A2_custom	incomodar	to bother / disturb	O barulho incomoda-me um pouco.	The noise bothers me a little.	Regular.				verb
+Ah8qN3mV6L	A2_custom	adivinhar	to guess	Consegues adivinhar a resposta?	Can you guess the answer?	Regular.				verb
+Bj4vP9qL2M	A2_custom	cobrir	to cover	Cobri a mesa com uma toalha.	I covered the table with a towel.	"Stem change: o → u in the eu form (cubro).<br><br><table border=""1"" style=""border-collapse: collapse;""><tr><th></th><th>present</th><th>simp past</th><th>imperfect</th><th>imperativ</th></tr><tr><th>Eu</th><td><span class=""conj-unpredictable"" style=""font-weight: 700; color: #ff9800;"">cubro</span></td><td>cobri</td><td>cobria</td><td>_</td></tr><tr><th>Tu</th><td>cobres</td><td>cobriste</td><td>cobrias</td><td>cobre</td></tr><tr><th>Ele/Ela</th><td>cobre</td><td>cobriu</td><td>cobria</td><td><span class=""conj-stem"" style=""font-weight: 700;"">cubra</span></td></tr><tr><th>Nós</th><td>cobrimos</td><td>cobrimos</td><td>cobríamos</td><td><span class=""conj-stem"" style=""font-weight: 700;"">cubramos</span></td></tr><tr><th>Eles/Elas</th><td>cobrem</td><td>cobriram</td><td>cobriam</td><td><span class=""conj-stem"" style=""font-weight: 700;"">cubram</span></td></tr></table><br><br>Past participle/adjective: coberto (irregular; covered)."				verb
+Ck7mQ2vR8N	A2_custom	tapar	to cover / block	Tapa a panela, por favor.	Cover the pan, please.	Regular.<br><br>Past participle/adjective: tapado (covered / blocked).				verb
+Dm3qL9vP5T	A2_custom	relaxar	to relax	Depois do trabalho, gosto de relaxar em casa.	After work, I like to relax at home.	Regular.				verb
+En8vM4qL2R	A2_custom	inscrever-se	to sign up / enroll	Inscrevi-me no curso de português.	I signed up for the Portuguese course.	Reflexive. Usually with em/no/na.<br><br>Regular.<br><br>Past participle/adjective: inscrito (irregular; registered/enrolled).				verb
+Fp5qR7mN3L	A2_custom	preencher	to fill in / fill out	Preenchi o formulário online.	I filled out the form online.	Regular.<br><br>Past participle/adjective: preenchido (filled in).				verb
+Gq2vL8mP6N	A2_custom	experimentar	to try / try on	Posso experimentar esta camisola?	Can I try on this sweater?	Regular.				verb
+Hr9mV3qL5P	A2_custom	renovar	to renew	Tenho de renovar o cartão este mês.	I have to renew the card this month.	Regular.<br><br>Past participle/adjective: renovado (renewed).				verb
+Js4qN8vM2L	A2_custom	marcar consulta	to book an appointment	Preciso de marcar consulta no médico.	I need to book a doctor's appointment.	Consulta médica = medical appointment.<br><br>Marcar is regular except spelling shift to keep the same sound: c → qu before e. Forms: marquei, marque, marquemos, marquem.				health phrase verb
+Kt7vP3mL9Q	A2_custom	agradecer	to thank	Agradeci à professora pela ajuda.	I thanked the teacher for the help.	Takes a: agradecer a alguém.<br><br>Spelling shift to keep the same sound: c → ç before o/a. Forms: agradeço, agradeça, agradeçamos, agradeçam.<br><br>Regular.<br><br>Past participle/adjective: agradecido (grateful).				verb
+Lm2qR8vN5P	A2_custom	passear	to walk / stroll	Gosto de passear no parque ao domingo.	I like walking in the park on Sundays.	For walking for pleasure. Regular.				motion verb
+Mn9vL4qP2R	A2_custom	recusar	to refuse	Recusei o convite porque estava cansado.	I refused the invitation because I was tired.	Regular.<br><br>Opposite verb: aceitar (to accept).				verb
+Np6qM3vL8T	A2_custom	alugar	to rent	Aluguei um carro para o fim de semana.	I rented a car for the weekend.	Spelling shift to keep the same sound: g → gu before e. Forms: aluguei, alugue, aluguemos, aluguem.<br><br>Regular.<br><br>Past participle/adjective: alugado (rented).				verb
+Pq3vN9mL5R	A2_custom	traduzir	to translate	Podes traduzir esta frase?	Can you translate this sentence?	"<table border=""1"" style=""border-collapse: collapse;""><tr><th></th><th>present</th><th>simp past</th><th>imperfect</th><th>imperativ</th></tr><tr><th>Eu</th><td>traduzo</td><td>traduzi</td><td>traduzia</td><td>_</td></tr><tr><th>Tu</th><td>traduzes</td><td>traduziste</td><td>traduzias</td><td><span class=""conj-unpredictable"" style=""font-weight: 700; color: #ff9800;"">traduz</span></td></tr><tr><th>Ele/Ela</th><td><span class=""conj-unpredictable"" style=""font-weight: 700; color: #ff9800;"">traduz</span></td><td>traduziu</td><td>traduzia</td><td>traduza</td></tr><tr><th>Nós</th><td>traduzimos</td><td>traduzimos</td><td>traduzíamos</td><td>traduzamos</td></tr><tr><th>Eles/Elas</th><td>traduzem</td><td>traduziram</td><td>traduziam</td><td>traduzam</td></tr></table><br><br>Past participle/adjective: traduzido (translated)."				verb
+Qr8mP2vL6N	A2_custom	trancar	to lock	Tranco sempre a porta à noite.	I always lock the door at night.	Spelling shift to keep the same sound: c → qu before e. Forms: tranquei, tranque, tranquemos, tranquem.<br><br>Regular.<br><br>Past participle/adjective: trancado (locked).				verb
+Rs5qL9vM3P	A2_custom	praticar	to practice / play a sport	Pratico ténis duas vezes por semana.	I play tennis twice a week.	Used often for sports and activities.<br><br>Spelling shift to keep the same sound: c → qu before e. Forms: pratiquei, pratique, pratiquemos, pratiquem.<br><br>Regular.				verb
+Ta6qL2mV9P	A2_custom	tranquilo	peaceful / calm	O meu bairro é muito tranquilo.	My neighborhood is very peaceful.	Feminine: tranquila.<br><br>Opposite: agitado (busy/agitated).				adjective feeling
+Ub3mN8vL5Q	A2_custom	adiantado	early / ahead / fast	O meu relógio está adiantado cinco minutos.	My watch is five minutes fast.	Feminine: adiantada. Also means ahead of schedule.<br><br>Opposite: atrasado (late/delayed).				adjective time
+Vc9qP4mR2L	A2_custom	morto	dead	A planta está morta.	The plant is dead.	Feminine: morta.<br><br>Opposite: vivo (alive).				adjective
+Wd5vR8qM3N	A2_custom	agitado	busy / agitated	O centro está muito agitado hoje.	The center is very busy today.	Feminine: agitada.<br><br>Opposite: tranquilo (peaceful/calm).				adjective feeling
+Xe2mL7vQ9P	A2_custom	estranho	strange / weird	Ouvi um barulho estranho à noite.	I heard a strange noise at night.	Feminine: estranha. Can also be a noun: o estranho = the stranger.<br><br>Opposite: normal (normal).				adjective
+Yf8qN3mV6L	A2_custom	um bocado	a bit / a little	Estou um bocado cansado hoje.	I'm a bit tired today.	Common conversational phrase, similar to um pouco.				adverb glue phrase quantity
+Zg4vP9qL2M	A2_custom	tapado	blocked / covered	O caminho está tapado por obras.	The path is blocked because of roadworks.	Feminine: tapada. Past participle of tapar.<br><br>Opposite: aberto (open) / livre (free/clear).				adjective
+Ah7mQ2vR8N	A2_custom	grosso	thick	Este livro é muito grosso.	This book is very thick.	Feminine: grossa.<br><br>Opposite: fino (thin/fine).				adjective
+Bj3qL9vP5T	A2_custom	fino	thin / fine	Quero uma fatia fina de queijo.	I want a thin slice of cheese.	Feminine: fina.<br><br>Opposite: grosso (thick).				adjective
+Ck8vM4qL2R	A2_custom	relevante	relevant	Esta informação é relevante para o exame.	This information is relevant for the exam.	Same form for m/f.<br><br>Opposite: irrelevante (irrelevant).				adjective
+Dm5qR7mN3L	A2_custom	inteiro	whole / entire / complete	Li o livro inteiro no fim de semana.	I read the whole book over the weekend.	Feminine: inteira.<br><br>Opposite: meio (half).				adjective quantity
+En2vL8mP6N	A2_custom	colorido	colorful	A sala tem paredes muito coloridas.	The room has very colorful walls.	Feminine: colorida.<br><br>Opposite idea: sem cor (colorless).				adjective color
+Fp9mV3qL5P	A2_custom	partido	broken	O copo está partido.	The glass is broken.	Feminine: partida. Past participle of partir.<br><br>Opposite: inteiro (whole/unbroken).			[sound:1000_partido.mp3]	adjective
+Gq4qN8vM2L	A2_custom	perfeito	perfect	O plano parece perfeito.	The plan seems perfect.	Feminine: perfeita.<br><br>Opposite: imperfeito (imperfect).				adjective
+Hr7vP3mL9Q	A2_custom	eletrónico	electronic	Recebi um bilhete eletrónico por email.	I received an electronic ticket by email.	Feminine: eletrónica. Common phrase: correio eletrónico = email.				adjective
+Js2qR8vN5P	A2_custom	similar	similar	Este exercício é similar ao anterior.	This exercise is similar to the previous one.	Same form for m/f. Takes a: similar a.<br><br>Opposite: diferente (different).				adjective
+Kt9vL4qP2R	A2_custom	redondo	round	A mesa da cozinha é redonda.	The kitchen table is round.	Feminine: redonda.<br><br>Opposite idea: quadrado (square).				adjective
+Lm6qM3vL8T	A2_custom	artificial	artificial	Não gosto de sumos com sabor artificial.	I don't like juices with artificial flavor.	Same form for m/f.<br><br>Opposite: natural (natural).				adjective
+Mn3vN9mL5R	A2_custom	favorito	favorite	O meu restaurante favorito fica perto de casa.	My favorite restaurant is near home.	Feminine: favorita. Similar to preferido.				adjective
+Np8mP2vL6N	A2_custom	preferido	preferred / favorite	Qual é o teu prato preferido?	What is your favorite dish?	Feminine: preferida. Past participle of preferir. Similar to favorito.				adjective
+Pq5qL9vM3P	A2_custom	popular	popular	Este café é muito popular entre os estudantes.	This café is very popular among students.	Same form for m/f.<br><br>Opposite: impopular (unpopular).				adjective
+Qr2vM8qL5N	A2_custom	perigoso	dangerous	Esta estrada é perigosa à noite.	This road is dangerous at night.	Feminine: perigosa.<br><br>Opposite: seguro (safe).				adjective
+Rs9mL4vQ2P	A2_custom	morno	lukewarm	O chá está morno.	The tea is lukewarm.	Feminine: morna.<br><br>Opposite idea: quente (hot) / frio (cold).				adjective
+Sv6qP3mN8L	A2_custom	vago	vacant / free	Há um lugar vago nesta mesa?	Is there a free seat at this table?	Feminine: vaga. For everyday speech, livre is often simpler.<br><br>Opposite: ocupado (occupied/busy).				adjective
